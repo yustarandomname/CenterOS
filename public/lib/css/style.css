@@ -1,0 +1,130 @@
+:root{
+/*   --cBack:hsla(206, 100%, 50%,.3); */
+  --cText:black;
+  --cCont:#fff;
+  --cSolidCont:#fff;
+  --cBorder: .1rem solid #383838;
+  --cBackBorder: .1rem solid #000;
+  --cColorBorder: .1rem solid;
+}
+
+/*login*/
+.login,
+.register{
+	border-radius: 1.5rem;
+	padding: 0;
+    width: 30rem;
+    background: var(--cCont);
+    transition: .5s;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	max-width:90vw;
+	border: 1px solid var(--cText);
+	box-sizing: border-box;
+	min-height: 16rem
+}
+
+.login input::placeholder,
+.register input::placeholder{
+	font-size:.9rem;
+}
+
+/* recent */
+.recent,
+.oSideBar{
+    width: 15rem;
+    min-height: 10rem;
+    top: 3rem;
+    position: fixed;
+    right: -15.2rem;
+    transition: .5s right;
+    background: var(--cSolidCont);
+    z-index: 100;
+    border-radius: 1.5rem;
+    overflow: scroll;
+    border: var(--cBorder);
+}
+
+.rTitle,
+.oSideBar>.oSubTitle{
+    padding: 1rem;
+    background: var(--cBack);
+}
+
+.oSideBarScroll{
+    height: 100%;
+    overflow: scroll;
+    margin: 0 .5rem;
+}
+
+.rItems{
+	display: flex;
+	flex-direction: column-reverse;
+}
+
+.rItem{
+	cursor:pointer;
+	background: var(--cBack);
+    padding: .5rem;
+    border-radius: 1rem;
+    margin-bottom: .5rem;
+}
+
+.onRecent .oMenu,
+.onRecent .menu,
+.onSideBar .oMenu,
+.onSideBar .menu{
+	right:18rem;
+}
+
+.onRecent .recent,
+.onSideBar .oSideBar{
+	right:1.4rem;
+}
+
+/* notification */
+.notification{
+	min-height: 1rem;
+    position: fixed;
+    background: var(--cCont);
+    width: 10rem;
+    border-radius: 1.5rem;
+    padding: 1rem;
+    right: -12.2rem;
+    top: 3rem;
+    border: var(--cBorder);
+    transition: .25s right;
+    cursor:pointer;
+    z-index: 500;
+}
+
+.notify{
+	right: 6rem;
+	cursor:pointer;
+}
+
+@media only screen and (max-width: 768px){
+	
+	
+	.recent,
+	.oSideBar{
+		width: calc(100vw - 5rem);
+		right:calc(-100vw - 3rem);
+		opacity: 0;
+		transition:0s right, .5s opacity;		
+	}
+	
+	.onRecent .oMenu,
+	.onRecent .menu,
+	.onSideBar .oMenu,
+	.onSideBar .menu{
+		right:1.5rem;
+	}
+	
+	.onRecent .recent,
+	.onSideBar .oSideBar{
+		opacity: 1;
+	}
+}

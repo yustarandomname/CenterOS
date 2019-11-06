@@ -1,0 +1,85 @@
+<div class="menu">
+	<div class="bvmSearch roundButton" contenteditable="true" id='bv-lastpage'></div>
+	<div class="bvmChapter roundButton mdi mdi-format-header-pound"></div>
+	<div class="bvmPrev roundButton mdi mdi-chevron-left"></div>
+	<div class="bvmNext roundButton mdi mdi-chevron-right"></div>
+	<div class="bvmAtch roundButton mdi mdi-attachment"></div>
+</div>
+
+<div class='abvChapter oSideBar'>
+	<div class='subTitle'>Chapters</div>
+	<div class='oSideBarScroll'></div>
+</div>
+
+<div class="abvContainer">
+ 	<div class="abvContent">
+		<div class='abvSingle'></div>
+		<div class='abvDual'></div>
+	</div>
+</div>
+
+<style>	
+.abvContainer{
+	position: relative;
+	top:0;
+	min-height: 100vh;
+}
+
+.abvContent {
+	min-height:100vh;
+    width: calc(100% - 1.5rem);
+    display: flex;
+    height: 100vh;
+    max-height: 100vh;
+    position: absolute;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+
+.abvSingle,.abvDual{
+	background-repeat: no-repeat !important;
+    background-size: contain !important;
+    width: 100%;
+    background-position: right center !important;
+}
+
+.abvDual{background-position: left center !important;}
+.bvmSearch{user-select: all;}
+.abvChapter{height: 31.5rem;}
+
+.abvChap,
+.abvPara{
+	white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-top: 0.25rem;
+    cursor:pointer;
+    font-weight: bold;
+}
+
+.abvChap{
+	padding: .2rem .5rem;
+	border-radius: 1rem
+}
+
+.abvPara{
+	font-weight:normal;
+	font-size:.8rem;
+}
+@media only screen and (max-width: 1150px){
+	.abvDual{display: none}
+	.abvSingle{background-position: center center !important;}
+}
+
+@media only screen and (max-width: 768px){
+	.abvContent{
+		width: 100vw;
+	    height: calc(100vh - 10rem);
+	    min-height: unset;
+	    position: static;
+	    transform: translate(0);
+	}
+	.abvSingle{background-position: bottom center !important;}
+}
+
+</style>

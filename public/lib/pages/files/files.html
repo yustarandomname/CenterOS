@@ -1,0 +1,36 @@
+<div class="title">Files</div>
+
+<div class="menu">
+	<div class="roundButton mdi mdi-plus menuPop" data-pop='newfile'></div>
+	<div class="roundButton mdi mdi-dots-horizontal aflEdit"></div>
+</div>
+
+<!--create new file-->
+<div class="popupForm popnewfile hide">
+	<div class="roundButton popClose mdi mdi-close"></div>
+	<div class="subTitle">New file</div>
+	<section>
+		<div class="input fileNewTitle" contenteditable="true" placeholder="Title"></div>
+		<div class="input fileNewType" contenteditable="true" placeholder="Type"></div>
+		<div class="inputError hide"></div>
+		<div class="inputSubmit" placeholder="Submit" onSucces='newFile'>Submit</div>
+	</section>
+</div>
+
+<div class='filesContainer'>
+	<div class="grid grid-small afFolders hide"></div>
+	<div class="grid grid-box afFiles"></div>
+</div>
+
+<style type="text/css" media="screen">
+.notesInfo{
+    right: 0.5rem;
+    left: unset !important;
+    top: .5rem !important;
+    transform: none !important;
+    width: fit-content !important;
+    border-radius: 1rem;
+    background: #eee;
+}
+
+</style>
