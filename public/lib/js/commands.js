@@ -8,7 +8,7 @@ let commands = {
     goForward : {func : () => goForward()},
   },
   file : {
-    saveSource : "users/"+user.uid+"/files",
+    saveSource : "users/"+"tf7MLQVgQUg6sHcMq995tKcRVlv1"+"/files",
     saveFormat : {
       blocks : 0,
       fileurl : 'notes',
