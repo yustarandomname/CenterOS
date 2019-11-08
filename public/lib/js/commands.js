@@ -1,41 +1,55 @@
 var val = [];
 
 let installed = [
-	{name:"go",pageSrc:"/main/goCommand.js",commandSrc:() => goCommands},
-	{name:"files",pageSrc:"files/command.js",commandSrc:() => filecommands}
-]
+	{ name: 'go', pageSrc: 'main/goCommand.js', commandSrc: () => goCommands },
+	{ name: 'files', pageSrc: 'files/command.js', commandSrc: () => fileCommands }
+];
 
-function openApp(app){console.log(`app: ${app} is opened`);}
+function openApp(app) {
+	console.log(`app: ${app} is opened`);
+}
 
-function suggestField () {
+function suggestField() {
 	let suggestions = [];
 
 	let val = $('.searchfield').val();
 	let splitval = val.split(' ');
 	let lastArg = splitval[splitval.length - 1];
-	
-	if (splitval.length == 1) { // if there is 0 / 1 argument
+
+	if (splitval.length == 1) {
+		// if there is 0 / 1 argument
 		installed.forEach((obj) => {
 			suggestions.push(obj.name);
-		})
+		});
 		console.log(suggestions);
-	} else { // if there is at least 1 argument
-		console.warn("second arg is not yet implemented")
+	} else {
+		installed.forEach((obj) => {
+			if (splitval[0] == obj.name) {
+				let url = '/lib/pages/' + obj.pageSrc;
+				$.getScript(url, (data, status) => {
+					if (status == 'succes') {
+						let commands = obj.commandSrc();
+						console.log(commands); // Data returned
+					}
+				});
+			}
+		});
+		// if there is at least 1 argument
 	}
 
 	// print suggestions
 	$('.searchresults').children().remove(); // reset values in searchresults
 	suggestions.forEach((suggestion) => {
-		let obj = $('<div>',{class:'resultitem',text:suggestion});
+		let obj = $('<div>', { class: 'resultitem', text: suggestion });
 		$('.searchresults').append(obj);
-	})
+	});
 
 	$('.searchError').addClass('hide');
 	$('.resultitem').first().addClass('active');
 
 	if ($('.searchresults').text()) {
 		$('.searchresults').removeClass('hide');
-	}else{
+	} else {
 		$('.searchresults').addClass('hide');
 	}
 }
@@ -77,10 +91,10 @@ function suggestField () {
 //   }
 // }
 
-function appendSuggestion(suggestion){
+function appendSuggestion(suggestion) {
 	let text = $('.searchfield').val();
-	let lastIndex = text.lastIndexOf(" ");
-	let fullText = text.substring(0, lastIndex) + ((text.split(' ').length > 1)?' ':'') + suggestion + ' ';
+	let lastIndex = text.lastIndexOf(' ');
+	let fullText = text.substring(0, lastIndex) + (text.split(' ').length > 1 ? ' ' : '') + suggestion + ' ';
 
 	$('.searchfield').val(fullText);
 }
@@ -101,11 +115,11 @@ function appendSuggestion(suggestion){
 //   }
 // }
 
-$('.searchbar').keydown(function(e){
+$('.searchbar').keydown(function(e) {
 	switch (e.which) {
 		case 9: //tab
 			e.preventDefault();
-			appendSuggestion($('.resultitem.active').text())
+			appendSuggestion($('.resultitem.active').text());
 			break;
 		case 13: //enter
 			e.preventDefault();
@@ -113,32 +127,32 @@ $('.searchbar').keydown(function(e){
 			break;
 		case 38: //up
 			e.preventDefault();
-			for (let i = 0; i<$('.resultitem').length;i++) {
+			for (let i = 0; i < $('.resultitem').length; i++) {
 				if ($('.resultitem').eq(i).hasClass('active')) {
-					$('.resultitem').eq(i-1).addClass('active').siblings().removeClass('active');
+					$('.resultitem').eq(i - 1).addClass('active').siblings().removeClass('active');
 					break;
 				}
-			};
+			}
 			break;
 		case 40:
 			e.preventDefault();
-			for (let i = 0; i<$('.resultitem').length;i++) {
+			for (let i = 0; i < $('.resultitem').length; i++) {
 				if ($('.resultitem').eq(i).hasClass('active')) {
-					$('.resultitem').eq(i+1).addClass('active').siblings().removeClass('active');
+					$('.resultitem').eq(i + 1).addClass('active').siblings().removeClass('active');
 					break;
 				}
-			};
+			}
 			break;
 	}
-})
+});
 
-$('.searchfield').keyup(function(e){
-	if (e.which != 38 && e.which != 40 && e.which != 13){
+$('.searchfield').keyup(function(e) {
+	if (e.which != 38 && e.which != 40 && e.which != 13) {
 		suggestField();
 	}
-})
+});
 
-$(document).on('click','.resultitem',function(){
+$(document).on('click', '.resultitem', function() {
 	if (!$(this).hasClass('.resultFunction')) appendSuggestion($(this).text());
 	suggestField();
-})
+});
