@@ -11,8 +11,20 @@ async function init() {
   } catch{}
 }
 
-function show(selector){$('.'+selector).removeClass('hide')}
+function show(selector){$(selector).removeClass('hide')}
+function hide(selector){$(selector).addClass('hide')}
 function dd(num) { if(num<10) return '0'+num; else return num;}
+function arrayItemToFront(arr,item){
+  let newArr = [0];
+  for (i = 0; i < arr.length; i++){
+      if (arr[i] == item){
+        newArr[0] = item;
+      } else {
+        newArr.push(arr[i]);
+      }
+  }
+  return ((newArr[0] == 0) ? arr : newArr);
+}
 
 function onSucces(link){
   switch (link){

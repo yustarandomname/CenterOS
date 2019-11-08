@@ -1,4 +1,4 @@
-let fileCommands = {
+fileCommands = {
 	saveSource: 'users/' + 'tf7MLQVgQUg6sHcMq995tKcRVlv1' + '/files',
 	saveFormat: {
 		blocks: 0,

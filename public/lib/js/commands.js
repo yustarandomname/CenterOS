@@ -9,8 +9,19 @@ function openApp(app) {
 	console.log(`app: ${app} is opened`);
 }
 
+function placeHint(item, lastArg) {
+	console.log(item);
+	let obj = $('<div>', { class: 'resultitem', text: item });
+	if (!lastArg || item.match(lastArg)) {
+		$('.searchresults').prepend(obj);
+	} else {
+		$('.searchresults').append(obj);
+	}
+}
+
 function suggestField() {
-	let suggestions = [];
+	$('.searchresults').children().remove(); // reset values in searchresults
+	//hide('.searchError');
 
 	let val = $('.searchfield').val();
 	let splitval = val.split(' ');
@@ -18,36 +29,31 @@ function suggestField() {
 
 	if (splitval.length == 1) {
 		// if there is 0 / 1 argument
-		installed.forEach((obj) => {
-			suggestions.push(obj.name);
-		});
-		console.log(suggestions);
+		installed.forEach((item) => placeHint(item.name, lastArg));
 	} else {
+		// if there is at least 1 argument
 		installed.forEach((obj) => {
 			if (splitval[0] == obj.name) {
 				let url = '/lib/pages/' + obj.pageSrc;
-				$.getScript(url, (data, status) => {
-					if (status == 'succes') {
+				$.getScript(url, (_data, status) => {
+					if (status == 'success') {
 						let commands = obj.commandSrc();
-						console.log(commands); // Data returned
+						Object.keys(commands).forEach((item) => {
+							placeHint(item, lastArg);
+							console.log(item, lastArg);
+						});
 					}
 				});
 			}
 		});
-		// if there is at least 1 argument
 	}
 
-	// print suggestions
-	$('.searchresults').children().remove(); // reset values in searchresults
-	suggestions.forEach((suggestion) => {
-		let obj = $('<div>', { class: 'resultitem', text: suggestion });
-		$('.searchresults').append(obj);
-	});
+	// TODO: set limitation to hint size
 
-	$('.searchError').addClass('hide');
+	// print suggestions
 	$('.resultitem').first().addClass('active');
 
-	if ($('.searchresults').text()) {
+	if (splitval[0]) {
 		$('.searchresults').removeClass('hide');
 	} else {
 		$('.searchresults').addClass('hide');
@@ -79,18 +85,6 @@ function suggestField() {
 
 //     }
 //   })
-
-//   $('.searchError').addClass('hide');
-//   $('.resultitem').first().addClass('active');
-
-//   // check if suggestion field has any items
-//   if ($('.searchresults').text()) {
-//     $('.searchresults').removeClass('hide');
-//   }else{
-//     $('.searchresults').addClass('hide');
-//   }
-// }
-
 function appendSuggestion(suggestion) {
 	let text = $('.searchfield').val();
 	let lastIndex = text.lastIndexOf(' ');
@@ -153,6 +147,8 @@ $('.searchfield').keyup(function(e) {
 });
 
 $(document).on('click', '.resultitem', function() {
-	if (!$(this).hasClass('.resultFunction')) appendSuggestion($(this).text());
-	suggestField();
+	if (!$(this).hasClass('.resultFunction')) {
+		appendSuggestion($(this).text());
+		suggestField();
+	}
 });
