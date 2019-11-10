@@ -9,13 +9,23 @@ function openApp(app) {
 	console.log(`app: ${app} is opened`);
 }
 
-function placeHint(item, lastArg) {
-	console.log(item);
-	let obj = $('<div>', { class: 'resultitem', text: item });
-	if (!lastArg || item.match(lastArg)) {
-		$('.searchresults').prepend(obj);
-	} else {
-		$('.searchresults').append(obj);
+function placeHint(task, lastArg, src) {
+	switch (task) {
+		case 'func':
+			obj = $('<div>', { class: 'resultitem resultFunction', text: src.func.icon + ' ' + task });
+			$('.searchresults').prepend(obj);
+			break;
+		case 'saveFormat':
+		case 'saveSource':
+			break;
+		default:
+			obj = $('<div>', { class: 'resultitem', text: task });
+			if (!lastArg || task.match(lastArg)) {
+				$('.searchresults').prepend(obj);
+			} else {
+				$('.searchresults').append(obj);
+			}
+			break;
 	}
 }
 
@@ -29,7 +39,7 @@ function suggestField() {
 
 	if (splitval.length == 1) {
 		// if there is 0 / 1 argument
-		installed.forEach((item) => placeHint(item.name, lastArg));
+		installed.forEach((item) => placeHint(item.name, lastArg, null));
 	} else {
 		// if there is at least 1 argument
 		installed.forEach((obj) => {
@@ -38,8 +48,14 @@ function suggestField() {
 				$.getScript(url, (_data, status) => {
 					if (status == 'success') {
 						let commands = obj.commandSrc();
+						let src = commands;
+
+						for (i = 1; i < splitval[i] - 1; i++) {
+							src = src[i];
+						}
+
 						Object.keys(commands).forEach((item) => {
-							placeHint(item, lastArg);
+							placeHint(item, lastArg, src);
 							console.log(item, lastArg);
 						});
 					}
@@ -51,7 +67,7 @@ function suggestField() {
 	// TODO: set limitation to hint size
 
 	// print suggestions
-	$('.resultitem').first().addClass('active');
+	$('.resultitem').eq(0).addClass('active');
 
 	if (splitval[0]) {
 		$('.searchresults').removeClass('hide');
@@ -59,32 +75,7 @@ function suggestField() {
 		$('.searchresults').addClass('hide');
 	}
 }
-// function suggestField (){
-//   $('.searchresults').children().remove();
-//   let src = commands;
-//   let val = $('.searchfield').val();
-//   let splitval = val.split(' ');
-//   let arg = splitval[splitval.length - 1];
 
-//   for (i = 0; i < splitval.length -1; i++) src = src[splitval[i]];
-
-//   // //todo : check if there are hints avialble
-//   Object.keys(src).forEach((hint, index) => { //go thruogh all object children names
-//     if (index < 6 && (hint.match(arg) || !arg)){ //if there are hints and 'hint' has letter which matches 'arg'
-//       switch (hint){ // if hint is special case
-//         case 'func':
-//           $('.searchresults').append($('<div>',{class:'resultitem resultFunction',text:val}))
-//           break;
-//         case 'saveSource':
-//         case 'saveFormat':
-//           break;
-//         default:
-//           obj = (hint == splitval[splitval.length - 1] && src[hint].func) ? $('<div>',{class:'resultitem resultFunction',text:val}) : $('<div>',{class:'resultitem',text:hint});
-//           $('.searchresults').append(obj);
-//       }
-
-//     }
-//   })
 function appendSuggestion(suggestion) {
 	let text = $('.searchfield').val();
 	let lastIndex = text.lastIndexOf(' ');
@@ -92,9 +83,6 @@ function appendSuggestion(suggestion) {
 
 	$('.searchfield').val(fullText);
 }
-
-// function exicuteFunction() { //change searchfield to active
-//   let src = commands;
 
 //   if ($('.active').hasClass('resultFunction')){ // active is a funtion
 //     let val = $('.resultFunction.active').text();
@@ -104,10 +92,6 @@ function appendSuggestion(suggestion) {
 //     src.func();
 //     $('.searchfield').val('');
 //     $('.searchresults').children().remove();
-//   }else{
-//     $('.searchError').removeClass('hide').text('This command is not a function');
-//   }
-// }
 
 $('.searchbar').keydown(function(e) {
 	switch (e.which) {

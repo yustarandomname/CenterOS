@@ -8,24 +8,11 @@ fileCommands = {
 		type: 'note',
 		updateKey: 0
 	},
-	function: {
-		hint: 'Open app',
-		icon: '⤅',
-		execute: () => openApp('file')
-	},
 	//edit : { func : () => console.log('to be implemented')},
 
 	create: {
-		function: {
-			hint: 'Inline form',
-			icon: '📄',
-			execute: () => {
-				let content = [ { type: 'input', placeholder: 'Title' }, { type: 'input', placeholder: 'Type' } ];
-				createInlineForm('Create note', content, { Title: 'title', Type: 'type' });
-			}
-		},
 		note: {
-			function: {
+			func: {
 				hint: 'Inline form',
 				icon: '📄',
 				execute: () => {
@@ -38,7 +25,7 @@ fileCommands = {
 			}
 		},
 		presentation: {
-			function: {
+			func: {
 				hint: 'Inline form',
 				icon: 'inlineForm',
 				execute: () => {
@@ -51,7 +38,7 @@ fileCommands = {
 			}
 		},
 		pdf: {
-			function: {
+			func: {
 				hint: 'Inline form',
 				icon: 'inlineForm',
 				execute: () => {
@@ -62,6 +49,20 @@ fileCommands = {
 					createInlineForm('Create pdf', content, { Title: 'title', Type: 'type' });
 				}
 			}
+		},
+		func: {
+			hint: 'Inline form',
+			icon: '📄',
+			execute: () => {
+				let content = [ { type: 'input', placeholder: 'Title' }, { type: 'input', placeholder: 'Type' } ];
+				createInlineForm('Create note', content, { Title: 'title', Type: 'type' });
+			}
 		}
+	},
+
+	func: {
+		hint: 'Open app',
+		icon: '⤅',
+		execute: () => openApp('file')
 	}
 };

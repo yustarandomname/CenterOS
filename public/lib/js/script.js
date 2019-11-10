@@ -52,5 +52,3 @@ function setCursorToEnd(target, end){
   sel.addRange(range);
   el.focus();
 }
-
-$('body').css('background','#efefef');

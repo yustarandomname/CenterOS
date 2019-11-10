@@ -1,6 +1,6 @@
 * {
 	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
-	outline:none;
+	outline: none;
 	caret-color: black !important;
 }
 
@@ -14,75 +14,89 @@ body {
 	width: 100vw;
 	overflow-x: hidden;
 	font-family: 'Roboto', sans-serif;
-	background:white;
-	height:300vh;
-	transition:2s background .5s;
+	height: 300vh;
+	transition: 2s background .5s;
 }
 
-.hide {display: none !important;}
+.hide {
+	display: none !important;
+}
 
-a{color:black;}
-.clickable{cursor:pointer;}
-.active{background:#d5f3ff !important}
-.active:hover{background:#a1b5bd !important}
+a {
+	color: black;
+}
+.clickable {
+	cursor: pointer;
+}
+.active {
+	background: #d5f3ff !important;
+}
+.active:hover {
+	background: #a1b5bd !important;
+}
 
 /* searchbar */
-.homescreen{
-	width: 90vw;
-	margin: 10rem 5vw 5rem;
+.homescreen {
+	width: 100vw;
 }
 
-.searchbar{
-	height:5rem;
-	background:white;
-	border-radius:.5rem;
-	padding:2rem;
-	display:flex;
+.searchBox {
+	width: 40rem;
+	max-width: 90vw;
+	margin: 3rem auto;
 }
 
-.searchfield{
-	position:relative;
-	outline:none;
-	padding-top:2rem;
-	font-size:2rem;
-	width:100%;
-	border:none;
+.searchBar {
+	height: 2.5rem;
+	border-radius: 1.1rem;
+	border: 2px solid lightgrey;
+	box-sizing: border-box;
+	display: flex;
+	padding: .25rem;
 }
 
-.searchfield:empty:before{
-	content:"Search something...";
-	position:absolute;
-	color:#ccc;
+.searchField {
+	padding: .25rem .5rem;
+	height: 1rem;
+	width: 100%;
+	outline: none;
+	border: none;
+	font-size: 1rem;
 }
 
-.searchresults{
-	margin-top:1rem;
-	padding:.5rem;
-	background:white;
-	border-radius:.5rem;
-	cursor:pointer;
+.searchIcon {
+	font-size: 1rem;
+	cursor: pointer;
 }
 
-.searchError{
+/* SUGGESTIONS */
+.searchSuggestions {
+	box-sizing: border-box;
+	margin: 0 1rem;
+	cursor: pointer;
+}
+
+.suggestion {
+	display: flex;
+	width: calc(100% - 1rem);
+	margin: .5rem 0;
+	padding: 1rem .5rem;
+	line-height: 0;
+	border-bottom: 1px solid lightgrey;
+}
+
+.suggestionName {
+	width: 100%;
+}
+
+.searchError {
 	position: absolute;
-  color: red;
-  right: 2rem;
-}
-
-.resultitem{
-	padding:.5rem;
-	border-radius: .25rem;
-	transition:.3s;
-}
-
-.resultitem:hover{background:#ccc}
-
-.resultFunction:before{
-	content: '𝒇 ';
+	color: red;
+	right: 2rem;
 }
 
 /* workspace */
-.workspace{
+.workspace {
 	width: 90vw;
 	margin: 0 5vw;
 	min-height: 1rem;
@@ -91,13 +105,13 @@ a{color:black;}
 }
 
 /* inlineForm */
-.inlineForm{
+.inlineForm {
 	margin-top: 1rem;
 	background: white;
 	padding: 1rem;
 	border-radius: .5rem;
 }
-.formHeader{
+.formHeader {
 	font-size: 1.3rem;
 	padding: 1rem;
 	/* border-bottom: 1px solid #ccc; */
@@ -111,27 +125,27 @@ a{color:black;}
 	padding: .25rem 1rem;
 }
 .input:before {
-    color: #ccc;
-    content: attr(placeholder);
-    position: absolute;
-    font-size: 0.7rem;
-    left: 0.5rem;
-    top: -0.65rem;
-    transition: .3s;
+	color: #ccc;
+	content: attr(placeholder);
+	position: absolute;
+	font-size: 0.7rem;
+	left: 0.5rem;
+	top: -0.65rem;
+	transition: .3s;
 }
 .input:empty:before {
-    top: 0;
-    font-size: 1rem;
-    left: 1rem;
+	top: 0;
+	font-size: 1rem;
+	left: 1rem;
 }
 
-.inputError{
-	color:red;
+.inputError {
+	color: red;
 }
 
-.inputSubmit{
+.inputSubmit {
 	display: flex;
 	justify-content: flex-end;
-	color:#a1cea1;
-	cursor:pointer;
+	color: #a1cea1;
+	cursor: pointer;
 }
