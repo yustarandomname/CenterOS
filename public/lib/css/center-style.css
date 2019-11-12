@@ -29,10 +29,10 @@ a {
 	cursor: pointer;
 }
 .active {
-	background: #d5f3ff !important;
+	background: lightgrey !important;
 }
 .active:hover {
-	background: #a1b5bd !important;
+	/* background: lightgrey !important; */
 }
 
 /* searchbar */
@@ -65,28 +65,34 @@ a {
 }
 
 .searchIcon {
-	font-size: 1rem;
+	font-size: 1.2rem;
+	padding: 0.2rem;
 	cursor: pointer;
+	border-radius: 50%;
 }
 
 /* SUGGESTIONS */
 .searchSuggestions {
 	box-sizing: border-box;
-	margin: 0 1rem;
+	margin: .5rem 1rem;
 	cursor: pointer;
 }
 
 .suggestion {
 	display: flex;
-	width: calc(100% - 1rem);
-	margin: .5rem 0;
-	padding: 1rem .5rem;
-	line-height: 0;
+	padding: .5rem;
 	border-bottom: 1px solid lightgrey;
+	background: transparent;
+	transition: .5s background;
+}
+
+.suggestion:hover {
+	background: lightgrey;
 }
 
 .suggestionName {
 	width: 100%;
+	margin: 0 .5rem;
 }
 
 .searchError {

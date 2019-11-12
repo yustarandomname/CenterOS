@@ -1,0 +1,81 @@
+@font-face {
+  font-family: 'centerOS-iconpack';
+  src:  url('fonts/centerOS-iconpack.eot?7dsxu3');
+  src:  url('fonts/centerOS-iconpack.eot?7dsxu3#iefix') format('embedded-opentype'),
+    url('fonts/centerOS-iconpack.ttf?7dsxu3') format('truetype'),
+    url('fonts/centerOS-iconpack.woff?7dsxu3') format('woff'),
+    url('fonts/centerOS-iconpack.svg?7dsxu3#centerOS-iconpack') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'centerOS-iconpack' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.i-home .path1:before {
+  content: "\e900";
+  color: rgb(229, 229, 229);
+}
+.i-home .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.i-back:before {
+  content: "\e903";
+}
+.i-todo-list:before {
+  content: "\e904";
+}
+.i-file:before {
+  content: "\e905";
+}
+.i-arrow-down:before {
+  content: "\e906";
+}
+.i-arrow-left:before {
+  content: "\e907";
+}
+.i-arrow-right:before {
+  content: "\e908";
+}
+.i-arrow-up:before {
+  content: "\e909";
+}
+.i-logbook:before {
+  content: "\e90a";
+}
+.i-bike:before {
+  content: "\e90b";
+}
+.i-open:before {
+  content: "\e90c";
+}
+.i-search:before {
+  content: "\e90d";
+}
+.i-settings:before {
+  content: "\e90e";
+}
+.i-compare:before {
+  content: "\e90f";
+}
+.i-community:before {
+  content: "\e910";
+}
+.i-book:before {
+  content: "\e911";
+}
