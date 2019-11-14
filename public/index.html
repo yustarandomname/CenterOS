@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="Description" content="TODO:implement this">
 		<title>Center OS</title>
 
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,9 +16,9 @@
 		<meta name="msapplication-TileColor" content="#ffffff">
 		<meta name="theme-color" content="#ffffff">
 
-		<link rel="stylesheet" href="/lib/css/icon-style.css?v=dgh">
 		<link rel="stylesheet" href="/lib/css/style.css?v=vMdBYBwGdv" type="text/css">
 		<link rel="stylesheet" href="/lib/css/center-style.css?v=vMdBYBwGdv" type="text/css">
+		<link rel="stylesheet" href="/lib/css/icon-style.css?v=dgh">
 
 		<!-- update the version number as needed -->
 		<script defer src="/__/firebase/7.2.3/firebase-app.js"></script>
@@ -29,7 +30,9 @@
 		<!-- initialize the SDK after all desired features are loaded -->
 		<script defer src="/__/firebase/init.js"></script>
 
-		<script defer src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+		<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
 
 		<script defer src="/lib/js/script.js?v=vMdBYBwGdv"></script>
 		<script defer src="/lib/js/appHandle.js?v=vMdBYBwGdv"></script>
@@ -54,20 +57,7 @@
 					<input class="searchField" placeholder="Do something...">
 					<i class="searchIcon i-search">‍</i>
 				</div>
-				<div class="searchSuggestions">
-					<div class="suggestion active">
-						<i class="suggestionIcon i-file"></i>
-						<div class="suggestionName">files</div>
-						<i class="suggestionAction i-open"></i>
-					</div>
-					
-					<div class="suggestion">
-						<i class="suggestionIcon i-todo-list"></i>
-						<div class="suggestionName">todo</div>
-						<i class="suggestionAction i-open"></i>
-					</div>
-					
-				</div>
+				<div class="searchSuggestions"></div>
 			</div>
 		</div>
 		<div class="workplace"></div>
