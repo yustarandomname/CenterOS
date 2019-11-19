@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 32 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_32"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0_32"><path d="M100.5,911V895.2h19.1V911Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_32{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_32{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s3_32{
+font-size: 13.75px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #231F20;
+}
+.s4_32{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.s5_32{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.s6_32{
+font-size: 9.66px;
+font-family: TECHMath-Mix_wh;
+fill: #231F20;
+}
+.s7_32{
+font-size: 9.66px;
+font-family: TECHMath-Mix_wl;
+fill: #231F20;
+}
+.s8_32{
+font-size: 9.66px;
+font-family: Times-Roman_n6;
+fill: #231F20;
+}
+.s9_32{
+font-size: 9.66px;
+font-family: TECHMath-Mix_x7;
+fill: #231F20;
+}
+.sa_32{
+font-size: 13.75px;
+font-family: Times-Roman_n6;
+fill: #231F20;
+}
+.sb_32{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sc_32{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sd_32{
+font-size: 13.75px;
+font-family: BeaconDingbatsTypeOne_od;
+fill: #231F20;
+}
+.se_32{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.sf_32{
+font-size: 8.25px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.sg_32{
+font-size: 13.75px;
+font-family: MathematicalPi-One-Italic_x2;
+fill: #231F20;
+}
+.sh_32{
+font-size: 9.63px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.si_32{
+font-size: 13.69px;
+font-family: TECHMath-Mix_x7;
+fill: #231F20;
+}
+.sj_32{
+font-size: 13.69px;
+font-family: TECHMath-Mix_xf;
+fill: #231F20;
+}
+.sk_32{
+font-size: 14.51px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sl_32{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sm_32{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_6c;
+fill: #00AEEF;
+}
+.sn_32{
+font-size: 15.28px;
+font-family: MyriadPro-SemiboldSemiCn_4e;
+fill: #00AEEF;
+}
+.so_32{
+font-size: 19.25px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sp_32{
+font-size: 9.60px;
+font-family: TECHMath-Mix_xf;
+fill: #231F20;
+}
+.sq_32{
+font-size: 9.60px;
+font-family: TECHMath-Mix_wh;
+fill: #231F20;
+}
+.sr_32{
+font-size: 9.60px;
+font-family: TECHMath-Mix_xb;
+fill: #231F20;
+}
+.ss_32{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_32{
+fill: #FFFFFF;
+}
+.g1_32{
+fill: #231F20;
+}
+.g2_32{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.536;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g3_32{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.996;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g4_32{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.481;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_32{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.687;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_32{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 1.046;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_32{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.563;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_32{
+fill: none;
+stroke: #0079C2;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_32{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.ga_32{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.533;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.gb_32{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.99;
+stroke-linecap: square;
+stroke-linejoin: miter;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_32)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="53" y="64" class="s1_32">xxx</text>
+<text x="127" y="64" dx="0,.1,.1,.1,0,.1,.1,.1,.1,.1,.1,-.4,-.7,.1,.1,.1" class="s2_32">Diagnostic Tests</text>
+<text x="63" y="109" class="s3_32">¶. </text>
+<text x="78" y="109" class="s4_32">(a) </text>
+<text x="100" y="109" class="s5_32">2</text>
+<text x="111" y="109" class="s4_32">3, 3 </text>
+<text x="224" y="109" class="s4_32">(b)</text>
+<path d="M241.8,206H348V101.6H241.8V206Z" class="g0_32"/>
+<text x="285" y="111" class="s6_32">y</text>
+<path fill-rule="evenodd" d="M293.9,110.5l-2.1,1.4l2.1,-5.6l2.1,5.6Z" class="g1_32"/>
+<path d="M247.9,156.5h92" class="g2_32"/>
+<path fill-rule="evenodd" d="M339.9,156.5l-1.4,-2.1l5.6,2.1l-5.6,2.1Z" class="g1_32"/>
+<path d="M293.9,202.5v-92" class="g2_32"/>
+<text x="338" y="166" class="s7_32">x</text>
+<text x="286" y="166" class="s8_32">0</text>
+<text x="264" y="167" class="s9_32">_1</text>
+<text x="286" y="141" class="s9_32">1</text>
+<path d="M296.2,142.7h-4.6m-11.5,11.5v4.6" class="g2_32"/>
+<path d="M267.6,202.5c6.8,-32.2,13.7,-59.8,26.3,-59.8m0,0l16.6,-33.1" class="g3_32"/>
+<text x="458" y="110" class="s3_32">·.</text>
+<text x="472" y="110" class="sa_32">(a) </text>
+<text x="494" y="110" class="sb_32">s</text>
+<text x="503" y="110" class="sc_32">f</text>
+<text x="510" y="114" class="s5_32">8</text>
+<text x="519" y="110" class="sd_32">t</text>
+<text x="525" y="110" class="sb_32">ds</text>
+<text x="535" y="110" class="sc_32">x</text>
+<text x="541" y="110" class="sb_32">d</text>
+<text x="550" y="110" class="se_32">-</text>
+<text x="565" y="110" class="s4_32">4</text>
+<text x="573" y="110" class="sc_32">x</text>
+<text x="581" y="104" class="sf_32">2</text>
+<text x="589" y="110" class="s5_32">2</text>
+<text x="604" y="110" class="s4_32">8</text>
+<text x="612" y="110" class="sc_32">x</text>
+<text x="622" y="110" class="s5_32">1</text>
+<text x="638" y="110" class="s4_32">2</text>
+<text x="471" y="133" class="sa_32">(b) </text>
+<text x="494" y="133" class="sb_32">s</text>
+<text x="500" y="133" class="sd_32">t</text>
+<text x="510" y="137" class="s5_32">8</text>
+<text x="519" y="133" class="sc_32">f</text>
+<text x="525" y="133" class="sb_32">ds</text>
+<text x="535" y="133" class="sc_32">x</text>
+<text x="541" y="133" class="sb_32">d</text>
+<text x="550" y="133" class="se_32">-</text>
+<text x="565" y="133" class="s4_32">2</text>
+<text x="573" y="133" class="sc_32">x</text>
+<text x="581" y="127" class="sf_32">2</text>
+<text x="589" y="133" class="s5_32">1</text>
+<text x="604" y="133" class="s4_32">4</text>
+<text x="612" y="133" class="sc_32">x</text>
+<text x="622" y="133" class="s5_32">2</text>
+<text x="638" y="133" class="s4_32">5</text>
+<text x="472" y="154" class="sa_32">(c) </text>
+<text x="494" y="154" class="sb_32">s</text>
+<text x="500" y="154" class="sd_32">t</text>
+<text x="510" y="158" class="s5_32">8</text>
+<text x="519" y="154" class="sd_32">t</text>
+<text x="529" y="158" class="s5_32">8</text>
+<text x="538" y="154" class="sd_32">t</text>
+<text x="544" y="154" class="sb_32">ds</text>
+<text x="554" y="154" class="sc_32">x</text>
+<text x="560" y="154" class="sb_32">d</text>
+<text x="569" y="154" class="se_32">-</text>
+<text x="584" y="154" class="s4_32">8</text>
+<text x="592" y="154" class="sc_32">x</text>
+<text x="602" y="154" class="s5_32">2</text>
+<text x="618" y="154" class="s4_32">21</text>
+<image preserveAspectRatio="none" x="51" y="326" width="774" height="37" xlink:href="32/img/1.png"/>
+<text x="299" y="395" class="s3_32">±. </text>
+<text x="315" y="395" dx="0,0,0,-.3,-.3,.1,.5,0,0,.3,.1,0,0,0,.1,-.1,.3,.1,.2,.1,0,0,.1,0,0,.1,.2,.3,0,.3,.1,-.1" class="s4_32">Convert from degrees to radians.</text>
+<text x="315" y="415" dx="0,0,0,0,4.2,0,0" class="s4_32">(a) 300</text>
+<text x="358" y="414" class="s5_32">8</text>
+<text x="412" y="415" class="s4_32">(b) </text>
+<text x="435" y="415" class="s5_32">2</text>
+<text x="447" y="415" class="s4_32">18</text>
+<text x="460" y="413" class="s5_32">8</text>
+<text x="297" y="442" class="s3_32">².</text>
+<text x="315" y="442" dx="0,0,0,0,0,0,0,0,.3,0,0,0,0,.3,0,0,0,0,0,0,0,.3,0,0,.3,0,0,0,0,0,0,0" class="s4_32">Convert from radians to degrees.</text>
+<text x="315" y="462" dx="0,0,0,0,4.2" class="s4_32">(a) 5</text>
+<text x="344" y="462" class="sg_32">°</text>
+<text x="354" y="462" class="sb_32">y</text>
+<text x="361" y="462" class="s4_32">6 </text>
+<text x="412" y="462" dx="0,0,0,0,4.2" class="s4_32">(b) 2</text>
+<text x="297" y="486" class="s3_32">³.</text>
+<text x="315" y="486" dx="0,0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,0,.3,0,0,.3,0,0,.3,0,0,0,.3,0,0,.3,0,.3,0,0,0,0,0,0,.3,0,0,0,0,.3,0,0,0,0,0,0,.3,0,0,.3,0,0,.3,0,0,.3,0,0,0,.3,0,0,0,.3,0,0,0,0,0,0,0,0,.3,0,.3,0,0,0,0,0,0,0,.3,0,0,0,0,0" class="s4_32">Find the length of an arc of a circle with radius 12 cm if the arc subtends a central angle </text>
+<text x="315" y="503" dx="0,0,0,.3,0" class="s4_32">of 30</text>
+<text x="344" y="503" class="s5_32">8</text>
+<text x="349" y="503" class="s4_32">.</text>
+<text x="297" y="528" class="s3_32">´.</text>
+<text x="315" y="528" dx="0,0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,.3,0,0,0,0,0,0" class="s4_32">Find the exact values.</text>
+<text x="315" y="547" dx="0,0,0,0,4.2,0,0" class="s4_32">(a) tan</text>
+<text x="354" y="547" class="sb_32">s</text>
+<text x="359" y="547" class="sg_32">°</text>
+<text x="368" y="547" class="sb_32">y</text>
+<text x="375" y="547" class="s4_32">3</text>
+<text x="382" y="547" class="sb_32">d</text>
+<text x="412" y="547" dx="0,0,0,0,4.2,0,0" class="s4_32">(b) sin</text>
+<text x="451" y="547" class="sb_32">s</text>
+<text x="456" y="547" class="s4_32">7</text>
+<text x="463" y="547" class="sg_32">°</text>
+<text x="472" y="547" class="sb_32">y</text>
+<text x="479" y="547" class="s4_32">6</text>
+<text x="486" y="547" class="sb_32">d</text>
+<text x="519" y="547" dx="0,0,0,0,4.2,0,0" class="s4_32">(c) sec</text>
+<text x="560" y="547" class="sb_32">s</text>
+<text x="564" y="547" class="s4_32">5</text>
+<text x="571" y="547" class="sg_32">°</text>
+<text x="581" y="547" class="sb_32">y</text>
+<text x="587" y="547" class="s4_32">3</text>
+<text x="594" y="547" class="sb_32">d</text>
+<text x="297" y="572" class="s3_32">µ.</text>
+<text x="315" y="572" dx="0,0,0,0,0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,0,0" class="s4_32">Express the lengths </text>
+<text x="427" y="572" class="sc_32">a</text>
+<text x="437" y="572" class="s4_32">and </text>
+<text x="461" y="572" class="sc_32">b</text>
+<text x="472" y="572" dx="0,0,0,.3,0,0,0,.3,0,0,0,0,0,.3,0,0,.3,0,0,0,0,0,.3,0,0" class="s4_32">in the ±gure in terms of </text>
+<text x="607" y="572" class="sg_32">±</text>
+<text x="613" y="572" class="s4_32">.</text>
+<text x="296" y="602" class="s3_32">¶.</text>
+<text x="315" y="602" dx="0,0,0,.3,0,0,0" class="s4_32">If sin </text>
+<text x="348" y="602" class="sc_32">x</text>
+<text x="358" y="602" class="se_32">-</text>
+<text x="374" y="596" class="sh_32">1</text>
+<path d="M374.3,598.4h4.8" class="g4_32"/>
+<text x="374" y="606" class="sh_32">3</text>
+<text x="382" y="602" dx="0,0,0,0,.3,0,0,0" class="s4_32">and sec </text>
+<text x="427" y="602" class="sc_32">y</text>
+<text x="437" y="602" class="se_32">-</text>
+<text x="453" y="596" class="sh_32">5</text>
+<path d="M453.6,598.4h4.7" class="g4_32"/>
+<text x="453" y="606" class="sh_32">4</text>
+<text x="458" y="602" dx="0,0,.3,0,0,0,0,0" class="s4_32">, where </text>
+<text x="503" y="602" class="sc_32">x</text>
+<text x="513" y="602" class="s4_32">and </text>
+<text x="537" y="602" class="sc_32">y</text>
+<text x="547" y="602" dx="0,0,0,0,.3,0,0,0,0,0,0,0,.3,0,.3,0,0,0" class="s4_32">lie between 0 and </text>
+<text x="648" y="602" class="sg_32">°</text>
+<text x="657" y="602" class="sb_32">y</text>
+<text x="665" y="602" dx="0,0,0,.3,0,0,0,0,0,0,0,0,.3,0,0" class="s4_32">2, evaluate sin</text>
+<text x="745" y="602" class="sb_32">s</text>
+<text x="750" y="602" class="sc_32">x</text>
+<text x="760" y="602" class="s5_32">1</text>
+<text x="776" y="602" class="sc_32">y</text>
+<text x="782" y="602" class="sb_32">d</text>
+<text x="786" y="602" class="s4_32">.</text>
+<text x="298" y="633" class="s3_32">·.</text>
+<text x="315" y="633" dx="0,0,0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,0,0,0,0,0" class="s4_32">Prove the identities.</text>
+<text x="315" y="662" dx="0,0,0,0,4.2,0,0,0" class="s4_32">(a) tan </text>
+<text x="356" y="662" class="sg_32">± </text>
+<text x="366" y="662" class="s4_32">sin </text>
+<text x="384" y="662" class="sg_32">±</text>
+<text x="395" y="662" class="s5_32">1</text>
+<text x="411" y="662" class="s4_32">cos </text>
+<text x="431" y="662" class="sg_32">±</text>
+<text x="442" y="662" class="se_32">-</text>
+<text x="458" y="662" class="s4_32">sec </text>
+<text x="477" y="662" class="sg_32">±</text>
+<text x="522" y="662" class="s4_32">(b) </text>
+<text x="556" y="653" class="s4_32">2 tan </text>
+<text x="587" y="653" class="sc_32">x</text>
+<path d="M546.2,658.5h58.3" class="g5_32"/>
+<text x="547" y="672" class="s4_32">1</text>
+<text x="558" y="672" class="s5_32">1</text>
+<text x="574" y="672" class="s4_32">tan</text>
+<text x="591" y="667" class="sf_32">2</text>
+<text x="596" y="672" class="sc_32">x</text>
+<text x="608" y="662" class="se_32">-</text>
+<text x="623" y="662" class="s4_32">sin 2</text>
+<text x="650" y="662" class="sc_32">x</text>
+<text x="296" y="702" class="s3_32">¸.</text>
+<text x="315" y="702" dx="0,0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,0,.3,0,0" class="s4_32">Find all values of </text>
+<text x="416" y="702" class="sc_32">x</text>
+<text x="426" y="702" dx="0,0,0,0,0,.3,0,0,0,0,.3,0,0,0,0" class="s4_32">such that sin 2</text>
+<text x="507" y="702" class="sc_32">x</text>
+<text x="517" y="702" class="se_32">-</text>
+<text x="533" y="702" class="s4_32">sin </text>
+<text x="552" y="702" class="sc_32">x</text>
+<text x="562" y="702" dx="0,0,0,0,.3" class="s4_32">and 0</text>
+<text x="596" y="702" class="s5_32">&lt;</text>
+<text x="612" y="702" class="sc_32">x</text>
+<text x="622" y="702" class="s5_32">&lt;</text>
+<text x="638" y="702" class="s4_32">2</text>
+<text x="645" y="702" class="sg_32">°</text>
+<text x="654" y="702" class="s4_32">.</text>
+<text x="296" y="730" class="s3_32">¹.</text>
+<text x="315" y="730" dx="0,0,0,0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,.3,0,0,.3,0,0,0,.3,0,0,0,0,0,0,0,0" class="s4_32">Sketch the graph of the function </text>
+<text x="498" y="730" class="sc_32">y</text>
+<text x="508" y="730" class="se_32">-</text>
+<text x="524" y="730" class="s4_32">1</text>
+<text x="535" y="730" class="s5_32">1</text>
+<text x="550" y="730" class="s4_32">sin 2</text>
+<text x="577" y="730" class="sc_32">x</text>
+<text x="587" y="730" dx="0,0,0,0,0,0,0,0,.3,0,0,0,0,0,.3,0,.3,0,0,0,0,0,0,0,0,0,0" class="s4_32">without using a calculator.</text>
+<text x="192" y="601" class="si_32">a</text>
+<text x="82" y="632" class="si_32">¨</text>
+<text x="119" y="650" class="sj_32">b</text>
+<text x="113" y="588" class="sj_32">24</text>
+<path d="M55.9,635.8h131V562.1l-131,73.7Z" class="g6_32"/>
+<path d="M176.7,635.8V625.5h10.2" class="g7_32"/>
+<text x="54" y="675" dx="0,.3,.3,.3,.3,.3,.1,.1,.3,.3,.1,.1,.3,.2,.3,.3,.3,.3,.1" class="sk_32">FIGURE FOR PROBLEM </text>
+<text x="205" y="675" class="sl_32">5</text>
+<text x="172" y="1006" dx="0,.3,0,0,-.5,0,0,0,0,.1,0,0,.2,.2,.2,-.2,-.1,.2,-.3,.3,0,0,.1,-.3,.3,0,0,.3,0,0,0,0,0,0,0,-.1,-.2,-.2,-.1,.2,0,0,0,-.5,0,0,0,-.1,-.1,0,.2,-.2,0,0,-.2,.1,-.1,0,0,0,0,0,-.1,0,.2,0,-.1,.2,.2,0,0,0,0,-.2,0,0,.3,.3,0,0,0,.1,.1,-.1,.1" class="sm_32">If you had dif±culty with these problems, you should look at Appendix D of this book.</text>
+<path d="M163.9,985c0,0,-3.1,0,-3.1,3v31.7c0,0,0,3,3.1,3h550c0,0,3.1,0,3.1,-3V988c0,0,0,-3,-3.1,-3h-550Z" class="g8_32"/>
+<text x="161" y="251" dx="0,.3,0,0,-.5,0,0,0,0,.1,0,0,.2,.2,.2,-.2,-.1,.2,-.3,.3,0,0,.1,-.3,.3,0,0,.3,0,0,0,0,0,0,0,-.1,-.2,-.2,-.1,.2,0,0,0,-.5,0,0,0,-.1,-.1,0,.2,-.2,0,0,-.2,.1,-.1,0,0,0,0,0,0,.2,0,.2,-.3,-.1,0,0,0,-.7,-.8,-.5,-.5,-.7,0,0,0,-.2,0,0,.3,.3,0,0,0,.1,.1,-.1,.1" class="sm_32">If you had dif±culty with these problems, you should look at sections 1.1–1.3 of this book.</text>
+<path d="M152.5,229.6c0,0,-3.1,0,-3.1,3.1v31.6c0,0,0,3.1,3.1,3.1h572c0,0,3.1,0,3.1,-3.1V232.7c0,0,0,-3.1,-3.1,-3.1h-572Z" class="g8_32"/>
+<path d="M53.9,807.1h770" class="g9_32"/>
+<text x="54" y="795" dx="0,.9,.9,.9,.9,.9,.9,.8,.2,.5,.8,.8,.9,.9,.6,.9,.9,.9,.9,.9,.9,.8,.2,.9,.9,.9,.8,.8,.8,.6,.2,.9,.9,.9,.9,.9,.9,.9,.9,1,.9,.7" class="sn_32">ANSWERS TO DIAGNOSTIC TEST D: TRIGONOMETRY</text>
+<text x="65" y="835" class="s3_32">±. </text>
+<text x="78" y="835" dx="0,0,0,0,3.4" class="s4_32">(a) 5</text>
+<text x="107" y="835" class="sg_32">°</text>
+<text x="116" y="835" class="sb_32">y</text>
+<text x="123" y="835" class="s4_32">3 </text>
+<text x="201" y="835" class="s4_32">(b) </text>
+<text x="224" y="835" class="s5_32">2</text>
+<text x="235" y="835" class="sg_32">°</text>
+<text x="245" y="835" class="sb_32">y</text>
+<text x="251" y="835" class="s4_32">10</text>
+<text x="63" y="859" class="s3_32">². </text>
+<text x="78" y="859" dx="0,0,0,0,3.4,0,0" class="s4_32">(a) 150</text>
+<text x="120" y="859" class="s5_32">8</text>
+<text x="201" y="859" dx="0,0,0,0,3.4,0,0" class="s4_32">(b) 360</text>
+<text x="245" y="859" class="s5_32">8</text>
+<text x="249" y="859" class="sb_32">y</text>
+<text x="255" y="859" class="sg_32">°</text>
+<text x="268" y="859" class="sb_32">&lt;</text>
+<text x="284" y="859" class="s4_32">114.6</text>
+<text x="315" y="859" class="s5_32">8</text>
+<text x="63" y="883" class="s3_32">³. </text>
+<text x="78" y="883" class="s4_32">2</text>
+<text x="85" y="883" class="sg_32">° </text>
+<text x="98" y="883" class="s4_32">cm</text>
+<text x="63" y="908" class="s3_32">´. </text>
+<text x="78" y="908" class="s4_32">(a) </text>
+<text x="100" y="908" class="sd_32">s</text>
+<text x="110" y="908" class="s4_32">3</text>
+<g clip-path="url(#c0_32)">
+<path d="M111,895.6h9" class="g5_32"/>
+</g>
+<text x="201" y="908" class="s4_32">(b) </text>
+<text x="224" y="908" class="s5_32">2</text>
+<text x="236" y="902" class="sh_32">1</text>
+<path d="M235.9,903.8h5.6" class="g4_32"/>
+<text x="236" y="911" class="sh_32">2</text>
+<text x="313" y="908" dx="0,0,0,0,3.4" class="s4_32">(c) 2</text>
+<text x="63" y="932" class="s3_32">µ. </text>
+<text x="78" y="932" dx="0,0,0,0,3.4,0,0,0,0,0,0" class="s4_32">(a) 24 sin </text>
+<text x="135" y="932" class="sg_32">±</text>
+<text x="201" y="932" dx="0,0,0,0,3.4,0,0,0,0,0,0" class="s4_32">(b) 24 cos </text>
+<text x="261" y="932" class="sg_32">±</text>
+<text x="455" y="839" class="s3_32">¶. </text>
+<text x="476" y="832" class="sh_32">1</text>
+<path d="M474.3,834.5h9.5" class="g4_32"/>
+<text x="474" y="842" class="sh_32">15</text>
+<text transform="matrix(0.71,0,0,1,485,839)" class="so_32">s</text>
+<text x="490" y="839" class="s4_32">4</text>
+<text x="501" y="839" class="s5_32">1</text>
+<text x="516" y="839" class="s4_32">6</text>
+<text x="525" y="839" class="sd_32">s</text>
+<text x="535" y="839" class="s4_32">2</text>
+<path d="M535.5,826.4h9" class="g5_32"/>
+<text transform="matrix(0.71,0,0,1,545,839)" class="so_32">d</text>
+<text x="455" y="863" class="s3_32">¸. </text>
+<text x="474" y="863" class="s4_32">0, </text>
+<text x="487" y="863" class="sg_32">°</text>
+<text x="497" y="863" class="sb_32">y</text>
+<text x="503" y="863" class="s4_32">3, </text>
+<text x="517" y="863" class="sg_32">°</text>
+<text x="526" y="863" class="s4_32">, 5</text>
+<text x="540" y="863" class="sg_32">°</text>
+<text x="549" y="863" class="sb_32">y</text>
+<text x="556" y="863" class="s4_32">3, 2</text>
+<text x="577" y="863" class="sg_32">°</text>
+<text x="455" y="888" class="s3_32">¹. </text>
+<path d="M474,953H639.8V877.9H474V953Z" class="g0_32"/>
+<path d="M554.7,949.2v-64m-74.1,47.6H631.8" class="ga_32"/>
+<path fill-rule="evenodd" d="M631.8,932.8l-1.4,-2.1l5.6,2.1l-5.6,2.1Z" class="g1_32"/>
+<path fill-rule="evenodd" d="M554.7,885.2l-2.1,1.4l2.1,-5.6l2.1,5.6Z" class="g1_32"/>
+<text x="498" y="945" class="sp_32">_π</text>
+<text x="600" y="945" class="sp_32">π</text>
+<text x="630" y="942" class="sq_32">x</text>
+<text x="546" y="942" class="sr_32">0</text>
+<text x="545" y="899" class="sr_32">2</text>
+<text x="546" y="885" class="sr_32">y</text>
+<path d="M505.3,935.1v-4.6m24.7,4.6v-4.6m49.4,4.6v-4.6m24.7,4.6v-4.6" class="ga_32"/>
+<path d="M480.8,915.4c3.4,8.8,6.9,17.4,12.2,17.4c10.8,0,14.4,-36.6,24.7,-36.6c10.2,0,13.8,36.6,24.6,36.6c10.9,0,14.5,-36.6,24.7,-36.6c10.3,0,13.9,36.6,24.7,36.6c10.9,0,14.4,-36.6,24.7,-36.6c5.3,0,8.9,9.8,12.5,19.2" class="gb_32"/>
+<path d="M552.4,896.1H557" class="ga_32"/>
+<text x="121" y="1076" class="ss_32">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="ss_32">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: BeaconDingbatsTypeOne_od;
+	src: url("fonts/BeaconDingbatsTypeOne_od.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPi-One-Italic_x2;
+	src: url("fonts/MathematicalPi-One-Italic_x2.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-SemiboldSemiCn_4e;
+	src: url("fonts/MyriadPro-SemiboldSemiCn_4e.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_wh;
+	src: url("fonts/TECHMath-Mix_wh.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_wl;
+	src: url("fonts/TECHMath-Mix_wl.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_x7;
+	src: url("fonts/TECHMath-Mix_x7.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_xb;
+	src: url("fonts/TECHMath-Mix_xb.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_xf;
+	src: url("fonts/TECHMath-Mix_xf.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_n6;
+	src: url("fonts/Times-Roman_n6.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_6c;
+	src: url("fonts/TimesLTStd-Roman_6c.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

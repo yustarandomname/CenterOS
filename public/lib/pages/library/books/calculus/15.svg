@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 15 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_15"><path d="M0,0H931V1096H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_15{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s2_15{
+font-size: 15.28px;
+font-family: MyriadPro-SemiboldSemiCn_4e;
+fill: #231F20;
+}
+.s3_15{
+font-size: 16.81px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s4_15{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.s5_15{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s6_15{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_15{
+fill: #CC017A;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_15)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="781" y="64" dx="0,-.1,0,.1,.1,.1,0,.1" class="s1_15">Preface </text>
+<text x="861" y="64" class="s2_15">xiii</text>
+<image preserveAspectRatio="none" x="106" y="94" width="774" height="39" xlink:href="15/img/1.png"/>
+<path d="M344.3,149.5c0,0,-1.5,0,-1.5,1.5v9.2c0,0,0,1.5,1.5,1.5h9.2c0,0,1.5,0,1.5,-1.5V151c0,0,0,-1.5,-1.5,-1.5Z" class="g0_15"/>
+<text x="362" y="161" dx="0,-.3,0,0,-.2,0,0,-.1,-.1,-.1,0,0,.3,-.3,0,-.1,-.1,-.1,0,0" class="s3_15">Conceptual Exercises</text>
+<text x="342" y="184" dx="0,0,0,0,2.1,0,0,0,0,2.1,0,0,0,0,0,0,0,0,0,2.1,-.2,0,0,2.1,0,0,2.1,0,0,0,0,0,0,2.1,0,0,0,0,0,0,0,0,0,0,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,2.1,0,0,2.1,0,0,0,0,0,0,0,2.1,0,0,0,2.1,0,0,0,0,0,0,0,0" class="s4_15">The most important way to foster conceptual understanding is through the problems </text>
+<text x="342" y="202" dx="0,0,0,0,0,-.1,0,0,-.1,0,0,0,0,0,0,0,-.4,-1.2,0,-.1,0,0,0,0,-.1,0,0,0,-.1,0,-.1,0,-.3,-.2,0,-.1,0,-.4,0,0,0,0,0,-.1,-.4,0,0,0,0,0,0,-.1,0,0,0,0,0,-.1,0,0,-.1,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,-.1,-.2,-.2,0,0,0,0,0,0,-.1,0,0,0,0" class="s4_15">that we assign. To that end I have devised various types of problems. Some exercise sets </text>
+<text x="342" y="221" dx="0,0,-.2,0,0,0,-.6,0,0,0,0,-.6,0,0,0,0,0,0,0,0,-.6,0,0,-.6,-.2,0,0,0,0,0,0,-.6,0,0,0,-.6,0,0,0,0,0,0,0,0,-.6,0,0,-.6,0,0,0,-.6,0,0,0,0,0,-.6,0,0,0,0,0,0,0,0,-.6,0,0,-.6,0,0,0,-.6,0,0,0,0,0,0,0,0,-.6,0,0,0,0,0,-.6,0,0,0" class="s4_15">begin with requests to explain the meanings of the basic concepts of the section. (See, for </text>
+<text x="342" y="239" dx="0,0,0,0,0,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0,.4,0,-.4,0,.4,-.2,-.2,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,0,0,.4,0,0,0,0,.4,0,0,0,0,0,.4,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,-1,0,.4,0,0,0" class="s4_15">instance, the ±rst few exercises in Sections 2.2, 2.5, 11.2, 14.2, and 14.3.) Similarly, all </text>
+<text x="342" y="257" dx="0,0,0,0,.2,0,-.4,0,0,-.4,0,.2,0,0,0,0,0,0,0,0,.2,0,-.2,0,0,0,.2,0,0,0,0,.2,0,.2,0,0,0,0,0,0,0,.2,0,0,0,0,0,.2,0,0,0,.2,0,-.1,-.5,0,0,0,0,-.2,0,0,0,0,.2,0,0,0,0,0,.2,0,0,0,0,0,.2,-.2,-.2,0,0,0,0,0,0,0" class="s4_15">the review sections begin with a Concept Check and a True-False Quiz. Other exercises </text>
+<text x="342" y="276" dx="0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,-.2,0,0,-.2,0,0,0,0,0,0,-.2,0,0,0,0,-.2,0,-.2,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0" class="s4_15">test conceptual understanding through graphs or tables (see Exercises 2.7.17, 2.8.35–38, </text>
+<text x="342" y="294" dx="0,0,0,0,0,0,0,.3,0,0,0,-.7,0,0,0,0,0,0,0,0,0,0,-.7,0,0,0,0,0,0,.9,0,0,0,0,-.7,0,0,0,0,0,0,0,0,-.7,0,0,0,0,0,0,0,0,0,-.7,0,0,0,0,0,0,0,0,0,0,0,-.7,0,0,0,0,0,0,0,0,0,-.7,0,0,0,0,0,0,0,1.2,0,0,0" class="s4_15">2.8.47–52, 9.1.11–13, 10.1.24–27, 11.10.2, 13.2.1–2, 13.3.33–39, 14.1.1–2, 14.1.32–38, </text>
+<text x="342" y="312" dx="0,0,0,0,0,0,0,0,1.2,0,0,0,4.3,0,0,0,0,0,0,0,0,0,0,4.3,0,0,0,0,0,0,0,0,0,4.3,0,0,0,0,0,0,1.2,0,0,4.3,0,0,0,0,0,.6,0,0,0,4.3,0,0,0,0,0,0,0,0,0,0,0,4.3,0,0,0,0,0,0,0,0,0,0,0,4.3,0,0,0" class="s4_15">14.1.41–44, 14.3.3–10, 14.6.1–2, 14.7.3–4, 15.1.6–8, 16.1.11–18, 16.2.17–18, and </text>
+<text x="342" y="331" class="s4_15">16.3.1–2).</text>
+<text x="361" y="349" dx="0,0,0,0,0,0,0,0,2.3,0,0,0,0,2.3,0,0,2.3,-.2,-.2,0,0,0,0,0,0,2.3,0,0,0,0,2.3,-.2,0,0,0,0,0,2.3,0,0,0,0,0,0,0,0,0,0,0,2.3,0,0,2.3,0,0,0,0,2.3,0,0,0,0,0,0,0,0,0,0,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s4_15">Another type of exercise uses verbal description to test conceptual understanding </text>
+<text x="342" y="367" dx="0,0,0,0,0,.5,0,-.2,0,0,0,0,0,0,0,.5,0,0,0,0,0,0,0,.5,0,0,0,0,0,0,0,.5,0,0,0,0,0,0,0,0,0,0,.5,0,0,0,.5,0,0,0,0,0,0,0,0,.5,0,.5,0,0,0,0,0,0,0,0,0,0,0,0,.5,-.4,0,0,0,0,.5,0,0,0,0,0,0,0,0,.5,0,0,0,0" class="s4_15">(see Exercises 2.5.10, 2.8.66, 4.3.69–70, and 7.8.67). I particularly value problems that </text>
+<text x="342" y="386" dx="0,0,0,0,0,0,0,0,2.2,0,0,0,2.2,0,0,0,0,0,0,0,2.1,0,0,0,0,0,0,0,0,0,0,2.2,0,0,0,0,0,0,0,0,0,0,2.1,0,0,0,2.2,0,0,0,0,0,0,0,0,0,2.1,0,0,0,0,0,0,0,0,0,0,2.2,0,0,0,0,2.1,0,-.2,0,0,0,0,0,0,0" class="s4_15">combine and compare graphical, numerical, and algebraic approaches (see Exercises </text>
+<text x="342" y="404" dx="0,0,0,0,0,0,0,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s4_15">2.6.45–46, 3.7.27, and 9.4.4).</text>
+<path d="M344.3,429.1c0,0,-1.5,0,-1.5,1.5v9.2c0,0,0,1.5,1.5,1.5h9.2c0,0,1.5,0,1.5,-1.5v-9.2c0,0,0,-1.5,-1.5,-1.5Z" class="g0_15"/>
+<text x="362" y="441" dx="0,.1,-.1,-.1,0,.1,0,0,.3,-.3,0,-.1,-.1,-.1,0,0,0,0,.1,.1" class="s3_15">Graded Exercise Sets</text>
+<text x="342" y="464" dx="0,0,0,0,0,1,-.2,-.2,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-.2,-.2,0,0,0,0,0,0,0,1,0,0,0" class="s4_15">Each exercise set is carefully graded, progressing from basic conceptual exercises and </text>
+<text x="342" y="482" dx="0,0,0,0,0,0,0,0,-.4,-.2,0,0,0,0,0,0,0,0,1.8,0,0,0,0,0,0,0,0,1.8,0,0,1.8,0,0,0,0,1.8,0,0,0,0,0,0,0,0,0,0,0,1.8,0,0,0,0,0,0,0,0,1.8,0,-.6,-.3,0,0,0,0,0,0,1.8,0,0,0,0,0,0,0,0,0,0,0,0,1.8,0,0,0" class="s4_15">skill-development problems to more challenging problems involving applications and </text>
+<text x="342" y="500" class="s4_15">proofs.</text>
+<path d="M344.3,525.3c0,0,-1.5,0,-1.5,1.6V536c0,0,0,1.6,1.5,1.6h9.2c0,0,1.5,0,1.5,-1.6v-9.1c0,0,0,-1.6,-1.5,-1.6Z" class="g0_15"/>
+<text x="362" y="537" dx="0,0,0,-.1,.1,-.2,-.4,0,-.1,0,0,0,0,-.1,.1" class="s3_15">Real-World Data</text>
+<text x="342" y="560" class="s4_15">My assistants and I spent a great deal of time looking in libraries, contacting companies </text>
+<text x="342" y="578" dx="0,0,0,0,1.2,0,-.2,-.2,0,0,0,0,0,0,0,1.2,0,0,0,0,0,0,0,0,0,1.2,0,0,0,1.2,0,0,0,0,0,0,0,0,0,1.2,0,0,0,1.2,0,0,0,0,0,0,0,0,1.2,0,0,0,1.2,0,0,0,0,0,0,0,0,0,0,0,1.2,0,0,0,0,0,-.2,0,0,0,0,1.2,0,0,0,0,1.2,0,0" class="s4_15">and government agencies, and searching the Internet for interesting real-world data to </text>
+<text x="342" y="597" dx="0,0,0,0,0,0,0,0,0,0,0,2.2,0,0,0,-.4,-.4,0,0,0,0,2.2,0,0,0,2.2,0,0,0,0,0,0,0,0,0,0,2.2,0,0,0,2.2,0,0,0,0,0,0,0,0,2.2,0,0,2.2,0,0,0,0,0,0,0,0,0,1.3,0,0,2.2,0,2.2,0,0,0,0,0,0,0,2.2,0,0,-.2,0,2.2,0,0,2.2,0,0,0" class="s4_15">introduce, motivate, and illustrate the concepts of calculus. As a result, many of the </text>
+<text x="342" y="615" dx="0,-.2,0,0,0,0,0,0,0,1.1,0,0,0,1.1,-.2,-.2,0,0,0,0,0,0,0,1.1,0,0,0,0,1.1,0,0,0,0,1.1,0,0,0,0,0,0,0,0,0,1.1,0,0,0,0,0,0,1.1,0,0,1.1,0,0,0,0,1.1,0,0,0,0,0,0,0,0,0,1.1,0,0,0,0,1.1,0,0,1.1,0,0,0,0,0,0,0" class="s4_15">examples and exercises deal with functions de±ned by such numerical data or graphs. </text>
+<text x="342" y="633" dx="0,0,0,0,0,-.6,0,0,0,-.6,0,0,0,0,0,0,0,0,0,-.6,0,0,0,0,0,0,-.6,0,-.6,0,0,-.6,0,0,0,0,0,0,0,-.6,0,0,0,-.6,0,0,0,0,0,0,0,0,0,0,0,0,-.6,0,0,0,0,-.6,0,0,0,-.6,0,0,0,0,0,0,0,0,0,0,-.6,0,0,0,0,0,0,0,0,-.2,0,0,0" class="s4_15">See, for instance, Figure 1 in Section 1.1 (seismograms from the Northridge earthquake), </text>
+<text x="342" y="652" dx="0,0,-.2,0,0,0,0,0,0,2.2,0,0,0,0,0,0,2.2,0,0,0,0,0,0,0,-.2,0,0,0,0,0,2.2,0,0,0,0,0,0,0,2.2,0,-.2,0,0,0,0,0,0,2.2,0,0,0,0,0,0,2.2,0,-.2,0,0,0,0,0,0,0,2.2,0,0,2.2,0,0,0,2.2,0,0,0,0,0,2.2,0,0,0,0,0,0,0" class="s4_15">Exercise 2.8.35 (unemployment rates), Exercise 5.1.16 (velocity of the space shuttle </text>
+<text x="342" y="670" class="s5_15">Endeavour</text>
+<text x="409" y="670" dx="0,0,0,-.1,0,0,0,-.1,0,0,0,0,0,0,-.1,0,-.1,0,0,-.1,0,0,0,0,0,0,0,-.1,0,0,0,-.1,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,-.1,0,-.4,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0" class="s4_15">), and Figure 4 in Section 5.4 (San Francisco power consumption). Functions </text>
+<text x="342" y="688" dx="0,0,0,.2,0,-.2,0,.2,-.4,0,0,0,0,0,0,0,0,.2,0,0,0,.2,0,0,0,0,0,0,0,0,0,0,0,.2,0,0,.2,0,.2,0,0,0,0,0,.2,0,0,.2,-.4,0,0,0,0,0,.2,0,0,.2,0,0,0,.2,0,0,0,0,0,0,0,0,0,0,.2,0,0,0,-.2,0,.2,0,0,.2,0,.2,0,0,0,0,0,0,0,0" class="s4_15">of two variables are illustrated by a table of values of the wind-chill index as a function </text>
+<text x="342" y="707" dx="0,0,0,.8,0,0,0,.8,0,0,0,0,0,0,0,0,0,0,0,.8,0,0,0,.8,0,0,0,0,.8,0,0,0,0,0,.8,0,0,0,0,0,0,0,0,.8,0,0,0,0,0,0,0,0,.8,-.2,0,0,0,0,0,0,.8,0,0,0,-.4,-.4,0,0,-.4,-.2,0,0,.8,0,0,0,.8,0,0,0,0,0,0,0,0,0,0" class="s4_15">of air temperature and wind speed (Example 14.1.2). Partial derivatives are introduced </text>
+<text x="342" y="725" dx="0,0,0,.3,0,0,0,0,0,0,0,.3,0,0,0,0,.3,0,0,.3,-.2,0,0,0,0,0,0,0,0,.3,0,.3,0,0,0,0,0,0,.3,0,0,.3,0,.3,0,0,0,0,0,.3,0,0,.3,-.4,0,0,0,0,0,.3,0,0,.3,0,0,0,.3,0,0,0,0,.3,0,0,0,-.2,0,.3,0,0,0,0,0,0,-.4,-.2,0,0" class="s4_15">in Section 14.3 by examining a column in a table of values of the heat index (perceived </text>
+<text x="342" y="743" dx="0,0,0,0,.8,0,0,0,0,0,0,0,0,0,0,0,0,.8,0,0,.8,0,.8,0,0,0,0,0,0,0,0,.8,0,0,.8,0,0,0,.8,0,0,0,0,0,0,.8,0,0,0,0,0,0,0,0,0,0,0,.8,0,0,0,.8,0,0,0,.8,0,0,0,0,0,-.4,-.2,0,.8,0,0,0,0,0,0,0,-1,0,.5,0,0,0,0" class="s4_15">air temperature) as a function of the actual temperature and the relative humidity. This </text>
+<text x="342" y="762" dx="0,-.2,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,.4,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0" class="s4_15">example is pursued further in connection with linear approximations (Example 14.4.3). </text>
+<text x="342" y="780" dx="0,0,0,0,0,0,0,0,0,0,0,0,1.5,0,0,0,-.4,-.4,0,0,-.4,-.2,0,0,1.5,0,0,0,1.5,0,0,0,0,0,0,0,0,0,0,1.5,0,0,1.5,0,0,0,0,0,0,0,1.5,0,0,0,0,1.5,0,0,1.5,0,0,0,0,0,1.5,0,1.5,0,0,0,0,0,0,0,0,0,0,0,1.5,0,0,0,0,0,0,0" class="s4_15">Directional derivatives are introduced in Section 14.6 by using a temperature contour </text>
+<text x="342" y="798" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.7,-1.7,-.2,-.1,0,0,0" class="s4_15">map to estimate the rate of change of temperature at Reno in the direction of Las Vegas. </text>
+<text x="342" y="817" dx="0,0,0,0,0,0,0,1.6,0,0,0,-.2,0,0,0,0,0,1.6,0,0,0,1.6,0,0,0,0,1.6,0,0,1.6,0,0,0,0,0,0,0,0,1.6,0,0,0,1.6,-.3,-.2,0,0,0,0,0,1.6,0,0,-.4,0,-.2,0,0,0,1.6,0,0,1.6,0,0,0,0,0,0,0,0,1.6,0,0,1.6,0,0,0,0,0,0,0,0" class="s4_15">Double integrals are used to estimate the average snowfall in Colorado on December </text>
+<text x="342" y="835" dx="0,0,.9,0,0,0,0,-.7,0,0,0,0,-.7,0,0,0,0,0,0,0,0,-.7,0,0,0,0,0,0,0,0,-1.5,-1.7,0,0,0,0,0,-.7,0,0,0,0,0,-.7,0,0,0,-.7,0,0,0,0,0,0,0,0,0,0,-.7,0,0,-.7,0,0,0,0,0,0,0,-.7,0,0,0,0,-.7,0,0,-.7,0,0,0,0,0,0,0,0,0,0" class="s4_15">20–21, 2006 (Example 15.1.9). Vector ±elds are introduced in Section 16.1 by depictions </text>
+<text x="342" y="853" dx="0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s4_15">of actual velocity vector ±elds showing San Francisco Bay wind patterns.</text>
+<path d="M344.3,878.3c0,0,-1.5,0,-1.5,1.5V889c0,0,0,1.5,1.5,1.5h9.2c0,0,1.5,0,1.5,-1.5v-9.2c0,0,0,-1.5,-1.5,-1.5Z" class="g0_15"/>
+<text x="362" y="890" dx="0,-.2,0,-.2,-.1,.1,.3,.1" class="s3_15">Projects</text>
+<text x="342" y="913" dx="0,0,0,0,1.2,-.2,0,0,1.2,0,0,1.2,0,-.6,-.3,0,0,0,0,0,0,1.2,0,0,0,0,0,0,0,0,1.2,0,0,0,1.2,0,0,0,0,0,0,1.2,0,0,0,0,1.2,0,0,0,-.4,-.2,0,1.2,0,0,0,0,0,0,0,0,1.2,0,0,1.2,0,0,1.2,0,-.3,-.2,0,1.2,0,0,0,0,1.2,-.2,0,0,0" class="s4_15">One way of involving students and making them active learners is to have them work </text>
+<text x="342" y="931" dx="0,0,0,0,0,0,0,0,0,.8,0,0,.8,0,0,0,0,0,0,0,.8,0,0,.8,-.2,0,0,0,0,0,0,0,.8,0,0,0,0,0,0,0,0,.8,0,0,0,0,.8,0,-.4,-.2,0,.8,0,.8,0,0,0,0,0,0,0,.8,0,0,.8,0,0,0,0,0,0,0,0,0,0,0,.8,0,0,0,0,0,0,0,0,0,0" class="s4_15">(perhaps in groups) on extended projects that give a feeling of substantial accomplish-</text>
+<text x="342" y="950" dx="0,0,0,0,0,.6,0,0,0,0,.6,0,0,0,0,0,0,0,0,0,0,.6,0,.6,0,-.3,-.2,0,.6,0,0,0,0,0,0,0,0,.6,0,0,0,0,.6,0,0,0,0,0,.6,0,0,.6,0,0,0,0,0,0,0,0,0" class="s4_15">ment when completed. I have included four kinds of projects: </text>
+<text x="727" y="950" dx="0,0,0,0,0,0,0,0,.6,0,-.7,0,0,0,0,0" class="s5_15">Applied Projects</text>
+<text x="834" y="950" dx="0,0,-.6,-.3,0,0,-.2,0" class="s4_15">involve </text>
+<text x="342" y="968" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,.1,0,0,0,0,.1,0,0,0,.1,0,0,0,0,0,0,0,0,.1,0,0,.1,0,0,0,0,0,0,.1,0,0,.1,0,0,0,.1,0,0,0,0,0,0,0,0,0,0,0,.1,0,0,.1,0,0,0,0,0,0,0,0,0,-.2,0,0,0,.1,0,0,0,0,0,0,0,.1,0,0,0,0,0" class="s4_15">applications that are designed to appeal to the imagination of students. The project after </text>
+<text x="342" y="986" dx="0,0,0,0,0,0,0,0,-.4,0,0,0,-.4,0,0,0,0,-.4,0,0,0,0,0,0,0,-.4,0,-.4,0,0,0,0,-.4,0,0,0,-.4,0,0,-.4,0,0,-.2,0,0,0,-.4,0,0,-.2,0,0,-.4,0,0,0,0,0,0,-.4,0,0,-.4,0,0,0,0,0,-.4,0,0,0,-.4,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0" class="s4_15">Section 9.3 asks whether a ball thrown upward takes longer to reach its maximum height </text>
+<text x="342" y="1005" dx="0,0,0,.5,0,0,.5,-.2,0,0,0,.5,0,0,0,0,.5,0,0,.5,0,0,0,.5,0,0,0,0,0,0,0,0,.5,0,0,0,0,0,0,0,.5,0,0,0,0,.5,0,0,0,0,0,0,.5,0,0,0,0,0,.5,0,0,0,0,0,0,0,0,.5,0,0,0,0,0,.2,0,0,0,.5,0,0,0,0,0,0,0,.5,0,0,0,0,0" class="s4_15">or to fall back to its original height. (The answer might surprise you.) The project after </text>
+<text x="342" y="1023" dx="0,0,0,0,0,0,0,0,1.3,0,0,0,0,1.3,0,0,0,0,1.3,0,0,0,0,0,0,0,0,1.3,0,0,0,0,0,0,0,0,0,0,0,1.3,0,0,1.3,0,0,0,0,0,0,0,0,0,1.3,0,0,0,1.3,0,0,0,0,0,0,1.3,0,0,1.3,0,0,0,1.3,0,0,0,0,0,1.3,0,0,0,0,0,0,1.3,0,0" class="s4_15">Section 14.8 uses Lagrange multipliers to determine the masses of the three stages of </text>
+<text x="342" y="1041" dx="0,0,1.2,0,0,0,-.2,0,0,1.2,0,0,1.2,0,0,1.2,0,0,1.2,0,0,0,0,0,0,0,0,1.2,0,0,0,1.2,0,0,0,0,0,1.2,0,0,0,0,1.2,0,0,0,0,0,1.2,0,0,0,0,0,0,0,0,1.2,0,0,0,1.2,0,0,0,-.2,0,0,1.2,0,0,1.2,0,0,0,0,0,1.2,0,1.2,0,0,0,0,0,0,0" class="s4_15">a rocket so as to minimize the total mass while enabling the rocket to reach a desired </text>
+<text x="121" y="1076" class="s6_15">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="s6_15">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-SemiboldSemiCn_4e;
+	src: url("fonts/MyriadPro-SemiboldSemiCn_4e.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_6c;
+	src: url("fonts/TimesLTStd-Roman_6c.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

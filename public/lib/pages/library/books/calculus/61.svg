@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 61 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_61"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0_61"><path d="M471.6,167.4V129.1H749.1v38.3Z"/></clipPath>
+<clipPath id="c1_61"><path d="M424.6,1000.8V983.6H539.4v17.2Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_61{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_61{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_61{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s4_61{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s5_61{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s6_61{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s7_61{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.s8_61{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.s9_61{
+font-size: 15.28px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #231F20;
+}
+.sa_61{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sb_61{
+font-size: 9.17px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sc_61{
+font-size: 12.99px;
+font-family: ZapfDingbatsITC_my;
+fill: #EC008C;
+}
+.sd_61{
+font-size: 16.81px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.se_61{
+font-size: 9.17px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sf_61{
+font-size: 15.28px;
+font-family: TimesLTStd-Bold_oh;
+fill: #231F20;
+}
+.sg_61{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #CC017A;
+}
+.sh_61{
+font-size: 15.28px;
+font-family: TimesLTStd-BoldItalic_12r;
+fill: #231F20;
+}
+.si_61{
+font-size: 12.22px;
+font-family: TECHMath-Mix_16a;
+fill: #231F20;
+}
+.sj_61{
+font-size: 12.22px;
+font-family: TECHMath-Mix_13x;
+fill: #231F20;
+}
+.sk_61{
+font-size: 12.22px;
+font-family: TECHMath-Mix_164;
+fill: #231F20;
+}
+.sl_61{
+font-size: 12.99px;
+font-family: TECHMath-Mix_19t;
+fill: #231F20;
+}
+.sm_61{
+font-size: 12.22px;
+font-family: TECHMath-Mix_19t;
+fill: #231F20;
+}
+.sn_61{
+font-size: 24.44px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.so_61{
+font-size: 12.99px;
+font-family: TECHMath-Mix_19x;
+fill: #231F20;
+}
+.sp_61{
+font-size: 12.22px;
+font-family: TECHMath-Mix_19x;
+fill: #231F20;
+}
+.sq_61{
+font-size: 9.17px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sr_61{
+font-size: 7.33px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.ss_61{
+font-size: 14.51px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.st_61{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.su_61{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sv_61{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sw_61{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sx_61{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.sy_61{
+font-size: 8.25px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sz_61{
+font-size: 13.75px;
+font-family: TimesLTStd-Bold_oh;
+fill: #231F20;
+}
+.s10_61{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_61{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g1_61{
+fill: #CC017A;
+}
+.g2_61{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g3_61{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g4_61{
+fill: #231F20;
+}
+.g5_61{
+fill: none;
+stroke: #66C18C;
+stroke-width: 1.069;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g6_61{
+fill: none;
+stroke: #66C18C;
+stroke-width: 1.069;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g7_61{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.381;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g8_61{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g9_61{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.ga_61{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.gb_61{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.gc_61{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_61)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="440" y="64" dx="0,.2,.2,.5,.2,.2,.2" class="s1_61">SECTION</text>
+<text x="492" y="64" class="s2_61">1.2</text>
+<text x="522" y="64" dx="0,.2,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.2,.1,.1,.1,.1,.1,.1,.1,.1,.1,0,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,-.3,.1,.1,.3,.1,.1,.1,.1,.1" class="s3_61">Mathematical Models: A Catalog of Essential Functions </text>
+<text x="862" y="64" class="s4_61">29</text>
+<text x="342" y="107" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,-.2,0" class="s5_61">The quadratic formula gives</text>
+<text x="471" y="153" class="s6_61">t</text>
+<text x="480" y="153" class="s7_61">-</text>
+<text x="499" y="143" class="s8_61">2</text>
+<text x="512" y="143" class="s5_61">0.96</text>
+<text x="543" y="143" class="s8_61">6</text>
+<text x="561" y="143" class="s9_61">s</text>
+<text x="572" y="143" class="sa_61">s</text>
+<text x="577" y="143" class="s5_61">0.96</text>
+<text x="604" y="143" class="sa_61">d</text>
+<text x="609" y="138" class="sb_61">2</text>
+<text x="618" y="143" class="s8_61">2</text>
+<text x="636" y="143" class="s5_61">4</text>
+<text x="643" y="143" class="sa_61">s</text>
+<text x="648" y="143" class="s8_61">2</text>
+<text x="661" y="143" class="s5_61">4.90</text>
+<text x="688" y="143" dx="0,1.5" class="sa_61">ds</text>
+<text x="699" y="143" class="s5_61">449.36</text>
+<text x="741" y="143" class="sa_61">d</text>
+<g clip-path="url(#c0_61)">
+<path d="M572.9,129.5H747.2M498,148.9H749.5" class="g0_61"/>
+</g>
+<text x="594" y="164" class="s5_61">2</text>
+<text x="602" y="164" class="sa_61">s</text>
+<text x="607" y="164" class="s8_61">2</text>
+<text x="620" y="164" class="s5_61">4.90</text>
+<text x="646" y="164" class="sa_61">d</text>
+<text x="342" y="199" dx="0,0,0,0,0,0,0,0,0,0,-.4,-.2,0,0,0,0,0,0,0,0,0" class="s5_61">The positive root is </text>
+<text x="463" y="199" class="s6_61">t</text>
+<text x="472" y="199" class="sa_61">&lt;</text>
+<text x="489" y="199" class="s5_61">9.67, so we predict that the ball will hit the ground after about </text>
+<text x="342" y="217" class="s5_61">9.7 seconds. </text>
+<text x="868" y="217" class="sc_61">■</text>
+<path d="M343.8,253.1c0,0,-1.6,0,-1.6,1.6v9.1c0,0,0,1.6,1.6,1.6h9.1c0,0,1.6,0,1.6,-1.6v-9.1c0,0,0,-1.6,-1.6,-1.6Z" class="g1_61"/>
+<text x="362" y="265" dx="0,-.4,-.1,-.2,0,0,0,-.5,0,0,.3,0,0,0,0" class="sd_61">Power Functions</text>
+<text x="342" y="288" dx="0,0,-.1,0,0,0,0,0,0,0,0,-.1,0,0,-.1,0,0,0,-.1,0,0,0,0" class="s5_61">A function of the form </text>
+<text x="486" y="288" class="s6_61">f</text>
+<text x="492" y="288" class="sa_61">s</text>
+<text x="498" y="288" class="s6_61">x</text>
+<text x="505" y="288" class="sa_61">d</text>
+<text x="514" y="288" class="s7_61">-</text>
+<text x="532" y="288" class="s6_61">x</text>
+<text x="540" y="282" class="se_61">a</text>
+<text x="545" y="288" dx="0,0,-.1,0,0,0,0,0" class="s5_61">, where </text>
+<text x="593" y="288" class="s6_61">a</text>
+<text x="605" y="288" dx="0,0,0,-.1,0,-.1,0,0,0,0,0,0,0,0,0,-.1,0,0,-.1,0,0,0,0,0,0,-.1,0" class="s5_61">is a constant, is called a </text>
+<text x="752" y="288" dx="0,0,-.2,0,0,0,-.1,0,0,0,0,0,0,0" class="sf_61">power function</text>
+<text x="851" y="288" dx="0,0,-.5,-1.2,0" class="s5_61">. We </text>
+<text x="342" y="306" dx="0,.2,.2,.2,.2,.2,.2,.2,.2,.2,.2,-.2,-.1,.2,.2,.2,.2,.2,.2,.2,.2,.2,.2" class="s5_61">consider several cases.</text>
+<text x="342" y="332" dx="0,0,1.5" class="sg_61">(i)</text>
+<text x="365" y="332" class="sh_61">a</text>
+<text x="377" y="332" class="s7_61">-</text>
+<text x="394" y="332" class="sh_61">n</text>
+<text x="403" y="332" dx="0,0,0,0,0,0,-.3,0" class="sf_61">, where </text>
+<text x="454" y="332" class="sh_61">n</text>
+<text x="466" y="332" dx="0,0,0,0,0,0,0,0,0,0,0,-.2,-.2,0,0,0,0,0,0,0,0" class="sf_61">is a positive integer</text>
+<text x="342" y="358" dx="0,-.2,-.2,-.2,-.5,-.2,-.2,-.2,-.2,-.2,-.2,-.5,-.2,-.2" class="s5_61">The graphs of </text>
+<text x="430" y="358" class="s6_61">f</text>
+<text x="436" y="358" class="sa_61">s</text>
+<text x="442" y="358" class="s6_61">x</text>
+<text x="449" y="358" class="sa_61">d</text>
+<text x="458" y="358" class="s7_61">-</text>
+<text x="476" y="358" class="s6_61">x</text>
+<text x="484" y="352" class="se_61">n</text>
+<text x="492" y="358" dx="0,-.2,-.2,-.2" class="s5_61">for </text>
+<text x="512" y="358" class="s6_61">n</text>
+<text x="525" y="358" class="s7_61">-</text>
+<text x="542" y="358" dx="0,0,0,0,0,0,0,0,0,0,0,-.1,-.5,-.2,-.2,-.2,-.5,-.2,-.5,-.2,-.2,-.2,-.5,-.2,-.2,-.5,-.2,-.2,-.5,-.2,-.2,-.5,-.2,-.2,-.2,-.2,-.2,-.2,-.5,-.2,-.2,-.2,-.5,-.2,-.2,-.2,-.2,-.2,-.2,-.5,-.2,-.2,-.2,-.5,-.2,-.2,-.2,-.2" class="s5_61">1, 2, 3, 4, and 5 are shown in Figure 11. (These are poly-</text>
+<text x="342" y="376" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.5,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_61">nomials with only one term.) We already know the shape of the graphs of </text>
+<text x="794" y="376" class="s6_61">y</text>
+<text x="805" y="376" class="s7_61">-</text>
+<text x="822" y="376" class="s6_61">x</text>
+<text x="833" y="376" class="s5_61">(a line </text>
+<text x="342" y="395" dx="0,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2" class="s5_61">through the origin with slope 1) and </text>
+<text x="560" y="395" class="s6_61">y</text>
+<text x="572" y="395" class="s7_61">-</text>
+<text x="589" y="395" class="s6_61">x</text>
+<text x="597" y="389" class="sb_61">2</text>
+<text x="605" y="395" dx="0,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2" class="s5_61">[a parabola, see Example 1.1.2(b)].</text>
+<path d="M774.8,586.9c5.7,-36.7,1.3,-73.3,42.6,-73.3c40.7,0,36.9,-36.7,42.6,-73.4" class="g2_61"/>
+<path d="M762.2,513.6h110" class="g3_61"/>
+<path fill-rule="evenodd" d="M872.2,513.6l-1.6,-2.4l6.5,2.4l-6.5,2.5Z" class="g4_61"/>
+<text x="870" y="524" class="si_61">x</text>
+<path d="M817.2,587V440.3" class="g3_61"/>
+<path fill-rule="evenodd" d="M817.2,440.3l-2.5,1.6l2.5,-6.5l2.4,6.5Z" class="g4_61"/>
+<path d="M853.9,510.6v6.1" class="g3_61"/>
+<text x="806" y="480" class="sj_61">1</text>
+<path d="M814.1,477h6.1" class="g3_61"/>
+<text x="806" y="441" class="sk_61">y</text>
+<text x="851" y="529" class="sj_61">1</text>
+<text x="808" y="525" class="sk_61">0</text>
+<text x="847" y="433" dx="0,0,0,1" class="sl_61">y=x%</text>
+<path d="M448.2,586.7c7.4,-31.1,9.4,-73.3,45.6,-73.3c36.1,0,38.2,-42.2,45.6,-73.3" class="g2_61"/>
+<path d="M438.6,513.5h110" class="g3_61"/>
+<path fill-rule="evenodd" d="M548.6,513.5L547,511.1l6.5,2.4l-6.5,2.4Z" class="g4_61"/>
+<text x="547" y="524" class="sm_61">x</text>
+<path d="M493.6,586.8V440.2" class="g3_61"/>
+<path fill-rule="evenodd" d="M493.6,440.2l-2.4,1.6l2.4,-6.5l2.5,6.5Z" class="g4_61"/>
+<path d="M530.3,510.4v6.2" class="g3_61"/>
+<text x="482" y="480" class="sm_61">1</text>
+<path d="M490.6,476.8h6.1" class="g3_61"/>
+<text x="482" y="441" class="sm_61">y</text>
+<text x="527" y="529" class="sm_61">1</text>
+<text x="484" y="525" class="sm_61">0</text>
+<text x="526" y="433" dx="0,0,0,1.3" class="sl_61">y=x#</text>
+<path d="M278,440.1c9.7,27.3,25.8,73.3,51.6,73.3c25.7,0,41.8,-46,51.5,-73.3" class="g2_61"/>
+<path d="M274.4,513.5h110" class="g3_61"/>
+<path fill-rule="evenodd" d="M384.4,513.5l-1.6,-2.4l6.5,2.4l-6.5,2.4Z" class="g4_61"/>
+<text x="383" y="524" class="sm_61">x</text>
+<path d="M329.4,586.8V440.2" class="g3_61"/>
+<path fill-rule="evenodd" d="M329.4,440.2l-2.5,1.6l2.5,-6.5l2.4,6.5Z" class="g4_61"/>
+<path d="M366.1,510.4v6.2" class="g3_61"/>
+<text x="318" y="480" class="sm_61">1</text>
+<path d="M326.3,476.8h6.1" class="g3_61"/>
+<text x="318" y="441" class="sm_61">y</text>
+<text x="363" y="529" class="sm_61">1</text>
+<text x="320" y="525" class="sm_61">0</text>
+<text x="368" y="433" class="sl_61">y=≈</text>
+<path d="M114.9,568.4l110,-109.3" class="g2_61"/>
+<path d="M114.9,513.5h110" class="g3_61"/>
+<path fill-rule="evenodd" d="M224.9,513.5l-1.6,-2.4l6.5,2.4l-6.5,2.4Z" class="g4_61"/>
+<text x="223" y="524" class="sm_61">x</text>
+<path d="M169.9,586.8V440.2" class="g3_61"/>
+<path fill-rule="evenodd" d="M169.9,440.2l-2.4,1.6l2.4,-6.5l2.5,6.5Z" class="g4_61"/>
+<path d="M206.6,510.4v6.2" class="g3_61"/>
+<text x="158" y="481" class="sm_61">1</text>
+<path d="M166.9,476.8H173" class="g3_61"/>
+<text x="158" y="441" class="sm_61">y</text>
+<text x="204" y="531" class="sm_61">1</text>
+<text x="173" y="526" class="sm_61">0</text>
+<text x="211" y="451" class="sl_61">y=x</text>
+<path d="M611.6,440.1c8.3,43.7,8.7,73.5,44.2,73.3c35.6,.2,36,-29.6,44.2,-73.3" class="g2_61"/>
+<path d="M600.8,513.4h110" class="g3_61"/>
+<path fill-rule="evenodd" d="M710.8,513.4L709.2,511l6.5,2.4l-6.5,2.5Z" class="g4_61"/>
+<text x="709" y="524" class="sm_61">x</text>
+<path d="M655.8,586.8V440.1" class="g3_61"/>
+<path fill-rule="evenodd" d="M655.8,440.1l-2.4,1.6l2.4,-6.5l2.4,6.5Z" class="g4_61"/>
+<path d="M692.5,510.4v6.1" class="g3_61"/>
+<text x="644" y="480" class="sm_61">1</text>
+<path d="M652.7,476.8h6.2" class="g3_61"/>
+<text x="644" y="441" class="sm_61">y</text>
+<text x="690" y="529" class="sm_61">1</text>
+<text x="646" y="525" class="sm_61">0</text>
+<text x="686" y="433" dx="0,0,0,.6" class="sl_61">y=x$</text>
+<text x="360" y="644" class="s5_61">The general shape of the graph of </text>
+<text x="571" y="644" class="s6_61">f</text>
+<text x="578" y="644" class="sa_61">s</text>
+<text x="584" y="644" class="s6_61">x</text>
+<text x="591" y="644" class="sa_61">d</text>
+<text x="600" y="644" class="s7_61">-</text>
+<text x="618" y="644" class="s6_61">x</text>
+<text x="626" y="638" class="se_61">n</text>
+<text x="634" y="644" class="s5_61">depends on whether </text>
+<text x="760" y="644" class="s6_61">n</text>
+<text x="772" y="644" dx="0,0,0,0,-.4,-.2,0,0,0,0,0,0,0,0,0,0" class="s5_61">is even or odd. </text>
+<text x="342" y="663" class="s5_61">±f </text>
+<text x="356" y="663" class="s6_61">n</text>
+<text x="367" y="663" dx="0,0,0,0,-.4,-.2,0,0,0,0,0,0,0,0" class="s5_61">is even, then </text>
+<text x="449" y="663" class="s6_61">f</text>
+<text x="456" y="663" class="sa_61">s</text>
+<text x="462" y="663" class="s6_61">x</text>
+<text x="469" y="663" class="sa_61">d</text>
+<text x="478" y="663" class="s7_61">-</text>
+<text x="495" y="663" class="s6_61">x</text>
+<text x="504" y="656" class="se_61">n</text>
+<text x="512" y="663" dx="0,0,0,0,0,0,0,-.4,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_61">is an even function and its graph is similar to the parabola </text>
+<text x="342" y="681" class="s6_61">y</text>
+<text x="354" y="681" class="s7_61">-</text>
+<text x="371" y="681" class="s6_61">x</text>
+<text x="379" y="675" class="sb_61">2</text>
+<text x="384" y="681" class="s5_61">. ±f </text>
+<text x="405" y="681" class="s6_61">n</text>
+<text x="417" y="681" class="s5_61">is odd, then </text>
+<text x="494" y="681" class="s6_61">f</text>
+<text x="500" y="681" class="sa_61">s</text>
+<text x="506" y="681" class="s6_61">x</text>
+<text x="513" y="681" class="sa_61">d</text>
+<text x="523" y="681" class="s7_61">-</text>
+<text x="540" y="681" class="s6_61">x</text>
+<text x="548" y="675" class="se_61">n</text>
+<text x="556" y="681" class="s5_61">is an odd function and its graph is similar to that </text>
+<text x="342" y="699" class="s5_61">of </text>
+<text x="359" y="699" class="s6_61">y</text>
+<text x="370" y="699" class="s7_61">-</text>
+<text x="387" y="699" class="s6_61">x</text>
+<text x="396" y="693" class="sb_61">3</text>
+<text x="400" y="699" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,-.4,-.2,0,-.6,0,0,0,0,0,0,0,0,0" class="s5_61">. Notice from Figure 12, however, that as </text>
+<text x="655" y="699" class="s6_61">n</text>
+<text x="666" y="699" class="s5_61">increases, the graph of </text>
+<text x="808" y="699" class="s6_61">y</text>
+<text x="819" y="699" class="s7_61">-</text>
+<text x="836" y="699" class="s6_61">x</text>
+<text x="845" y="693" class="se_61">n</text>
+<text x="342" y="718" dx="0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_61">becomes ²atter near 0 and steeper when </text>
+<text transform="matrix(0.63,0,0,1,590,721)" class="sn_61">|</text>
+<text x="596" y="718" class="s6_61">x</text>
+<text transform="matrix(0.63,0,0,1,605,721)" class="sn_61">|</text>
+<text x="614" y="718" class="s8_61">&gt;</text>
+<text x="631" y="718" class="s5_61">1. (±f </text>
+<text x="666" y="718" class="s6_61">x</text>
+<text x="677" y="718" class="s5_61">is small, then </text>
+<text x="762" y="718" class="s6_61">x</text>
+<text x="770" y="711" class="sb_61">2</text>
+<text x="779" y="718" dx="0,0,0,0,0,0,0,0,0,0,-.6,0" class="s5_61">is smaller, </text>
+<text x="845" y="718" class="s6_61">x</text>
+<text x="853" y="711" class="sb_61">3</text>
+<text x="342" y="736" dx="0,0,0,0,-.4,-.2,0,0,0,0,0,0,0,0,0,-.6,0" class="s5_61">is even smaller, </text>
+<text x="440" y="736" class="s6_61">x</text>
+<text x="448" y="730" class="sb_61">4</text>
+<text x="457" y="736" class="s5_61">is smaller still, and so on.)</text>
+<path d="M537,791.1c-6.4,68.7,-11.4,118.4,-39.9,121.4c-2.5,.3,-9.9,1,-28.1,1" class="g5_61"/>
+<path d="M401,791.1c6.5,68.7,11.4,118.4,40,121.4c2.5,.3,9.8,1,28,1" class="g6_61"/>
+<path d="M548.1,779.9c3.8,5.4,5,16.5,-4.8,20.9" class="g7_61"/>
+<path d="M540.3,802.1l3.3,-3.2l-.3,1.9l1.6,1.1Z" class="g4_61"/>
+<text x="518" y="778" dx="0,0,0,1.3" class="so_61">y=x$</text>
+<text x="536" y="854" class="sp_61">(1, 1)</text>
+<text x="370" y="854" class="sp_61">(_1, 1)</text>
+<text x="480" y="810" dx="0,0,0,1.3" class="so_61">y=x^</text>
+<text x="559" y="829" class="so_61">y=≈</text>
+<path d="M556.1,822.7l-5.9,-8.2" class="g7_61"/>
+<path d="M548.2,811.8l3.9,2.6l-1.9,.1l-.8,1.8Z" class="g4_61"/>
+<path d="M515.2,807h15.7" class="g7_61"/>
+<path d="M534.2,807l-4.3,1.7l1,-1.7l-1,-1.6Z" class="g4_61"/>
+<path d="M757.4,851.9l-16.7,.2c-24.6,.2,-34.5,43,-39.1,83.7" class="g8_61"/>
+<path d="M757.4,851.9l16.8,-.1c26.2,-.2,35.8,-48.6,40,-91.5" class="g9_61"/>
+<text x="711" y="908" class="so_61">(_1, _1)</text>
+<text x="813" y="803" class="so_61">(1, 1)</text>
+<text x="458" y="927" class="sp_61">0</text>
+<text x="458" y="765" class="sp_61">y</text>
+<path fill-rule="evenodd" d="M469,764.8l-2.4,1.6l2.4,-6.5l2.5,6.5Z" class="g4_61"/>
+<text x="583" y="925" class="sp_61">x</text>
+<path fill-rule="evenodd" d="M585.1,913.5L583.5,911l6.5,2.5l-6.5,2.4Z" class="g4_61"/>
+<text x="852" y="863" class="so_61">x</text>
+<path fill-rule="evenodd" d="M853.8,851.9l-1.3,-2l5.4,2l-5.4,2.1Z" class="g4_61"/>
+<text x="746" y="765" class="so_61">y</text>
+<path fill-rule="evenodd" d="M757.4,764.3l-2,1.3l2,-5.4l2.1,5.4Z" class="g4_61"/>
+<text x="749" y="863" class="so_61">0</text>
+<path d="M396.7,791.1c8.6,55.1,18,121.3,57.4,122.1c0,0,11.7,.3,14.9,.3" class="g9_61"/>
+<path d="M541.4,791.1c-8.7,55.1,-18,121.3,-57.4,122.1c0,0,-11.8,.3,-15,.3" class="g8_61"/>
+<path d="M555.1,791.1C534.3,849.2,506.4,913.5,469,913.5" class="ga_61"/>
+<path d="M383,791.1c20.7,58.1,48.6,122.4,86,122.4" class="gb_61"/>
+<path d="M757.4,851.9c0,0,-6,.6,-9.1,.8c-27.8,2.2,-40.7,41.6,-49.8,83.2" class="ga_61"/>
+<path d="M757.4,851.9c0,0,6.1,-.5,9.2,-.7c29.5,-2.4,42.7,-46.6,52.1,-91" class="gb_61"/>
+<path d="M777.3,816L790,828.6" class="g7_61"/>
+<path d="M792.4,831l-4.3,-1.9l1.9,-.5l.4,-1.9Z" class="g4_61"/>
+<path d="M819.3,835.9H802.9" class="g7_61"/>
+<path d="M799.6,835.9l4.3,-1.7l-1,1.7l1,1.7Z" class="g4_61"/>
+<text x="764" y="814" dx="0,0,0,1.3" class="so_61">y=x#</text>
+<text x="822" y="838" dx="0,0,0,1.3" class="so_61">y=x%</text>
+<path d="M528.6,852.4c0,-.9,.7,-1.6,1.5,-1.6c.9,0,1.6,.7,1.6,1.6c0,.8,-.7,1.5,-1.6,1.5c-.8,0,-1.5,-.7,-1.5,-1.5Z" class="g4_61"/>
+<path d="M528.6,852.4c0,-.9,.7,-1.6,1.5,-1.6c.9,0,1.6,.7,1.6,1.6c0,.8,-.7,1.5,-1.6,1.5c-.8,0,-1.5,-.7,-1.5,-1.5Z" class="gc_61"/>
+<path d="M406.4,852.4c0,-.9,.7,-1.6,1.5,-1.6c.9,0,1.5,.7,1.5,1.6c0,.8,-.6,1.5,-1.5,1.5c-.8,0,-1.5,-.7,-1.5,-1.5Z" class="g4_61"/>
+<path d="M406.4,852.4c0,-.9,.7,-1.6,1.5,-1.6c.9,0,1.5,.7,1.5,1.6c0,.8,-.6,1.5,-1.5,1.5c-.8,0,-1.5,-.7,-1.5,-1.5Z" class="gc_61"/>
+<path d="M704.6,905.6c0,-.8,.7,-1.5,1.5,-1.5c.9,0,1.6,.7,1.6,1.5c0,.9,-.7,1.5,-1.6,1.5c-.8,0,-1.5,-.6,-1.5,-1.5Z" class="g4_61"/>
+<path d="M704.6,905.6c0,-.8,.7,-1.5,1.5,-1.5c.9,0,1.6,.7,1.6,1.5c0,.9,-.7,1.5,-1.6,1.5c-.8,0,-1.5,-.6,-1.5,-1.5Z" class="gc_61"/>
+<path d="M806.6,801.1c0,-.8,.7,-1.5,1.5,-1.5c.9,0,1.6,.7,1.6,1.5c0,.9,-.7,1.6,-1.6,1.6c-.8,0,-1.5,-.7,-1.5,-1.6Z" class="g4_61"/>
+<path d="M806.6,801.1c0,-.8,.7,-1.5,1.5,-1.5c.9,0,1.6,.7,1.6,1.5c0,.9,-.7,1.6,-1.6,1.6c-.8,0,-1.5,-.7,-1.5,-1.6Z" class="gc_61"/>
+<path d="M469,935.8v-171M361.9,913.5H585.1m83.4,-61.6H853.8m-96.4,83.9V764.3" class="g3_61"/>
+<text x="342" y="971" dx="0,0,1.5,.8" class="sg_61">(ii)</text>
+<text x="370" y="971" class="sh_61">a</text>
+<text x="382" y="971" class="s7_61">-</text>
+<text x="399" y="971" class="sf_61">1</text>
+<text x="407" y="971" class="sa_61">y</text>
+<text x="415" y="971" class="sh_61">n</text>
+<text x="423" y="971" dx="0,0,0,0,0,0,-.3,0" class="sf_61">, where </text>
+<text x="474" y="971" class="sh_61">n</text>
+<text x="486" y="971" dx="0,0,0,0,0,0,0,0,0,0,0,-.2,-.2,0,0,0,0,0,0,0,0" class="sf_61">is a positive integer</text>
+<text x="342" y="997" class="s5_61">The function </text>
+<text x="426" y="997" class="s6_61">f</text>
+<text x="434" y="997" class="sa_61">s</text>
+<text x="439" y="997" class="s6_61">x</text>
+<text x="446" y="997" class="sa_61">d</text>
+<text x="456" y="997" class="s7_61">-</text>
+<text x="473" y="997" class="s6_61">x</text>
+<text x="481" y="991" class="sb_61">1</text>
+<text x="486" y="991" class="sq_61">y</text>
+<text x="490" y="991" class="se_61">n</text>
+<text x="500" y="997" class="s7_61">-</text>
+<text x="517" y="998" class="s9_61">s</text>
+<text x="520" y="991" class="sr_61">n</text>
+<text x="528" y="997" class="s6_61">x</text>
+<g clip-path="url(#c1_61)">
+<path d="M529.1,984h10.6" class="g0_61"/>
+</g>
+<text x="543" y="997" class="s5_61">is a</text>
+<text x="567" y="997" dx="0,-.3,0,0,0,0,0,0,0,0,0,0,0" class="sf_61">root function</text>
+<text x="652" y="997" dx="0,0,0,-.2,0,0" class="s5_61">. For </text>
+<text x="685" y="997" class="s6_61">n</text>
+<text x="697" y="997" class="s7_61">-</text>
+<text x="714" y="997" class="s5_61">2 it is the square root </text>
+<text x="342" y="1015" class="s5_61">function </text>
+<text x="399" y="1015" class="s6_61">f</text>
+<text x="406" y="1015" class="sa_61">s</text>
+<text x="413" y="1015" class="s6_61">x</text>
+<text x="419" y="1015" class="sa_61">d</text>
+<text x="429" y="1015" class="s7_61">-</text>
+<text x="446" y="1016" class="s9_61">s</text>
+<text x="458" y="1015" class="s6_61">x</text>
+<path d="M458.5,1002.3h9.1" class="g0_61"/>
+<text x="469" y="1015" class="s5_61">, whose domain is </text>
+<text x="583" y="1015" class="sa_61">f</text>
+<text x="588" y="1015" class="s5_61">0,</text>
+<text x="603" y="1015" class="s8_61">`</text>
+<text x="613" y="1015" class="sa_61">d</text>
+<text x="622" y="1015" class="s5_61">and whose graph is the upper half of the </text>
+<text x="108" y="614" dx="0,.3,.3,.3,.3,.3,.1" class="ss_61">FIGURE </text>
+<text x="161" y="614" class="st_61">11 </text>
+<text x="185" y="614" class="su_61">Graphs of </text>
+<text x="245" y="614" class="sv_61">f</text>
+<text x="251" y="614" class="sw_61">s</text>
+<text x="257" y="614" class="sv_61">x</text>
+<text x="263" y="614" class="sw_61">d</text>
+<text x="271" y="614" class="sx_61">-</text>
+<text x="287" y="614" class="sv_61">x</text>
+<text x="295" y="609" class="sy_61">n</text>
+<text x="302" y="614" class="su_61">for </text>
+<text x="322" y="614" class="sv_61">n</text>
+<text x="333" y="614" class="sx_61">-</text>
+<text x="348" y="614" class="su_61">1, 2, 3, 4, 5</text>
+<text x="108" y="768" class="su_61">A </text>
+<text x="121" y="768" class="sz_61">family of functions</text>
+<text x="235" y="768" class="su_61">is a collection </text>
+<text x="108" y="785" class="su_61">of functions whose equations are </text>
+<text x="108" y="802" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,-.1,0,0,-.1,0,0,0,0,0,0,0" class="su_61">related. Figure 12 shows two families </text>
+<text x="108" y="818" dx="0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0" class="su_61">of power functions, one with even </text>
+<text x="108" y="835" dx="0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0" class="su_61">powers and one with odd powers.</text>
+<text x="259" y="935" dx="0,.3,.3,.3,.3,.3,.1" class="ss_61">FIGURE </text>
+<text x="311" y="935" class="st_61">12 </text>
+<text x="121" y="1076" class="s10_61">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="s10_61">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: BeaconDingbatsTypeOne_12w;
+	src: url("fonts/BeaconDingbatsTypeOne_12w.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_13x;
+	src: url("fonts/TECHMath-Mix_13x.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_164;
+	src: url("fonts/TECHMath-Mix_164.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_16a;
+	src: url("fonts/TECHMath-Mix_16a.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_19t;
+	src: url("fonts/TECHMath-Mix_19t.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_19x;
+	src: url("fonts/TECHMath-Mix_19x.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-BoldItalic_12r;
+	src: url("fonts/TimesLTStd-BoldItalic_12r.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Bold_oh;
+	src: url("fonts/TimesLTStd-Bold_oh.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+@font-face {
+	font-family: ZapfDingbatsITC_my;
+	src: url("fonts/ZapfDingbatsITC_my.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

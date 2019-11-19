@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 91 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_91"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0_91"><path d="M559.3,468.1V450.9h111v17.2Z"/></clipPath>
+<clipPath id="c1_91"><path d="M570.1,513.9V496.7h91.7v17.2Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_91{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_91{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_91{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s4_91{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s5_91{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s6_91{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s7_91{
+font-size: 9.17px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.s8_91{
+font-size: 9.17px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s9_91{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sa_91{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.sb_91{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.sc_91{
+font-size: 12.22px;
+font-family: TECHMath-Mix_16e;
+fill: #231F20;
+}
+.sd_91{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1ic;
+fill: #231F20;
+}
+.se_91{
+font-size: 12.22px;
+font-family: TECHMath-Mix_12-;
+fill: #231F20;
+}
+.sf_91{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1jh;
+fill: #231F20;
+}
+.sg_91{
+font-size: 12.99px;
+font-family: TECHMath-Mix_1jh;
+fill: #231F20;
+}
+.sh_91{
+font-size: 14.51px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.si_91{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sj_91{
+font-size: 9.17px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.sk_91{
+font-size: 16.81px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.sl_91{
+font-size: 17.57px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.sm_91{
+font-size: 15.28px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #231F20;
+}
+.sn_91{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.so_91{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #EC008C;
+}
+.sp_91{
+font-size: 12.99px;
+font-family: ZapfDingbatsITC_my;
+fill: #EC008C;
+}
+.sq_91{
+font-size: 16.81px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.sr_91{
+font-size: 9.17px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.ss_91{
+font-size: 15.28px;
+font-family: TimesLTStd-Bold_oh;
+fill: #231F20;
+}
+.st_91{
+font-size: 15.28px;
+font-family: TimesLTStd-BoldItalic_12r;
+fill: #231F20;
+}
+.su_91{
+font-size: 15.28px;
+font-family: UniversalChemicalPi-T_-_;
+fill: #231F20;
+}
+.sv_91{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #00AEEF;
+}
+.sw_91{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-4_v8;
+fill: #231F20;
+}
+.sx_91{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-6_13j;
+fill: #231F20;
+}
+.sy_91{
+font-size: 5.50px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sz_91{
+font-size: 12.99px;
+font-family: TECHMath-Mix_1jl;
+fill: #231F20;
+}
+.s10_91{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1jl;
+fill: #231F20;
+}
+.s11_91{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_91{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g1_91{
+fill: none;
+stroke: #66C18C;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g2_91{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g3_91{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g4_91{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g5_91{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.458;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g6_91{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.534;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g7_91{
+fill: #00AEEF;
+}
+.g8_91{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g9_91{
+fill: #231F20;
+}
+.ga_91{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+stroke-dasharray: 10,4;
+}
+.gb_91{
+fill: #FFFFFF;
+}
+.gc_91{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.gd_91{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.ge_91{
+fill: #CC017A;
+}
+.gf_91{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 1.145;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.gg_91{
+fill: #EC008C;
+}
+.gh_91{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_91)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="547" y="64" dx="0,.2,.2,.5,.2,.2,.2" class="s1_91">SECTION</text>
+<text x="599" y="64" class="s2_91">1.5</text>
+<text x="629" y="64" dx="0,.2,0,0,.1,.1,.1,.1,.1,-.3,.1,.1,.3,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,0,.1,.1,.1,.2,.1,.1,.1,.1,.1" class="s3_91">Inverse Functions and Logarithms </text>
+<text x="862" y="64" class="s4_91">59</text>
+<text x="342" y="109" dx="0,0,0,0,0,0,.6,0,0" class="s5_91">graph of </text>
+<text x="400" y="109" class="s6_91">f</text>
+<text x="408" y="103" class="s7_91">2</text>
+<text x="415" y="103" class="s8_91">1</text>
+<text x="420" y="109" dx="0,0,.6,0,0,0,.6,0,0,.6,0,0,0,.6,0,0,0,.6,0,0,0,0,0" class="s5_91">. But we get the point </text>
+<text x="559" y="109" class="s9_91">s</text>
+<text x="564" y="109" class="s6_91">b</text>
+<text x="571" y="109" class="s5_91">, </text>
+<text x="579" y="109" class="s6_91">a</text>
+<text x="587" y="109" class="s9_91">d</text>
+<text x="596" y="109" class="s5_91">from </text>
+<text x="630" y="109" class="s9_91">s</text>
+<text x="635" y="109" class="s6_91">a</text>
+<text x="643" y="109" class="s5_91">, </text>
+<text x="651" y="109" class="s6_91">b</text>
+<text x="658" y="109" class="s9_91">d</text>
+<text x="668" y="109" dx="0,0,0,.6,0,0,0,0,0,0,0,0,0,.6,0,0,0,0,0,.6,0,0,0,.6,0,0,0,0" class="sa_91">by re²ecting about the line </text>
+<text x="839" y="109" class="s6_91">y</text>
+<text x="850" y="109" class="sb_91">-</text>
+<text x="867" y="109" class="s6_91">x</text>
+<text x="874" y="109" class="sa_91">. </text>
+<text x="342" y="128" class="sa_91">(See Figure 8.)</text>
+<path d="M532.9,208.3L489.3,164.7" class="g0_91"/>
+<path d="M545.1,152L396,301" class="g1_91"/>
+<path d="M520.2,200.2l4.6,-4.6m-2.7,6.4l4.6,-4.6M496.2,176.2l4.6,-4.6m-2.7,6.4l4.5,-4.6" class="g2_91"/>
+<path d="M826.9,154.3L680,301.2" class="g1_91"/>
+<path d="M736.3,276c28.1,0,52.8,-10,63.3,-43.3c3,-9.4,7.5,-24,32.5,-37.7" class="g3_91"/>
+<path d="M705.4,245c0,-28,10,-52.7,43.2,-63.2c9.5,-3,24.1,-7.6,37.7,-32.6" class="g0_91"/>
+<path d="M384.5,235H562.3m-99.9,66.3V150.8" class="g4_91"/>
+<path d="M507,190.1l3.9,3.9l3.9,-3.9" class="g5_91"/>
+<path d="M467.6,164.7v5.2h-5.2m70.4,60h-5.2v5.2" class="g6_91"/>
+<path d="M668.5,235H832.1m-85.7,66.2V150.8" class="g4_91"/>
+<path d="M531,208.3c0,-1,.7,-1.7,1.7,-1.7c.9,0,1.7,.7,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.7,-.7,-1.7,-1.7Z" class="g7_91"/>
+<path d="M531,208.3c0,-1,.7,-1.7,1.7,-1.7c.9,0,1.7,.7,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.7,-.7,-1.7,-1.7Z" class="g8_91"/>
+<path d="M487.6,164.7c0,-.9,.8,-1.7,1.7,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-.9,0,-1.7,-.7,-1.7,-1.7Z" class="g7_91"/>
+<path d="M487.6,164.7c0,-.9,.8,-1.7,1.7,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-.9,0,-1.7,-.7,-1.7,-1.7Z" class="g8_91"/>
+<path fill-rule="evenodd" d="M561.4,234.8l-1.6,-2.5l6.5,2.5l-6.5,2.4Z" class="g9_91"/>
+<path fill-rule="evenodd" d="M462.4,151.5l-2.4,1.7l2.4,-6.5l2.4,6.5Z" class="g9_91"/>
+<text x="452" y="231" class="sc_91">0</text>
+<text x="451" y="152" class="sd_91">y</text>
+<text x="559" y="247" class="se_91">x</text>
+<text x="477" y="157" class="sf_91">(b, a)</text>
+<text x="539" y="212" class="sf_91">(a, b)</text>
+<text x="394" y="271" class="sg_91">y=x</text>
+<path fill-rule="evenodd" d="M831.4,235l-1.7,-2.5l6.5,2.5l-6.5,2.4Z" class="g9_91"/>
+<path fill-rule="evenodd" d="M746.3,151.3l-2.4,1.7l2.4,-6.6l2.4,6.6Z" class="g9_91"/>
+<text x="736" y="231" class="sf_91">0</text>
+<text x="735" y="152" class="sf_91">y</text>
+<text x="829" y="245" class="sf_91">x</text>
+<text x="704" y="195" dx="0,0,-.8,0" class="sg_91">f –!</text>
+<text x="676" y="271" class="sg_91">y=x</text>
+<text x="787" y="270" class="sg_91">f</text>
+<path d="M532.8,235.1V208.2l-70.4,26.9m0,-70.4h26.9l-26.9,70.4" class="ga_91"/>
+<text x="383" y="324" dx="0,.3,.3,.3,.3,.3,.1" class="sh_91">FIGURE </text>
+<text x="435" y="324" class="si_91">8 </text>
+<text x="667" y="324" dx="0,.3,.3,.3,.3,.3" class="sh_91">FIGURE</text>
+<text x="720" y="324" class="si_91">9</text>
+<text x="360" y="351" class="sa_91">Therefore, as illustrated by Figure 9:</text>
+<path d="M345.7,370.6c0,0,-3.1,0,-3.1,3.1v48.1c0,0,0,3.1,3.1,3.1H875.1c0,0,3,0,3,-3.1V373.7c0,0,0,-3.1,-3,-3.1Z" class="gb_91"/>
+<text x="356" y="402" class="sa_91">The graph of </text>
+<text x="441" y="402" class="s6_91">f</text>
+<text x="448" y="396" class="s7_91">2</text>
+<text x="456" y="396" class="sj_91">1</text>
+<text x="465" y="402" class="sa_91">is obtained by re²ecting the graph of </text>
+<text x="695" y="402" class="s6_91">f</text>
+<text x="706" y="402" class="sa_91">about the line </text>
+<text x="793" y="402" class="s6_91">y</text>
+<text x="805" y="402" class="sb_91">-</text>
+<text x="822" y="402" class="s6_91">x</text>
+<text x="829" y="402" class="sa_91">.</text>
+<path d="M345.7,370.6c0,0,-3.1,0,-3.1,3.1v48.1c0,0,0,3.1,3.1,3.1H875.1c0,0,3,0,3,-3.1V373.7c0,0,0,-3.1,-3,-3.1H345.7Z" class="gc_91"/>
+<text x="342" y="464" dx="0,.3,.3,.3,.3,.3,.3,.2" class="sk_91">EXAMPLE </text>
+<text x="413" y="464" class="sl_91">5</text>
+<text x="430" y="464" dx="0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sa_91">Sketch the graphs of </text>
+<text x="561" y="464" class="s6_91">f</text>
+<text x="568" y="464" class="s9_91">s</text>
+<text x="573" y="464" class="s6_91">x</text>
+<text x="580" y="464" class="s9_91">d</text>
+<text x="590" y="464" class="sb_91">-</text>
+<text x="607" y="465" class="sm_91">s</text>
+<text x="619" y="464" class="sn_91">2</text>
+<text x="631" y="464" class="sa_91">1</text>
+<text x="644" y="464" class="sn_91">2</text>
+<text x="661" y="464" class="s6_91">x</text>
+<g clip-path="url(#c0_91)">
+<path d="M619.3,451.3h51.4" class="gd_91"/>
+</g>
+<text x="674" y="464" dx="0,0,0,0,0,0,0,0,0,0,-.6,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sa_91">and its inverse function using the </text>
+<text x="342" y="483" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0" class="sa_91">same coordinate axes.</text>
+<text x="342" y="510" dx="0,.3,.3,.3,.3,.3,.3,.3,.1" class="so_91">SOLUTION </text>
+<text x="413" y="510" dx="0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0" class="sa_91">First we sketch the curve </text>
+<text x="570" y="510" class="s6_91">y</text>
+<text x="581" y="510" class="sb_91">-</text>
+<text x="599" y="511" class="sm_91">s</text>
+<text x="610" y="510" class="sn_91">2</text>
+<text x="623" y="510" class="sa_91">1</text>
+<text x="635" y="510" class="sn_91">2</text>
+<text x="652" y="510" class="s6_91">x</text>
+<g clip-path="url(#c1_91)">
+<path d="M610.9,497.1h51.3" class="gd_91"/>
+</g>
+<text x="665" y="510" class="sa_91">(the top half of the parabola </text>
+<text x="342" y="529" class="s6_91">y</text>
+<text x="351" y="523" class="sj_91">2</text>
+<text x="360" y="529" class="sb_91">-</text>
+<text x="377" y="529" class="sn_91">2</text>
+<text x="390" y="529" class="sa_91">1</text>
+<text x="402" y="529" class="sn_91">2</text>
+<text x="419" y="529" class="s6_91">x</text>
+<text x="426" y="529" class="sa_91">, or </text>
+<text x="451" y="529" class="s6_91">x</text>
+<text x="462" y="529" class="sb_91">-</text>
+<text x="479" y="529" class="sn_91">2</text>
+<text x="492" y="529" class="s6_91">y</text>
+<text x="500" y="523" class="sj_91">2</text>
+<text x="509" y="529" class="sn_91">2</text>
+<text x="527" y="529" class="sa_91">1) and then we re²ect about the line </text>
+<text x="750" y="529" class="s6_91">y</text>
+<text x="762" y="529" class="sb_91">-</text>
+<text x="779" y="529" class="s6_91">x</text>
+<text x="790" y="529" class="sa_91">to get the </text>
+<text x="342" y="547" class="sa_91">graph of </text>
+<text x="399" y="547" class="s6_91">f</text>
+<text x="406" y="541" class="s7_91">2</text>
+<text x="414" y="541" class="sj_91">1</text>
+<text x="419" y="547" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sa_91">. (See Figure 10.) As a check on our graph, notice that the expression for </text>
+<text x="344" y="565" class="s6_91">f</text>
+<text x="351" y="559" class="s7_91">2</text>
+<text x="359" y="559" class="sj_91">1</text>
+<text x="367" y="565" class="sa_91">is </text>
+<text x="384" y="565" class="s6_91">f</text>
+<text x="391" y="559" class="s7_91">2</text>
+<text x="398" y="559" class="sj_91">1</text>
+<text x="403" y="565" class="s9_91">s</text>
+<text x="409" y="565" class="s6_91">x</text>
+<text x="416" y="565" class="s9_91">d</text>
+<text x="425" y="565" class="sb_91">-</text>
+<text x="443" y="565" class="sn_91">2</text>
+<text x="455" y="565" class="s6_91">x</text>
+<text x="464" y="559" class="sj_91">2</text>
+<text x="473" y="565" class="sn_91">2</text>
+<text x="490" y="565" class="sa_91">1, </text>
+<text x="505" y="565" class="s6_91">x</text>
+<text x="517" y="565" class="sn_91">&gt;</text>
+<text x="534" y="565" class="sa_91">0. So the graph of </text>
+<text x="649" y="565" class="s6_91">f</text>
+<text x="656" y="559" class="s7_91">2</text>
+<text x="664" y="559" class="sj_91">1</text>
+<text x="672" y="565" class="sa_91">is the right half of the parabola </text>
+<text x="342" y="584" class="s6_91">y</text>
+<text x="354" y="584" class="sb_91">-</text>
+<text x="371" y="584" class="sn_91">2</text>
+<text x="384" y="584" class="s6_91">x</text>
+<text x="392" y="578" class="sj_91">2</text>
+<text x="401" y="584" class="sn_91">2</text>
+<text x="418" y="584" class="sa_91">1 and this seems reasonable from Figure 10. </text>
+<text x="868" y="584" class="sp_91">■</text>
+<path d="M343.8,623.9c0,0,-1.6,0,-1.6,1.5v9.1c0,0,0,1.6,1.6,1.6h9.1c0,0,1.6,0,1.6,-1.6v-9.1c0,0,0,-1.5,-1.6,-1.5Z" class="ge_91"/>
+<text x="362" y="636" dx="0,-.2,0,0,0,0,0,0,0,0,0,0,0,-.5,0,0,.3,0,0,0,0" class="sq_91">Logarithmic Functions</text>
+<text x="342" y="658" class="sa_91">If </text>
+<text x="355" y="658" class="s6_91">b</text>
+<text x="367" y="658" class="sn_91">.</text>
+<text x="385" y="658" dx="0,0,-.7,0,0,0" class="sa_91">0 and </text>
+<text x="421" y="658" class="s6_91">b</text>
+<text x="433" y="658" class="sb_91">±</text>
+<text x="450" y="658" dx="0,0,0,-.7,0,0,0,-.7,-.2,0,0,0,0,0,0,0,0,0,0,-.7,0,0,0,0,0,0,0,0" class="sa_91">1, the exponential function </text>
+<text x="617" y="658" class="s6_91">f</text>
+<text x="624" y="658" class="s9_91">s</text>
+<text x="629" y="658" class="s6_91">x</text>
+<text x="636" y="658" class="s9_91">d</text>
+<text x="646" y="658" class="sb_91">-</text>
+<text x="663" y="658" class="s6_91">b</text>
+<text x="672" y="652" class="sr_91">x</text>
+<text x="680" y="658" dx="0,0,0,-.7,0,0,0,0,0,0,-.7,0,0,0,0,0,0,0,0,0,0,-.7,0,0,-.7,0,0,0,0,0,0,0,0,0,0" class="sa_91">is either increasing or decreasing </text>
+<text x="342" y="677" dx="0,0,0,0,.6,0,0,.6,0,0,.6,0,0,.6,0,0,0,0,0,0,0,0,0,0,.6,0,0,.6,0,0,0,.6,0,0,0,0,0,0,0,0,0,0,.6,0,0,0,0,.3,-1.1,0,0,0,0,.6,0,0,.6,0,0,0,0,0,0,0,0,0,.6,0,0,0,.6,0,0,.6,0,-.6,-.2,0,0,0,0,.6,0,0,0,0,0,0,0,0" class="sa_91">and so it is one-to-one by the Horizontal Line Test. It therefore has an inverse function </text>
+<text x="344" y="695" class="s6_91">f</text>
+<text x="351" y="689" class="s7_91">2</text>
+<text x="359" y="689" class="sj_91">1</text>
+<text x="363" y="695" dx="0,0,-.1,0,0,0,0,0,-.1,0,0,-.1,0,0,0,0,0,0,-.1,0,0,0" class="sa_91">, which is called the </text>
+<text x="489" y="695" dx="0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,-.1,0,0,0,0,-.1,0,0,0,0" class="ss_91">logarithmic function with base </text>
+<text x="692" y="695" class="st_91">b</text>
+<text x="703" y="695" dx="0,0,0,0,-.1,0,0,-.1,0,0,0,0,0,0,0,-.1,0,0,-.1,0,0" class="sa_91">and is denoted by log</text>
+<text x="834" y="697" class="sr_91">b</text>
+<text x="839" y="695" dx="0,0,-.1,0,0,-.1,0,0" class="sa_91">. If we </text>
+<text x="342" y="713" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.6,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,-.2,0,0,0,0,0,0,0,0,0" class="sa_91">use the formulation of an inverse function given by (3),</text>
+<text x="521" y="746" class="s6_91">f</text>
+<text x="528" y="739" class="s7_91">2</text>
+<text x="536" y="739" class="sj_91">1</text>
+<text x="541" y="746" class="s9_91">s</text>
+<text x="546" y="746" class="s6_91">x</text>
+<text x="553" y="746" class="s9_91">d</text>
+<text x="563" y="746" class="sb_91">-</text>
+<text x="580" y="746" class="s6_91">y</text>
+<text x="602" y="746" dx="0,-3.1" class="su_91">&amp;?</text>
+<text x="647" y="746" class="s6_91">f</text>
+<text x="654" y="746" class="s9_91">s</text>
+<text x="660" y="746" class="s6_91">y</text>
+<text x="667" y="746" class="s9_91">d</text>
+<text x="677" y="746" class="sb_91">-</text>
+<text x="694" y="746" class="s6_91">x</text>
+<text x="342" y="773" dx="0,0,0,0,0,0,0,0,0,0,-.3,-.2,0" class="sa_91">then we have </text>
+<text x="365" y="822" class="sv_91">6</text>
+<path d="M362.7,808.5c0,0,-1.6,0,-1.6,1.5v14.2c0,0,0,1.5,1.6,1.5h14.1c0,0,1.5,0,1.5,-1.5V810c0,0,0,-1.5,-1.5,-1.5H362.7Z" class="gf_91"/>
+<text x="525" y="821" class="sa_91">log</text>
+<text x="545" y="823" class="sr_91">b</text>
+<text x="553" y="821" class="s6_91">x</text>
+<text x="564" y="821" class="sb_91">-</text>
+<text x="582" y="821" class="s6_91">y</text>
+<text x="604" y="821" dx="0,-3.1" class="su_91">&amp;?</text>
+<text x="646" y="821" class="s6_91">b</text>
+<text x="655" y="815" class="sr_91">y</text>
+<text x="664" y="821" class="sb_91">-</text>
+<text x="681" y="821" class="s6_91">x</text>
+<path d="M473,789.2c0,0,-3,0,-3,3.1v48.1c0,0,0,3.1,3,3.1H742.1c0,0,3.1,0,3.1,-3.1V792.3c0,0,0,-3.1,-3.1,-3.1H473Z" class="gc_91"/>
+<text x="342" y="872" dx="0,0,0,0,0,0,.4,0,0" class="sa_91">Thus, if </text>
+<text x="394" y="872" class="s6_91">x</text>
+<text x="406" y="872" class="sn_91">.</text>
+<text x="423" y="872" dx="0,0,0,.4,0,0,0,0,.4,0,0" class="sa_91">0, then log</text>
+<text x="489" y="874" class="sr_91">b</text>
+<text x="496" y="872" class="s6_91">x</text>
+<text x="507" y="872" dx="0,0,0,.4,0,0,0,.4,-.2,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0" class="sa_91">is the exponent to which the base </text>
+<text x="716" y="872" class="s6_91">b</text>
+<text x="728" y="872" dx="0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,.4,0,0,.4,0,-.4,-.2,0" class="sa_91">must be raised to give </text>
+<text x="867" y="872" class="s6_91">x</text>
+<text x="874" y="872" class="sa_91">. </text>
+<text x="342" y="891" dx="0,-.2,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0" class="sa_91">For example, log</text>
+<text x="445" y="892" class="sj_91">10</text>
+<text x="457" y="891" class="sa_91">0.001</text>
+<text x="496" y="891" class="sb_91">-</text>
+<text x="514" y="891" class="sn_91">2</text>
+<text x="526" y="891" class="sa_91">3 because 10</text>
+<text x="605" y="885" class="s7_91">2</text>
+<text x="613" y="885" class="sj_91">3</text>
+<text x="622" y="891" class="sb_91">-</text>
+<text x="639" y="891" class="sa_91">0.001.</text>
+<text x="360" y="909" dx="0,.2,.2,.2,4.5,.2,.2,.2,.2,.2,.2,.2,.2,.2,.2,.2,.2,4.5,.2,.2,.2,.2,.2,.2,.2,.2,.2,4.5,0,0,0,.2,4.5,.2,.2,.2,.2,4.5,.2,.2,.2,.2,.2,.2,.2,4.5,.2,.2,4.5,.2,.2,.2,4.5,.2,.2,.2,.2,.2,.2,.2,.2,.2" class="sa_91">The cancellation equations (4), when applied to the functions </text>
+<text x="788" y="909" class="s6_91">f</text>
+<text x="794" y="909" class="s9_91">s</text>
+<text x="800" y="909" class="s6_91">x</text>
+<text x="807" y="909" class="s9_91">d</text>
+<text x="817" y="909" class="sb_91">-</text>
+<text x="834" y="909" class="s6_91">b</text>
+<text x="843" y="903" class="sr_91">x</text>
+<text x="856" y="909" dx="0,.2,.2,0" class="sa_91">and </text>
+<text x="344" y="927" class="s6_91">f</text>
+<text x="351" y="921" class="s7_91">2</text>
+<text x="359" y="921" class="sj_91">1</text>
+<text x="363" y="927" class="s9_91">s</text>
+<text x="369" y="927" class="s6_91">x</text>
+<text x="376" y="927" class="s9_91">d</text>
+<text x="386" y="927" class="sb_91">-</text>
+<text x="403" y="927" class="sa_91">log</text>
+<text x="423" y="929" class="sr_91">b</text>
+<text x="431" y="927" class="s6_91">x</text>
+<text x="438" y="927" dx="0,.2,.2,.2,.2,.2,.2,.2" class="sa_91">, become</text>
+<text x="365" y="996" class="sv_91">7</text>
+<path d="M362.7,982.7c0,0,-1.6,0,-1.6,1.5v14.1c0,0,0,1.6,1.6,1.6h14.1c0,0,1.5,0,1.5,-1.6V984.2c0,0,0,-1.5,-1.5,-1.5H362.7Z" class="gf_91"/>
+<text x="510" y="979" class="sa_91">log</text>
+<text x="530" y="981" class="sr_91">b</text>
+<text x="536" y="979" class="s9_91">s</text>
+<text x="541" y="979" class="s6_91">b</text>
+<text x="550" y="973" class="sr_91">x</text>
+<text x="555" y="979" class="s9_91">d</text>
+<text x="565" y="979" class="sb_91">-</text>
+<text x="582" y="979" class="s6_91">x</text>
+<text x="604" y="979" class="sa_91">for every </text>
+<text x="664" y="979" class="s6_91">x</text>
+<text x="675" y="979" class="sw_91">[</text>
+<text x="692" y="979" class="sx_91">R</text>
+<text x="530" y="1007" class="s6_91">b</text>
+<text x="539" y="1000" class="sj_91">log</text>
+<text x="551" y="1001" class="sy_91">b</text>
+<text x="556" y="1000" class="sr_91">x</text>
+<text x="565" y="1007" class="sb_91">-</text>
+<text x="582" y="1007" class="s6_91">x</text>
+<text x="604" y="1007" class="sa_91">for every </text>
+<text x="664" y="1007" class="s6_91">x</text>
+<text x="675" y="1007" class="sn_91">.</text>
+<text x="692" y="1007" class="sa_91">0</text>
+<path d="M473,949.6c0,0,-3,0,-3,3.1v69.5c0,0,0,3.1,3,3.1H742.1c0,0,3.1,0,3.1,-3.1V952.7c0,0,0,-3.1,-3.1,-3.1H473Z" class="gc_91"/>
+<text x="212" y="529" class="sc_91">0</text>
+<text x="274" y="493" class="sz_91">y=x</text>
+<text x="114" y="477" class="sz_91">y=ƒ</text>
+<path d="M135.4,620.9L293.8,462.4" class="g1_91"/>
+<text x="226" y="555" dx="0,0,-.7,0,0,0,0" class="s10_91">(0, _1)</text>
+<text x="263" y="600" dx="0,0,0,0,-.8,.4,1.2,0,.6" class="sz_91">y=f –!(x)</text>
+<text x="168" y="547" class="s10_91">(_1, 0)</text>
+<path d="M109.9,484.4c38.8,10.4,83.8,29.1,84.1,49.1" class="g3_91"/>
+<path d="M264.5,620.7c-11,-31,-25.7,-59.1,-41.7,-59.4" class="g0_91"/>
+<path d="M221,561.3c0,-1,.8,-1.8,1.8,-1.8c.9,0,1.7,.8,1.7,1.8c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gg_91"/>
+<path d="M221,561.3c0,-1,.8,-1.8,1.8,-1.8c.9,0,1.7,.8,1.7,1.8c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gh_91"/>
+<path d="M192.3,533.5c0,-1,.8,-1.8,1.7,-1.8c1,0,1.8,.8,1.8,1.8c0,.9,-.8,1.7,-1.8,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="g7_91"/>
+<path d="M192.3,533.5c0,-1,.8,-1.8,1.7,-1.8c1,0,1.8,.8,1.8,1.8c0,.9,-.8,1.7,-1.8,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="g8_91"/>
+<path d="M108.5,533.5H317.9" class="g4_91"/>
+<path fill-rule="evenodd" d="M317.9,533.5L316.3,531l6.5,2.5l-6.5,2.4Z" class="g9_91"/>
+<path d="M222.6,620.9V460.1" class="g4_91"/>
+<path fill-rule="evenodd" d="M222.6,460.1l-2.4,1.7l2.4,-6.6l2.5,6.6Z" class="g9_91"/>
+<text x="212" y="461" class="s10_91">y</text>
+<text x="316" y="545" class="s10_91">x</text>
+<text x="108" y="648" dx="0,.3,.3,.3,.3,.3,.1" class="sh_91">FIGURE </text>
+<text x="161" y="648" class="si_91">10 </text>
+<text x="121" y="1076" class="s11_91">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="s11_91">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: BeaconDingbatsTypeOne_12w;
+	src: url("fonts/BeaconDingbatsTypeOne_12w.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-4_v8;
+	src: url("fonts/MathematicalPiLTStd-4_v8.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-6_13j;
+	src: url("fonts/MathematicalPiLTStd-6_13j.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_12-;
+	src: url("fonts/TECHMath-Mix_12-.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_16e;
+	src: url("fonts/TECHMath-Mix_16e.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1ic;
+	src: url("fonts/TECHMath-Mix_1ic.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1jh;
+	src: url("fonts/TECHMath-Mix_1jh.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1jl;
+	src: url("fonts/TECHMath-Mix_1jl.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-BoldItalic_12r;
+	src: url("fonts/TimesLTStd-BoldItalic_12r.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Bold_oh;
+	src: url("fonts/TimesLTStd-Bold_oh.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_6c;
+	src: url("fonts/TimesLTStd-Roman_6c.woff") format("woff");
+}
+
+@font-face {
+	font-family: UniversalChemicalPi-T_-_;
+	src: url("fonts/UniversalChemicalPi-T_-_.woff") format("woff");
+}
+
+@font-face {
+	font-family: ZapfDingbatsITC_my;
+	src: url("fonts/ZapfDingbatsITC_my.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

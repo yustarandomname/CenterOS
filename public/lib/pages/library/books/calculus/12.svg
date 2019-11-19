@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 12 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_12"><path d="M0,0H931V1096H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_12{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_12{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s3_12{
+font-size: 16.74px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #231F20;
+}
+.s4_12{
+font-size: 16.04px;
+font-family: MyriadPro-SemiCn_95;
+fill: #231F20;
+}
+.s5_12{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_12)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="53" y="64" class="s1_12">x</text>
+<text x="127" y="64" dx="0,0,.1,.1,0,.1,.1,.1" class="s2_12">Contents</text>
+<image preserveAspectRatio="none" x="169" y="94" width="677" height="39" xlink:href="12/img/1.png"/>
+<text x="273" y="160" class="s3_12">A</text>
+<text x="302" y="160" dx="0,0,0,0,0,0,0,-.2,0,.3,.1,0,0,0,0,0,0,0,0,0,0,-.2,0,.3,0,0,0,.3,0,0,0,0,0,0,-.1,0,-.3,-.6,0,0,0,0,0,4.8,0" class="s4_12">Numbers, Inequalities, and Absolute Values A2</text>
+<text x="273" y="183" class="s3_12">B</text>
+<text x="302" y="183" dx="0,-.2,0,0,-.2,0,0,0,-.1,-.1,0,.3,.1,0,0,0,0,0,.4,0,.3,0,0,0,.3,0,0,0,0,0,4.9,0,0" class="s4_12">Coordinate Geometry and Lines A10</text>
+<text x="273" y="206" class="s3_12">C</text>
+<text x="302" y="206" dx="0,0,-.1,0,0,0,0,.3,0,0,.3,.1,0,-.1,0,0,0,0,.1,0,-.1,-.2,0,0,.3,-.1,0,0,-.1,0,0,0,0,0,4.9,0,0" class="s4_12">Graphs of Second-Degree Equations A16</text>
+<text x="273" y="228" class="s3_12">D</text>
+<text x="302" y="228" dx="0,-.8,0,0,0,0,0,0,0,0,0,.4,0,4.9,0,0" class="s4_12">Trigonometry A24</text>
+<text x="274" y="251" class="s3_12">E</text>
+<text x="302" y="251" dx="0,0,0,-.1,0,0,.3,0,0,0,-.1,0,0,0,0,4.9,0,0" class="s4_12">Sigma Notation A34</text>
+<text x="274" y="274" class="s3_12">F</text>
+<text x="302" y="274" dx="0,-.2,-.2,0,0,-.1,0,.3,0,0,-.3,-.1,0,0,0,-.2,0,0,0,4.9,0,0" class="s4_12">Proofs of Theorems A39</text>
+<text x="273" y="297" class="s3_12">G</text>
+<text x="302" y="297" dx="0,-.1,0,0,.3,-.2,0,0,0,0,0,0,0,0,.3,.1,0,0,0,0,0,.3,0,0,.3,0,0,.3,.1,-.1,-.1,0,-.1,-.1,0,0,4.9,0,0" class="s4_12">The Logarithm Deﬁned as an Integral A50</text>
+<text x="273" y="320" class="s3_12">H</text>
+<text x="302" y="320" dx="0,-.2,0,0,0,0,-.1,0,.3,0,0,0,0,0,0,0,4.9,0,0" class="s4_12">Complex Numbers A57</text>
+<text x="276" y="343" class="s3_12">I</text>
+<text x="302" y="343" dx="0,0,0,0,-.2,0,0,0,.3,-.1,0,.3,.1,0,0,0,0,0,0,0,0,-.2,0,0,.3,0,-.2,0,-.2,0,0,0,0,0,4.9,0,0" class="s4_12">Answers to Odd-Numbered Exercises A65</text>
+<image preserveAspectRatio="none" x="169" y="385" width="677" height="38" xlink:href="12/img/2.png"/>
+<text x="121" y="1076" class="s5_12">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="s5_12">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-SemiCn_95;
+	src: url("fonts/MyriadPro-SemiCn_95.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

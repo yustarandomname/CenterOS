@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 46 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_46"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0_46"><path d="M510.6,789.6V757.4h97.9v32.2Z"/></clipPath>
+<clipPath id="c1_46"><path d="M430.1,873.3v-42H680.7v42Z"/></clipPath>
+<clipPath id="c2_46"><path d="M455,930.1V898.2H586.2v31.9Z"/></clipPath>
+<clipPath id="c3_46"><path d="M311.8,1017.1V999.9h99v17.2Z"/></clipPath>
+<clipPath id="c4_46"><path d="M573.8,1024.9v-32h92.4v32Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_46{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_46{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_46{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s4_46{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s5_46{
+font-size: 12.22px;
+font-family: MyriadPro-BlackSemiCn_14j;
+fill: #FFFFFF;
+}
+.s6_46{
+font-size: 12.22px;
+font-family: MyriadPro-It_14a;
+fill: #231F20;
+}
+.s7_46{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s8_46{
+font-size: 16.81px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.s9_46{
+font-size: 17.57px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.sa_46{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sb_46{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #EC008C;
+}
+.sc_46{
+font-size: 12.99px;
+font-family: ZapfDingbatsITC_my;
+fill: #EC008C;
+}
+.sd_46{
+font-size: 9.17px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.se_46{
+font-size: 13.75px;
+font-family: CenturyOldStyle-Italic__q;
+fill: #231F20;
+}
+.sf_46{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sg_46{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.sh_46{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.si_46{
+font-size: 47.36px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sj_46{
+font-size: 15.28px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #231F20;
+}
+.sk_46{
+font-size: 12.22px;
+font-family: TECHMath-Mix__m;
+fill: #231F20;
+}
+.sl_46{
+font-size: 12.22px;
+font-family: TECHMath-Mix_14f;
+fill: #231F20;
+}
+.sm_46{
+font-size: 14.51px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sn_46{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.so_46{
+font-size: 12.99px;
+font-family: MATH_13_;
+fill: #231F20;
+}
+.sp_46{
+font-size: 12.99px;
+font-family: Times-Roman_n6;
+fill: #231F20;
+}
+.sq_46{
+font-size: 12.99px;
+font-family: Times-Italic_n3;
+fill: #231F20;
+}
+.sr_46{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_46{
+fill: #5B2E91;
+}
+.g1_46{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_46{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g3_46{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g4_46{
+fill: #231F20;
+}
+.g5_46{
+fill: none;
+stroke: #66C18C;
+stroke-width: 0.763;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+stroke-dasharray: 10,4;
+}
+.g6_46{
+fill: none;
+stroke: #66C18C;
+stroke-width: 0.916;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_46)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="53" y="64" class="s1_46">14</text>
+<text x="126" y="64" dx="0,.2,.2,.2,.2,.2,.2,.1" class="s2_46">CHAPTER </text>
+<text x="180" y="64" class="s3_46">1</text>
+<text x="200" y="64" dx="0,-.3,.1,.1,.3,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.2,.1,.1,.1,.1" class="s4_46">Functions and Models</text>
+<path d="M53.5,835.2H68.8V823H53.5v12.2Z" class="g0_46"/>
+<text x="54" y="833" class="s5_46">PS</text>
+<text x="74" y="833" dx="0,.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.2,0,0,0,0,0,0,0,0" class="s4_46">In setting up applied functions as </text>
+<text x="53" y="848" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,-.1,0,0,0,0,0" class="s4_46">in Example 5, it may be useful to review </text>
+<text x="53" y="863" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s4_46">the principles of problem solving as </text>
+<text x="53" y="879" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.3,0,0,0,0,0,0,0,0,0" class="s4_46">discussed on page 71, particularly </text>
+<text x="53" y="894" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,-.1,0,0,0,0,0" class="s6_46">Step 1: Understand the Problem.</text>
+<text x="313" y="108" dx="0,0,0,-.4,0,0,-3.2,0,0,0,0,0,0,0,0,0,0,.8,0,0,0,.8,0,0,0,0,0,0,0,0,-3.2,0,-3.2,0,0,0,.8,0,0,.8,0,0,0,0,.8,0,0,0,0,0,0,.8,0,0,0,0,.8,0,0,0,.8,0,0,0,0,0,0,.8,0,0,0,0,.8,0,0,0,0,.8,0,0" class="s7_46">know— amplitudes and patterns — can be seen easily from the graph. (The same is </text>
+<text x="313" y="126" dx="0,0,0,0,0,.1,0,0,0,.1,0,0,0,.1,0,0,0,0,0,0,0,0,.1,0,0,0,0,.1,0,0,.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.1,0,0,.1,0,0,0,0,0,.1,0,0,0,0,0,0,0,0,.1,0,0,0,.1,0,0,0,0,0,0,0,0,0,0,.1,0,0,0" class="s7_46">true for the patterns seen in electrocardiograms of heart patients and polygraphs for </text>
+<text x="313" y="144" class="s7_46">lie-detection.)</text>
+<text x="305" y="170" dx="0,0,0,0,0,0,0,0,0,-.2,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,-1" class="s7_46">±n the next example we sketch the graph of a function that is deIned verbally.</text>
+<text x="287" y="205" dx="0,.3,.3,.3,.3,.3,.3,.2" class="s8_46">EXAMPLE </text>
+<text x="358" y="205" class="s9_46">4 </text>
+<text x="375" y="205" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7_46">When you turn on a hot-water faucet, the temperature </text>
+<text x="706" y="205" class="sa_46">T</text>
+<text x="720" y="205" dx="0,0,0,0,0,0,0,0,-.2,0,0,0,0" class="s7_46">of the water </text>
+<text x="287" y="224" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7_46">depends on how long the water has been running. Draw a rough graph of </text>
+<text x="735" y="224" class="sa_46">T</text>
+<text x="749" y="224" class="s7_46">as a func-</text>
+<text x="287" y="242" class="s7_46">tion of the time </text>
+<text x="384" y="242" class="sa_46">t</text>
+<text x="393" y="242" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0" class="s7_46">that has elapsed since the faucet was turned on.</text>
+<text x="287" y="269" dx="0,.3,.3,.3,.3,.3,.3,.3,.1" class="sb_46">SOLUTION </text>
+<text x="358" y="269" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7_46">The initial temperature of the running water is close to room temperature </text>
+<text x="287" y="288" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.5,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0" class="s7_46">because the water has been sitting in the pipes. When the water from the hot-water tank </text>
+<text x="287" y="306" dx="0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0" class="s7_46">starts ²owing from the faucet, </text>
+<text x="474" y="306" class="sa_46">T</text>
+<text x="487" y="306" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0" class="s7_46">increases quickly. ±n the next phase, </text>
+<text x="711" y="306" class="sa_46">T</text>
+<text x="724" y="306" class="s7_46">is constant at </text>
+<text x="287" y="324" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7_46">the temperature of the heated water in the tank. When the tank is drained, </text>
+<text x="738" y="324" class="sa_46">T</text>
+<text x="752" y="324" class="s7_46">decreases </text>
+<text x="287" y="343" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,-1,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0" class="s7_46">to the temperature of the water supply. This enables us to make the rough sketch of </text>
+<text x="797" y="343" class="sa_46">T</text>
+<text x="287" y="361" class="s7_46">as a function of </text>
+<text x="385" y="361" class="sa_46">t</text>
+<text x="393" y="361" class="s7_46">in Figure 11. </text>
+<text x="813" y="361" class="sc_46">■</text>
+<text x="305" y="396" dx="0,0,0,-.4,0,0,0,-.4,0,0,0,0,-.4,0,0,0,0,-.4,-.2,0,0,0,0,0,0,-.4,0,0,-.4,0,0,0,0,0,-.4,0,0,0,0,-.4,0,-.4,-.2,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,-.4,0,-.4,0,0,0,0,0,0,0,0,-.4,0,0,-.4,0,-.4,0,-.1,0,0,0,0,0,0" class="s7_46">±n the following example we start with a verbal description of a function in a physical </text>
+<text x="287" y="415" dx="0,0,0,0,0,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0,0,.4,0,0,.4,-.2,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,.1,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,.4,0,0,.4,0,0,0,0,.4,0,0,.4,0,.4,0,0,0,0,0,0,.4,0,0,0,0,0" class="s7_46">situation and obtain an explicit algebraic formula. The ability to do this is a useful skill </text>
+<text x="287" y="433" dx="0,0,0,-.4,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,-.4,0,0,0,0,-.4,0,0,0,-.4,0,0,0,-.4,0,0,0,-.4,0,0,0,0,0,0,0,-.4,0,0,-.4,0,0,0,0,0,0,0,-.4,-.4,0,0,0,0,0,-.4,0,0,-.4,0,0,0,0,0,0,0,0,0,0" class="s7_46">in solving calculus problems that ask for the maximum or minimum values of quantities.</text>
+<text x="287" y="468" dx="0,.3,.3,.3,.3,.3,.3,.2" class="s8_46">EXAMPLE </text>
+<text x="358" y="468" class="s9_46">5</text>
+<text x="374" y="468" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0" class="s7_46">A rectangular storage container with an open top has a volume of </text>
+<text x="287" y="486" class="s7_46">10 m</text>
+<text x="318" y="480" class="sd_46">3</text>
+<text x="322" y="486" dx="0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7_46">. The length of its base is twice its width. Material for the base costs $10 per </text>
+<text x="287" y="505" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7_46">square meter; material for the sides costs $6 per square meter. Express the cost of mate-</text>
+<text x="287" y="523" class="s7_46">rials as a function of the width of the base.</text>
+<text x="287" y="551" dx="0,.3,.3,.3,.3,.3,.3,.3,.1" class="sb_46">SOLUTION </text>
+<text x="358" y="551" dx="0,-1.2,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7_46">We draw a diagram as in Figure 12 and introduce notation by letting </text>
+<text x="779" y="551" class="se_46">w</text>
+<text x="792" y="551" class="s7_46">and </text>
+<text x="287" y="569" class="s7_46">2</text>
+<text x="294" y="569" class="se_46">w</text>
+<text x="308" y="569" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,-.2,0,0,-1,0,0,0,0,0" class="s7_46">be the width and length of the base, respectively, and </text>
+<text x="634" y="569" class="sa_46">h</text>
+<text x="646" y="569" class="s7_46">be the height. </text>
+<text x="305" y="587" class="s7_46">The area of the base is </text>
+<text x="446" y="587" class="sf_46">s</text>
+<text x="451" y="587" class="s7_46">2</text>
+<text x="459" y="587" class="se_46">w</text>
+<text x="468" y="587" class="sf_46">d</text>
+<text x="473" y="587" class="se_46">w</text>
+<text x="487" y="587" class="sg_46">-</text>
+<text x="505" y="587" class="s7_46">2</text>
+<text x="512" y="587" class="se_46">w</text>
+<text x="522" y="581" class="sd_46">2</text>
+<text x="527" y="587" class="s7_46">, so the cost, in dollars, of the material for the </text>
+<text x="287" y="606" class="s7_46">base is 10</text>
+<text x="347" y="606" class="sf_46">s</text>
+<text x="352" y="606" class="s7_46">2</text>
+<text x="360" y="606" class="se_46">w</text>
+<text x="370" y="599" class="sd_46">2</text>
+<text x="376" y="606" class="sf_46">d</text>
+<text x="381" y="606" dx="0,0,-.3,-1.2,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0" class="s7_46">. Two of the sides have area </text>
+<text x="554" y="606" class="se_46">w</text>
+<text x="563" y="606" class="sa_46">h</text>
+<text x="575" y="606" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,-.3,-.2,0,0,0,0,0,0,0" class="s7_46">and the other two have area 2</text>
+<text x="754" y="606" class="se_46">w</text>
+<text x="763" y="606" class="sa_46">h</text>
+<text x="771" y="606" class="s7_46">, so the </text>
+<text x="287" y="624" class="s7_46">cost of the material for the sides is 6</text>
+<text x="509" y="624" class="sf_46">f</text>
+<text x="514" y="624" class="s7_46">2</text>
+<text x="522" y="624" class="sf_46">s</text>
+<text x="527" y="624" class="se_46">w</text>
+<text x="536" y="624" class="sa_46">h</text>
+<text x="544" y="624" class="sf_46">d</text>
+<text x="554" y="624" class="sh_46">1</text>
+<text x="571" y="624" class="s7_46">2</text>
+<text x="578" y="624" class="sf_46">s</text>
+<text x="584" y="624" class="s7_46">2</text>
+<text x="591" y="624" class="se_46">w</text>
+<text x="601" y="624" class="sa_46">h</text>
+<text x="608" y="624" class="sf_46">dg</text>
+<text x="618" y="624" dx="0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7_46">. The total cost is therefore</text>
+<text x="390" y="656" class="sa_46">C</text>
+<text x="405" y="656" class="sg_46">-</text>
+<text x="422" y="656" class="s7_46">10</text>
+<text x="438" y="656" class="sf_46">s</text>
+<text x="443" y="656" class="s7_46">2</text>
+<text x="450" y="656" class="se_46">w</text>
+<text x="461" y="650" class="sd_46">2</text>
+<text x="467" y="656" class="sf_46">d</text>
+<text x="476" y="656" class="sh_46">1</text>
+<text x="494" y="656" class="s7_46">6</text>
+<text x="502" y="656" class="sf_46">f</text>
+<text x="507" y="656" class="s7_46">2</text>
+<text x="515" y="656" class="sf_46">s</text>
+<text x="520" y="656" class="se_46">w</text>
+<text x="529" y="656" class="sa_46">h</text>
+<text x="537" y="656" class="sf_46">d</text>
+<text x="547" y="656" class="sh_46">1</text>
+<text x="564" y="656" class="s7_46">2</text>
+<text x="572" y="656" class="sf_46">s</text>
+<text x="577" y="656" class="s7_46">2</text>
+<text x="584" y="656" class="se_46">w</text>
+<text x="594" y="656" class="sa_46">h</text>
+<text x="601" y="656" class="sf_46">dg</text>
+<text x="616" y="656" class="sg_46">-</text>
+<text x="633" y="656" class="s7_46">20</text>
+<text x="649" y="656" class="se_46">w</text>
+<text x="660" y="650" class="sd_46">2</text>
+<text x="669" y="656" class="sh_46">1</text>
+<text x="686" y="656" class="s7_46">36</text>
+<text x="702" y="656" class="se_46">w</text>
+<text x="712" y="656" class="sa_46">h</text>
+<text x="287" y="688" dx="0,-1.2,0,0,-.2,0,0,0,0,0,0" class="s7_46">To express </text>
+<text x="356" y="688" class="sa_46">C</text>
+<text x="370" y="688" class="s7_46">as a function of </text>
+<text x="469" y="688" class="se_46">w</text>
+<text x="482" y="688" class="s7_46">alone, we need to eliminate </text>
+<text x="653" y="688" class="sa_46">h</text>
+<text x="665" y="688" class="s7_46">and we do so by using </text>
+<text x="287" y="706" dx="0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0" class="s7_46">the fact that the volume is 10 m</text>
+<text x="479" y="700" class="sd_46">3</text>
+<text x="484" y="706" dx="0,0,-.3,0,0,0" class="s7_46">. Thus</text>
+<text x="514" y="734" class="se_46">w</text>
+<text x="524" y="734" class="sf_46">s</text>
+<text x="529" y="734" class="s7_46">2</text>
+<text x="537" y="734" class="se_46">w</text>
+<text x="546" y="734" class="sf_46">d</text>
+<text x="551" y="734" class="sa_46">h</text>
+<text x="563" y="734" class="sg_46">-</text>
+<text x="581" y="734" class="s7_46">10</text>
+<text x="287" y="778" dx="0,0,0,0,0,0,0,0,-.4,-.2,0,0" class="s7_46">which gives </text>
+<text x="510" y="778" class="sa_46">h</text>
+<text x="522" y="778" class="sg_46">-</text>
+<text x="546" y="767" class="s7_46">10</text>
+<path d="M540.5,773.7h27.1" class="g1_46"/>
+<text x="542" y="789" class="s7_46">2</text>
+<text x="550" y="789" class="se_46">w</text>
+<text x="560" y="783" class="sd_46">2</text>
+<text x="571" y="778" class="sg_46">-</text>
+<text x="594" y="767" class="s7_46">5</text>
+<g clip-path="url(#c0_46)">
+<path d="M589.4,773.7h19.5" class="g1_46"/>
+</g>
+<text x="591" y="789" class="se_46">w</text>
+<text x="601" y="783" class="sd_46">2</text>
+<text x="287" y="819" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7_46">Substituting this into the expression for </text>
+<text x="531" y="819" class="sa_46">C</text>
+<text x="542" y="819" dx="0,0,0,0,0,0,0,-.3,-.2" class="s7_46">, we have</text>
+<text x="430" y="858" class="sa_46">C</text>
+<text x="444" y="858" class="sg_46">-</text>
+<text x="462" y="858" class="s7_46">20</text>
+<text x="477" y="858" class="se_46">w</text>
+<text x="487" y="852" class="sd_46">2</text>
+<text x="496" y="858" class="sh_46">1</text>
+<text x="514" y="858" class="s7_46">36</text>
+<text x="529" y="858" class="se_46">w</text>
+<text x="538" y="860" class="si_46">S</text>
+<text x="555" y="847" class="s7_46">5</text>
+<path d="M549.8,853.2h19.4" class="g1_46"/>
+<text x="551" y="868" class="se_46">w</text>
+<text x="561" y="862" class="sd_46">2</text>
+<text x="568" y="860" class="si_46">D</text>
+<text x="583" y="858" class="sg_46">-</text>
+<text x="601" y="858" class="s7_46">20</text>
+<text x="616" y="858" class="se_46">w</text>
+<text x="626" y="852" class="sd_46">2</text>
+<text x="635" y="858" class="sh_46">1</text>
+<text x="655" y="847" class="s7_46">180</text>
+<g clip-path="url(#c1_46)">
+<path d="M653.6,853.2h27.5" class="g1_46"/>
+</g>
+<text x="662" y="868" class="se_46">w</text>
+<text x="287" y="890" class="s7_46">Therefore the equation</text>
+<text x="455" y="919" class="sa_46">C</text>
+<text x="465" y="919" class="sf_46">s</text>
+<text x="470" y="919" class="se_46">w</text>
+<text x="479" y="919" class="sf_46">d</text>
+<text x="489" y="919" class="sg_46">-</text>
+<text x="506" y="919" class="s7_46">20</text>
+<text x="521" y="919" class="se_46">w</text>
+<text x="532" y="913" class="sd_46">2</text>
+<text x="541" y="919" class="sh_46">1</text>
+<text x="560" y="908" class="s7_46">180</text>
+<g clip-path="url(#c2_46)">
+<path d="M559.1,914.3h27.4" class="g1_46"/>
+</g>
+<text x="567" y="929" class="se_46">w</text>
+<text x="616" y="919" class="se_46">w</text>
+<text x="630" y="919" class="sh_46">.</text>
+<text x="648" y="919" class="s7_46">0</text>
+<text x="287" y="951" dx="0,-.2,0,0,0,0,0,0,0,0" class="s7_46">expresses </text>
+<text x="349" y="951" class="sa_46">C</text>
+<text x="363" y="951" class="s7_46">as a function of </text>
+<text x="462" y="951" class="se_46">w</text>
+<text x="471" y="951" class="s7_46">. </text>
+<text x="813" y="951" class="sc_46">■</text>
+<text x="287" y="986" dx="0,.3,.3,.3,.3,.3,.3,.2" class="s8_46">EXAMPLE </text>
+<text x="358" y="986" class="s9_46">6</text>
+<text x="375" y="986" class="s7_46">Find the domain of each function.</text>
+<text x="287" y="1013" class="s7_46">(a) </text>
+<text x="314" y="1013" class="sa_46">f</text>
+<text x="320" y="1013" class="sf_46">s</text>
+<text x="326" y="1013" class="sa_46">x</text>
+<text x="333" y="1013" class="sf_46">d</text>
+<text x="342" y="1013" class="sg_46">-</text>
+<text x="360" y="1014" class="sj_46">s</text>
+<text x="372" y="1013" class="sa_46">x</text>
+<text x="383" y="1013" class="sh_46">1</text>
+<text x="400" y="1013" class="s7_46">2</text>
+<g clip-path="url(#c3_46)">
+<path d="M371.8,1000.3h39.4" class="g1_46"/>
+</g>
+<text x="548" y="1013" class="s7_46">(b) </text>
+<text x="573" y="1013" class="sj_46">t</text>
+<text x="580" y="1013" class="sf_46">s</text>
+<text x="586" y="1013" class="sa_46">x</text>
+<text x="593" y="1013" class="sf_46">d</text>
+<text x="602" y="1013" class="sg_46">-</text>
+<text x="639" y="1003" class="s7_46">1</text>
+<g clip-path="url(#c4_46)">
+<path d="M620.4,1009h46.2" class="g1_46"/>
+</g>
+<text x="622" y="1024" class="sa_46">x</text>
+<text x="630" y="1018" class="sd_46">2</text>
+<text x="639" y="1024" class="sh_46">2</text>
+<text x="657" y="1024" class="sa_46">x</text>
+<path d="M267.4,292.7H239.9c-13.7,0,-17.6,-1.3,-23.6,-13C215.1,277.4,203.6,255.2,201,250c-5.9,-11.9,-8,-15.5,-24.5,-16.3c-8.7,0,-60.8,-.1,-67.9,0c-13.5,.3,-18.5,2,-21.4,11.3c-1.9,6.3,-4.8,17.3,-10,34" class="g2_46"/>
+<path d="M75.6,329.4V221.1" class="g3_46"/>
+<path fill-rule="evenodd" d="M75.6,221.1l-2.4,1.6l2.4,-6.5l2.5,6.5Z" class="g4_46"/>
+<path d="M56.5,306.7H266.4" class="g3_46"/>
+<path fill-rule="evenodd" d="M266.4,306.7l-1.6,-2.5l6.5,2.5l-6.5,2.4Z" class="g4_46"/>
+<text x="266" y="318" class="sk_46">t</text>
+<text x="64" y="223" class="sl_46">T</text>
+<text x="66" y="319" class="sl_46">0</text>
+<text x="58" y="362" dx="0,.3,.3,.3,.3,.3,.1" class="sm_46">FIGURE </text>
+<text x="110" y="362" class="sn_46">11</text>
+<path d="M102.4,617L71.9,647.7" class="g5_46"/>
+<text x="210" y="640" class="so_46">w</text>
+<text x="122" y="664" class="sp_46">2</text>
+<text x="128" y="664" class="so_46">w</text>
+<path d="M71.9,570.7H187.4v77H71.9ZM218.2,539.9l-30.9,30.7" class="g6_46"/>
+<path d="M102.7,539.9v77H218.2" class="g5_46"/>
+<text x="58" y="608" class="sq_46">h</text>
+<path d="M187.3,647.6l30.9,-30.7v-77H102.7L71.9,570.7" class="g6_46"/>
+<text x="53" y="691" dx="0,.3,.3,.3,.3,.3,.1" class="sm_46">FIGURE </text>
+<text x="106" y="691" class="sn_46">12</text>
+<text x="121" y="1076" class="sr_46">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="sr_46">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: BeaconDingbatsTypeOne_12w;
+	src: url("fonts/BeaconDingbatsTypeOne_12w.woff") format("woff");
+}
+
+@font-face {
+	font-family: CenturyOldStyle-Italic__q;
+	src: url("fonts/CenturyOldStyle-Italic__q.woff") format("woff");
+}
+
+@font-face {
+	font-family: MATH_13_;
+	src: url("fonts/MATH_13_.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BlackSemiCn_14j;
+	src: url("fonts/MyriadPro-BlackSemiCn_14j.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-It_14a;
+	src: url("fonts/MyriadPro-It_14a.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_14f;
+	src: url("fonts/TECHMath-Mix_14f.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix__m;
+	src: url("fonts/TECHMath-Mix__m.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Italic_n3;
+	src: url("fonts/Times-Italic_n3.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_n6;
+	src: url("fonts/Times-Roman_n6.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+@font-face {
+	font-family: ZapfDingbatsITC_my;
+	src: url("fonts/ZapfDingbatsITC_my.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

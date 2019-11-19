@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 26 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_26"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0_26"><path d="M397.8,1074.4V716H843.3v358.4Z"/></clipPath>
+<clipPath id="c1_26"><path d="M396.1,705.5V502.9H814.5V705.5Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_26{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_26{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.s3_26{
+font-size: 15.28px;
+font-family: BeaconDingbatsTypeOne_od;
+fill: #EC008C;
+}
+.s4_26{
+font-size: 9.17px;
+font-family: UniversLTStd-LightCn_tc;
+fill: #231F20;
+}
+.s5_26{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s6_26{
+font-size: 45.83px;
+font-family: MyriadPro-SemiboldSemiCn_4e;
+fill: #231F20;
+}
+.s7_26{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_26{
+fill: #DDDED8;
+}
+.g1_26{
+fill: none;
+stroke: #231F20;
+stroke-width: 3.055;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g2_26{
+fill: none;
+stroke: #231F20;
+stroke-width: 10.694;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_26{
+fill: #B3B5B4;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_26)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<image preserveAspectRatio="none" x="42" y="48" width="865" height="127" xlink:href="26/img/1.png"/>
+<text x="53" y="1041" class="s1_26">xxiv</text>
+<text x="388" y="224" dx="0,-.2,-.2,-.3,.3,-.1,.1,0,0,0,.2,0,0,.1,.2,-.1,.3,-.1,-.2,-.2,-.2,.2,0,0,0,-.1,-.2,.2,.2,-.2,-.1,0,0,0,0,0,0,.4,.2,-.2,0,0,0,0,.1,-.2,0,0,0,0,-.3,.4,.4,-.2,0,.3,0,0,-.2,0,0,0,.1,-.2,0,0,0,-.4,0,0" class="s2_26">Advances in technology continue to bring a wider variety of tools for </text>
+<text x="388" y="242" dx="0,0,-.2,.2,-.2,0,0,.1,0,.3,0,-.1,.1,0,.2,-.2,-.1,-.1,0,0,0,.3,-.1,.3,0,-.2,-.2,0,0,0,.3,-.2,-.1,.2,0,0,0,0,.1,0,0,.4,.1,0,0,.2,.2,0,-.1,.4,.2,-.2,0,0,-.1,0,.1,0,0,.1,-.4,-.3" class="s2_26">doing mathematics. Handheld calculators are becoming more pow-</text>
+<text x="388" y="261" dx="0,0,.4,.3,.2,0,0,0,.2,0,0,.4,.1,0,0,0,-.2,.3,.2,-.3,.4,.1,0,0,0,0,-.2,.3,.1,.3,.2,0,0,.3,-.1,0,0,.3,-.2,.1,0,.4,0,0,0,0,.1,0,0,0,.3,0,.1,0,-.1,0,0,.3,0,0,.1,0,.2,-.3,.2,-.3,-.1,0,0" class="s2_26">erful, as are software programs and Internet resources. In addition, </text>
+<text x="388" y="279" dx="0,.1,.3,-.3,0,0,.1,0,.3,0,-.1,.1,0,.2,-.2,0,.3,0,0,0,0,-.2,.3,-.2,0,0,.2,-.3,-.1,0,0,0,0,-.4,-.4,0,0,.2,.2,0,0,0,.1,-.2,-.2,.1,.2,0,.2,0,0,-.4,0,0,0,-.2,.1,.4,.5,.3,0,-.1,-.1,0,0,0" class="s2_26">many mathematical applications have been released for smartphones </text>
+<text x="388" y="297" dx="0,.3,-.1,0,0,.3,0,-.2,-.2,0,.2,0,0,-.1,-.1,-.1,0,0,.2,0,0,.3,0,0,0,.3,-.1,.1,0" class="s2_26">and tablets such as the iPad.</text>
+<text x="407" y="316" dx="0,-.1,-.1,0,0,0,-.3,-.3,0,0,0,0,0,0,0,0,.2,0,0,.3,.3,0,0,0,.1,-.3,0,0,0,.4,.1,0,0,.1,.4,0,-.1,.2,0,0,.1,-.3,.3,0,0,0,0,.3,.1,0,0,.3,.2,-.2,0,0,-.2,0,-.1,0" class="s2_26">Some exercises in this text are marked with a graphing icon </text>
+<text x="777" y="319" class="s3_26">;</text>
+<text x="794" y="316" class="s2_26">, </text>
+<text x="388" y="334" dx="0,-.2,.3,-.2,-.1,0,0,.2,-.1,.2,-.2,0,0,.1,0,0,0,.3,0,0,0,0,.3,0,0,0,0,0,0,0,-.2,0,0,0,-.1,0,0,0,.1,.2,-.1,.3,-.1,-.2,-.2,-.2,.2,0,0,0,0,0,.1,.2,-.1,.2,.3,.1,.2,0,0,0,.1,.3,.1,0,0,0,.3,.3,0,0" class="s2_26">which indicates that the use of some technology is required. Often this </text>
+<text x="388" y="352" dx="0,0,.1,.3,0,0,0,.3,0,0,0,0,-.4,0,0,.2,-.2,.1,0,-.1,0,0,-.4,0,0,0,0,0,.3,.1,0,0,.3,.2,-.2,0,0,0,-.3,.1,-.2,.1,0,0,0,0,0,.2,0,0,0,0,.2,0,0,.2,0,0,.3,.1,-.4,.1,.2,-.2,0,0,.3,0,0" class="s2_26">means that we intend for a graphing device to be used in drawing the </text>
+<text x="388" y="371" dx="0,.3,.1,0,0,0,0,-.2,0,0,0,0,.3,.2,-.1,0,.2,-.3,-.1,0,0,0,0,0,.2,-.1,.1,0,.2,-.3,-.1,-.1,0,0,-1.5,0,0,0,.4,-.3,.1,-.1,0,0,.3,0,0,0,0,0,.2,.2,0,0,.1,.2,-.1,.3,-.1,-.2,-.2,-.2,.2,0,0,0,0" class="s2_26">graph of a function or equation. You might also need technology to </text>
+<text x="388" y="389" dx="0,.2,-.1,0,0,.3,0,0,0,.1,0,0,0,0,0,-.2,0,0,0,0,.3,.1,0,0,0,0,0,0,0,.3,0,0,0,.1,-.2,.2,-.2,.2,0,0,-.2,0,0,.2,-.2,.1,0,.1,0,.2,0,.2,-.3,-.1,0,0,-.2,0,0,.2,-.4,0,0,.3,.1,0,0,.1,-.1,0" class="s2_26">±nd the zeros of a graph or the points of intersection of two graphs. </text>
+<text x="388" y="407" dx="0,.3,0,0,0,-.1,0,0,0,0,.2,0,0,0,0,-.4,0,0,.1,.2,.2,0,0,0,0,0,0,0,0,0,.3,-.2,-.1,.2,0,0,.2,.2,-.2,0,0,0,-.3,.1,-.2,.1,0,0,0,0,0,0,-.2,-.3,-.4,0,0,.3,0,0,.2,-.1,.1,0,.2,-.3,-.1,0,0,0,0" class="s2_26">In some cases we will use a calculating device to solve an equation or </text>
+<text x="388" y="426" dx="0,-.3,-.3,.3,-.2,.1,0,.1,0,0,0,0,0,-.1,.2,.3,-.3,.1,0,0,.2,-.2,.1,-.2,.3,.1,.3,0,0,-.2,.2,0,0,.4,-.2,0,.3,.2,-.3,-1.1,0,0,0,.3,-.3,0,0,0,0,-.2,0,-.2,.2,.1,-.2,0,0,.3,-.1,0,0,.3,.1,0,0,.3,.2,-.2,0" class="s2_26">evaluate a de±nite integral numerically. Many scienti±c and graphing </text>
+<text x="388" y="444" dx="0,0,.3,-.2,-.1,.2,0,0,0,0,.1,0,0,0,-.4,-.4,0,0,.3,0,0,0,0,0,-.4,.1,0,.3,.3,.1,0,0,0,-.1,.2,.2,-.3,0,0,.2,0,0,0,-.1,-.1,-.1,0,0,.2,0,0,.3,0,0,0,-1.2,-.3,0,.2,0,0,.3,0,-.1,.3,.5,.2,0,0,-.2,.2,0" class="s2_26">calculators have these features built in, such as the Texas Instruments </text>
+<text x="388" y="462" dx="0,.3,-.1,.1,.1,0,0,0,0,0,.3,-.1,-.1,-.2,-.1,-.1,.3,.1,0,0,.1,0,0,0,-.3,.2,.4,.2,0,.4,0,0,0,.3,-.2,-.1,.2,0,0,0,0,.1,0,0,.4,.1,0,0,.1,.1,0,0,0,-.3,0,0,-.1,-.3,-.4,-.2,0,.3,0,0,-.1,.1,-.2,-.9" class="s2_26">TI-84 or TI-Nspire CX. Similar calculators are made by Hewlett Pack-</text>
+<text x="388" y="481" dx="0,.4,0,.1,0,0,.1,.2,-.2,-.3,-.2,0,0,.3,-.1,0,0,-.2,0,.4,.5,-.4" class="s2_26">ard, Casio, and Sharp.</text>
+<text transform="matrix(0,-1,1,0,389,701)" dx="0,0,0,.2,.2,0,0,.2,.2,.3,.2" class="s4_26">© Dan Clegg</text>
+<text transform="matrix(0,-1,1,0,391,1034)" dx="0,0,0,.2,.2,0,0,.2,.2,.3,.2" class="s4_26">© Dan Clegg</text>
+<image preserveAspectRatio="none" x="397" y="888" width="213" height="159" xlink:href="26/img/2.png"/>
+<g clip-path="url(#c0_26)">
+<path d="M810,1013.2c0,11.4,-8.6,20.6,-19.4,20.6H415.4c-10.7,0,-19.4,-9.2,-19.4,-20.6V750.4c0,-11.4,8.7,-20.6,19.4,-20.6H790.6c10.8,0,19.4,9.2,19.4,20.6Z" class="g0_26"/>
+</g>
+<image preserveAspectRatio="none" x="377" y="730" width="448" height="314" xlink:href="26/img/3.png"/>
+<path d="M432,1005.2H773.7V758.7H432v246.5Z" class="g1_26"/>
+<path d="M768.8,766.4l.1,239.3" class="g2_26"/>
+<image preserveAspectRatio="none" x="67" y="212" width="291" height="277" xlink:href="26/img/4.png"/>
+<image preserveAspectRatio="none" x="68" y="212" width="279" height="265" xlink:href="26/img/5.png"/>
+<text x="71" y="650" dx="0,-1.5,0,0,0,0,.3,0,0,.3,0,0,0,0,0,0,0,0,0,-.1,0,0,-.2,.1,0,0,0,0,-.2,.3,.2,-.3,.4,.1,0,0,-.1,-.1,-.1,0" class="s2_26">You can also use computer software such </text>
+<text x="53" y="668" dx="0,.2,0" class="s2_26">as </text>
+<text x="70" y="668" dx="0,.1,-.1,.2,.1,.1,.1,-.2,0,0,.1,.2,0,0,.1,.1,.2,0,-.1" class="s5_26">Graphing Calculator</text>
+<text x="204" y="668" dx="0,-.3,0,0,-.1,.1,0,.1,-.2,0,0,-1.2,.2,-.1,0" class="s2_26">by Paci±c Tech </text>
+<text x="53" y="687" dx="0,-.9,.2,.2,-1.1,-.2,0,.1,0,.1,-.2,0,.1,-.2,0,-.1,-.6,0,0,0,0,0,.2,0,.4,-.4,0,.4,0,0,.1,.3,-.3,0,0,-.2,0,0,.3,0,0,0,0" class="s2_26">(www.paci±ct.com) to perform many of these </text>
+<text x="53" y="705" dx="0,.3,.2,-.1,0,.2,-.3,-.1,0,0,0,0,.2,0,0,-.4,-.2,.2,0,0,.2,0,0,0,0,0,0,0,-.4,0,0,0,0,-.1,-.1,0,0,0,0,.3,-.1,0" class="s2_26">functions, as well as apps for phones and </text>
+<text x="53" y="723" dx="0,.3,0,-.2,-.2,0,.2,0,0,0,.3,.3,-.1,0,0,.2,.2,-.2,-.2,0,0,.2,.1,0,0,0,0,-.6,0,-.2,-.2,-.1,-.1,-.1,-.1,.3,-.1,-.2,-.2,0,0,0,0" class="s2_26">tablets, like Quick Graph (Colombiamug) or </text>
+<text x="53" y="742" dx="0,0,0,.3,0,.1,-.2,.3,-.1,.2,-.3,0,0,.3,-.2,-.1,0,-.2,.3,.1,.3,0,0,.1,0,0,-.1,0,0,-.9,-.4,0,0,-.3,.2,.4,.2,0,.4,0" class="s2_26">Math-Studio (Pomegranate Apps). Similar </text>
+<text x="53" y="760" dx="0,.3,.2,-.1,0,.2,-.3,-.1,0,.3,.3,-.3,.3,0,0,0,0,0,-.4,-.3,.3,.2,0,0,-.2,-.2,0,0,0,-.2,.2,-.2,0,0,0,0,-.4,-.1,0,0,.2,-.2,.1,0,.4,-.2,.1,.1,0" class="s2_26">functionality is available using a web interface </text>
+<text x="53" y="778" dx="0,0,0,0,-1,-.2,.2,.3,.1,.3,.5,.3,-.2,0,0,.1,-.2,0,-.1,0" class="s2_26">at WolframAlpha.com.</text>
+<image preserveAspectRatio="none" x="396" y="502" width="431" height="217" xlink:href="26/img/6.png"/>
+<g clip-path="url(#c1_26)">
+<path d="M813.7,671.1c0,24.6,-6.4,34.4,-32.9,34.4l-350.5,-.4c-27.6,1.6,-34.4,-9.4,-34.4,-33.2V540.7c0,-20.1,3.8,-37.8,33.1,-37.8l357.5,.3c21.2,0,28,17,28,37.1Z" class="g3_26"/>
+</g>
+<image preserveAspectRatio="none" x="392" y="502" width="423" height="204" xlink:href="26/img/7.png"/>
+<image preserveAspectRatio="none" x="0" y="-19" width="1887" height="66" xlink:href="26/img/8.png"/>
+<text transform="matrix(0,-1,1,0,62,456)" dx="0,0,0,.2,.2,0,0,.2,.2,.3,.2" class="s4_26">© Dan Clegg</text>
+<text x="60" y="98" dx="0,-.3,0,0,0,0,0,-.3,-.3,0,0,-.5,0,0,-.6,0,0,0,0,-.3,0,0,-.5,0,0,0,0,0" class="s6_26">Calculators, Computers, and </text>
+<text x="60" y="153" dx="0,.6,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,-.2,0,0,-.3,0" class="s6_26">Other Graphing Devices</text>
+<text x="121" y="1076" class="s7_26">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="s7_26">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: BeaconDingbatsTypeOne_od;
+	src: url("fonts/BeaconDingbatsTypeOne_od.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-SemiboldSemiCn_4e;
+	src: url("fonts/MyriadPro-SemiboldSemiCn_4e.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_6c;
+	src: url("fonts/TimesLTStd-Roman_6c.woff") format("woff");
+}
+
+@font-face {
+	font-family: UniversLTStd-LightCn_tc;
+	src: url("fonts/UniversLTStd-LightCn_tc.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

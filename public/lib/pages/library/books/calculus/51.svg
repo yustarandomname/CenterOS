@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 51 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_51"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0_51"><path d="M108.5,296.5V154.1h162V296.5Z"/></clipPath>
+<clipPath id="c1_51"><path d="M146.3,424V408H260.7v16Z"/></clipPath>
+<clipPath id="c2_51"><path d="M287.5,424.2V408H402.2v16.2Z"/></clipPath>
+<clipPath id="c3_51"><path d="M195.1,495.1V464.6h85.3v30.5Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_51{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_51{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_51{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s4_51{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s5_51{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s6_51{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s7_51{
+font-size: 15.28px;
+font-family: TimesLTStd-Bold_oh;
+fill: #231F20;
+}
+.s8_51{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.s9_51{
+font-size: 9.17px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sa_51{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sb_51{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.sc_51{
+font-size: 14.51px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sd_51{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.se_51{
+font-size: 12.22px;
+font-family: TECHMath-Mix_15k;
+fill: #231F20;
+}
+.sf_51{
+font-size: 12.22px;
+font-family: TECHMath-Mix_151;
+fill: #231F20;
+}
+.sg_51{
+font-size: 12.22px;
+font-family: TECHMath-Mix_12-;
+fill: #231F20;
+}
+.sh_51{
+font-size: 12.99px;
+font-family: TECHMath-Mix_160;
+fill: #231F20;
+}
+.si_51{
+font-size: 13.75px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #231F20;
+}
+.sj_51{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sk_51{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sl_51{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sm_51{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.sn_51{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.so_51{
+font-size: 13.75px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #231F20;
+}
+.sp_51{
+font-size: 8.25px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sq_51{
+font-size: 12.22px;
+font-family: TECHMath-Mix_160;
+fill: #231F20;
+}
+.sr_51{
+font-size: 12.22px;
+font-family: TECHMath-Mix_wh;
+fill: #231F20;
+}
+.ss_51{
+font-size: 13.75px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.st_51{
+font-size: 12.86px;
+font-family: TECHMath-Mix_164;
+fill: #231F20;
+}
+.su_51{
+font-size: 12.10px;
+font-family: TECHMath-Mix_164;
+fill: #231F20;
+}
+.sv_51{
+font-size: 13.75px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #00AEEF;
+}
+.sw_51{
+font-size: 12.22px;
+font-family: TECHMath-Mix_14o;
+fill: #231F20;
+}
+.sx_51{
+font-size: 12.22px;
+font-family: TECHMath-Mix_13x;
+fill: #231F20;
+}
+.sy_51{
+font-size: 12.22px;
+font-family: TECHMath-Mix_x7;
+fill: #231F20;
+}
+.sz_51{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_51{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g1_51{
+fill: #231F20;
+}
+.g2_51{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g3_51{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g4_51{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.687;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_51{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g6_51{
+fill: none;
+stroke: #8A8C8E;
+stroke-width: 0.534;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g7_51{
+fill: #FFFFFF;
+}
+.g8_51{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.527;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_51{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.907;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.ga_51{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.907;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.gb_51{
+fill: none;
+stroke: #8A8C8E;
+stroke-width: 0.528;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.gc_51{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.605;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.gd_51{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.512;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.ge_51{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.gf_51{
+fill: #EC008C;
+}
+.gg_51{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.gh_51{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 9.168;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.gi_51{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.069;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_51)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="544" y="64" dx="0,.2,.2,.5,.2,.2,.2" class="s1_51">SECTION</text>
+<text x="596" y="64" class="s2_51">1.1</text>
+<text x="626" y="64" dx="0,-.3,.1,.1,.1,-.3,-.3,0,0,.1,.1,0,.1,.1,.2,.1,.1,0,.1,.1,.1,.1,.1,.1,.1,.1,-.3,.1,.1,.3,.1,.1,.1,.1" class="s3_51">Four Ways to Represent a Function </text>
+<text x="862" y="64" class="s4_51">19</text>
+<text x="361" y="117" class="s5_51">A function </text>
+<text x="433" y="117" class="s6_51">f</text>
+<text x="443" y="117" class="s5_51">is called </text>
+<text x="497" y="117" dx="0,0,0,0,-.3,0,0,0,0,0" class="s7_51">increasing</text>
+<text x="568" y="117" dx="0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0" class="s5_51">on an interval </text>
+<text x="655" y="117" class="s6_51">I</text>
+<text x="665" y="117" class="s5_51">if</text>
+<text x="478" y="149" class="s6_51">f</text>
+<text x="485" y="149" class="s8_51">s</text>
+<text x="491" y="149" class="s6_51">x</text>
+<text x="498" y="151" class="s9_51">1</text>
+<text x="504" y="149" class="s8_51">d</text>
+<text x="514" y="149" class="sa_51">,</text>
+<text x="531" y="149" class="s6_51">f</text>
+<text x="538" y="149" class="s8_51">s</text>
+<text x="544" y="149" class="s6_51">x</text>
+<text x="551" y="151" class="s9_51">2</text>
+<text x="557" y="149" class="s8_51">d</text>
+<text x="608" y="149" class="s5_51">whenever </text>
+<text x="672" y="149" class="s6_51">x</text>
+<text x="680" y="151" class="s9_51">1</text>
+<text x="689" y="149" class="sa_51">,</text>
+<text x="706" y="149" class="s6_51">x</text>
+<text x="714" y="151" class="s9_51">2</text>
+<text x="722" y="149" class="s5_51">in </text>
+<text x="738" y="149" class="s6_51">I</text>
+<text x="361" y="181" class="s5_51">±t is called </text>
+<text x="428" y="181" dx="0,0,0,0,-.3,0,0,0,0,0" class="s7_51">decreasing</text>
+<text x="501" y="181" class="s5_51">on </text>
+<text x="521" y="181" class="s6_51">I</text>
+<text x="530" y="181" class="s5_51">if</text>
+<text x="478" y="213" class="s6_51">f</text>
+<text x="485" y="213" class="s8_51">s</text>
+<text x="491" y="213" class="s6_51">x</text>
+<text x="498" y="215" class="s9_51">1</text>
+<text x="504" y="213" class="s8_51">d</text>
+<text x="514" y="213" class="sa_51">.</text>
+<text x="531" y="213" class="s6_51">f</text>
+<text x="538" y="213" class="s8_51">s</text>
+<text x="544" y="213" class="s6_51">x</text>
+<text x="551" y="215" class="s9_51">2</text>
+<text x="557" y="213" class="s8_51">d</text>
+<text x="608" y="213" class="s5_51">whenever </text>
+<text x="672" y="213" class="s6_51">x</text>
+<text x="680" y="215" class="s9_51">1</text>
+<text x="689" y="213" class="sa_51">,</text>
+<text x="706" y="213" class="s6_51">x</text>
+<text x="714" y="215" class="s9_51">2</text>
+<text x="722" y="213" class="s5_51">in </text>
+<text x="738" y="213" class="s6_51">I</text>
+<path d="M345.7,97.7c0,0,-3.1,0,-3.1,3V228.3c0,0,0,3.1,3.1,3.1H875.1c0,0,3,0,3,-3.1V100.7c0,0,0,-3,-3,-3H345.7Z" class="g0_51"/>
+<text x="360" y="265" class="s5_51">±n the deInition of an increasing function it is important to realize that the inequality </text>
+<text x="344" y="283" class="s6_51">f</text>
+<text x="350" y="283" class="s8_51">s</text>
+<text x="356" y="283" class="s6_51">x</text>
+<text x="364" y="285" class="s9_51">1</text>
+<text x="370" y="283" class="s8_51">d</text>
+<text x="380" y="283" class="sa_51">,</text>
+<text x="397" y="283" class="s6_51">f</text>
+<text x="403" y="283" class="s8_51">s</text>
+<text x="409" y="283" class="s6_51">x</text>
+<text x="417" y="285" class="s9_51">2</text>
+<text x="423" y="283" class="s8_51">d</text>
+<text x="432" y="283" class="s5_51">must be satisIed for </text>
+<text x="559" y="283" dx="0,-.2,0,0,0" class="s6_51">every</text>
+<text x="596" y="283" class="s5_51">pair of numbers </text>
+<text x="697" y="283" class="s6_51">x</text>
+<text x="704" y="285" class="s9_51">1</text>
+<text x="713" y="283" class="s5_51">and </text>
+<text x="739" y="283" class="s6_51">x</text>
+<text x="746" y="285" class="s9_51">2</text>
+<text x="755" y="283" class="s5_51">in </text>
+<text x="771" y="283" class="s6_51">I</text>
+<text x="780" y="283" class="s5_51">with </text>
+<text x="812" y="283" class="s6_51">x</text>
+<text x="819" y="285" class="s9_51">1</text>
+<text x="828" y="283" class="sa_51">,</text>
+<text x="846" y="283" class="s6_51">x</text>
+<text x="853" y="285" class="s9_51">2</text>
+<text x="858" y="283" class="s5_51">.</text>
+<text x="360" y="302" dx="0,-1.7,0,0,.3,0,0,0,.3,0,0,0,.3,0,0,0,0,.3,0,0,0,0,0,0,.3,0,0,.3,0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,0,0,0" class="s5_51">You can see from Figure 23 that the function </text>
+<text x="642" y="302" class="s6_51">f</text>
+<text x="649" y="302" class="s8_51">s</text>
+<text x="655" y="302" class="s6_51">x</text>
+<text x="662" y="302" class="s8_51">d</text>
+<text x="671" y="302" class="sb_51">-</text>
+<text x="689" y="302" class="s6_51">x</text>
+<text x="697" y="295" class="s9_51">2</text>
+<text x="706" y="302" dx="0,0,0,.3,0,0,0,0,0,0,0,0,0,0,.3,0,0,.3,0,0,0,.3,0,0,0,0,0,-.4,0,0" class="s5_51">is decreasing on the interval </text>
+<text x="342" y="320" class="s8_51">s</text>
+<text x="347" y="320" class="sa_51">2`</text>
+<text x="370" y="320" dx="0,3.1" class="s5_51">,0</text>
+<text x="384" y="320" class="s8_51">g</text>
+<text x="393" y="320" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0" class="s5_51">and increasing on the interval </text>
+<text x="577" y="320" class="s8_51">f</text>
+<text x="582" y="320" class="s5_51">0,</text>
+<text x="597" y="320" class="sa_51">`</text>
+<text x="607" y="320" class="s8_51">d</text>
+<text x="612" y="320" class="s5_51">.</text>
+<text x="108" y="321" dx="0,.3,.3,.3,.3,.3,.1" class="sc_51">FIGURE </text>
+<text x="161" y="321" class="sd_51">23</text>
+<text x="173" y="288" class="se_51">0</text>
+<text x="171" y="166" class="sf_51">y</text>
+<text x="262" y="288" class="sg_51">x</text>
+<text x="238" y="188" class="sh_51">y=≈</text>
+<path fill-rule="evenodd" d="M182.7,164.9l-2.4,1.6l2.4,-6.5l2.5,6.5Z" class="g1_51"/>
+<path fill-rule="evenodd" d="M264.9,275.8l-1.7,-2.4l6.6,2.4l-6.6,2.5Z" class="g1_51"/>
+<path d="M129.8,164.4c13.1,46.7,28.2,111.5,52.9,111.4c24.8,-.1,40,-64.7,53,-111.4" class="g2_51"/>
+<g clip-path="url(#c0_51)">
+<path d="M182.7,296.5V164.4M108.5,275.8H265.2" class="g3_51"/>
+</g>
+<text x="116" y="421" class="si_51">1. </text>
+<text x="133" y="421" class="sj_51">±f </text>
+<text x="148" y="421" class="sk_51">f</text>
+<text x="154" y="421" class="sl_51">s</text>
+<text x="159" y="421" class="sk_51">x</text>
+<text x="165" y="421" class="sl_51">d</text>
+<text x="174" y="421" class="sm_51">-</text>
+<text x="190" y="421" class="sk_51">x</text>
+<text x="200" y="421" class="sn_51">1</text>
+<text x="215" y="421" class="so_51">s</text>
+<text x="226" y="421" class="sj_51">2</text>
+<text x="237" y="421" class="sn_51">2</text>
+<text x="252" y="421" class="sk_51">x</text>
+<g clip-path="url(#c1_51)">
+<path d="M226.3,408.4h34.8" class="g4_51"/>
+</g>
+<text x="264" y="421" class="sj_51">and </text>
+<text x="287" y="421" class="so_51">t</text>
+<text x="294" y="421" class="sl_51">s</text>
+<text x="298" y="421" class="sk_51">u</text>
+<text x="305" y="421" class="sl_51">d</text>
+<text x="314" y="421" class="sm_51">-</text>
+<text x="330" y="421" class="sk_51">u</text>
+<text x="340" y="421" class="sn_51">1</text>
+<text x="356" y="421" class="so_51">s</text>
+<text x="366" y="421" class="sj_51">2</text>
+<text x="377" y="421" class="sn_51">2</text>
+<text x="393" y="421" class="sk_51">u</text>
+<g clip-path="url(#c2_51)">
+<path d="M367,408.4h35.6" class="g4_51"/>
+</g>
+<text x="402" y="421" class="sj_51">, is it true </text>
+<text x="133" y="437" class="sj_51">that </text>
+<text x="159" y="437" class="sk_51">f</text>
+<text x="167" y="437" class="sm_51">-</text>
+<text x="183" y="437" class="so_51">t</text>
+<text x="189" y="437" class="sj_51">?</text>
+<text x="116" y="462" class="si_51">2. </text>
+<text x="133" y="462" class="sj_51">±f</text>
+<text x="197" y="485" class="sk_51">f</text>
+<text x="203" y="485" class="sl_51">s</text>
+<text x="208" y="485" class="sk_51">x</text>
+<text x="214" y="485" class="sl_51">d</text>
+<text x="223" y="485" class="sm_51">-</text>
+<text x="240" y="475" class="sk_51">x</text>
+<text x="248" y="470" class="sp_51">2</text>
+<text x="256" y="475" class="sn_51">2</text>
+<text x="272" y="475" class="sk_51">x</text>
+<g clip-path="url(#c3_51)">
+<path d="M239.2,480.8h41.5" class="g4_51"/>
+</g>
+<text x="243" y="494" class="sk_51">x</text>
+<text x="253" y="494" class="sn_51">2</text>
+<text x="269" y="494" class="sj_51">1</text>
+<text x="307" y="485" class="sj_51">and </text>
+<text x="355" y="485" class="so_51">t</text>
+<text x="361" y="485" class="sl_51">s</text>
+<text x="365" y="485" class="sk_51">x</text>
+<text x="371" y="485" class="sl_51">d</text>
+<text x="380" y="485" class="sm_51">-</text>
+<text x="396" y="485" class="sk_51">x</text>
+<text x="135" y="519" class="sj_51">is it true that </text>
+<text x="210" y="519" class="sk_51">f</text>
+<text x="218" y="519" class="sm_51">-</text>
+<text x="234" y="519" class="so_51">t</text>
+<text x="239" y="519" class="sj_51">?</text>
+<text x="116" y="544" class="si_51">3. </text>
+<text x="133" y="544" class="sj_51">The graph of a function </text>
+<text x="268" y="544" class="sk_51">f</text>
+<text x="278" y="544" dx="0,0,0,0,0,-.3,-.2,0,0" class="sj_51">is given.</text>
+<text x="133" y="561" dx="0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0" class="sj_51">(a) State the value of </text>
+<text x="257" y="561" class="sk_51">f</text>
+<text x="263" y="561" class="sl_51">s</text>
+<text x="268" y="561" class="sj_51">1</text>
+<text x="275" y="561" class="sl_51">d</text>
+<text x="279" y="561" class="sj_51">.</text>
+<text x="133" y="578" dx="0,0,0,0,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0" class="sj_51">(b) Estimate the value of </text>
+<text x="278" y="578" class="sk_51">f</text>
+<text x="284" y="578" class="sl_51">s</text>
+<text x="288" y="578" class="sn_51">2</text>
+<text x="300" y="578" class="sj_51">1</text>
+<text x="307" y="578" class="sl_51">d</text>
+<text x="311" y="578" class="sj_51">.</text>
+<text x="133" y="594" dx="0,0,0,0,4.2,-.2,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0" class="sj_51">(c) For what values of </text>
+<text x="262" y="594" class="sk_51">x</text>
+<text x="272" y="594" class="sj_51">is </text>
+<text x="286" y="594" class="sk_51">f</text>
+<text x="292" y="594" class="sl_51">s</text>
+<text x="298" y="594" class="sk_51">x</text>
+<text x="304" y="594" class="sl_51">d</text>
+<text x="312" y="594" class="sm_51">-</text>
+<text x="328" y="594" class="sj_51">1?</text>
+<text x="133" y="611" dx="0,0,0,0,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0" class="sj_51">(d) Estimate the value of </text>
+<text x="276" y="611" class="sk_51">x</text>
+<text x="286" y="611" class="sj_51">such that </text>
+<text x="340" y="611" class="sk_51">f</text>
+<text x="346" y="611" class="sl_51">s</text>
+<text x="352" y="611" class="sk_51">x</text>
+<text x="358" y="611" class="sl_51">d</text>
+<text x="366" y="611" class="sm_51">-</text>
+<text x="382" y="611" class="sj_51">0.</text>
+<text x="133" y="628" dx="0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sj_51">(e) State the domain and range of </text>
+<text x="326" y="628" class="sk_51">f</text>
+<text x="330" y="628" class="sj_51">.</text>
+<text x="133" y="645" dx="0,0,1.2,1.2,3.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0" class="sj_51">(f) On what interval is </text>
+<text x="266" y="645" class="sk_51">f</text>
+<text x="275" y="645" class="sj_51">increasing?</text>
+<path d="M241.3,752.4c26.9,-17.2,31.3,-26.3,36.5,-36.7c7.1,-14.4,11,-36.4,18.5,-36.4c10.8,0,30.2,41.7,54.7,45.6" class="g5_51"/>
+<text x="266" y="666" class="sq_51">y</text>
+<text x="268" y="745" class="sr_51">0</text>
+<text x="363" y="745" class="sr_51">x</text>
+<path d="M222.9,734.1H364.7" class="g3_51"/>
+<path fill-rule="evenodd" d="M364.7,734.1L363,731.6l6.5,2.5l-6.5,2.4Z" class="g1_51"/>
+<path d="M277.9,789.1V665.7" class="g3_51"/>
+<path fill-rule="evenodd" d="M277.9,665.7l-2.5,1.6l2.5,-6.5l2.4,6.5Z" class="g1_51"/>
+<path d="M241.3,789.1V660.7m-18.4,110H369.6M222.9,679.1H369.6M222.9,697.4H369.6M222.9,715.7H369.6m-18.3,73.4V660.7M332.9,789.1V660.7M314.6,789.1V660.7M296.3,789.1V660.7M259.6,789.1V660.7m-36.7,91.7H369.6M222.9,660.7H369.6V789.1H222.9Z" class="g6_51"/>
+<path d="M289.6,750.1h13.8V736.3H289.6v13.8Z" class="g7_51"/>
+<text x="294" y="747" class="sr_51">1</text>
+<path d="M374,661.1V789.4" class="g8_51"/>
+<path d="M262.9,721.5h9.2V709.3h-9.2v12.2Z" class="g7_51"/>
+<text x="265" y="720" class="sr_51">1</text>
+<text x="116" y="814" class="ss_51">4. </text>
+<text x="133" y="814" class="sj_51">The graphs of </text>
+<text x="215" y="814" class="sk_51">f</text>
+<text x="224" y="814" class="sj_51">and </text>
+<text x="247" y="814" class="so_51">t</text>
+<text x="257" y="814" dx="0,0,0,0,0,0,-.3,-.2,0,0" class="sj_51">are given.</text>
+<path d="M223.9,875.3c18.1,0,25,36.3,72.6,36.3c23.1,0,43.5,-34.4,54.4,-63.5" class="g9_51"/>
+<path d="M223.9,957c25.3,0,35.5,-90.7,72.6,-90.7c31,0,58.2,40.8,72.6,72.6" class="ga_51"/>
+<text x="336" y="860" class="st_51">g</text>
+<text x="381" y="931" class="su_51">x</text>
+<text x="285" y="836" class="su_51">y</text>
+<text x="287" y="931" class="su_51">0</text>
+<text x="263" y="876" class="st_51">f</text>
+<path d="M205.7,975.2H387.2V830H205.7V975.2Z" class="gb_51"/>
+<path d="M296.5,975.2V834.5" class="gc_51"/>
+<path fill-rule="evenodd" d="M296.5,834.5l-2.4,1.6l2.4,-6.4l2.4,6.4Z" class="g1_51"/>
+<path d="M205.7,920.7h177" class="gc_51"/>
+<path fill-rule="evenodd" d="M382.7,920.7l-1.6,-2.4l6.5,2.4l-6.5,2.4Z" class="g1_51"/>
+<path d="M205.7,848.1H387.2M369.1,830V975.2M350.9,830V975.2M223.9,830V975.2M332.8,830V975.2M314.6,830V975.2M278.3,830V975.2M260.2,830V975.2M242,830V975.2M205.7,957H387.2M205.7,938.9H387.2M205.7,902.6H387.2M205.7,884.4H387.2M205.7,866.3H387.2" class="gb_51"/>
+<path d="M285.2,891.4h9V877.8h-9v13.6Z" class="g7_51"/>
+<text x="285" y="887" class="su_51">2</text>
+<path d="M326,936.2h13.6V922.6H326v13.6Z" class="g7_51"/>
+<text x="329" y="933" class="su_51">2</text>
+<path d="M391.2,830.4V975.6" class="gd_51"/>
+<text x="133" y="1001" dx="0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0" class="sj_51">(a) State the values of </text>
+<text x="262" y="1001" class="sk_51">f</text>
+<text x="268" y="1001" class="sl_51">s</text>
+<text x="273" y="1001" class="sn_51">2</text>
+<text x="284" y="1001" class="sj_51">4</text>
+<text x="291" y="1001" class="sl_51">d</text>
+<text x="299" y="1001" class="sj_51">and </text>
+<text x="323" y="1001" class="so_51">t</text>
+<text x="329" y="1001" class="sl_51">s</text>
+<text x="333" y="1001" class="sj_51">3</text>
+<text x="340" y="1001" class="sl_51">d</text>
+<text x="345" y="1001" class="sj_51">.</text>
+<text x="133" y="1018" dx="0,0,0,0,3.5,-.2,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0" class="sj_51">(b) For what values of </text>
+<text x="262" y="1018" class="sk_51">x</text>
+<text x="272" y="1018" class="sj_51">is </text>
+<text x="286" y="1018" class="sk_51">f</text>
+<text x="292" y="1018" class="sl_51">s</text>
+<text x="298" y="1018" class="sk_51">x</text>
+<text x="304" y="1018" class="sl_51">d</text>
+<text x="312" y="1018" class="sm_51">-</text>
+<text x="328" y="1018" class="so_51">t</text>
+<text x="334" y="1018" class="sl_51">s</text>
+<text x="339" y="1018" class="sk_51">x</text>
+<text x="345" y="1018" class="sl_51">d</text>
+<text x="350" y="1018" class="sj_51">?</text>
+<path d="M498.1,1017H878.5" class="ge_51"/>
+<text x="523" y="421" dx="0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sj_51">(c) Estimate the solution of the equation </text>
+<text x="753" y="421" class="sk_51">f</text>
+<text x="759" y="421" class="sl_51">s</text>
+<text x="765" y="421" class="sk_51">x</text>
+<text x="771" y="421" class="sl_51">d</text>
+<text x="779" y="421" class="sm_51">-</text>
+<text x="795" y="421" class="sn_51">2</text>
+<text x="806" y="421" class="sj_51">1.</text>
+<text x="523" y="438" dx="0,0,0,0,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0" class="sj_51">(d) On what interval is </text>
+<text x="656" y="438" class="sk_51">f</text>
+<text x="665" y="438" class="sj_51">decreasing?</text>
+<text x="523" y="455" dx="0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sj_51">(e) State the domain and range of </text>
+<text x="716" y="455" class="sk_51">f</text>
+<text x="719" y="455" class="sj_51">.</text>
+<text x="523" y="471" dx="0,0,0,-2.2,1.2,3.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sj_51">(f ) State the domain and range of </text>
+<text x="714" y="471" class="so_51">t</text>
+<text x="720" y="471" class="sj_51">.</text>
+<text x="505" y="496" class="si_51">5. </text>
+<text x="523" y="496" dx="0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sj_51">Figure 1 was recorded by an instrument operated by the </text>
+<text x="523" y="513" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0" class="sj_51">California Department of Mines and Geology at the University </text>
+<text x="523" y="529" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sj_51">Hospital of the University of Southern California in Los </text>
+<text x="523" y="546" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.1,.1,.1,.1,-.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,0" class="sj_51">Angeles. Use it to estimate the range of the vertical ground </text>
+<text x="523" y="563" dx="0,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0" class="sj_51">acceleration function at USC during the Northridge earthquake.</text>
+<text x="505" y="588" class="si_51">6. </text>
+<text x="523" y="588" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.9,0,0,-.3,-.2,0,0,0,0,0,0" class="sj_51">±n this section we discussed examples of ordinary, everyday </text>
+<text x="523" y="604" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,0" class="sj_51">functions: Population is a function of time, postage cost is a </text>
+<text x="523" y="621" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.2,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0" class="sj_51">function of weight, water temperature is a function of time. Give </text>
+<text x="523" y="638" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sj_51">three other examples of functions from everyday life that are </text>
+<text x="523" y="655" dx="0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,-.9,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sj_51">described verbally. What can you say about the domain and </text>
+<text x="523" y="672" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0" class="sj_51">range of each of your functions? ±f possible, sketch a rough </text>
+<text x="523" y="688" class="sj_51">graph of each function.</text>
+<text x="498" y="713" class="sv_51">7–10 </text>
+<text x="533" y="713" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sj_51">Determine whether the curve is the graph of a function of </text>
+<text x="852" y="713" class="sk_51">x</text>
+<text x="858" y="713" class="sj_51">. </text>
+<text x="498" y="730" class="sj_51">±f it is, state the domain and range of the function.</text>
+<text x="507" y="758" class="si_51">7. </text>
+<text x="706" y="758" class="si_51">8.</text>
+<path d="M749,790.1c1.9,15.1,22.9,36.7,31.9,36.7c18.1,0,13.8,-43.8,41.5,-55" class="g5_51"/>
+<text x="775" y="759" class="sq_51">y</text>
+<text x="834" y="821" class="sw_51">x</text>
+<text x="777" y="819" class="sx_51">0</text>
+<path d="M747.3,790.1c0,-.9,.8,-1.7,1.7,-1.7c1,0,1.7,.8,1.7,1.7c0,1,-.7,1.7,-1.7,1.7c-.9,0,-1.7,-.7,-1.7,-1.7Z" class="gf_51"/>
+<path d="M747.3,790.1c0,-.9,.8,-1.7,1.7,-1.7c1,0,1.7,.8,1.7,1.7c0,1,-.7,1.7,-1.7,1.7c-.9,0,-1.7,-.7,-1.7,-1.7Z" class="gg_51"/>
+<path d="M820.6,771.8c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gf_51"/>
+<path d="M820.6,771.8c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gg_51"/>
+<path d="M730.7,771.8h110m-110,18.3h110m-110,18.4h110m-110,18.3h110m-110,18.3h110M822.4,753.4V863.5M804,753.4V863.5M785.7,753.4V863.5M767.3,753.4V863.5M749,753.4V863.5M730.7,753.4h110V863.5h-110Z" class="g6_51"/>
+<path d="M785.7,863.5V758.4" class="g3_51"/>
+<path fill-rule="evenodd" d="M785.7,758.4l-2.5,1.6l2.5,-6.5l2.4,6.5Z" class="g1_51"/>
+<path d="M730.7,808.5h105" class="g3_51"/>
+<path fill-rule="evenodd" d="M835.7,808.5L834.1,806l6.5,2.5l-6.5,2.4Z" class="g1_51"/>
+<path d="M774.1,797.3h9.2V783.5h-9.2v13.8Z" class="g7_51"/>
+<path d="M797.2,824.2H811V810.4H797.2v13.8Z" class="g7_51"/>
+<text x="801" y="821" class="sy_51">1</text>
+<text x="776" y="793" class="sy_51">1</text>
+<path d="M645.7,754.9V863" class="gh_51"/>
+<path d="M547.5,976.5c-7,6.1,-12.8,11.2,-18.3,18.3" class="g5_51"/>
+<path d="M527.5,994.8c0,-.9,.7,-1.7,1.7,-1.7c1,0,1.7,.8,1.7,1.7c0,1,-.7,1.7,-1.7,1.7c-1,0,-1.7,-.7,-1.7,-1.7Z" class="gf_51"/>
+<path d="M527.5,994.8c0,-.9,.7,-1.7,1.7,-1.7c1,0,1.7,.8,1.7,1.7c0,1,-.7,1.7,-1.7,1.7c-1,0,-1.7,-.7,-1.7,-1.7Z" class="gg_51"/>
+<path d="M547.5,958.1C559.8,923.4,598.7,885,610.9,885c4.4,0,6.6,2.1,10,6.5" class="g5_51"/>
+<path d="M545.8,958.1c0,-.9,.8,-1.7,1.7,-1.7c1,0,1.8,.8,1.8,1.7c0,1,-.8,1.8,-1.8,1.8c-.9,0,-1.7,-.8,-1.7,-1.8Z" class="gf_51"/>
+<path d="M545.8,958.1c0,-.9,.8,-1.7,1.7,-1.7c1,0,1.8,.8,1.8,1.7c0,1,-.8,1.8,-1.8,1.8c-.9,0,-1.7,-.8,-1.7,-1.8Z" class="gg_51"/>
+<path d="M619.2,891.5c0,-1,.7,-1.8,1.7,-1.8c.9,0,1.7,.8,1.7,1.8c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.7,-.8,-1.7,-1.7Z" class="gf_51"/>
+<path d="M619.2,891.5c0,-1,.7,-1.8,1.7,-1.8c.9,0,1.7,.8,1.7,1.8c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.7,-.8,-1.7,-1.7Z" class="gg_51"/>
+<path d="M529.2,903.1h110m-110,18.4h110m-110,18.3h110m-110,18.3h110m-110,18.4h110M620.9,884.8v110m-18.4,-110v110m-18.3,-110v110m-18.3,-110v110m-18.4,-110v110m-18.3,-110h110v110h-110Z" class="g6_51"/>
+<path d="M584.2,994.8V889.7" class="g3_51"/>
+<path fill-rule="evenodd" d="M584.2,889.7l-2.4,1.7l2.4,-6.5l2.5,6.5Z" class="g1_51"/>
+<path d="M529.2,939.8H634.3" class="g3_51"/>
+<path fill-rule="evenodd" d="M634.3,939.8l-1.7,-2.4l6.5,2.4l-6.5,2.4Z" class="g1_51"/>
+<text x="573" y="891" class="sq_51">y</text>
+<text x="632" y="952" class="sw_51">x</text>
+<text x="575" y="951" class="sx_51">0</text>
+<path d="M573.5,928.6h8.3V916.5h-8.3v12.1Z" class="g7_51"/>
+<path d="M595.8,955.5h13.7V941.8H595.8v13.7Z" class="g7_51"/>
+<text x="575" y="924" class="sy_51">1</text>
+<text x="599" y="952" class="sy_51">1</text>
+<path d="M545.8,976.5c0,-1,.8,-1.7,1.7,-1.7c1,0,1.8,.7,1.8,1.7c0,.9,-.8,1.7,-1.8,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="g7_51"/>
+<path d="M545.8,976.5c0,-1,.8,-1.7,1.7,-1.7c1,0,1.8,.7,1.8,1.7c0,.9,-.8,1.7,-1.8,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="gg_51"/>
+<path d="M785.6,995.4v-105" class="g3_51"/>
+<path fill-rule="evenodd" d="M785.6,890.4l-2.4,1.6l2.4,-6.5l2.5,6.5Z" class="g1_51"/>
+<text x="775" y="891" class="sq_51">y</text>
+<text x="834" y="953" class="sw_51">x</text>
+<text x="777" y="951" class="sx_51">0</text>
+<path d="M730.6,995.4H749V977.1h18.3V958.8h18.3V940.4H804V922.1h18.3V903.7h18.3V885.4" class="gi_51"/>
+<path d="M730.6,995.4H749V977.1h18.3V958.8h18.3V940.4H804V922.1h18.3V903.7h18.3V885.4" class="g5_51"/>
+<path d="M785.7,958.6l-.1,36.8m.1,-110l-.1,54.9m18.4,0v55.1m0,-110v36.7m-73.3,0h73.2m18.2,0h18.5M822.4,922l-.1,73.4m0,-110v18.3m-91.6,0h91.4" class="g6_51"/>
+<path d="M803.7,940.4h32" class="g3_51"/>
+<path fill-rule="evenodd" d="M835.7,940.4L834,938l6.6,2.4l-6.6,2.5Z" class="g1_51"/>
+<path d="M730.7,940.4h54.6" class="g3_51"/>
+<path d="M797.2,956.1h13.7V942.4H797.2v13.7Z" class="g7_51"/>
+<text x="801" y="953" class="sy_51">1</text>
+<path d="M774,929.3h9.2V915.5H774v13.8Z" class="g7_51"/>
+<text x="776" y="925" class="sy_51">1</text>
+<path d="M730.6,995.4v-110h110m.1,18.2l-.1,91.8H748.7m.3,-110v91.7m-18.3,0h18.1m18.3,0h73.5M767.3,977v18.4m0,-110v73.3m-36.6,.1H767m18.5,0h55.1" class="g6_51"/>
+<path d="M530.1,845.6c30.5,-3.1,64.7,-8.4,64.7,-24.5c0,-9.5,-30.5,-18.7,-30.5,-27.5c0,-11.2,42.9,-21,75.8,-21.4" class="g5_51"/>
+<path d="M530.1,808.9h110" class="g6_51"/>
+<path d="M585.1,863.9v-105" class="g3_51"/>
+<path fill-rule="evenodd" d="M585.1,758.9l-2.5,1.6l2.5,-6.5l2.4,6.5Z" class="g1_51"/>
+<text x="574" y="760" class="sq_51">y</text>
+<text x="633" y="821" class="sw_51">x</text>
+<text x="576" y="820" class="sx_51">0</text>
+<path d="M530.1,772.2h110m-110,18.4h110m-110,36.6h110m-110,18.4h110M621.7,753.9v110m-18.3,-110v110m-18.3,-110v110m-18.4,-110v110m-18.3,-110v110m-18.3,-110h110v110h-110Z" class="g6_51"/>
+<path d="M530.1,808.9h105" class="g3_51"/>
+<path fill-rule="evenodd" d="M635.1,808.9l-1.6,-2.4l6.5,2.4l-6.5,2.5Z" class="g1_51"/>
+<path d="M574.4,785.6l8.2,-1.6v13.8h-9.1Z" class="g7_51"/>
+<path d="M596.6,824.6h13.8V810.9H596.6v13.7Z" class="g7_51"/>
+<text x="600" y="821" class="sy_51">1</text>
+<text x="576" y="793" class="sy_51">1</text>
+<path d="M644.5,754.6V863.9" class="g8_51"/>
+<text x="507" y="892" class="si_51">9. </text>
+<text x="699" y="892" class="si_51">10.</text>
+<image preserveAspectRatio="none" x="107" y="359" width="773" height="34" xlink:href="51/img/1.png"/>
+<text x="121" y="1076" class="sz_51">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="sz_51">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: BeaconDingbatsTypeOne_12w;
+	src: url("fonts/BeaconDingbatsTypeOne_12w.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_12-;
+	src: url("fonts/TECHMath-Mix_12-.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_13x;
+	src: url("fonts/TECHMath-Mix_13x.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_14o;
+	src: url("fonts/TECHMath-Mix_14o.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_151;
+	src: url("fonts/TECHMath-Mix_151.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_15k;
+	src: url("fonts/TECHMath-Mix_15k.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_160;
+	src: url("fonts/TECHMath-Mix_160.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_164;
+	src: url("fonts/TECHMath-Mix_164.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_wh;
+	src: url("fonts/TECHMath-Mix_wh.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_x7;
+	src: url("fonts/TECHMath-Mix_x7.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Bold_oh;
+	src: url("fonts/TimesLTStd-Bold_oh.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

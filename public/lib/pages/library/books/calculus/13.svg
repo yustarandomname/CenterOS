@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 13 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_13"><path d="M0,0H931V1096H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_13{
+font-size: 15.28px;
+font-family: MyriadPro-SemiboldSemiCn_4e;
+fill: #231F20;
+}
+.s2_13{
+font-size: 15.28px;
+font-family: Times-Roman_n6;
+fill: #231F20;
+}
+.s3_13{
+font-size: 15.28px;
+font-family: Times-Italic_n3;
+fill: #231F20;
+}
+.s4_13{
+font-size: 7.64px;
+font-family: ZapfDingbatsITC_my;
+fill: #00AEEF;
+}
+.s5_13{
+font-size: 13.75px;
+font-family: MyriadPro-Light_n0;
+fill: #231F20;
+}
+.s6_13{
+font-size: 9.63px;
+font-family: MyriadPro-Light-SC700_na;
+fill: #231F20;
+}
+.s7_13{
+font-size: 45.83px;
+font-family: MyriadPro-SemiboldSemiCn_4e;
+fill: #231F20;
+}
+.s8_13{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_13{
+fill: #E7E8E8;
+}
+.g1_13{
+fill: none;
+stroke: #0079C2;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_13)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<image preserveAspectRatio="none" x="0" y="-19" width="970" height="61" xlink:href="13/img/1.png"/>
+<image preserveAspectRatio="none" x="97" y="45" width="865" height="118" xlink:href="13/img/2.png"/>
+<text x="867" y="1043" class="s1_13">xi</text>
+<text x="342" y="320" dx="0,0,0,0,.4,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0,.4,0,0,0,0,0,.4,0,0,.4,0,0,0,.4,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,0,.4,0,.4,0,0,0,0,.4,0,0,0,0,0" class="s2_13">The art of teaching, Mark Van Doren said, is the art of assisting discovery. I have tried </text>
+<text x="342" y="338" dx="0,0,0,-.4,0,0,0,0,0,-.4,0,-.4,0,0,0,0,-.4,0,0,0,0,-.4,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,-.4,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,-.4,0,0,0,-.4,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0" class="s2_13">to write a book that assists students in discovering calculus—both for its practical power </text>
+<text x="342" y="357" dx="0,0,0,0,.9,0,0,0,.9,0,0,0,0,0,0,0,0,0,0,.9,0,0,0,0,0,0,0,.9,0,0,.9,0,0,0,0,.9,0,0,0,0,0,0,0,0,.9,0,0,.9,0,0,.9,0,0,0,.9,0,0,0,0,.9,0,0,0,0,0,.9,0,0,0,0,0,0,0,0,0,.9,0,.9,0,0,0,.9,0,0,.9,0,0,0,0,0,0" class="s2_13">and its surprising beauty. In this edition, as in the ﬁrst seven editions, I aim to convey </text>
+<text x="342" y="375" dx="0,0,0,.4,0,0,0,.4,0,0,0,0,0,0,0,.4,0,.4,0,0,0,0,0,.4,0,0,.4,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,0,0,.4,0,0,0,.4,0" class="s2_13">to the student a sense of the utility of calculus and develop technical competence, but I </text>
+<text x="342" y="393" dx="0,0,0,0,0,2.1,0,0,0,0,0,0,2.2,0,0,2.1,0,0,0,0,2.2,0,0,0,0,2.1,0,0,0,0,0,0,0,0,0,0,0,0,2.1,0,0,0,2.1,0,0,0,2.2,0,0,0,0,0,0,0,0,0,2.1,0,0,0,0,0,0,2.1,0,0,2.2,0,0,0,2.1,0,0,0,0,0,0,0,0,2.2,0,0,0,0,0,0" class="s2_13">also strive to give some appreciation for the intrinsic beauty of the subject. Newton </text>
+<text x="342" y="412" dx="0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,-.1,0,-.1,0,0,0,0,0,-.1,0,0,-.1,0,0,0,0,0,0,0,-.1,0,0,0,0,-.1,0,0,-.1,0,0,0,0,-.1,0,0,0,-.1,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,-.1,0,0,0,0" class="s2_13">undoubtedly experienced a sense of triumph when he made his great discoveries. I want </text>
+<text x="342" y="430" dx="0,0,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,.4,0,0,0,0,.4,0,0,.4,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,0" class="s2_13">students to share some of that excitement.</text>
+<text x="360" y="448" dx="0,0,0,0,-.2,0,0,0,0,0,0,0,0,-.2,0,0,-.2,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,-.2,0,-.2,0,0,0,0,0,-.2,0,0,0,0,-.2,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,-.2,0,0,0,0" class="s2_13">The emphasis is on understanding concepts. I think that nearly everybody agrees that </text>
+<text x="342" y="467" dx="0,0,0,0,0,.6,0,0,0,0,0,0,.6,0,0,.6,0,0,0,.6,0,0,0,0,0,0,0,.6,0,0,0,0,.6,0,0,.6,0,0,0,0,0,0,0,0,.6,0,0,0,0,0,0,0,0,0,0,0,0,.6,0,0,.6,0,0,0,0,0,.6,0,0,0,.6,0,0,0,0,0,0,0,.6,0,0,0,.6,0,0,0,.6,0,0,0" class="s2_13">this should be the primary goal of calculus instruction. In fact, the impetus for the cur-</text>
+<text x="342" y="485" dx="0,0,0,0,0,.9,0,0,0,0,0,0,0,0,.9,0,0,0,0,0,0,.9,0,0,0,0,0,0,0,0,.9,0,0,0,0,.9,0,0,0,0,.9,0,0,0,.9,0,0,0,0,0,0,.9,0,0,0,0,0,0,0,0,0,0,.9,0,0,.9,0,0,0,0,0,.9,0,0,0,0,0,.9,0,0,0" class="s2_13">rent calculus reform movement came from the Tulane Conference in 1986, which for-</text>
+<text x="342" y="503" dx="0,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,.4,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s2_13">mulated as their ﬁrst recommendation: </text>
+<text x="498" y="531" dx="0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s3_13">Focus on conceptual understanding.</text>
+<text x="342" y="558" dx="0,0,1.1,0,0,0,0,1.1,0,0,0,0,0,1.1,0,0,1.1,0,0,0,0,0,0,0,0,0,1.1,0,0,0,0,1.1,0,0,0,0,1.1,0,0,0,0,0,0,0,1.1,0,0,0" class="s2_13">I have tried to implement this goal through the </text>
+<text x="640" y="558" dx="0,0,0,0,0,1.1,0,0,1.1,0,0,0,0,0" class="s3_13">Rule of Three:</text>
+<text x="735" y="558" dx="0,0,0,0,0,0,0,0,1.1,0,0,0,0,0,0,1.1,0,0,1.1,0,0,0" class="s2_13">“Topics should be pre-</text>
+<text x="342" y="577" dx="0,0,0,0,0,0,0,3.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.7,0,0,0,0,0,0,0,0,0,0,0,0,3.7,0,0,0,3.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.7,0,0,0,0,0,0,0,0,0,3.7,0,0,0" class="s2_13">sented geometrically, numerically, and algebraically.” Visualization, numerical and </text>
+<text x="342" y="595" dx="0,0,0,0,0,0,0,0,0,0,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.1,0,0,0,1.1,0,0,0,0,0,1.1,0,0,0,0,0,0,0,0,0,0,1.1,0,0,0,0,1.1,0,0,0,0,0,0,0,1.1,0,0,0,1.1,0,0,1.1,0,0,0,0,0,1.1,0,0,0,0,0,0" class="s2_13">graphical experimentation, and other approaches have changed how we teach concep-</text>
+<text x="342" y="613" dx="0,0,0,0,0,-.7,0,0,0,0,0,0,0,0,0,-.7,0,0,-.7,0,0,0,0,0,0,0,0,0,0,0,-.7,0,0,0,0,0,-.7,0,0,0,0,-.7,0,0,0,0,0,0,0,0,0,-.7,0,0,0,-.7,0,0,0,0,-.7,0,0,-.7,0,0,0,0,0,-.7,0,0,0,-.7,0,0,0,0,-.7,0,0,0,0,0,0,0,0" class="s2_13">tual reasoning in fundamental ways. More recently, the Rule of Three has been expanded </text>
+<text x="342" y="632" dx="0,0,0,.5,0,0,0,0,0,0,.5,0,0,0" class="s2_13">to become the </text>
+<text x="433" y="632" dx="0,0,0,0,0,.5,0,0,.5,0,0,0" class="s3_13">Rule of Four</text>
+<text x="516" y="632" dx="0,0,0,.5,0,0,0,0,0,0,0,0,0,0,0,.5,0,0,0,.5,0,0,0,0,0,0,0,.5,0,0,.5,0,0,0,0,0,0,0,0,0,0,0,0,.5,0,0,0,0,0,.5,0,0,.5,0,0,0,0,.5,0,0" class="s2_13">by emphasizing the verbal, or descriptive, point of view as </text>
+<text x="342" y="650" class="s2_13">well.</text>
+<text x="360" y="668" dx="0,0,0,.7,0,0,0,0,0,0,0,.7,0,0,0,.7,0,0,0,0,0,0,.7,0,0,0,0,0,0,0,.7,0,0,.7,0,0,0,0,0,0,0,.7,0,0,0,.7,0,0,0,0,.7,0,0,0,0,.7,0,0,.7,0,0,.7,0,0,0,0,0,0,0,0,.7,0,0,.7,0,0,0,0,0,0,0,.7,0,0,0" class="s2_13">In writing the eighth edition my premise has been that it is possible to achieve con-</text>
+<text x="342" y="687" dx="0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,-.4,0,0,0,0,0,-.4,0,0,0,0,0,0,-.4,0,0,0,-.4,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,-.4,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,-.4,0,0,0,-.4,0,0,0,0" class="s2_13">ceptual understanding and still retain the best traditions of traditional calculus. The book </text>
+<text x="342" y="705" dx="0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,.4,0,.4,0,0,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,0" class="s2_13">contains elements of reform, but within the context of a traditional curriculum.</text>
+<image preserveAspectRatio="none" x="105" y="742" width="775" height="38" xlink:href="13/img/3.png"/>
+<text x="342" y="806" dx="0,0,-.5,0,0,0,0,-.5,0,0,0,0,0,0,0,-.5,0,0,0,0,0,0,0,-.5,0,0,0,0,0,-.5,0,0,0,0,0,0,0,0,-.5,0,0,0,0,0,0,0,0,0,-.5,0,0,0,0,-.5,0,0,0,0,0,-.5,0,0,-.5,0,0,0,0,0,0,0,0,0,0,-.5,0,0,0,-.5,0,0,0,0,-.5,0,0,0,0,0,0,0" class="s2_13">I have written several other calculus textbooks that might be preferable for some instruc-</text>
+<text x="342" y="824" dx="0,0,0,0,0,0,.4,0,0,0,0,.4,0,0,.4,0,0,0,0,.4,0,0,0,0,.4,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0" class="s2_13">tors. Most of them also come in single variable and multivariable versions.</text>
+<text x="342" y="851" class="s4_13">●</text>
+<text x="360" y="852" class="s3_13">Calculus,</text>
+<text x="422" y="852" dx="0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,.4,0,0,0,0,0,0,0,.4,0,-.2,0,0,0,0,0,0,.4,-.2,0,0,0,0,0,.4,0,0,0,0,.4,0,0,0,.4,-.2,0,0,0,0,0,0" class="s2_13">Eighth Edition, is similar to the present textbook except that the exponen-</text>
+<text x="360" y="870" dx="0,0,0,0,0,0,.4,0,0,-.1,0,0,0,0,0,0,0,0,0,.4,0,0,0,.4,0,-.6,-.2,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,.4,0,0,0,.4,0,-.2,-.2,0,0,0,0,.4,0,0,.4,0,0,0,.4,0,0,0,0,0,0" class="s2_13">tial, logarithmic, and inverse trigonometric functions are covered in the second </text>
+<text x="360" y="889" dx="0,0,0,0,0,0,0,0,-.8" class="s2_13">semester.</text>
+<text x="342" y="911" class="s4_13">●</text>
+<text x="360" y="912" dx="0,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0" class="s3_13">Essential Calculus</text>
+<text x="475" y="912" dx="0,0,.4,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,.4,0,.4,0,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,0,0,.4,0,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,.4,0,0" class="s2_13">, Second Edition, is a much briefer book (840 pages), though it </text>
+<text x="360" y="930" dx="0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,.4,0,0,0,.4,0,0,.4,0,0,0,.4,0,0,0,0,0,0,.4,0,0" class="s2_13">contains almost all of the topics in </text>
+<text x="576" y="930" class="s3_13">Calculus,</text>
+<text x="639" y="930" dx="0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0,-.4,-.2,0,.4,0,0,-.4,0,0,0,0,.4,0,0" class="s2_13">Eighth Edition. The relative brevity is </text>
+<text x="360" y="948" dx="0,0,0,0,0,-.4,-.2,0,0,.4,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,.4,-.2,0,0,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,.4,0,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0" class="s2_13">achieved through briefer exposition of some topics and putting some features on the </text>
+<text x="360" y="967" class="s2_13">website.</text>
+<text x="342" y="989" class="s4_13">●</text>
+<text x="360" y="989" dx="0,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,.4,-.8,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s3_13">Essential Calculus: Early Transcendentals,</text>
+<text x="630" y="989" dx="0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,0" class="s2_13">Second Edition, resembles </text>
+<text x="797" y="989" class="s3_13">Essential </text>
+<text x="360" y="1008" class="s3_13">Calculus,</text>
+<text x="422" y="1008" dx="0,-.3,0,0,.4,0,0,0,.4,-.2,0,0,0,0,0,0,0,0,0,0,0,.4,0,0,-.1,0,0,0,0,0,0,0,0,0,.4,0,0,0,.4,0,-.6,-.2,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,.4,0,0,0" class="s2_13">but the exponential, logarithmic, and inverse trigonometric functions are </text>
+<text x="360" y="1026" dx="0,0,-.2,-.2,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,.4,0" class="s2_13">covered in Chapter 3.</text>
+<path d="M345.7,173.7c0,0,-3.1,0,-3.1,3.1V278.7c0,0,0,3,3.1,3H875.1c0,0,3,0,3,-3V176.8c0,0,0,-3.1,-3,-3.1Z" class="g0_13"/>
+<text x="365" y="196" dx="0,.5,1.3,.5,.6,.6,.6,.5,1.3,.6,.5,.6,.5,.6,.6,.6,.6,.6,1.3,.6,.6,.6,.6,.6,.6,1.3,.6,1.3,.6,.6,.6,.6,.5,1.3,.6,.6,.6,.6,.6,.6,.5,1.3,.6,.6,.5,1.3,.5,.5,.6,.6,.6,1.3,.5,.6,1.3,.6,1.3,.6,.6,.6,.5,.5,1.3,.6,.5,1.3,.6,.5,.6,.5,.5,.5,.5,.6,.6,1.3,.6,.6,1.3,.5,.6,0" class="s5_13">A great discovery solves a great problem but there is a grain of discovery in the </text>
+<text x="365" y="213" dx="0,.5,.5,.6,.6,.6,.5,.6,.5,1.3,.6,.5,1.3,.6,.5,.6,1.3,.6,.6,.6,.6,.6,.6,.5,.5,1.3,.5,.6,.6,.6,1.3,.6,.6,.6,.6,.6,.6,.5,1.3,.5,.6,.6,1.3,.6,.6,1.3,.5,.6,.6,.6,.6,.5,.5,1.3,.6,.6,.5,1.3,.5,.5,1.3,.5,.5,1.3,.5,.5,.6,.5,.6,.5,.6,.5,.5,.5,1.3,.6,.6,.5,0" class="s5_13">solution of any problem. Your problem may be modest; but if it challenges your </text>
+<text x="365" y="230" dx="0,.5,.6,.5,.5,.6,.6,.5,.5,.6,1.2,.6,.5,.6,1.2,.6,.6,.5,.5,.6,.6,1.2,.5,.5,.5,.6,1.2,.6,.6,.6,.6,1.2,.6,.6,.6,.6,1.2,.5,.5,.6,.6,.5,.5,.5,.6,.6,1.2,.5,.6,.5,.6,.6,.5,.5,.6,.6,.5,1.2,.6,.5,.6,1.2,.5,.5,1.2,.6,.6,.6,1.2,.6,.6,.6,.6,.5,1.2,.6,.5,1.2,.6,.6,1.2,.6,.6,.5,0" class="s5_13">curiosity and brings into play your inventive faculties, and if you solve it by your </text>
+<text x="365" y="247" dx="0,.5,.6,.5,.7,.5,.6,.6,.5,.6,.5,.7,.6,.6,.6,.7,.5,.6,.6,.7,.6,.6,.6,.6,.6,.5,.6,.5,.5,.6,.7,.5,.5,.6,.7,.5,.6,.5,.6,.5,.6,.5,.7,.6,.5,.6,.7,.6,.5,.6,.6,.6,.7,.5,.5,.6,.7,.5,.6,.5,.6,.5,.6,.5,.7,.6,.6,.7,.5,.6,.5,.6,.6,.5,.5,.6,.6" class="s5_13">own means, you may experience the tension and enjoy the triumph of discovery.</text>
+<text x="778" y="268" dx="0,1.4,1.4,1.4,1.5,1.4" class="s6_13">GEORGE</text>
+<text x="823" y="268" dx="0,1.4,1.4,.6,.7" class="s6_13">POLYA</text>
+<path d="M345.7,173.7c0,0,-3.1,0,-3.1,3.1V278.7c0,0,0,3,3.1,3H875.1c0,0,3,0,3,-3V176.8c0,0,0,-3.1,-3,-3.1H345.7Z" class="g1_13"/>
+<text x="161" y="98" dx="0,-.5,-.4,0,0,0,-.3" class="s7_13">Preface</text>
+<text x="121" y="1076" class="s8_13">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="s8_13">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MyriadPro-Light-SC700_na;
+	src: url("fonts/MyriadPro-Light-SC700_na.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Light_n0;
+	src: url("fonts/MyriadPro-Light_n0.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-SemiboldSemiCn_4e;
+	src: url("fonts/MyriadPro-SemiboldSemiCn_4e.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Italic_n3;
+	src: url("fonts/Times-Italic_n3.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_n6;
+	src: url("fonts/Times-Roman_n6.woff") format("woff");
+}
+
+@font-face {
+	font-family: ZapfDingbatsITC_my;
+	src: url("fonts/ZapfDingbatsITC_my.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

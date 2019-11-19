@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 96 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_96"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0_96"><path d="M624.8,229.6V201.5H719v28.1Z"/></clipPath>
+<clipPath id="c1_96"><path d="M513.7,392.4V364.1H597v28.3Z"/></clipPath>
+<clipPath id="c2_96"><path d="M287.2,485.2v-17h101v17Z"/></clipPath>
+<clipPath id="c3_96"><path d="M462.8,539.4V504H647.9v35.4Z"/></clipPath>
+<clipPath id="c4_96"><path d="M128.7,282.9V254.2h82.7v28.7Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_96{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_96{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_96{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s4_96{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s5_96{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s6_96{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s7_96{
+font-size: 9.17px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.s8_96{
+font-size: 9.17px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s9_96{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sa_96{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.sb_96{
+font-size: 15.28px;
+font-family: UniversalChemicalPi-T_-_;
+fill: #231F20;
+}
+.sc_96{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sd_96{
+font-size: 15.28px;
+font-family: MathematicalPi-One-Italic_x2;
+fill: #231F20;
+}
+.se_96{
+font-size: 16.81px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.sf_96{
+font-size: 17.57px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.sg_96{
+font-size: 21.39px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sh_96{
+font-size: 10.69px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.si_96{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #EC008C;
+}
+.sj_96{
+font-size: 15.28px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #231F20;
+}
+.sk_96{
+font-size: 12.99px;
+font-family: ZapfDingbatsITC_my;
+fill: #EC008C;
+}
+.sl_96{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.sm_96{
+font-size: 15.28px;
+font-family: TimesLTStd-Bold_oh;
+fill: #231F20;
+}
+.sn_96{
+font-size: 9.17px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.so_96{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_6c;
+fill: #00AEEF;
+}
+.sp_96{
+font-size: 8.25px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #00AEEF;
+}
+.sq_96{
+font-size: 8.25px;
+font-family: TimesLTStd-Roman_6c;
+fill: #00AEEF;
+}
+.sr_96{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #00AEEF;
+}
+.ss_96{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #00AEEF;
+}
+.st_96{
+font-size: 12.99px;
+font-family: TECHMath-Mix_1kl;
+fill: #231F20;
+}
+.su_96{
+font-size: 14.51px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sv_96{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sw_96{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1jz;
+fill: #231F20;
+}
+.sx_96{
+font-size: 12.22px;
+font-family: TECHMath-Mix_12-;
+fill: #231F20;
+}
+.sy_96{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1ac;
+fill: #231F20;
+}
+.sz_96{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1kh;
+fill: #231F20;
+}
+.s10_96{
+font-size: 9.17px;
+font-family: TECHMath-Mix_1kh;
+fill: #231F20;
+}
+.s11_96{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s12_96{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.s13_96{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.s14_96{
+font-size: 8.25px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.s15_96{
+font-size: 8.25px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.s16_96{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.s17_96{
+font-size: 13.75px;
+font-family: MathematicalPi-One-Italic_x2;
+fill: #231F20;
+}
+.s18_96{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1c_;
+fill: #231F20;
+}
+.s19_96{
+font-size: 9.17px;
+font-family: TECHMath-Mix_1c_;
+fill: #231F20;
+}
+.s1a_96{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_96{
+fill: #FFFFFF;
+}
+.g1_96{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_96{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_96{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.534;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_96{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.687;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_96{
+fill: #EC008C;
+}
+.g6_96{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.145;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_96{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.283;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_96{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g9_96{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.534;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.ga_96{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.gb_96{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.gc_96{
+fill: #231F20;
+}
+.gd_96{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.458;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.ge_96{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.gf_96{
+fill: #00AEEF;
+}
+.gg_96{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.gh_96{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.381;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_96)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="53" y="64" class="s1_96">64</text>
+<text x="126" y="64" dx="0,.2,.2,.2,.2,.2,.2,.1" class="s2_96">CHAPTER </text>
+<text x="180" y="64" class="s3_96">1</text>
+<text x="200" y="64" dx="0,-.3,.1,.1,.3,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.2,.1,.1,.1,.1" class="s4_96">Functions and Models</text>
+<text x="305" y="107" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.6,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_96">Since the deInition of an inverse function says that</text>
+<text x="466" y="143" class="s6_96">f</text>
+<text x="473" y="137" class="s7_96">2</text>
+<text x="481" y="137" class="s8_96">1</text>
+<text x="486" y="143" class="s9_96">s</text>
+<text x="491" y="143" class="s6_96">x</text>
+<text x="498" y="143" class="s9_96">d</text>
+<text x="508" y="143" class="sa_96">-</text>
+<text x="525" y="143" class="s6_96">y</text>
+<text x="547" y="143" dx="0,-3.1" class="sb_96">&amp;?</text>
+<text x="592" y="143" class="s6_96">f</text>
+<text x="599" y="143" class="s9_96">s</text>
+<text x="605" y="143" class="s6_96">y</text>
+<text x="612" y="143" class="s9_96">d</text>
+<text x="622" y="143" class="sa_96">-</text>
+<text x="639" y="143" class="s6_96">x</text>
+<text x="287" y="166" dx="0,0,0,0,0,-.3,-.2" class="s5_96">we have</text>
+<path d="M352.6,187.4c0,0,-3.1,0,-3.1,3v48.2c0,0,0,3,3.1,3H758.2c0,0,3,0,3,-3V190.4c0,0,0,-3,-3,-3Z" class="g0_96"/>
+<text x="391" y="218" class="s5_96">sin</text>
+<text x="409" y="212" class="s7_96">2</text>
+<text x="417" y="212" class="s8_96">1</text>
+<text x="421" y="218" class="s6_96">x</text>
+<text x="433" y="218" class="sa_96">-</text>
+<text x="450" y="218" class="s6_96">y</text>
+<text x="472" y="218" dx="0,-3.1" class="sb_96">&amp;?</text>
+<text x="515" y="218" class="s5_96">sin </text>
+<text x="536" y="218" class="s6_96">y</text>
+<text x="548" y="218" class="sa_96">-</text>
+<text x="565" y="218" class="s6_96">x</text>
+<text x="587" y="218" class="s5_96">and </text>
+<text x="624" y="218" class="sc_96">2</text>
+<text x="641" y="208" class="sd_96">°</text>
+<path d="M637.8,213.9h16.3" class="g1_96"/>
+<text x="641" y="229" class="s5_96">2</text>
+<text x="658" y="218" class="sc_96">&lt;</text>
+<text x="675" y="218" class="s6_96">y</text>
+<text x="686" y="218" class="sc_96">&lt;</text>
+<text x="706" y="208" class="sd_96">°</text>
+<g clip-path="url(#c0_96)">
+<path d="M704.6,213.9h14.8" class="g1_96"/>
+</g>
+<text x="707" y="229" class="s5_96">2</text>
+<path d="M352.6,187.4c0,0,-3.1,0,-3.1,3v48.2c0,0,0,3,3.1,3H758.2c0,0,3,0,3,-3V190.4c0,0,0,-3,-3,-3H352.6Z" class="g2_96"/>
+<text x="286" y="276" class="s5_96">Thus, if </text>
+<text x="338" y="276" class="sc_96">2</text>
+<text x="351" y="276" class="s5_96">1</text>
+<text x="363" y="276" class="sc_96">&lt;</text>
+<text x="381" y="276" class="s6_96">x</text>
+<text x="392" y="276" class="sc_96">&lt;</text>
+<text x="409" y="276" class="s5_96">1, sin</text>
+<text x="443" y="269" class="s7_96">2</text>
+<text x="451" y="269" class="s8_96">1</text>
+<text x="455" y="276" class="s6_96">x</text>
+<text x="466" y="276" class="s5_96">is the number between </text>
+<text x="608" y="276" class="sc_96">2</text>
+<text x="621" y="276" class="sd_96">°</text>
+<text x="631" y="276" class="s9_96">y</text>
+<text x="639" y="276" class="s5_96">2 and </text>
+<text x="676" y="276" class="sd_96">°</text>
+<text x="687" y="276" class="s9_96">y</text>
+<text x="695" y="276" class="s5_96">2 whose sine is </text>
+<text x="792" y="276" class="s6_96">x</text>
+<text x="799" y="276" class="s5_96">.</text>
+<text x="287" y="312" dx="0,.3,.3,.3,.3,.3,.3,.2" class="se_96">EXAMPLE </text>
+<text x="358" y="312" class="sf_96">12</text>
+<text x="384" y="312" dx="0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_96">Evaluate (a) sin</text>
+<text x="480" y="306" class="s7_96">2</text>
+<text x="487" y="306" class="s8_96">1</text>
+<text transform="matrix(0.71,0,0,1,492,312)" class="sg_96">s</text>
+<text x="498" y="305" class="sh_96">1</text>
+<path d="M497.6,307.6h6.2" class="g3_96"/>
+<text x="497" y="316" class="sh_96">2</text>
+<text transform="matrix(0.71,0,0,1,503,312)" class="sg_96">d</text>
+<text x="512" y="312" class="s5_96">and (b) tan</text>
+<text transform="matrix(0.71,0,0,1,578,312)" class="sg_96">s</text>
+<text x="583" y="312" class="s5_96">arcsin </text>
+<text x="624" y="305" class="sh_96">1</text>
+<path d="M624.4,307.6h5.4" class="g3_96"/>
+<text x="624" y="316" class="sh_96">3</text>
+<text transform="matrix(0.71,0,0,1,631,312)" class="sg_96">d</text>
+<text x="636" y="312" class="s5_96">.</text>
+<text x="287" y="340" dx="0,.3,.3,.3,.3,.3,.3,.3" class="si_96">SOLUTION</text>
+<text x="287" y="363" dx="0,0,0,0,3.4,-1.2,0,0,0,-.3,-.2" class="s5_96">(a) We have</text>
+<text x="513" y="381" class="s5_96">sin</text>
+<text x="531" y="375" class="s7_96">2</text>
+<text x="539" y="375" class="s8_96">1</text>
+<text transform="matrix(0.71,0,0,1,543,381)" class="sg_96">s</text>
+<text x="549" y="374" class="sh_96">1</text>
+<path d="M549.1,376.4h6.1" class="g3_96"/>
+<text x="549" y="385" class="sh_96">2</text>
+<text transform="matrix(0.71,0,0,1,555,381)" class="sg_96">d</text>
+<text x="564" y="381" class="sa_96">-</text>
+<text x="584" y="370" class="sd_96">°</text>
+<g clip-path="url(#c1_96)">
+<path d="M582.7,376.5h14.7" class="g1_96"/>
+</g>
+<text x="585" y="392" class="s5_96">6</text>
+<text x="287" y="418" class="s5_96">because sin</text>
+<text x="357" y="418" class="s9_96">s</text>
+<text x="362" y="418" class="sd_96">°</text>
+<text x="372" y="418" class="s9_96">y</text>
+<text x="379" y="418" class="s5_96">6</text>
+<text x="387" y="418" class="s9_96">d</text>
+<text x="397" y="418" class="sa_96">-</text>
+<text x="414" y="411" class="sh_96">1</text>
+<path d="M414.9,413.1h5.3" class="g3_96"/>
+<text x="414" y="422" class="sh_96">2</text>
+<text x="424" y="418" class="s5_96">and </text>
+<text x="450" y="418" class="sd_96">°</text>
+<text x="460" y="418" class="s9_96">y</text>
+<text x="467" y="418" class="s5_96">6 lies between </text>
+<text x="558" y="418" class="sc_96">2</text>
+<text x="571" y="418" class="sd_96">°</text>
+<text x="581" y="418" class="s9_96">y</text>
+<text x="590" y="418" class="s5_96">2 and </text>
+<text x="627" y="418" class="sd_96">°</text>
+<text x="637" y="418" class="s9_96">y</text>
+<text x="645" y="418" class="s5_96">2.</text>
+<text x="287" y="444" dx="0,0,0,0,3.8,0,0,0" class="s5_96">(b) Let </text>
+<text x="336" y="444" class="sd_96">±</text>
+<text x="349" y="444" class="sa_96">-</text>
+<text x="366" y="444" class="s5_96">arcsin </text>
+<text x="406" y="437" class="sh_96">1</text>
+<path d="M406.8,439h5.4" class="g3_96"/>
+<text x="406" y="448" class="sh_96">3</text>
+<text x="412" y="444" class="s5_96">, so sin </text>
+<text x="458" y="444" class="sd_96">±</text>
+<text x="471" y="444" class="sa_96">-</text>
+<text x="488" y="437" class="sh_96">1</text>
+<path d="M488.7,439h5.4" class="g3_96"/>
+<text x="488" y="448" class="sh_96">3</text>
+<text x="494" y="444" dx="0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_96">. Then we can draw a right triangle with angle </text>
+<text x="779" y="444" class="sd_96">±</text>
+<text x="790" y="444" class="s5_96">as </text>
+<text x="287" y="462" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_96">in Figure 19 and deduce from the Pythagorean Theorem that the third side has length </text>
+<text x="287" y="482" class="sj_96">s</text>
+<text x="298" y="482" class="s5_96">9</text>
+<text x="310" y="482" class="sc_96">2</text>
+<text x="328" y="482" class="s5_96">1</text>
+<path d="M298.9,468.6h37.3" class="g1_96"/>
+<text x="340" y="482" class="sa_96">-</text>
+<text x="357" y="482" class="s5_96">2</text>
+<text x="366" y="482" class="sj_96">s</text>
+<text x="378" y="482" class="s5_96">2</text>
+<g clip-path="url(#c2_96)">
+<path d="M378.5,468.6h10" class="g1_96"/>
+</g>
+<text x="388" y="482" dx="0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_96">. This enables us to read from the triangle that</text>
+<text x="462" y="525" class="s5_96">tan</text>
+<text transform="matrix(0.71,0,0,1,481,525)" class="sg_96">s</text>
+<text x="486" y="525" class="s5_96">arcsin </text>
+<text x="526" y="518" class="sh_96">1</text>
+<path d="M526.9,520h5.4" class="g3_96"/>
+<text x="526" y="529" class="sh_96">3</text>
+<text transform="matrix(0.71,0,0,1,533,525)" class="sg_96">d</text>
+<text x="543" y="525" class="sa_96">-</text>
+<text x="560" y="525" class="s5_96">tan </text>
+<text x="583" y="525" class="sd_96">±</text>
+<text x="595" y="525" class="sa_96">-</text>
+<text x="626" y="514" class="s5_96">1</text>
+<g clip-path="url(#c3_96)">
+<path d="M613.2,520.1h35.1" class="g1_96"/>
+</g>
+<text x="615" y="536" class="s5_96">2</text>
+<text x="624" y="536" class="sj_96">s</text>
+<text x="635" y="536" class="s5_96">2</text>
+<path d="M636,522.9h10" class="g1_96"/>
+<text x="813" y="540" class="sk_96">■</text>
+<text x="305" y="570" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.6,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_96">The cancellation equations for inverse functions become, in this case,</text>
+<text x="440" y="625" class="s5_96">sin</text>
+<text x="458" y="619" class="s7_96">2</text>
+<text x="465" y="619" class="s8_96">1</text>
+<text x="470" y="625" class="s9_96">s</text>
+<text x="475" y="625" class="s5_96">sin </text>
+<text x="497" y="625" class="s6_96">x</text>
+<text x="504" y="625" class="s9_96">d</text>
+<text x="514" y="625" class="sa_96">-</text>
+<text x="531" y="625" class="s6_96">x</text>
+<text x="555" y="625" class="s5_96">for </text>
+<text x="576" y="625" class="sc_96">2</text>
+<text x="593" y="614" class="sd_96">°</text>
+<path d="M590.1,620.2h16.2" class="g1_96"/>
+<text x="594" y="635" class="s5_96">2</text>
+<text x="610" y="625" class="sc_96">&lt;</text>
+<text x="628" y="625" class="s6_96">x</text>
+<text x="639" y="625" class="sc_96">&lt;</text>
+<text x="659" y="614" class="sd_96">°</text>
+<path d="M657.6,620.2h14.8" class="g1_96"/>
+<text x="660" y="635" class="s5_96">2</text>
+<text x="445" y="664" class="s5_96">sin</text>
+<text x="462" y="664" class="s9_96">s</text>
+<text x="467" y="664" class="s5_96">sin</text>
+<text x="485" y="658" class="s7_96">2</text>
+<text x="493" y="658" class="s8_96">1</text>
+<text x="498" y="664" class="s6_96">x</text>
+<text x="504" y="664" class="s9_96">d</text>
+<text x="514" y="664" class="sa_96">-</text>
+<text x="531" y="664" class="s6_96">x</text>
+<text x="555" y="664" class="s5_96">for </text>
+<text x="576" y="664" class="sc_96">2</text>
+<text x="589" y="664" class="s5_96">1</text>
+<text x="601" y="664" class="sc_96">&lt;</text>
+<text x="619" y="664" class="s6_96">x</text>
+<text x="631" y="664" class="sc_96">&lt;</text>
+<text x="648" y="664" class="s5_96">1</text>
+<path d="M398.4,595.8c0,0,-3.1,0,-3.1,3V679c0,0,0,3.1,3.1,3.1H712.3c0,0,3.1,0,3.1,-3.1V598.8c0,0,0,-3,-3.1,-3H398.4Z" class="g2_96"/>
+<text x="305" y="717" dx="0,0,0,0,1.9,0,-.6,-.2,0,0,0,0,1.9,0,0,0,0,1.9,0,0,0,0,0,0,0,0,0,1.9,0,0" class="s5_96">The inverse sine function, sin</text>
+<text x="492" y="711" class="s7_96">2</text>
+<text x="500" y="711" class="s8_96">1</text>
+<text x="504" y="717" dx="0,0,1.9,0,0,0,1.9,0,0,0,0,0,0" class="s5_96">, has domain </text>
+<text x="591" y="717" class="s9_96">f</text>
+<text x="596" y="717" class="sc_96">2</text>
+<text x="609" y="717" class="s5_96">1, 1</text>
+<text x="632" y="717" class="s9_96">g</text>
+<text x="643" y="717" dx="0,0,0,0,1.9,0,0,0,0,0" class="s5_96">and range </text>
+<text x="710" y="717" class="s9_96">f</text>
+<text x="715" y="717" class="sc_96">2</text>
+<text x="728" y="717" class="sd_96">°</text>
+<text x="738" y="717" class="s9_96">y</text>
+<text x="746" y="717" class="s5_96">2, </text>
+<text x="761" y="717" class="sd_96">°</text>
+<text x="771" y="717" class="s9_96">y</text>
+<text x="779" y="717" class="s5_96">2</text>
+<text x="786" y="717" class="s9_96">g</text>
+<text x="791" y="717" dx="0,0,1.9,0,0,0" class="s5_96">, and </text>
+<text x="287" y="735" dx="0,.1,.1,.1,0,.1,.1,.1,.1,.1,.1,0,.1,.1,-.3,.1,.1,0,.1,.1,0,.1,.1,.1,.1,.1,.1,0,.1,.1,.1,0,.1,.1,0,.1,.1,.1,.1,.1,.1,.1,.1,0,.1,.1,.1,.1,0,.1,.1,.1,.1,0,.1,.1,0,.1,.1,.1,0,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,0,.1,.1,.1,.1,0,.1,.1,.1,.1,.1,.1,.1,.1,0,.1,.1,.1,.1" class="s5_96">its graph, shown in Figure 20, is obtained from that of the restricted sine function (Fig-</text>
+<text x="287" y="754" dx="0,.1,.1,.1" class="s5_96">ure </text>
+<text x="310" y="754" class="sl_96">18) by re²ection about the line </text>
+<text x="503" y="754" class="s6_96">y</text>
+<text x="514" y="754" class="sa_96">-</text>
+<text x="531" y="754" class="s6_96">x</text>
+<text x="538" y="754" class="sl_96">.</text>
+<text x="305" y="772" class="sl_96">The </text>
+<text x="336" y="772" dx="0,0,-.6,-.2,0,0,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0" class="sm_96">inverse cosine function</text>
+<text x="496" y="772" dx="0,0,0,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,-1,0,2.7,0,0,0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0" class="sl_96">is handled similarly. The restricted cosine function </text>
+<text x="289" y="790" class="s6_96">f</text>
+<text x="295" y="790" class="s9_96">s</text>
+<text x="301" y="790" class="s6_96">x</text>
+<text x="308" y="790" class="s9_96">d</text>
+<text x="318" y="790" class="sa_96">-</text>
+<text x="335" y="790" class="sl_96">cos </text>
+<text x="360" y="790" class="s6_96">x</text>
+<text x="367" y="790" dx="0,0,-.4" class="sl_96">, 0</text>
+<text x="386" y="790" class="sc_96">&lt;</text>
+<text x="404" y="790" class="s6_96">x</text>
+<text x="416" y="790" class="sc_96">&lt;</text>
+<text x="433" y="790" class="sd_96">°</text>
+<text x="443" y="790" dx="0,0,-.4,0,0,-.4,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,-.4,0,0,0,0,0,0,-.4,0,0,0,-.4,0,0,0,-.4,0,0,-.4,0,0,-.4,0,0,0,-.4,0,0,-.4,0,-.6,-.2,0,0,0,0,-.4,0,0,0,0,0,0,0,0" class="sl_96">, is one-to-one (see Figure 21) and so it has an inverse function </text>
+<text x="287" y="809" class="sl_96">denoted by cos</text>
+<text x="379" y="803" class="s7_96">2</text>
+<text x="387" y="803" class="sn_96">1</text>
+<text x="395" y="809" class="sl_96">or arccos.</text>
+<text x="402" y="864" class="sl_96">cos</text>
+<text x="422" y="858" class="s7_96">2</text>
+<text x="430" y="858" class="sn_96">1</text>
+<text x="434" y="864" class="s6_96">x</text>
+<text x="446" y="864" class="sa_96">-</text>
+<text x="463" y="864" class="s6_96">y</text>
+<text x="485" y="864" dx="0,-3.1" class="sb_96">&amp;?</text>
+<text x="528" y="864" class="sl_96">cos </text>
+<text x="552" y="864" class="s6_96">y</text>
+<text x="563" y="864" class="sa_96">-</text>
+<text x="580" y="864" class="s6_96">x</text>
+<text x="602" y="864" class="sl_96">and </text>
+<text x="640" y="864" class="sl_96">0</text>
+<text x="652" y="864" class="sc_96">&lt;</text>
+<text x="669" y="864" class="s6_96">y</text>
+<text x="681" y="864" class="sc_96">&lt;</text>
+<text x="698" y="864" class="sd_96">°</text>
+<path d="M357.1,832.6c0,0,-3,0,-3,3v48.1c0,0,0,3.1,3,3.1H753.6c0,0,3,0,3,-3.1V835.6c0,0,0,-3,-3,-3H357.1Z" class="g2_96"/>
+<text x="305" y="923" class="sl_96">The cancellation equations are</text>
+<text x="443" y="975" class="sl_96">cos</text>
+<text x="464" y="968" class="s7_96">2</text>
+<text x="472" y="968" class="sn_96">1</text>
+<text x="477" y="975" class="s9_96">s</text>
+<text x="482" y="975" class="sl_96">cos </text>
+<text x="507" y="975" class="s6_96">x</text>
+<text x="513" y="975" class="s9_96">d</text>
+<text x="523" y="975" class="sa_96">-</text>
+<text x="540" y="975" class="s6_96">x</text>
+<text x="564" y="975" class="sl_96">for 0</text>
+<text x="598" y="975" class="sc_96">&lt;</text>
+<text x="616" y="975" class="s6_96">x</text>
+<text x="627" y="975" class="sc_96">&lt;</text>
+<text x="645" y="975" class="sd_96">°</text>
+<text x="449" y="1007" class="sl_96">cos</text>
+<text x="469" y="1007" class="s9_96">s</text>
+<text x="474" y="1007" class="sl_96">cos</text>
+<text x="494" y="1001" class="s7_96">2</text>
+<text x="502" y="1001" class="sn_96">1</text>
+<text x="507" y="1007" class="s6_96">x</text>
+<text x="513" y="1007" class="s9_96">d</text>
+<text x="523" y="1007" class="sa_96">-</text>
+<text x="540" y="1007" class="s6_96">x</text>
+<text x="564" y="1007" class="sl_96">for </text>
+<text x="586" y="1007" class="sc_96">2</text>
+<text x="598" y="1007" class="sl_96">1</text>
+<text x="611" y="1007" class="sc_96">&lt;</text>
+<text x="629" y="1007" class="s6_96">x</text>
+<text x="640" y="1007" class="sc_96">&lt;</text>
+<text x="657" y="1007" class="sl_96">1</text>
+<path d="M398.4,947.2c0,0,-3.1,0,-3.1,3v69.5c0,0,0,3.1,3.1,3.1H712.3c0,0,3.1,0,3.1,-3.1V950.2c0,0,0,-3,-3.1,-3H398.4Z" class="g2_96"/>
+<text x="128" y="273" class="so_96">sin</text>
+<text x="144" y="267" class="sp_96">2</text>
+<text x="151" y="267" class="sq_96">1</text>
+<text x="156" y="273" class="sr_96">x</text>
+<text x="166" y="273" class="ss_96">±</text>
+<text x="193" y="263" class="so_96">1</text>
+<g clip-path="url(#c4_96)">
+<path d="M182.1,268.6h29.7" class="g4_96"/>
+</g>
+<text x="183" y="282" class="so_96">sin </text>
+<text x="203" y="282" class="sr_96">x</text>
+<path d="M102.5,275.2h13.8V260.6H102.5v14.6Z" class="g5_96"/>
+<path d="M109.4,273.7c3.2,0,5.8,-2.6,5.8,-5.8c0,-3.2,-2.6,-5.8,-5.8,-5.8c-3.2,0,-5.8,2.6,-5.8,5.8c0,3.2,2.6,5.8,5.8,5.8Z" class="g5_96"/>
+<path d="M109.4,273.7c3.2,0,5.8,-2.6,5.8,-5.8c0,-3.2,-2.6,-5.8,-5.8,-5.8c-3.2,0,-5.8,2.6,-5.8,5.8c0,3.2,2.6,5.8,5.8,5.8Z" class="g6_96"/>
+<path d="M113.6,263.7l-8.3,8.3" class="g7_96"/>
+<text x="132" y="477" class="st_96">2 œ</text>
+<text transform="matrix(1.15,0,0,1,150,477)" class="st_96">„</text>
+<text x="151" y="477" class="st_96">2</text>
+<text x="141" y="418" class="st_96">3</text>
+<text x="92" y="457" class="st_96">¨</text>
+<text x="240" y="430" class="st_96">1</text>
+<path d="M53.9,461.2L237.3,387.8v73.4H53.9Z" class="g8_96"/>
+<path d="M228.1,461.2V452h9.2" class="g9_96"/>
+<text x="53" y="505" dx="0,.3,.3,.3,.3,.3" class="su_96">FIGURE</text>
+<text x="106" y="505" class="sv_96">19</text>
+<path d="M99.3,696.3c0,-34.4,64.2,-66.5,64.2,-100.8" class="ga_96"/>
+<path d="M131.4,711.5V571" class="gb_96"/>
+<path fill-rule="evenodd" d="M131.4,571l-2.4,1.6l2.4,-6.5l2.4,6.5Z" class="gc_96"/>
+<path d="M53.5,645.8H209.3" class="gb_96"/>
+<path fill-rule="evenodd" d="M209.3,645.8l-1.6,-2.4l6.5,2.4l-6.5,2.5Z" class="gc_96"/>
+<path d="M99.3,642.8v6.1m64.2,-6.1v6.1" class="gb_96"/>
+<text x="135" y="657" class="sw_96">0</text>
+<text x="120" y="572" class="sw_96">y</text>
+<text x="207" y="658" class="sx_96">x</text>
+<path d="M128.3,696.3h6.2M128.3,595.4h6.2" class="gb_96"/>
+<text x="160" y="662" class="sy_96">1</text>
+<text x="91" y="662" dx="0,.3" class="sz_96">_1</text>
+<path d="M122.8,595.5H117" class="gd_96"/>
+<text x="116" y="593" class="s10_96">π</text>
+<text x="117" y="604" class="s10_96">2</text>
+<text x="138" y="700" class="sz_96">_</text>
+<path d="M154.6,696.3h-5.8" class="gd_96"/>
+<text x="148" y="694" class="s10_96">π</text>
+<text x="149" y="705" class="s10_96">2</text>
+<path d="M161.8,595.4c0,-.9,.7,-1.7,1.7,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.7,-.7,-1.7,-1.7Z" class="g5_96"/>
+<path d="M161.8,595.4c0,-.9,.7,-1.7,1.7,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.7,-.7,-1.7,-1.7Z" class="ge_96"/>
+<path d="M97.6,696.3c0,-1,.8,-1.8,1.7,-1.8c1,0,1.7,.8,1.7,1.8c0,.9,-.7,1.7,-1.7,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="g5_96"/>
+<path d="M97.6,696.3c0,-1,.8,-1.8,1.7,-1.8c1,0,1.7,.8,1.7,1.8c0,.9,-.7,1.7,-1.7,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="ge_96"/>
+<text x="53" y="738" dx="0,.3,.3,.3,.3,.3,.1" class="su_96">FIGURE </text>
+<text x="106" y="738" class="sv_96">20</text>
+<text x="53" y="754" class="s11_96">y</text>
+<text x="64" y="754" class="s12_96">-</text>
+<text x="79" y="754" class="s13_96">sin</text>
+<text x="95" y="749" class="s14_96">2</text>
+<text x="102" y="749" class="s15_96">1</text>
+<text x="108" y="754" class="s11_96">x</text>
+<text x="118" y="754" class="s12_96">-</text>
+<text x="134" y="754" class="s13_96">arcsin </text>
+<text x="170" y="754" class="s11_96">x</text>
+<text x="53" y="980" dx="0,.3,.3,.3,.3,.3,.1" class="su_96">FIGURE </text>
+<text x="106" y="980" class="sv_96">21 </text>
+<text x="53" y="997" class="s11_96">y</text>
+<text x="64" y="997" class="s12_96">-</text>
+<text x="79" y="997" class="s13_96">cos </text>
+<text x="101" y="997" class="s11_96">x</text>
+<text x="108" y="997" class="s13_96">, 0</text>
+<text x="126" y="997" class="s16_96">&lt;</text>
+<text x="142" y="997" class="s11_96">x</text>
+<text x="152" y="997" class="s16_96">&lt;</text>
+<text x="168" y="997" class="s17_96">°</text>
+<path d="M88.6,854c0,-1,.8,-1.8,1.7,-1.8c1,0,1.7,.8,1.7,1.8c0,.9,-.7,1.7,-1.7,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="gf_96"/>
+<path d="M88.6,854c0,-1,.8,-1.8,1.7,-1.8c1,0,1.7,.8,1.7,1.8c0,.9,-.7,1.7,-1.7,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="gg_96"/>
+<path d="M90.3,854c36.7,0,64.6,64.1,100.8,64.1" class="g8_96"/>
+<path d="M53.5,886.1H236.8" class="gb_96"/>
+<path fill-rule="evenodd" d="M236.8,886.1l-1.6,-2.4l6.5,2.4l-6.5,2.5Z" class="gc_96"/>
+<path d="M90.2,950.4V805" class="gb_96"/>
+<path fill-rule="evenodd" d="M90.2,805l-2.5,1.6l2.5,-6.5l2.4,6.5Z" class="gc_96"/>
+<path d="M140.7,883v6.1" class="gb_96"/>
+<text x="79" y="897" class="sw_96">0</text>
+<text x="79" y="805" class="sw_96">y</text>
+<text x="234" y="898" class="sx_96">x</text>
+<path d="M87.2,918.1h6.2M87.2,854h6.2" class="gb_96"/>
+<text x="78" y="858" class="sy_96">1</text>
+<path d="M191.1,883v6.1" class="gb_96"/>
+<text x="185" y="902" class="s18_96">π</text>
+<path d="M143.5,899.9h-5.8" class="gh_96"/>
+<text x="136" y="898" class="s19_96">π</text>
+<text x="138" y="908" class="s19_96">2</text>
+<path d="M189.4,918.1c0,-.9,.8,-1.7,1.7,-1.7c1,0,1.8,.8,1.8,1.7c0,1,-.8,1.7,-1.8,1.7c-.9,0,-1.7,-.7,-1.7,-1.7Z" class="gf_96"/>
+<path d="M189.4,918.1c0,-.9,.8,-1.7,1.7,-1.7c1,0,1.8,.8,1.8,1.7c0,1,-.8,1.7,-1.8,1.7c-.9,0,-1.7,-.7,-1.7,-1.7Z" class="gg_96"/>
+<text x="121" y="1076" class="s1a_96">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="s1a_96">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: BeaconDingbatsTypeOne_12w;
+	src: url("fonts/BeaconDingbatsTypeOne_12w.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPi-One-Italic_x2;
+	src: url("fonts/MathematicalPi-One-Italic_x2.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_12-;
+	src: url("fonts/TECHMath-Mix_12-.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1ac;
+	src: url("fonts/TECHMath-Mix_1ac.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1c_;
+	src: url("fonts/TECHMath-Mix_1c_.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1jz;
+	src: url("fonts/TECHMath-Mix_1jz.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1kh;
+	src: url("fonts/TECHMath-Mix_1kh.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1kl;
+	src: url("fonts/TECHMath-Mix_1kl.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Bold_oh;
+	src: url("fonts/TimesLTStd-Bold_oh.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_6c;
+	src: url("fonts/TimesLTStd-Roman_6c.woff") format("woff");
+}
+
+@font-face {
+	font-family: UniversalChemicalPi-T_-_;
+	src: url("fonts/UniversalChemicalPi-T_-_.woff") format("woff");
+}
+
+@font-face {
+	font-family: ZapfDingbatsITC_my;
+	src: url("fonts/ZapfDingbatsITC_my.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

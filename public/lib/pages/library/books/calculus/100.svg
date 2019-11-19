@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 100 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_100"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0"><path d="M207.2,185.6v-16H357.4v16Z"/></clipPath>
+<clipPath id="c1"><path d="M123,660.5V644.8h49.5v15.7Z"/></clipPath>
+<clipPath id="c2"><path d="M517.2,113.3V97.6h50.2v15.7Z"/></clipPath>
+<clipPath id="c3"><path d="M553.4,235.6V219.8H687.6v15.8Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_100{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_100{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_100{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s4_100{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s5_100{
+font-size: 13.75px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #231F20;
+}
+.s6_100{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s7_100{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s8_100{
+font-size: 8.25px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s9_100{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sa_100{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.sb_100{
+font-size: 13.75px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #231F20;
+}
+.sc_100{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sd_100{
+font-size: 8.25px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.se_100{
+font-size: 13.75px;
+font-family: BeaconDingbatsTypeOne_1hn;
+fill: #231F20;
+}
+.sf_100{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_1bm;
+fill: #231F20;
+}
+.sg_100{
+font-size: 8.25px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sh_100{
+font-size: 8.25px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.si_100{
+font-size: 8.25px;
+font-family: TimesLTStd-Roman_1bm;
+fill: #231F20;
+}
+.sj_100{
+font-size: 13.75px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #00AEEF;
+}
+.sk_100{
+font-size: 9.17px;
+font-family: MyriadPro-BoldCond_oa;
+fill: #FFFFFF;
+}
+.sl_100{
+font-size: 19.25px;
+font-family: TimesLTStd-Roman_1bm;
+fill: #231F20;
+}
+.sm_100{
+font-size: 13.75px;
+font-family: MathematicalPi-One-Italic_x2;
+fill: #231F20;
+}
+.sn_100{
+font-size: 9.63px;
+font-family: TimesLTStd-Roman_1bm;
+fill: #231F20;
+}
+.so_100{
+font-size: 13.75px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.sp_100{
+font-size: 13.75px;
+font-family: BeaconDingbatsTypeOne_1hn;
+fill: #EC008C;
+}
+.sq_100{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #00AEEF;
+}
+.sr_100{
+font-size: 12.99px;
+font-family: MyriadPro-Regular_4i;
+fill: #00AEEF;
+}
+.ss_100{
+font-size: 22.92px;
+font-family: MyriadPro-Bold_74;
+fill: #FFFFFF;
+}
+.st_100{
+font-size: 21.39px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.su_100{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_100{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.687;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g1_100{
+fill: #00AEEF;
+}
+.g2_100{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_100{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.481;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_100)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="53" y="64" class="s1_100">68</text>
+<text x="126" y="64" dx="0,.2,.2,.2,.2,.2,.2,.1" class="s2_100">CHAPTER </text>
+<text x="180" y="64" class="s3_100">1</text>
+<text x="200" y="64" dx="0,-.3,.1,.1,.3,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.2,.1,.1,.1,.1" class="s4_100">Functions and Models</text>
+<text x="75" y="107" class="s5_100">58. </text>
+<text x="100" y="107" class="s6_100">(a) </text>
+<text x="122" y="107" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0" class="s6_100">What are the values of </text>
+<text x="249" y="107" class="s7_100">e</text>
+<text x="257" y="102" class="s8_100">ln 300</text>
+<text x="281" y="107" class="s6_100">and ln</text>
+<text x="315" y="107" class="s9_100">s</text>
+<text x="320" y="107" class="s7_100">e</text>
+<text x="327" y="102" class="s8_100">300</text>
+<text x="340" y="107" class="s9_100">d</text>
+<text x="345" y="107" class="s6_100">?</text>
+<text x="100" y="124" class="s6_100">(b) </text>
+<text x="122" y="124" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.3,0,0,0,0,0,0" class="s6_100">Use your calculator to evaluate </text>
+<text x="296" y="124" class="s7_100">e</text>
+<text x="304" y="119" class="s8_100">ln 300</text>
+<text x="328" y="124" class="s6_100">and ln</text>
+<text x="362" y="124" class="s9_100">s</text>
+<text x="367" y="124" class="s7_100">e</text>
+<text x="374" y="119" class="s8_100">300</text>
+<text x="387" y="124" class="s9_100">d</text>
+<text x="392" y="124" dx="0,0,-.4,0,0,0,0" class="s6_100">. What </text>
+<text x="123" y="141" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s6_100">do you notice? Can you explain why the calculator has </text>
+<text x="123" y="158" class="s6_100">trouble?</text>
+<text x="75" y="182" class="s5_100">59. </text>
+<text x="100" y="182" dx="0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s6_100">Graph the function </text>
+<text x="209" y="182" class="s7_100">f</text>
+<text x="215" y="182" class="s9_100">s</text>
+<text x="220" y="182" class="s7_100">x</text>
+<text x="226" y="182" class="s9_100">d</text>
+<text x="235" y="182" class="sa_100">-</text>
+<text x="251" y="183" class="sb_100">s</text>
+<text x="262" y="182" class="s7_100">x</text>
+<text x="269" y="178" class="s8_100">3</text>
+<text x="277" y="182" class="sc_100">1</text>
+<text x="293" y="182" class="s7_100">x</text>
+<text x="301" y="178" class="s8_100">2</text>
+<text x="309" y="182" class="sc_100">1</text>
+<text x="324" y="182" class="s7_100">x</text>
+<text x="335" y="182" class="sc_100">1</text>
+<text x="350" y="182" class="s6_100">1</text>
+<g clip-path="url(#c0)">
+<path d="M261.5,170h96.3" class="g0_100"/>
+</g>
+<text x="360" y="182" dx="0,0,0,0,0,-.2,0,0,0,0,0,0" class="s6_100">and explain </text>
+<text x="100" y="199" dx="0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s6_100">why it is one-to-one. Then use a computer algebra system </text>
+<text x="100" y="216" dx="0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s6_100">to Ind an explicit expression for </text>
+<text x="283" y="216" class="s7_100">f</text>
+<text x="290" y="210" class="sd_100">2</text>
+<text x="297" y="210" class="s8_100">1</text>
+<text x="301" y="216" class="s9_100">s</text>
+<text x="306" y="216" class="s7_100">x</text>
+<text x="312" y="216" class="s9_100">d</text>
+<text x="317" y="216" dx="0,0,0,0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0" class="s6_100">. (Your CAS will </text>
+<text x="100" y="233" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,-.1,0,0,0,0" class="s6_100">produce three possible expressions. Explain why two of </text>
+<text x="100" y="249" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0" class="s6_100">them are irrelevant in this context.)</text>
+<text x="75" y="274" class="s5_100">60. </text>
+<text x="100" y="274" dx="0,-.1,0,0" class="s6_100">(a) </text>
+<text x="122" y="274" class="s6_100">±f </text>
+<text x="135" y="274" class="se_100">t</text>
+<text x="141" y="274" class="s9_100">s</text>
+<text x="147" y="274" class="s7_100">x</text>
+<text x="153" y="274" class="s9_100">d</text>
+<text x="161" y="274" class="sa_100">-</text>
+<text x="177" y="274" class="s7_100">x</text>
+<text x="184" y="268" class="s8_100">6</text>
+<text x="193" y="274" class="sc_100">1</text>
+<text x="208" y="274" class="s7_100">x</text>
+<text x="216" y="268" class="s8_100">4</text>
+<text x="220" y="274" class="s6_100">, </text>
+<text x="227" y="274" class="s7_100">x</text>
+<text x="237" y="274" class="sc_100">&gt;</text>
+<text x="253" y="274" class="s6_100">0, use a computer algebra sys-</text>
+<text x="122" y="291" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s6_100">tem to Ind an expression for </text>
+<text x="284" y="291" class="se_100">t</text>
+<text x="291" y="285" class="sd_100">2</text>
+<text x="298" y="285" class="s8_100">1</text>
+<text x="302" y="291" class="s9_100">s</text>
+<text x="307" y="291" class="s7_100">x</text>
+<text x="313" y="291" class="s9_100">d</text>
+<text x="318" y="291" class="s6_100">.</text>
+<text x="100" y="308" class="s6_100">(b) </text>
+<text x="123" y="308" dx="0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s6_100">Use the expression in part (a) to graph </text>
+<text x="337" y="308" class="s7_100">y</text>
+<text x="347" y="308" class="sa_100">-</text>
+<text x="362" y="308" class="se_100">t</text>
+<text x="368" y="308" class="s9_100">s</text>
+<text x="374" y="308" class="s7_100">x</text>
+<text x="380" y="308" class="s9_100">d</text>
+<text x="384" y="308" class="s6_100">, </text>
+<text x="391" y="308" class="s7_100">y</text>
+<text x="401" y="308" class="sa_100">-</text>
+<text x="417" y="308" class="s7_100">x</text>
+<text x="423" y="308" class="s6_100">, </text>
+<text x="123" y="324" class="s6_100">and </text>
+<text x="146" y="324" class="s7_100">y</text>
+<text x="156" y="324" class="sa_100">-</text>
+<text x="172" y="324" class="se_100">t</text>
+<text x="179" y="319" class="sd_100">2</text>
+<text x="186" y="319" class="s8_100">1</text>
+<text x="190" y="324" class="s9_100">s</text>
+<text x="196" y="324" class="s7_100">x</text>
+<text x="202" y="324" class="s9_100">d</text>
+<text x="210" y="324" class="s6_100">on the same screen.</text>
+<text x="75" y="349" class="s5_100">61. </text>
+<text x="100" y="349" class="s6_100">±f a bacteria population starts with 100 bacteria and doubles </text>
+<text x="100" y="366" dx="0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s6_100">every three hours, then the number of bacteria after </text>
+<text x="385" y="366" class="s7_100">t</text>
+<text x="392" y="366" class="s6_100">hours </text>
+<text x="100" y="382" class="s6_100">is </text>
+<text x="112" y="382" class="s7_100">n</text>
+<text x="123" y="382" class="sa_100">-</text>
+<text x="139" y="382" class="s7_100">f</text>
+<text x="145" y="382" class="s9_100">s</text>
+<text x="150" y="382" class="s7_100">t</text>
+<text x="155" y="382" class="s9_100">d</text>
+<text x="163" y="382" class="sa_100">-</text>
+<text x="179" y="382" class="s6_100">100 </text>
+<text x="203" y="382" class="sf_100">∙ 2</text>
+<text x="217" y="377" class="sg_100">t</text>
+<text x="220" y="377" class="sh_100">y</text>
+<text x="225" y="377" class="si_100">3</text>
+<text x="229" y="382" class="sf_100">. </text>
+<text x="100" y="399" dx="0,-.1,-.1,-.1" class="sf_100">(a) </text>
+<text x="123" y="399" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.7,-.3,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.3,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1" class="sf_100">Find the inverse of this function and exPlain its Meaning.</text>
+<text x="100" y="416" dx="0,0,0,0,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">(b) When will the PoPulation reach 50,000?</text>
+<text x="75" y="440" class="s5_100">62. </text>
+<text x="100" y="440" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">When a caMera ´ash goes off, the batteries iMMediately </text>
+<text x="100" y="457" dx="0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,-.1,0,0,0,-.8,0,0,0,0,0,0,0,0,0,0,-.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">begin to recharge the ´ash’s caPacitor, which stores electric </text>
+<text x="100" y="474" dx="0,0,0,0,-.2,0,0,0,0,-.3,-.2,0,0,0,0" class="sf_100">charge given by</text>
+<text x="191" y="491" class="s7_100">Q</text>
+<text x="201" y="491" class="s9_100">s</text>
+<text x="206" y="491" class="s7_100">t</text>
+<text x="209" y="491" class="s9_100">d</text>
+<text x="218" y="491" class="sa_100">-</text>
+<text x="234" y="491" class="s7_100">Q</text>
+<text x="244" y="492" class="si_100">0</text>
+<text x="249" y="491" class="s9_100">s</text>
+<text x="254" y="491" class="sf_100">1</text>
+<text x="265" y="491" class="sc_100">2</text>
+<text x="280" y="491" class="s7_100">e</text>
+<text x="288" y="485" class="sd_100">2</text>
+<text x="295" y="485" class="sg_100">t</text>
+<text x="298" y="485" class="sh_100">y</text>
+<text x="302" y="485" class="sg_100">a</text>
+<text x="308" y="491" class="s9_100">d</text>
+<text x="100" y="515" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">(The MaxiMuM charge caPacity is </text>
+<text x="290" y="515" class="s7_100">Q</text>
+<text x="301" y="517" class="si_100">0</text>
+<text x="308" y="515" class="sf_100">and </text>
+<text x="331" y="515" class="s7_100">t</text>
+<text x="339" y="515" class="sf_100">is Measured in </text>
+<text x="100" y="532" class="sf_100">seconds.)</text>
+<text x="100" y="549" dx="0,-.1,-.1,-.1" class="sf_100">(a) </text>
+<text x="122" y="549" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.7,-.3,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.3,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1" class="sf_100">Find the inverse of this function and exPlain its Meaning.</text>
+<text x="100" y="566" dx="0,-.1,-.1,-.1" class="sf_100">(b) </text>
+<text x="122" y="566" dx="0,-.1,-.5,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.3,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.4,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,0" class="sf_100">How long does it take to recharge the caPacitor to 90% </text>
+<text x="122" y="583" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1" class="sf_100">of caPacity if </text>
+<text x="196" y="583" class="s7_100">a</text>
+<text x="207" y="583" class="sa_100">-</text>
+<text x="223" y="583" dx="0,-.2" class="sf_100">2?</text>
+<text x="74" y="608" class="sj_100">63–68 </text>
+<text x="117" y="608" dx="0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0" class="sf_100">Find the exact value of each exPression.</text>
+<text x="75" y="633" class="s5_100">63. </text>
+<text x="100" y="633" dx="0,0,0,0,4.2,0,0" class="sf_100">(a) cos</text>
+<text x="141" y="627" class="sd_100">2</text>
+<text x="148" y="627" class="si_100">1</text>
+<text x="153" y="633" class="s9_100">s</text>
+<text x="158" y="633" class="sc_100">2</text>
+<text x="170" y="633" class="sf_100">1</text>
+<text x="177" y="633" class="s9_100">d</text>
+<text x="276" y="633" dx="0,0,0,0,3.5,0,0" class="sf_100">(b) sin</text>
+<text x="315" y="627" class="sd_100">2</text>
+<text x="322" y="627" class="si_100">1</text>
+<text x="326" y="633" class="s9_100">s</text>
+<text x="331" y="633" class="sf_100">0.5</text>
+<text x="348" y="633" class="s9_100">d</text>
+<text x="75" y="657" class="s5_100">64. </text>
+<text x="100" y="657" dx="0,0,0,0,4.2,0,0" class="sf_100">(a) tan</text>
+<text x="139" y="652" class="sd_100">2</text>
+<text x="146" y="652" class="si_100">1</text>
+<text x="153" y="658" class="se_100">s</text>
+<text x="163" y="657" class="sf_100">3</text>
+<g clip-path="url(#c1)">
+<path d="M163.8,645.1h9" class="g0_100"/>
+</g>
+<text x="276" y="657" dx="0,0,0,0,3.5,0,0,0,0,0" class="sf_100">(b) arctan</text>
+<text x="333" y="657" class="s9_100">s</text>
+<text x="338" y="657" class="sc_100">2</text>
+<text x="349" y="657" class="sf_100">1</text>
+<text x="356" y="657" class="s9_100">d</text>
+<path d="M53.9,183.5H69.5v-9.8H53.9v9.8Z" class="g1_100"/>
+<text x="55" y="182" dx="0,.1,0" class="sk_100">CAS</text>
+<path d="M53.9,275.2H69.5v-9.8H53.9v9.8Z" class="g1_100"/>
+<text x="55" y="273" dx="0,.1,0" class="sk_100">CAS</text>
+<path d="M469,205H823.5M469,308.9H823.5M469,422H823.5" class="g2_100"/>
+<text x="469" y="110" class="s5_100">65. </text>
+<text x="494" y="110" dx="0,0,0,0,4.2,0,0" class="sf_100">(a) csc</text>
+<text x="534" y="105" class="sd_100">2</text>
+<text x="541" y="105" class="si_100">1</text>
+<text x="548" y="111" class="se_100">s</text>
+<text x="558" y="110" class="sf_100">2</text>
+<g clip-path="url(#c2)">
+<path d="M558.8,97.9h9" class="g0_100"/>
+</g>
+<text x="670" y="110" dx="0,0,0,0,3.4,0,0,0,0,0,0,0" class="sf_100">(b) arcsin 1</text>
+<text x="469" y="135" class="s5_100">66. </text>
+<text x="494" y="135" dx="0,0,0,0,4.2,0,0" class="sf_100">(a) sin</text>
+<text x="533" y="129" class="sd_100">2</text>
+<text x="540" y="129" class="si_100">1</text>
+<text transform="matrix(0.71,0,0,1,544,135)" class="sl_100">(</text>
+<text x="549" y="135" class="sc_100">2</text>
+<text x="560" y="135" class="sf_100">1</text>
+<text x="567" y="135" class="s9_100">y</text>
+<text x="573" y="135" class="se_100">s</text>
+<text x="583" y="135" class="sf_100">2</text>
+<path d="M583.7,122.4h9" class="g0_100"/>
+<text transform="matrix(0.71,0,0,1,594,135)" class="sl_100">)</text>
+<text x="670" y="135" dx="0,0,0,0,3.5,0,0" class="sf_100">(b) cos</text>
+<text x="711" y="129" class="sd_100">2</text>
+<text x="718" y="129" class="si_100">1</text>
+<text transform="matrix(0.71,0,0,1,723,135)" class="sl_100">(</text>
+<text x="727" y="135" class="se_100">s</text>
+<text x="737" y="135" class="sf_100">3</text>
+<path d="M737.9,122.4H747" class="g0_100"/>
+<text x="746" y="135" class="s9_100">y</text>
+<text x="753" y="135" class="sf_100">2</text>
+<text transform="matrix(0.71,0,0,1,761,135)" class="sl_100">)</text>
+<text x="469" y="159" class="s5_100">67. </text>
+<text x="494" y="159" dx="0,0,0,0,4.2,0,0" class="sf_100">(a) cot</text>
+<text x="533" y="154" class="sd_100">2</text>
+<text x="540" y="154" class="si_100">1</text>
+<text transform="matrix(0.71,0,0,1,544,159)" class="sl_100">(</text>
+<text x="549" y="159" class="sc_100">2</text>
+<text x="560" y="159" class="se_100">s</text>
+<text x="571" y="159" class="sf_100">3</text>
+<path d="M571.3,146.8h9.1" class="g0_100"/>
+<text transform="matrix(0.71,0,0,1,582,159)" class="sl_100">)</text>
+<text x="670" y="159" dx="0,0,0,0,3.5,0,0" class="sf_100">(b) sec</text>
+<text x="711" y="154" class="sd_100">2</text>
+<text x="717" y="154" class="si_100">1</text>
+<text x="725" y="159" class="sf_100">2</text>
+<text x="469" y="184" class="s5_100">68. </text>
+<text x="494" y="184" dx="0,0,0,0,4.2,0,0,0,0,0" class="sf_100">(a) arcsin</text>
+<text x="550" y="184" class="s9_100">s</text>
+<text x="555" y="184" class="sf_100">sin</text>
+<text x="572" y="184" class="s9_100">s</text>
+<text x="576" y="184" class="sf_100">5</text>
+<text x="583" y="184" class="sm_100">°</text>
+<text x="592" y="184" class="s9_100">y</text>
+<text x="599" y="184" class="sf_100">4</text>
+<text x="606" y="184" class="s9_100">dd</text>
+<text x="670" y="184" dx="0,0,0,0,3.5,0,0" class="sf_100">(b) cos</text>
+<text transform="matrix(0.71,0,0,1,712,184)" class="sl_100">(</text>
+<text x="717" y="184" class="sf_100">2 sin</text>
+<text x="743" y="178" class="sd_100">2</text>
+<text x="750" y="178" class="si_100">1</text>
+<text transform="matrix(0.71,0,0,1,755,184)" class="sl_100">(</text>
+<text x="762" y="177" class="sn_100">5</text>
+<path d="M760.5,179.4h9.6" class="g3_100"/>
+<text x="760" y="187" class="sn_100">13</text>
+<text transform="matrix(0.71,0,0,1,770,184)" class="sl_100">))</text>
+<text x="469" y="232" class="s5_100">69. </text>
+<text x="494" y="232" dx="0,0,0,-.2,-.2,0,0,0,0,0,0,0,0,0" class="sf_100">µrove that cos</text>
+<text x="571" y="232" class="s9_100">s</text>
+<text x="576" y="232" class="sf_100">sin</text>
+<text x="592" y="227" class="sd_100">2</text>
+<text x="599" y="227" class="si_100">1</text>
+<text x="606" y="232" class="s7_100">x</text>
+<text x="612" y="232" class="s9_100">d</text>
+<text x="621" y="232" class="sa_100">-</text>
+<text x="637" y="233" class="se_100">s</text>
+<text x="647" y="232" class="sf_100">1</text>
+<text x="658" y="232" class="sc_100">2</text>
+<text x="673" y="232" class="s7_100">x</text>
+<text x="681" y="228" class="si_100">2 </text>
+<g clip-path="url(#c3)">
+<path d="M647.5,220.1h40.4" class="g0_100"/>
+</g>
+<text x="687" y="232" class="sf_100">.</text>
+<text x="469" y="263" class="sj_100">70–72 </text>
+<text x="511" y="263" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0" class="sf_100">SiMPlify the exPression.</text>
+<text x="469" y="287" class="s5_100">70. </text>
+<text x="496" y="287" class="sf_100">tan</text>
+<text x="513" y="287" class="s9_100">s</text>
+<text x="517" y="287" class="sf_100">sin</text>
+<text x="533" y="282" class="sd_100">2</text>
+<text x="540" y="282" class="si_100">1</text>
+<text x="545" y="287" class="s7_100">x</text>
+<text x="551" y="287" class="s9_100">d</text>
+<text x="591" y="287" class="so_100">71. </text>
+<text x="618" y="287" class="sf_100">sin</text>
+<text x="634" y="287" class="s9_100">s</text>
+<text x="639" y="287" class="sf_100">tan</text>
+<text x="656" y="282" class="sd_100">2</text>
+<text x="662" y="282" class="si_100">1</text>
+<text x="667" y="287" class="s7_100">x</text>
+<text x="673" y="287" class="s9_100">d</text>
+<text x="708" y="287" class="s5_100">72. </text>
+<text x="734" y="287" class="sf_100">sin</text>
+<text x="751" y="287" class="s9_100">s</text>
+<text x="756" y="287" class="sf_100">2 arccos</text>
+<text x="804" y="287" class="s7_100">x</text>
+<text x="810" y="287" class="s9_100">d</text>
+<text x="469" y="339" class="sj_100">73-74</text>
+<text x="508" y="339" dx="0,0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.5,-.3,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.5,-.1,-.1,-.1,-.1,0" class="sf_100">GraPh the given functions on the saMe screen. How are </text>
+<text x="469" y="356" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1" class="sf_100">these graPhs related?</text>
+<text x="469" y="381" class="s5_100">73. </text>
+<text x="494" y="381" class="s7_100">y</text>
+<text x="504" y="381" class="sa_100">-</text>
+<text x="520" y="381" class="sf_100">sin </text>
+<text x="540" y="381" class="s7_100">x</text>
+<text x="546" y="381" class="sf_100">, </text>
+<text x="556" y="381" class="sc_100">2</text>
+<text x="568" y="381" class="sm_100">°</text>
+<text x="577" y="381" class="s9_100">y</text>
+<text x="585" y="381" class="sf_100">2</text>
+<text x="596" y="381" class="sc_100">&lt;</text>
+<text x="612" y="381" class="s7_100">x</text>
+<text x="622" y="381" class="sc_100">&lt;</text>
+<text x="638" y="381" class="sm_100">°</text>
+<text x="647" y="381" class="s9_100">y</text>
+<text x="655" y="381" class="sf_100">2; </text>
+<text x="680" y="381" class="s7_100">y</text>
+<text x="690" y="381" class="sa_100">-</text>
+<text x="705" y="381" class="sf_100">sin</text>
+<text x="721" y="375" class="sd_100">2</text>
+<text x="728" y="375" class="si_100">1</text>
+<text x="732" y="381" class="s7_100">x</text>
+<text x="738" y="381" class="sf_100">; </text>
+<text x="756" y="381" class="s7_100">y</text>
+<text x="767" y="381" class="sa_100">-</text>
+<text x="782" y="381" class="s7_100">x</text>
+<text x="469" y="405" class="s5_100">74. </text>
+<text x="494" y="405" class="s7_100">y</text>
+<text x="504" y="405" class="sa_100">-</text>
+<text x="520" y="405" class="sf_100">tan </text>
+<text x="541" y="405" class="s7_100">x</text>
+<text x="547" y="405" class="sf_100">, </text>
+<text x="557" y="405" class="sc_100">2</text>
+<text x="569" y="405" class="sm_100">°</text>
+<text x="578" y="405" class="s9_100">y</text>
+<text x="585" y="405" class="sf_100">2</text>
+<text x="596" y="405" class="sc_100">,</text>
+<text x="612" y="405" class="s7_100">x</text>
+<text x="622" y="405" class="sc_100">,</text>
+<text x="638" y="405" class="sm_100">°</text>
+<text x="647" y="405" class="s9_100">y</text>
+<text x="655" y="405" class="sf_100">2; </text>
+<text x="679" y="405" class="s7_100">y</text>
+<text x="690" y="405" class="sa_100">-</text>
+<text x="705" y="405" class="sf_100">tan</text>
+<text x="722" y="400" class="sd_100">2</text>
+<text x="729" y="400" class="si_100">1</text>
+<text x="733" y="405" class="s7_100">x</text>
+<text x="739" y="405" class="sf_100">; </text>
+<text x="757" y="405" class="s7_100">y</text>
+<text x="767" y="405" class="sa_100">-</text>
+<text x="783" y="405" class="s7_100">x</text>
+<text x="469" y="446" class="s5_100">75. </text>
+<text x="494" y="446" class="sf_100">Find the doMain and range of the function</text>
+<text x="586" y="471" class="se_100">t</text>
+<text x="593" y="471" class="s9_100">s</text>
+<text x="598" y="471" class="s7_100">x</text>
+<text x="605" y="471" class="s9_100">d</text>
+<text x="613" y="471" class="sa_100">-</text>
+<text x="629" y="471" class="sf_100">sin</text>
+<text x="645" y="465" class="sd_100">2</text>
+<text x="652" y="465" class="si_100">1</text>
+<text x="656" y="471" class="s9_100">s</text>
+<text x="660" y="471" class="sf_100">3</text>
+<text x="668" y="471" class="s7_100">x</text>
+<text x="678" y="471" class="sc_100">1</text>
+<text x="694" y="471" class="sf_100">1</text>
+<text x="701" y="471" class="s9_100">d</text>
+<text x="469" y="501" class="s5_100">76. </text>
+<text x="494" y="501" class="sf_100">(a) </text>
+<text x="517" y="501" class="sf_100">GraPh the function </text>
+<text x="626" y="501" class="s7_100">f</text>
+<text x="632" y="501" class="s9_100">s</text>
+<text x="637" y="501" class="s7_100">x</text>
+<text x="643" y="501" class="s9_100">d</text>
+<text x="652" y="501" class="sa_100">-</text>
+<text x="668" y="501" class="sf_100">sin</text>
+<text x="684" y="501" class="s9_100">s</text>
+<text x="688" y="501" class="sf_100">sin</text>
+<text x="704" y="496" class="sd_100">2</text>
+<text x="711" y="496" class="si_100">1</text>
+<text x="715" y="501" class="s7_100">x</text>
+<text x="721" y="501" class="s9_100">d</text>
+<text x="729" y="501" dx="0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0" class="sf_100">and exPlain the </text>
+<text x="517" y="518" class="sf_100">aPPearance of the graPh.</text>
+<text x="494" y="535" class="sf_100">(b) </text>
+<text x="517" y="535" class="sf_100">GraPh the function </text>
+<text x="624" y="535" class="se_100">t</text>
+<text x="631" y="535" class="s9_100">s</text>
+<text x="636" y="535" class="s7_100">x</text>
+<text x="642" y="535" class="s9_100">d</text>
+<text x="651" y="535" class="sa_100">-</text>
+<text x="667" y="535" class="sf_100">sin</text>
+<text x="683" y="529" class="sd_100">2</text>
+<text x="689" y="529" class="si_100">1</text>
+<text x="693" y="535" class="s9_100">s</text>
+<text x="698" y="535" class="sf_100">sin </text>
+<text x="718" y="535" class="s7_100">x</text>
+<text x="724" y="535" class="s9_100">d</text>
+<text x="729" y="535" dx="0,0,0,0,-.3,0,0,0,0,0,0,0,0" class="sf_100">. How do you </text>
+<text x="517" y="552" dx="0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">exPlain the aPPearance of this graPh?</text>
+<text x="469" y="576" class="s5_100">77. </text>
+<text x="494" y="576" class="sf_100">(a) </text>
+<text x="517" y="576" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">If we shift a curve to the left, what haPPens to its </text>
+<text x="517" y="593" class="sf_100">re´ection about the line </text>
+<text x="651" y="593" class="s7_100">y</text>
+<text x="661" y="593" class="sa_100">-</text>
+<text x="676" y="593" class="s7_100">x</text>
+<text x="684" y="593" dx="0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">? In view of this geo-</text>
+<text x="517" y="610" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.6,-.2,0,0,0,0,0,0,0" class="sf_100">Metric PrinciPle, ±nd an exPression for the inverse of </text>
+<text x="517" y="627" class="se_100">t</text>
+<text x="523" y="627" class="s9_100">s</text>
+<text x="528" y="627" class="s7_100">x</text>
+<text x="534" y="627" class="s9_100">d</text>
+<text x="543" y="627" class="sa_100">-</text>
+<text x="558" y="627" class="s7_100">f</text>
+<text x="565" y="627" class="s9_100">s</text>
+<text x="570" y="627" class="s7_100">x</text>
+<text x="580" y="627" class="sc_100">1</text>
+<text x="596" y="627" class="s7_100">c</text>
+<text x="602" y="627" class="s9_100">d</text>
+<text x="606" y="627" class="sf_100">, where </text>
+<text x="652" y="627" class="s7_100">f</text>
+<text x="661" y="627" class="sf_100">is a one-to-one function.</text>
+<text x="494" y="643" class="sf_100">(b) </text>
+<text x="517" y="643" dx="0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.6,-.2,0,0,0,0,0,0,0" class="sf_100">Find an exPression for the inverse of </text>
+<text x="721" y="643" class="s7_100">h</text>
+<text x="728" y="643" class="s9_100">s</text>
+<text x="733" y="643" class="s7_100">x</text>
+<text x="739" y="643" class="s9_100">d</text>
+<text x="748" y="643" class="sa_100">-</text>
+<text x="763" y="643" class="s7_100">f</text>
+<text x="769" y="643" class="s9_100">s</text>
+<text x="774" y="643" dx="0,.7" class="s7_100">cx</text>
+<text x="787" y="643" class="s9_100">d</text>
+<text x="792" y="643" class="sf_100">, </text>
+<text x="517" y="660" class="sf_100">where </text>
+<text x="554" y="660" class="s7_100">c</text>
+<text x="564" y="660" class="sa_100">±</text>
+<text x="579" y="660" class="sf_100">0.</text>
+<text x="450" y="341" class="sp_100">;</text>
+<text x="450" y="503" class="sp_100">;</text>
+<image preserveAspectRatio="none" x="53" y="725" width="771" height="38" xlink:href="100/img/1.png"/>
+<path d="M52.7,811.4h770" class="g2_100"/>
+<text x="52" y="801" dx="0,-.2,.3,.3,.3,.3,.3,.3,.3,.3,.3,.3,.3,.3" class="sq_100">CONCEPT CHECK </text>
+<text x="457" y="801" dx="0,-.1,0,0,-.2,0,0,0,0,-.1,0,0,0,0,0,0,-.2,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2" class="sr_100">Answers to the Concept Check can be found on the back endpapers.</text>
+<text x="74" y="753" class="ss_100">1</text>
+<text x="129" y="753" dx="0,.4,.6,.4,.4,.6" class="st_100">REVIEW</text>
+<text x="60" y="840" class="s5_100">1. </text>
+<text x="77" y="840" dx="0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">(a) What is a function? What are its doMain and range?</text>
+<text x="77" y="857" dx="0,0,0,0,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">(b) What is the graPh of a function?</text>
+<text x="77" y="874" class="sf_100">(c) </text>
+<text x="100" y="874" dx="0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">How can you tell whether a given curve is the graPh of </text>
+<text x="100" y="890" class="sf_100">a function?</text>
+<text x="60" y="915" class="s5_100">2. </text>
+<text x="77" y="915" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">Discuss four ways of rePresenting a function. Illustrate your </text>
+<text x="77" y="932" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0" class="sf_100">discussion with exaMPles.</text>
+<text x="60" y="956" class="s5_100">3. </text>
+<text x="77" y="956" class="sf_100">(a) </text>
+<text x="100" y="956" dx="0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">What is an even function? How can you tell if a function </text>
+<text x="100" y="973" dx="0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">is even by looking at its graPh? Give three exaMPles of an </text>
+<text x="100" y="990" dx="0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">even function.</text>
+<text x="77" y="1006" class="sf_100">(b) </text>
+<text x="100" y="1006" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">What is an odd function? How can you tell if a function </text>
+<text x="100" y="1023" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0" class="sf_100">is odd by looking at its graPh? Give three exaMPles of </text>
+<text x="100" y="1040" class="sf_100">an odd function.</text>
+<text x="454" y="841" class="s5_100">4. </text>
+<text x="472" y="841" class="sf_100">What is an increasing function?</text>
+<text x="454" y="867" class="s5_100">5. </text>
+<text x="472" y="867" class="sf_100">What is a MatheMatical Model?</text>
+<text x="454" y="893" class="s5_100">6. </text>
+<text x="472" y="893" dx="0,0,-.3,-.2,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">Give an exaMPle of each tyPe of function.</text>
+<text x="472" y="912" dx="0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">(a) Linear function </text>
+<text x="650" y="912" dx="0,0,0,0,3.4,0,-.3,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">(b) µower function</text>
+<text x="472" y="930" dx="0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">(c) ExPonential function </text>
+<text x="650" y="930" dx="0,0,0,0,3.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">(d) Quadratic function</text>
+<text x="472" y="948" dx="0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0" class="sf_100">(e) µolynoMial of degree 5 </text>
+<text x="651" y="948" dx="0,0,0,-2.1,0,3.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_100">(f ) Rational function</text>
+<text x="454" y="974" class="s5_100">7. </text>
+<text x="472" y="974" dx="0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0" class="sf_100">Sketch by hand, on the saMe axes, the graPhs of the following </text>
+<text x="472" y="991" class="sf_100">functions.</text>
+<text x="472" y="1009" class="sf_100">(a) </text>
+<text x="496" y="1010" class="s7_100">f</text>
+<text x="503" y="1010" class="s9_100">s</text>
+<text x="508" y="1010" class="s7_100">x</text>
+<text x="514" y="1010" class="s9_100">d</text>
+<text x="523" y="1010" class="sa_100">-</text>
+<text x="538" y="1010" class="s7_100">x</text>
+<text x="650" y="1010" class="sf_100">(b) </text>
+<text x="673" y="1010" class="se_100">t</text>
+<text x="679" y="1010" class="s9_100">s</text>
+<text x="685" y="1010" class="s7_100">x</text>
+<text x="691" y="1010" class="s9_100">d</text>
+<text x="699" y="1010" class="sa_100">-</text>
+<text x="715" y="1010" class="s7_100">x</text>
+<text x="723" y="1004" class="si_100">2</text>
+<text x="472" y="1032" class="sf_100">(c) </text>
+<text x="495" y="1032" class="s7_100">h</text>
+<text x="501" y="1032" class="s9_100">s</text>
+<text x="507" y="1032" class="s7_100">x</text>
+<text x="513" y="1032" class="s9_100">d</text>
+<text x="522" y="1032" class="sa_100">-</text>
+<text x="537" y="1032" class="s7_100">x</text>
+<text x="545" y="1027" class="si_100">3</text>
+<text x="650" y="1032" class="sf_100">(d) </text>
+<text x="675" y="1032" class="s7_100">j</text>
+<text x="679" y="1032" class="s9_100">s</text>
+<text x="684" y="1032" class="s7_100">x</text>
+<text x="690" y="1032" class="s9_100">d</text>
+<text x="699" y="1032" class="sa_100">-</text>
+<text x="714" y="1032" class="s7_100">x</text>
+<text x="722" y="1027" class="si_100">4</text>
+<text x="121" y="1076" class="su_100">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="su_100">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: BeaconDingbatsTypeOne_12w;
+	src: url("fonts/BeaconDingbatsTypeOne_12w.woff") format("woff");
+}
+
+@font-face {
+	font-family: BeaconDingbatsTypeOne_1hn;
+	src: url("fonts/BeaconDingbatsTypeOne_1hn.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPi-One-Italic_x2;
+	src: url("fonts/MathematicalPi-One-Italic_x2.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BoldCond_oa;
+	src: url("fonts/MyriadPro-BoldCond_oa.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_1bm;
+	src: url("fonts/TimesLTStd-Roman_1bm.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 73 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_73"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0_73"><path d="M472.4,142V124.5H748.3V142Z"/></clipPath>
+<clipPath id="c1_73"><path d="M444.5,717.7V700.5H514v17.2Z"/></clipPath>
+<clipPath id="c2_73"><path d="M543.7,717.9V700.5h96.2v17.4Z"/></clipPath>
+<clipPath id="c3_73"><path d="M455.9,802.4V782.9H819.8v19.5Z"/></clipPath>
+<clipPath id="c4_73"><path d="M689.1,881.7V862.4h83.2v19.3Z"/></clipPath>
+<clipPath id="c5_73"><path d="M367,919.1v-17h21.2v17Z"/></clipPath>
+<clipPath id="c6_73"><path d="M631.2,922.3V900.6h61.4v21.7Z"/></clipPath>
+<clipPath id="c7_73"><path d="M498,991.8V972.4H777.7v19.4Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_73{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_73{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_73{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s4_73{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s5_73{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s6_73{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s7_73{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.s8_73{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.s9_73{
+font-size: 15.28px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #231F20;
+}
+.sa_73{
+font-size: 9.17px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sb_73{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sc_73{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #00AEEF;
+}
+.sd_73{
+font-size: 15.28px;
+font-family: TimesLTStd-Bold_oh;
+fill: #231F20;
+}
+.se_73{
+font-size: 16.81px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.sf_73{
+font-size: 17.57px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.sg_73{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #EC008C;
+}
+.sh_73{
+font-size: 12.99px;
+font-family: ZapfDingbatsITC_my;
+fill: #EC008C;
+}
+.si_73{
+font-size: 14.51px;
+font-family: MyriadPro-BlackSemiCn_14j;
+fill: #5B2E91;
+}
+.sj_73{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_143;
+fill: #EC008C;
+}
+.sk_73{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #EC008C;
+}
+.sl_73{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #EC008C;
+}
+.sm_73{
+font-size: 15.28px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #EC008C;
+}
+.sn_73{
+font-size: 21.39px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.so_73{
+font-size: 16.81px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #231F20;
+}
+.sp_73{
+font-size: 7.33px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sq_73{
+font-size: 24.44px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sr_73{
+font-size: 14.51px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.ss_73{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.st_73{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.su_73{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sv_73{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sw_73{
+font-size: 13.75px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #231F20;
+}
+.sx_73{
+font-size: 12.99px;
+font-family: TECHMath-Mix_1am;
+fill: #231F20;
+}
+.sy_73{
+font-size: 12.99px;
+font-family: TECHMath-Mix_1e9;
+fill: #231F20;
+}
+.sz_73{
+font-size: 12.99px;
+font-family: Times-Roman_n6;
+fill: #231F20;
+}
+.s10_73{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_143;
+fill: #00AEEF;
+}
+.s11_73{
+font-size: 12.22px;
+font-family: TimesLTStd-Roman_143;
+fill: #00AEEF;
+}
+.s12_73{
+font-size: 12.22px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #00AEEF;
+}
+.s13_73{
+font-size: 12.22px;
+font-family: TimesLTStd-Italic_o3;
+fill: #00AEEF;
+}
+.s14_73{
+font-size: 7.33px;
+font-family: TimesLTStd-Roman_143;
+fill: #00AEEF;
+}
+.s15_73{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_73{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g1_73{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_73{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.84;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_73{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g4_73{
+fill: #231F20;
+}
+.g5_73{
+fill: #EC008C;
+}
+.g6_73{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.145;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_73{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.283;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_73)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="543" y="64" dx="0,.2,.2,.5,.2,.2,.2" class="s1_73">SECTION</text>
+<text x="595" y="64" class="s2_73">1.3</text>
+<text x="625" y="64" dx="0,.1,.1,.1,.1,-.3,.1,.1,.3,.1,.1,.1,.1,.1,.1,.1,0,.1,.1,.1,.1,.1,.1,.1,-.3,.1,.1,.3,.1,.1,.1,.1,.1" class="s3_73">New Functions from Old Functions </text>
+<text x="862" y="64" class="s4_73">41</text>
+<text x="342" y="107" dx="0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_73">We compute this by substitution:</text>
+<text x="472" y="138" class="s6_73">y</text>
+<text x="484" y="138" class="s7_73">-</text>
+<text x="501" y="138" class="s6_73">f</text>
+<text x="507" y="138" class="s8_73">s</text>
+<text x="513" y="138" class="s6_73">u</text>
+<text x="520" y="138" class="s8_73">d</text>
+<text x="530" y="138" class="s7_73">-</text>
+<text x="547" y="138" class="s6_73">f</text>
+<text x="554" y="138" class="s8_73">s</text>
+<text x="560" y="138" class="s9_73">t</text>
+<text x="567" y="138" class="s8_73">s</text>
+<text x="573" y="138" class="s6_73">x</text>
+<text x="580" y="138" class="s8_73">dd</text>
+<text x="594" y="138" class="s7_73">-</text>
+<text x="612" y="138" class="s6_73">f</text>
+<text x="618" y="138" class="s8_73">s</text>
+<text x="624" y="138" class="s6_73">x</text>
+<text x="632" y="132" class="sa_73">2</text>
+<text x="641" y="138" class="sb_73">1</text>
+<text x="659" y="138" class="s5_73">1</text>
+<text x="666" y="138" class="s8_73">d</text>
+<text x="676" y="138" class="s7_73">-</text>
+<text x="693" y="139" class="s9_73">s</text>
+<text x="705" y="138" class="s6_73">x</text>
+<text x="714" y="133" class="sa_73">2</text>
+<text x="723" y="138" class="sb_73">1</text>
+<text x="740" y="138" class="s5_73">1</text>
+<g clip-path="url(#c0_73)">
+<path d="M705.4,124.9h43.3" class="g0_73"/>
+</g>
+<text x="342" y="169" dx="0,0,0,0,.9,0,0,0,0,0,0,0,0,0,.9,0,0,.9,0,0,0,0,0,0" class="s5_73">The procedure is called </text>
+<text x="492" y="169" class="s6_73">composition</text>
+<text x="572" y="169" dx="0,0,0,0,0,0,0,0,.9,0,0,0,.9,0,-.4,0,.9,0,0,0,0,0,0,0,0,.9,0,0" class="s5_73">because the new function is </text>
+<text x="749" y="169" class="s6_73">composed</text>
+<text x="814" y="169" dx="0,0,0,.9,0,0,0,.9,0,-.2,0" class="s5_73">of the two </text>
+<text x="342" y="187" dx="0,0,-.4,-.2,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_73">given functions </text>
+<text x="442" y="187" class="s6_73">f</text>
+<text x="452" y="187" class="s5_73">and </text>
+<text x="478" y="187" class="s9_73">t</text>
+<text x="485" y="187" class="s5_73">.</text>
+<text x="360" y="205" dx="0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,-.4,-.2,0,0,.4,0,-.2,0,.4,0,-.2,0,.4,0,0,0,0,0,0,0,0,0" class="s5_73">±n general, given any two functions </text>
+<text x="584" y="205" class="s6_73">f</text>
+<text x="595" y="205" class="s5_73">and </text>
+<text x="621" y="205" class="s9_73">t</text>
+<text x="628" y="205" dx="0,0,.4,0,0,.4,0,0,0,0,0,.4,0,0,0,0,.4,0,.4,0,0,0,0,0,0" class="s5_73">, we start with a number </text>
+<text x="782" y="205" class="s6_73">x</text>
+<text x="793" y="205" dx="0,0,0,.4,0,0,0,.4,0,0,0,0,0,0" class="s5_73">in the domain </text>
+<text x="342" y="224" class="s5_73">of </text>
+<text x="359" y="224" class="s9_73">t</text>
+<text x="370" y="224" dx="0,0,0,0,.6,0,0,0,0,0,0,0,0,0" class="s5_73">and calculate </text>
+<text x="455" y="224" class="s9_73">t</text>
+<text x="462" y="224" class="s8_73">s</text>
+<text x="468" y="224" class="s6_73">x</text>
+<text x="474" y="224" class="s8_73">d</text>
+<text x="480" y="224" dx="0,0,.6,0,0,.6,0,0,0,0,.6,0,0,0,0,0,0" class="s5_73">. ±f this number </text>
+<text x="580" y="224" class="s9_73">t</text>
+<text x="587" y="224" class="s8_73">s</text>
+<text x="593" y="224" class="s6_73">x</text>
+<text x="599" y="224" class="s8_73">d</text>
+<text x="609" y="224" dx="0,0,0,.6,0,0,.6,0,0,0,.6,0,0,0,0,0,0,.6,0,0" class="s5_73">is in the domain of </text>
+<text x="733" y="224" class="s6_73">f</text>
+<text x="737" y="224" dx="0,0,.6,0,0,0,0,.6,0,0,.6,0,0,0,.6,0,0,0,0,0,0,0,0,0" class="s5_73">, then we can calculate </text>
+<text x="342" y="242" dx="0,0,0,0,-.6,-.4,0,0,0,0,-.5,0,0" class="s5_73">the value of </text>
+<text x="418" y="242" class="s6_73">f</text>
+<text x="424" y="242" class="s8_73">s</text>
+<text x="431" y="242" class="s9_73">t</text>
+<text x="438" y="242" class="s8_73">s</text>
+<text x="444" y="242" class="s6_73">x</text>
+<text x="450" y="242" class="s8_73">dd</text>
+<text x="460" y="242" dx="0,0,-.5,0,0,0,0,0,0,-.5,0,0,0,0,-.5,0,0,0,-.5,0,0,0,0,0,0,-.5,0,0,-.5,0,0,0,-.5,0,0,0,0,0,0,0,0,-.5,0,0,-.5,0,0,0,0,-.5,0,0,-.5,0,0,0,-.5,0,0,0,0,0,-.5,0,0,-.5,0,0,0,-.5,0,-.2,0,0" class="s5_73">. Notice that the output of one function is used as the input to the next </text>
+<text x="342" y="260" dx="0,0,0,0,0,0,0,0,0,0,-1.3,0,0,0,-1,0,0,0,0,0,0,-1,0,0,-1,0,-1,0,-.4,0,-1,0,0,0,0,0,0,0,0" class="s5_73">function. The result is a new function </text>
+<text x="566" y="260" class="s6_73">h</text>
+<text x="574" y="260" class="s8_73">s</text>
+<text x="580" y="260" class="s6_73">x</text>
+<text x="587" y="260" class="s8_73">d</text>
+<text x="596" y="260" class="s7_73">-</text>
+<text x="614" y="260" class="s6_73">f</text>
+<text x="620" y="260" class="s8_73">s</text>
+<text x="627" y="260" class="s9_73">t</text>
+<text x="633" y="260" class="s8_73">s</text>
+<text x="639" y="260" class="s6_73">x</text>
+<text x="646" y="260" class="s8_73">dd</text>
+<text x="659" y="260" dx="0,0,0,0,0,0,0,0,0,-1,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_73">obtained by substituting </text>
+<text x="807" y="260" class="s9_73">t</text>
+<text x="816" y="260" class="s5_73">into </text>
+<text x="845" y="260" class="s6_73">f</text>
+<text x="849" y="260" dx="0,0,-1,0,0,-1,0,0" class="s5_73">. ±t is </text>
+<text x="342" y="279" dx="0,0,0,0,0,0,0,.5,0,0,0" class="s5_73">called the </text>
+<text x="406" y="279" class="s6_73">composition</text>
+<text x="485" y="279" class="s5_73">(or </text>
+<text x="507" y="279" class="s6_73">composite</text>
+<text x="569" y="279" dx="0,0,.5,0,0" class="s5_73">) of </text>
+<text x="598" y="279" class="s6_73">f</text>
+<text x="608" y="279" class="s5_73">and </text>
+<text x="635" y="279" class="s9_73">t</text>
+<text x="646" y="279" dx="0,0,0,0,.5,0,0,.5,0,0,0,0,0,0,0,.5,0,0" class="s5_73">and is denoted by </text>
+<text x="761" y="279" class="s6_73">f</text>
+<text x="770" y="283" class="sb_73">8</text>
+<text x="780" y="279" class="s9_73">t</text>
+<text x="791" y="279" class="s5_73">(“</text>
+<text x="805" y="279" class="s6_73">f</text>
+<text x="816" y="279" class="s5_73">circle </text>
+<text x="854" y="279" class="s9_73">t</text>
+<text x="862" y="279" class="s5_73">”).</text>
+<text x="358" y="327" class="sc_73">De±nition </text>
+<text x="434" y="327" dx="0,0,-.4,-.2,0,0,-.4,0,-.2,0,-.4,0,0,0,0,0,0,0,0,0" class="s5_73">Given two functions </text>
+<text x="563" y="327" class="s6_73">f</text>
+<text x="572" y="327" class="s5_73">and </text>
+<text x="598" y="327" class="s9_73">t</text>
+<text x="604" y="327" dx="0,0,-.4,0,0" class="s5_73">, the</text>
+<text x="634" y="327" dx="0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0" class="sd_73">composite function</text>
+<text x="762" y="327" class="s6_73">f</text>
+<text x="771" y="331" class="sb_73">8</text>
+<text x="781" y="327" class="s9_73">t</text>
+<text x="791" y="327" dx="0,0,0,0,0,0,-.4,0,0,0,0,0,0" class="s5_73">(also called </text>
+<text x="356" y="345" class="s5_73">the </text>
+<text x="379" y="345" class="sd_73">composition</text>
+<text x="462" y="345" class="s5_73">of </text>
+<text x="480" y="345" class="s6_73">f</text>
+<text x="491" y="345" class="s5_73">and </text>
+<text x="516" y="345" class="s9_73">t</text>
+<text x="523" y="345" class="s5_73">) is deIned by</text>
+<text x="549" y="370" class="s8_73">s</text>
+<text x="557" y="370" class="s6_73">f</text>
+<text x="566" y="374" class="sb_73">8</text>
+<text x="575" y="370" class="s9_73">t</text>
+<text x="582" y="370" class="s8_73">ds</text>
+<text x="593" y="370" class="s6_73">x</text>
+<text x="600" y="370" class="s8_73">d</text>
+<text x="609" y="370" class="s7_73">-</text>
+<text x="627" y="370" class="s6_73">f</text>
+<text x="633" y="370" class="s8_73">s</text>
+<text x="640" y="370" class="s9_73">t</text>
+<text x="647" y="370" class="s8_73">s</text>
+<text x="652" y="370" class="s6_73">x</text>
+<text x="659" y="370" class="s8_73">dd</text>
+<path d="M345.7,303.9c0,0,-3.1,0,-3.1,2v77.8c0,0,0,2,3.1,2H875.1c0,0,3,0,3,-2V305.9c0,0,0,-2,-3,-2H345.7Z" class="g1_73"/>
+<text x="360" y="419" dx="0,0,0,0,-.5,0,0,0,0,0,0,-.5,0,0" class="s5_73">The domain of </text>
+<text x="455" y="419" class="s6_73">f</text>
+<text x="463" y="424" class="sb_73">8</text>
+<text x="473" y="419" class="s9_73">t</text>
+<text x="483" y="419" dx="0,0,0,-.5,0,0,0,-.5,0,0,0,-.5,0,0,-.5,0,0,0" class="s5_73">is the set of all </text>
+<text x="574" y="419" class="s6_73">x</text>
+<text x="584" y="419" dx="0,0,0,-.5,0,0,0,-.5,0,0,0,0,0,0,-.5,0,0" class="s5_73">in the domain of </text>
+<text x="686" y="419" class="s9_73">t</text>
+<text x="696" y="419" dx="0,0,0,0,0,-.5,0,0,0,0" class="s5_73">such that </text>
+<text x="754" y="419" class="s9_73">t</text>
+<text x="760" y="419" class="s8_73">s</text>
+<text x="766" y="419" class="s6_73">x</text>
+<text x="773" y="419" class="s8_73">d</text>
+<text x="781" y="419" dx="0,0,0,-.5,0,0,-.5,0,0,0,-.5,0,0,0,0,0,0" class="s5_73">is in the domain </text>
+<text x="342" y="437" class="s5_73">of </text>
+<text x="362" y="437" class="s6_73">f</text>
+<text x="366" y="437" dx="0,0,1.3,0,0,1.3,0,0,0,0,0,1.3,-.2,0,0,0,0,0" class="s5_73">. ±n other words, </text>
+<text x="476" y="437" class="s8_73">s</text>
+<text x="484" y="437" class="s6_73">f</text>
+<text x="493" y="442" class="sb_73">8</text>
+<text x="502" y="437" class="s9_73">t</text>
+<text x="509" y="437" class="s8_73">ds</text>
+<text x="520" y="437" class="s6_73">x</text>
+<text x="527" y="437" class="s8_73">d</text>
+<text x="537" y="437" dx="0,0,0,1.3,0,0,0,0,0,0,1.3,0,0,0,0,-.4,-.2,0,0,1.3,0,0,0,0" class="s5_73">is deIned whenever both </text>
+<text x="699" y="437" class="s9_73">t</text>
+<text x="705" y="437" class="s8_73">s</text>
+<text x="711" y="437" class="s6_73">x</text>
+<text x="718" y="437" class="s8_73">d</text>
+<text x="728" y="437" class="s5_73">and </text>
+<text x="758" y="437" class="s6_73">f</text>
+<text x="764" y="437" class="s8_73">s</text>
+<text x="771" y="437" class="s9_73">t</text>
+<text x="777" y="437" class="s8_73">s</text>
+<text x="783" y="437" class="s6_73">x</text>
+<text x="790" y="437" class="s8_73">dd</text>
+<text x="805" y="437" dx="0,0,0,0,1.3,0,0,0,0,0,0,0" class="s5_73">are deIned. </text>
+<text x="342" y="456" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_73">Figure 11 shows how to picture </text>
+<text x="540" y="456" class="s6_73">f</text>
+<text x="549" y="460" class="sb_73">8</text>
+<text x="559" y="456" class="s9_73">t</text>
+<text x="569" y="456" class="s5_73">in terms of machines.</text>
+<text x="342" y="491" dx="0,0,0,0,0,0,0,-.2" class="se_73">EXAMPLE </text>
+<text x="410" y="491" class="sf_73">6</text>
+<text x="427" y="491" class="s5_73">±f </text>
+<text x="443" y="491" class="s6_73">f</text>
+<text x="449" y="491" class="s8_73">s</text>
+<text x="455" y="491" class="s6_73">x</text>
+<text x="462" y="491" class="s8_73">d</text>
+<text x="471" y="491" class="s7_73">-</text>
+<text x="489" y="491" class="s6_73">x</text>
+<text x="497" y="485" class="sa_73">2</text>
+<text x="505" y="491" class="s5_73">and </text>
+<text x="530" y="491" class="s9_73">t</text>
+<text x="536" y="491" class="s8_73">s</text>
+<text x="542" y="491" class="s6_73">x</text>
+<text x="549" y="491" class="s8_73">d</text>
+<text x="559" y="491" class="s7_73">-</text>
+<text x="576" y="491" class="s6_73">x</text>
+<text x="587" y="491" class="sb_73">2</text>
+<text x="605" y="491" dx="0,0,0,-.7,0,0,0,-.7,0,0,0,-.7,0,0,0,0,0,0,0,0,0,-.7,0,0,0,0,0,0,0,0,0" class="s5_73">3, Ind the composite functions </text>
+<text x="796" y="491" class="s6_73">f</text>
+<text x="805" y="496" class="sb_73">8</text>
+<text x="814" y="491" class="s9_73">t</text>
+<text x="824" y="491" class="s5_73">and </text>
+<text x="849" y="491" class="s9_73">t</text>
+<text x="860" y="496" class="sb_73">8</text>
+<text x="870" y="491" class="s6_73">f</text>
+<text x="874" y="491" class="s5_73">.</text>
+<text x="342" y="518" dx="0,.3,.3,.3,.3,.3,.3,.3,.1" class="sg_73">SOLUTION </text>
+<text x="413" y="518" dx="0,-1.2,0,0,0,-.3,-.2" class="s5_73">We have</text>
+<text x="478" y="546" class="s8_73">s</text>
+<text x="486" y="546" class="s6_73">f</text>
+<text x="495" y="551" class="sb_73">8</text>
+<text x="504" y="546" class="s9_73">t</text>
+<text x="511" y="546" class="s8_73">ds</text>
+<text x="522" y="546" class="s6_73">x</text>
+<text x="529" y="546" class="s8_73">d</text>
+<text x="538" y="546" class="s7_73">-</text>
+<text x="556" y="546" class="s6_73">f</text>
+<text x="562" y="546" class="s8_73">s</text>
+<text x="569" y="546" class="s9_73">t</text>
+<text x="575" y="546" class="s8_73">s</text>
+<text x="581" y="546" class="s6_73">x</text>
+<text x="588" y="546" class="s8_73">dd</text>
+<text x="603" y="546" class="s7_73">-</text>
+<text x="620" y="546" class="s6_73">f</text>
+<text x="626" y="546" class="s8_73">s</text>
+<text x="632" y="546" class="s6_73">x</text>
+<text x="644" y="546" class="sb_73">2</text>
+<text x="661" y="546" class="s5_73">3</text>
+<text x="669" y="546" class="s8_73">d</text>
+<text x="678" y="546" class="s7_73">-</text>
+<text x="696" y="546" class="s8_73">s</text>
+<text x="701" y="546" class="s6_73">x</text>
+<text x="713" y="546" class="sb_73">2</text>
+<text x="730" y="546" class="s5_73">3</text>
+<text x="738" y="546" class="s8_73">d</text>
+<text x="743" y="540" class="sa_73">2</text>
+<text x="476" y="580" class="s8_73">s</text>
+<text x="483" y="580" class="s9_73">t</text>
+<text x="494" y="584" class="sb_73">8</text>
+<text x="504" y="580" class="s6_73">f</text>
+<text x="511" y="580" class="s8_73">ds</text>
+<text x="522" y="580" class="s6_73">x</text>
+<text x="529" y="580" class="s8_73">d</text>
+<text x="538" y="580" class="s7_73">-</text>
+<text x="556" y="580" class="s9_73">t</text>
+<text x="562" y="580" class="s8_73">s</text>
+<text x="570" y="580" class="s6_73">f</text>
+<text x="577" y="580" class="s8_73">s</text>
+<text x="583" y="580" class="s6_73">x</text>
+<text x="589" y="580" class="s8_73">dd</text>
+<text x="604" y="580" class="s7_73">-</text>
+<text x="622" y="580" class="s9_73">t</text>
+<text x="628" y="580" class="s8_73">s</text>
+<text x="634" y="580" class="s6_73">x</text>
+<text x="642" y="573" class="sa_73">2</text>
+<text x="648" y="580" class="s8_73">d</text>
+<text x="658" y="580" class="s7_73">-</text>
+<text x="675" y="580" class="s6_73">x</text>
+<text x="684" y="573" class="sa_73">2</text>
+<text x="693" y="580" class="sb_73">2</text>
+<text x="710" y="580" class="s5_73">3 </text>
+<text x="868" y="580" class="sh_73">■</text>
+<text x="360" y="622" dx="0,.7,.4,.7,.7" class="si_73">NOTE </text>
+<text x="405" y="622" dx="0,-1.7,0,0,1.8,0,0,0,1.8,0,0,0,1.8,0,0,0,0,1.8,0,0,0,0,0,0,0,1.8,0,1.8,0,0,0,0,0,1.8,0,0,1.8,0,0,0,0,0,0,0,0" class="s5_73">You can see from Example 6 that, in general, </text>
+<text x="702" y="622" class="s6_73">f</text>
+<text x="711" y="627" class="sb_73">8</text>
+<text x="720" y="622" class="s9_73">t</text>
+<text x="732" y="622" class="s7_73">±</text>
+<text x="749" y="622" class="s9_73">t</text>
+<text x="760" y="627" class="sb_73">8</text>
+<text x="770" y="622" class="s6_73">f</text>
+<text x="774" y="622" dx="0,0,1.8,0,0,0,0,0,0,0,-.6,0" class="s5_73">. Remember, </text>
+<text x="859" y="622" class="sj_73">the </text>
+<text x="342" y="641" class="sj_73">notation </text>
+<text x="398" y="641" class="sk_73">f</text>
+<text x="407" y="645" class="sl_73">8</text>
+<text x="417" y="641" class="sm_73">t</text>
+<text x="428" y="641" dx="0,0,0,0,0,0,.6,0,0,0,0,.6,0,0,0,.6,0,0,0,0,0,0,0,0" class="sj_73">means that the function </text>
+<text x="577" y="641" class="sm_73">t</text>
+<text x="588" y="641" dx="0,0,0,.6,0,0,0,0,0,0,0,.6,0,0,0,0,.6,0,0,0,.6,0,0,0,0" class="sj_73">is applied Irst and then </text>
+<text x="740" y="641" class="sk_73">f</text>
+<text x="751" y="641" dx="0,0,0,.6,0,0,0,0,0,0,0,.6,0,0,0,0,0,0,0" class="sj_73">is applied second. </text>
+<text x="865" y="641" class="s5_73">±n </text>
+<text x="342" y="659" dx="0,0,0,0,0,0,0,0,-.7,0,0" class="s5_73">Example 6, </text>
+<text x="416" y="659" class="s6_73">f</text>
+<text x="425" y="664" class="sb_73">8</text>
+<text x="434" y="659" class="s9_73">t</text>
+<text x="444" y="659" dx="0,0,0,-.7,0,0,0,-.7,0,0,0,0,0,0,0,0,-.7,0,0,0,0" class="s5_73">is the function that </text>
+<text x="559" y="659" dx="0,0,-.2,0" class="s6_73">±rst</text>
+<text x="586" y="659" dx="0,0,0,0,0,0,0,0,0,0,-.7,0,-.7,0,0,0" class="s5_73">subtracts 3 and </text>
+<text x="679" y="659" class="s6_73">then</text>
+<text x="709" y="659" class="s5_73">squares; </text>
+<text x="762" y="659" class="s9_73">t</text>
+<text x="773" y="664" class="sb_73">8</text>
+<text x="783" y="659" class="s6_73">f</text>
+<text x="792" y="659" dx="0,0,0,-.7,0,0,0,-.7,0,0,0,0,0,0,0,0" class="s5_73">is the function </text>
+<text x="342" y="677" class="s5_73">that </text>
+<text x="368" y="677" dx="0,0,-.2,0" class="s6_73">±rst</text>
+<text x="396" y="677" class="s5_73">squares and </text>
+<text x="471" y="677" class="s6_73">then</text>
+<text x="502" y="677" class="s5_73">subtracts 3.</text>
+<text x="342" y="714" dx="0,.3,.3,.3,.3,.3,.3,.2" class="se_73">EXAMPLE </text>
+<text x="413" y="714" class="sf_73">7</text>
+<text x="430" y="714" class="s5_73">±f </text>
+<text x="446" y="714" class="s6_73">f</text>
+<text x="453" y="714" class="s8_73">s</text>
+<text x="459" y="714" class="s6_73">x</text>
+<text x="465" y="714" class="s8_73">d</text>
+<text x="475" y="714" class="s7_73">-</text>
+<text x="492" y="714" class="s9_73">s</text>
+<text x="505" y="714" class="s6_73">x</text>
+<g clip-path="url(#c1_73)">
+<path d="M504.5,700.9h9.9" class="g0_73"/>
+</g>
+<text x="517" y="714" class="s5_73">and </text>
+<text x="543" y="714" class="s9_73">t</text>
+<text x="550" y="714" class="s8_73">s</text>
+<text x="556" y="714" class="s6_73">x</text>
+<text x="562" y="714" class="s8_73">d</text>
+<text x="572" y="714" class="s7_73">-</text>
+<text x="589" y="714" class="s9_73">s</text>
+<text x="601" y="714" class="s5_73">2</text>
+<text x="613" y="714" class="sb_73">2</text>
+<text x="630" y="714" class="s6_73">x</text>
+<g clip-path="url(#c2_73)">
+<path d="M601.6,700.9h38.6" class="g0_73"/>
+</g>
+<text x="639" y="714" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_73">, Ind each of the following functions </text>
+<text x="342" y="732" class="s5_73">and their domains.</text>
+<text x="342" y="752" class="s5_73">(a) </text>
+<text x="369" y="752" class="s6_73">f</text>
+<text x="377" y="757" class="sb_73">8</text>
+<text x="387" y="752" class="s9_73">t</text>
+<text x="440" y="752" class="s5_73">(b) </text>
+<text x="465" y="752" class="s9_73">t</text>
+<text x="476" y="757" class="sb_73">8</text>
+<text x="486" y="752" class="s6_73">f</text>
+<text x="538" y="752" class="s5_73">(c) </text>
+<text x="565" y="752" class="s6_73">f</text>
+<text x="574" y="757" class="sb_73">8</text>
+<text x="583" y="752" class="s6_73">f</text>
+<text x="636" y="752" class="s5_73">(d) </text>
+<text x="661" y="752" class="s9_73">t</text>
+<text x="672" y="757" class="sb_73">8</text>
+<text x="682" y="752" class="s9_73">t</text>
+<text x="342" y="780" dx="0,.3,.3,.3,.3,.3,.3,.3" class="sg_73">SOLUTION</text>
+<text x="342" y="798" class="s5_73">(a) </text>
+<text x="455" y="798" class="s8_73">s</text>
+<text x="464" y="798" class="s6_73">f</text>
+<text x="472" y="803" class="sb_73">8</text>
+<text x="482" y="798" class="s9_73">t</text>
+<text x="489" y="798" class="s8_73">ds</text>
+<text x="500" y="798" class="s6_73">x</text>
+<text x="506" y="798" class="s8_73">d</text>
+<text x="516" y="798" class="s7_73">-</text>
+<text x="533" y="798" class="s6_73">f</text>
+<text x="540" y="798" class="s8_73">s</text>
+<text x="546" y="798" class="s9_73">t</text>
+<text x="553" y="798" class="s8_73">s</text>
+<text x="559" y="798" class="s6_73">x</text>
+<text x="566" y="798" class="s8_73">dd</text>
+<text x="580" y="798" class="s7_73">-</text>
+<text x="598" y="798" class="s6_73">f</text>
+<text transform="matrix(0.71,0,0,1,605,798)" class="sn_73">(</text>
+<text x="610" y="799" class="s9_73">s</text>
+<text x="621" y="798" class="s5_73">2</text>
+<text x="634" y="798" class="sb_73">2</text>
+<text x="651" y="798" class="s6_73">x</text>
+<path d="M622.2,784.9h36.4" class="g0_73"/>
+<text transform="matrix(0.71,0,0,1,659,798)" class="sn_73">)</text>
+<text x="669" y="798" class="s7_73">-</text>
+<text transform="matrix(0.91,0,0,1,686,799)" class="so_73">s</text>
+<text x="698" y="799" class="s9_73">s</text>
+<text x="709" y="798" class="s5_73">2</text>
+<text x="721" y="798" class="sb_73">2</text>
+<text x="739" y="798" class="s6_73">x</text>
+<path d="M709.8,785.6h38.7" class="g0_73"/>
+<path d="M698.3,783.3h50.2" class="g2_73"/>
+<text x="752" y="798" class="s7_73">-</text>
+<text x="769" y="799" class="s9_73">s</text>
+<text x="772" y="792" class="sp_73">4</text>
+<text x="781" y="798" class="s5_73">2</text>
+<text x="793" y="798" class="sb_73">2</text>
+<text x="810" y="798" class="s6_73">x</text>
+<g clip-path="url(#c3_73)">
+<path d="M781.6,784.9h38.6" class="g0_73"/>
+</g>
+<text x="342" y="839" class="s5_73">The domain of </text>
+<text x="438" y="839" class="s6_73">f</text>
+<text x="447" y="844" class="sb_73">8</text>
+<text x="456" y="839" class="s9_73">t</text>
+<text x="467" y="839" class="s5_73">is </text>
+<text x="481" y="839" class="s8_73">h</text>
+<text x="487" y="839" class="s6_73">x</text>
+<text transform="matrix(0.63,0,0,1,497,843)" class="sq_73">|</text>
+<text x="506" y="839" class="s5_73">2</text>
+<text x="518" y="839" class="sb_73">2</text>
+<text x="535" y="839" class="s6_73">x</text>
+<text x="547" y="839" class="sb_73">&gt;</text>
+<text x="564" y="839" class="s5_73">0</text>
+<text x="572" y="839" class="s8_73">j</text>
+<text x="581" y="839" class="s7_73">-</text>
+<text x="599" y="839" class="s8_73">h</text>
+<text x="604" y="839" class="s6_73">x</text>
+<text transform="matrix(0.63,0,0,1,615,843)" class="sq_73">|</text>
+<text x="624" y="839" class="s6_73">x</text>
+<text x="635" y="839" class="sb_73">&lt;</text>
+<text x="652" y="839" class="s5_73">2</text>
+<text x="660" y="839" class="s8_73">j</text>
+<text x="670" y="839" class="s7_73">-</text>
+<text x="687" y="839" class="s8_73">s</text>
+<text x="692" y="839" class="sb_73">2`</text>
+<text x="715" y="839" class="s5_73">, 2</text>
+<text x="730" y="839" class="s8_73">g</text>
+<text x="735" y="839" class="s5_73">.</text>
+<text x="342" y="877" class="s5_73">(b) </text>
+<text x="503" y="877" class="s8_73">s</text>
+<text x="510" y="877" class="s9_73">t</text>
+<text x="521" y="882" class="sb_73">8</text>
+<text x="530" y="877" class="s6_73">f</text>
+<text x="538" y="877" class="s8_73">ds</text>
+<text x="549" y="877" class="s6_73">x</text>
+<text x="555" y="877" class="s8_73">d</text>
+<text x="565" y="877" class="s7_73">-</text>
+<text x="582" y="877" class="s9_73">t</text>
+<text x="589" y="877" class="s8_73">s</text>
+<text x="597" y="877" class="s6_73">f</text>
+<text x="604" y="877" class="s8_73">s</text>
+<text x="609" y="877" class="s6_73">x</text>
+<text x="616" y="877" class="s8_73">dd</text>
+<text x="631" y="877" class="s7_73">-</text>
+<text x="648" y="877" class="s9_73">t</text>
+<text transform="matrix(0.71,0,0,1,656,876)" class="sn_73">(</text>
+<text x="661" y="878" class="s9_73">s</text>
+<text x="673" y="877" class="s6_73">x</text>
+<path d="M672.9,864.3h9.9" class="g0_73"/>
+<text transform="matrix(0.71,0,0,1,683,876)" class="sn_73">)</text>
+<text x="693" y="877" class="s7_73">-</text>
+<text transform="matrix(0.91,0,0,1,710,878)" class="so_73">s</text>
+<text x="722" y="877" class="s5_73">2</text>
+<text x="734" y="877" class="sb_73">2</text>
+<text x="751" y="879" class="s9_73">s</text>
+<text x="763" y="877" class="s6_73">x</text>
+<g clip-path="url(#c4_73)">
+<path d="M763.6,865.1h9.1" class="g0_73"/>
+<path d="M722.5,862.8h50.2" class="g2_73"/>
+</g>
+<text x="342" y="916" dx="0,-.2,0,0" class="s5_73">For </text>
+<text x="367" y="916" class="s9_73">s</text>
+<text x="379" y="916" class="s6_73">x</text>
+<g clip-path="url(#c5_73)">
+<path d="M378.7,902.5h9.9" class="g0_73"/>
+</g>
+<text x="392" y="916" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0" class="s5_73">to be deIned we must have </text>
+<text x="562" y="916" class="s6_73">x</text>
+<text x="573" y="916" class="sb_73">&gt;</text>
+<text x="591" y="916" dx="0,0,0,0,-.2,0,0" class="s5_73">0. For </text>
+<text transform="matrix(0.91,0,0,1,631,916)" class="so_73">s</text>
+<text x="642" y="916" class="s5_73">2</text>
+<text x="654" y="916" class="sb_73">2</text>
+<text x="672" y="917" class="s9_73">s</text>
+<text x="683" y="916" class="s6_73">x</text>
+<g clip-path="url(#c6_73)">
+<path d="M683.8,903.3H693" class="g0_73"/>
+<path d="M643.1,901H693" class="g2_73"/>
+</g>
+<text x="696" y="916" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2" class="s5_73">to be deIned we must have</text>
+<text x="342" y="934" class="s5_73">2</text>
+<text x="354" y="934" class="sb_73">2</text>
+<text x="371" y="934" class="s9_73">s</text>
+<text x="383" y="934" class="s6_73">x</text>
+<path d="M383.4,920.9h9.9" class="g0_73"/>
+<text x="397" y="934" class="sb_73">&gt;</text>
+<text x="414" y="934" class="s5_73">0, that is, </text>
+<text x="474" y="934" class="s9_73">s</text>
+<text x="486" y="934" class="s6_73">x</text>
+<path d="M486.3,920.9h9.9" class="g0_73"/>
+<text x="500" y="934" class="sb_73">&lt;</text>
+<text x="517" y="934" class="s5_73">2, or </text>
+<text x="549" y="934" class="s6_73">x</text>
+<text x="561" y="934" class="sb_73">&lt;</text>
+<text x="578" y="934" dx="0,0,0,-.3,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0" class="s5_73">4. Thus we have 0</text>
+<text x="693" y="934" class="sb_73">&lt;</text>
+<text x="711" y="934" class="s6_73">x</text>
+<text x="723" y="934" class="sb_73">&lt;</text>
+<text x="740" y="934" class="s5_73">4, so the domain of </text>
+<text x="342" y="952" class="s9_73">t</text>
+<text x="353" y="957" class="sb_73">8</text>
+<text x="363" y="952" class="s6_73">f</text>
+<text x="373" y="952" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0" class="s5_73">is the closed interval </text>
+<text x="502" y="952" class="s8_73">f</text>
+<text x="507" y="952" class="s5_73">0, 4</text>
+<text x="530" y="952" class="s8_73">g</text>
+<text x="535" y="952" class="s5_73">.</text>
+<text x="342" y="988" class="s5_73">(c) </text>
+<text x="498" y="988" class="s8_73">s</text>
+<text x="506" y="988" class="s6_73">f</text>
+<text x="514" y="992" class="sb_73">8</text>
+<text x="524" y="988" class="s6_73">f</text>
+<text x="531" y="988" class="s8_73">ds</text>
+<text x="542" y="988" class="s6_73">x</text>
+<text x="549" y="988" class="s8_73">d</text>
+<text x="559" y="988" class="s7_73">-</text>
+<text x="576" y="988" class="s6_73">f</text>
+<text x="583" y="988" class="s8_73">s</text>
+<text x="591" y="988" class="s6_73">f</text>
+<text x="597" y="988" class="s8_73">s</text>
+<text x="603" y="988" class="s6_73">x</text>
+<text x="610" y="988" class="s8_73">dd</text>
+<text x="625" y="988" class="s7_73">-</text>
+<text x="642" y="988" class="s6_73">f</text>
+<text transform="matrix(0.71,0,0,1,649,988)" class="sn_73">(</text>
+<text x="654" y="988" class="s9_73">s</text>
+<text x="666" y="988" class="s6_73">x</text>
+<path d="M666.3,974.3h9.2" class="g0_73"/>
+<text transform="matrix(0.71,0,0,1,676,988)" class="sn_73">)</text>
+<text x="686" y="988" class="s7_73">-</text>
+<text transform="matrix(0.91,0,0,1,703,988)" class="so_73">s</text>
+<text x="715" y="989" class="s9_73">s</text>
+<text x="726" y="988" class="s6_73">x</text>
+<path d="M726.7,975.1h9.1" class="g0_73"/>
+<path d="M715.2,972.8h20.7" class="g2_73"/>
+<text x="740" y="988" class="s7_73">-</text>
+<text x="757" y="988" class="s9_73">s</text>
+<text x="760" y="981" class="sp_73">4</text>
+<text x="768" y="988" class="s6_73">x</text>
+<g clip-path="url(#c7_73)">
+<path d="M769,974.3h9.1" class="g0_73"/>
+</g>
+<text x="342" y="1023" class="s5_73">The domain of </text>
+<text x="438" y="1023" class="s6_73">f</text>
+<text x="447" y="1027" class="sb_73">8</text>
+<text x="456" y="1023" class="s6_73">f</text>
+<text x="466" y="1023" class="s5_73">is </text>
+<text x="480" y="1023" class="s8_73">f</text>
+<text x="486" y="1023" class="s5_73">0, </text>
+<text x="501" y="1023" class="sb_73">`</text>
+<text x="511" y="1023" class="s8_73">d</text>
+<text x="516" y="1023" class="s5_73">.</text>
+<text x="108" y="406" dx="0,.3,.3,.3,.3,.3,.1" class="sr_73">FIGURE </text>
+<text x="161" y="406" class="ss_73">11 </text>
+<text x="108" y="422" class="st_73">The </text>
+<text x="135" y="422" class="su_73">f</text>
+<text x="143" y="427" class="sv_73">8</text>
+<text x="151" y="422" class="sw_73">t</text>
+<text x="161" y="422" class="st_73">machine is composed of </text>
+<text x="108" y="439" class="st_73">the </text>
+<text x="128" y="439" class="sw_73">t</text>
+<text x="138" y="439" class="st_73">machine (Irst) and then the </text>
+<text x="110" y="456" class="su_73">f</text>
+<text x="119" y="456" class="st_73">machine.</text>
+<image x="104" y="284" width="71" height="67" xlink:href="73/shade/1.png"/>
+<image x="107" y="284" width="65" height="67" xlink:href="73/shade/2.png"/>
+<text x="136" y="322" class="sx_73">f</text>
+<image x="104" y="179" width="71" height="67" xlink:href="73/shade/3.png"/>
+<image x="107" y="179" width="65" height="67" xlink:href="73/shade/4.png"/>
+<text x="134" y="215" class="sy_73">g</text>
+<text x="122" y="377" dx="0,.6,1.3,0" class="sy_73">f{©}</text>
+<path d="M139.4,168.8v18.4" class="g3_73"/>
+<path d="M139.4,192.1l-2.5,-6.5l2.5,1.6l2.4,-1.6Z" class="g4_73"/>
+<path d="M139.4,235.3v16.8" class="g3_73"/>
+<path d="M139.4,257l-2.5,-6.5l2.5,1.6l2.4,-1.6Z" class="g4_73"/>
+<path d="M139.4,274.7v18.4" class="g3_73"/>
+<path d="M139.4,298l-2.5,-6.5l2.5,1.6l2.4,-1.6Z" class="g4_73"/>
+<path d="M139.4,341.2V358" class="g3_73"/>
+<path d="M139.4,362.9l-2.5,-6.4l2.5,1.5l2.4,-1.5Z" class="g4_73"/>
+<image x="207" y="230" width="76" height="72" xlink:href="73/shade/5.png"/>
+<image x="209" y="230" width="70" height="72" xlink:href="73/shade/6.png"/>
+<text x="233" y="268" class="sy_73">f • g</text>
+<path d="M244.6,244.8l2.5,-6.5l-2.5,1.5l-2.4,-1.5Z" class="g4_73"/>
+<path d="M244.6,240.9v-60c-.6,-13.6,-6,-18.8,-23.1,-18.6h-33M212,373.8h9.5c17.1,.2,22.5,-5.2,23.1,-18.7V292.8" class="g3_73"/>
+<path d="M207.2,373.8l6.5,2.4l-1.6,-2.4l1.6,-2.5Z" class="g4_73"/>
+<text x="136" y="165" class="sy_73">x</text>
+<text x="129" y="268" class="sy_73">©</text>
+<text x="150" y="165" class="sz_73">(input)</text>
+<text x="162" y="377" class="sz_73">(output)</text>
+<path d="M314.7,625h13.8V610.5H314.7V625Z" class="g5_73"/>
+<path d="M321.6,623.6c3.2,0,5.8,-2.6,5.8,-5.9c0,-3.2,-2.6,-5.8,-5.8,-5.8c-3.2,0,-5.8,2.6,-5.8,5.8c0,3.3,2.6,5.9,5.8,5.9Z" class="g5_73"/>
+<path d="M321.6,623.6c3.2,0,5.8,-2.6,5.8,-5.9c0,-3.2,-2.6,-5.8,-5.8,-5.8c-3.2,0,-5.8,2.6,-5.8,5.8c0,3.3,2.6,5.9,5.8,5.9Z" class="g6_73"/>
+<path d="M325.8,613.6l-8.3,8.3" class="g7_73"/>
+<text x="148" y="932" class="s10_73">±f </text>
+<text x="161" y="932" class="s11_73">0</text>
+<text x="170" y="932" class="s12_73">&lt;</text>
+<text x="184" y="932" class="s13_73">a</text>
+<text x="194" y="932" class="s12_73">&lt;</text>
+<text x="208" y="932" class="s13_73">b</text>
+<text x="214" y="932" class="s10_73">, then </text>
+<text x="248" y="932" class="s13_73">a</text>
+<text x="256" y="927" class="s14_73">2</text>
+<text x="263" y="932" class="s12_73">&lt;</text>
+<text x="277" y="932" class="s13_73">b</text>
+<text x="285" y="927" class="s14_73">2</text>
+<text x="288" y="932" class="s10_73">.</text>
+<text x="121" y="1076" class="s15_73">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="s15_73">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: BeaconDingbatsTypeOne_12w;
+	src: url("fonts/BeaconDingbatsTypeOne_12w.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BlackSemiCn_14j;
+	src: url("fonts/MyriadPro-BlackSemiCn_14j.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1am;
+	src: url("fonts/TECHMath-Mix_1am.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1e9;
+	src: url("fonts/TECHMath-Mix_1e9.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_n6;
+	src: url("fonts/Times-Roman_n6.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Bold_oh;
+	src: url("fonts/TimesLTStd-Bold_oh.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+@font-face {
+	font-family: ZapfDingbatsITC_my;
+	src: url("fonts/ZapfDingbatsITC_my.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 11 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_11"><path d="M0,0H931V1096H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_11{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s2_11{
+font-size: 15.28px;
+font-family: MyriadPro-SemiboldSemiCn_4e;
+fill: #231F20;
+}
+.s3_11{
+font-size: 16.74px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #231F20;
+}
+.s4_11{
+font-size: 16.04px;
+font-family: MyriadPro-SemiCn_95;
+fill: #231F20;
+}
+.s5_11{
+font-size: 15.28px;
+font-family: MyriadPro-SemiCn_8y;
+fill: #00A54F;
+}
+.s6_11{
+font-size: 15.28px;
+font-family: MyriadPro-SemiCn_95;
+fill: #231F20;
+}
+.s7_11{
+font-size: 16.81px;
+font-family: MyriadPro-SemiboldSemiCn_4e;
+fill: #5B2E91;
+}
+.s8_11{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_11)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="772" y="64" dx="0,0,.1,.1,0,.1,.1,.1,.1" class="s1_11">Contents </text>
+<text x="868" y="64" class="s2_11">ix</text>
+<text x="309" y="110" class="s3_11">15.6</text>
+<text x="351" y="110" dx="0,-.8,0,0,0,0,0,.3,.1,-.1,-.1,0,-.1,-.1,0,0,0,4.9,0,0,0" class="s4_11">Triple Integrals 1029</text>
+<text x="363" y="133" dx="0,0,0,0,-.1,-.1,-.2,0,.4,0,.3,-.2,-.2,0,0,0,.2,0,4.6" class="s5_11">Discovery Project •</text>
+<text x="483" y="133" dx="0,-.5,0,0,0,0,0,0,.3,0,0,.3,.1,0,0,0,0,0,0,0,0,-.2,0,0,4.6,0,0,0" class="s6_11">Volumes of Hyperspheres 1040</text>
+<text x="309" y="155" class="s3_11">15.7</text>
+<text x="351" y="155" dx="0,-.8,0,0,0,0,0,.3,.1,-.1,-.1,0,-.1,-.1,0,0,0,.3,0,0,.3,-.4,0,0,0,0,0,0,0,0,0,0,.3,-.2,0,0,-.2,0,0,0,-.1,-.1,0,0,4.8,0,0,0" class="s4_11">Triple Integrals in Cylindrical Coordinates 1040</text>
+<text x="363" y="178" dx="0,0,0,0,-.1,-.1,-.2,0,.4,0,.3,-.2,-.2,0,0,0,.2,0,4.6" class="s5_11">Discovery Project •</text>
+<text x="483" y="178" dx="0,-.1,0,0,.3,.1,-.1,-.1,0,0,0,0,.2,0,0,0,0,.3,0,0,-.3,-.1,0,-.2,0,0,.3,-.4,0,0,0,0,0,0,0,0" class="s6_11">The Intersection of Three Cylinders </text>
+<text x="697" y="178" class="s6_11">1044</text>
+<text x="309" y="201" class="s3_11">15.8</text>
+<text x="351" y="201" dx="0,-.8,0,0,0,0,0,.3,.1,-.1,-.1,0,-.1,-.1,0,0,0,.3,0,0,.3,0,0,0,0,0,0,0,0,0,.3,-.2,0,0,-.2,0,0,0,-.1,-.1,0,0,4.8,0,0,0" class="s4_11">Triple Integrals in Spherical Coordinates 1045</text>
+<text x="363" y="224" dx="0,0,0,0,0,0,0,0,.3,-.2,-.2,0,0,0,.2,0,4.6" class="s5_11">Applied Project •</text>
+<text x="473" y="224" dx="0,0,0,0,0,0,0,.3,.1,0,0,-.1,0,4.6,0,0,0" class="s6_11">Roller Derby 1052</text>
+<text x="309" y="247" class="s3_11">15.9</text>
+<text x="351" y="247" dx="0,0,0,0,0,0,0,.3,0,0,-.3,-.6,0,0,0,0,0,0,0,0,.3,0,0,.3,0,0,0,0,0,0,0,0,.3,.1,-.1,-.1,0,-.1,-.1,0,0,0,4.9,0,0,0" class="s4_11">Change of Variables in Multiple Integrals 1052</text>
+<text x="351" y="273" dx="0,0,0,0,0,0,0,4.9,0,0,0" class="s4_11">Review 1061</text>
+<text x="301" y="299" dx="0,-.2,-.2,0,0,0,0,0,0,.3,0,0,0,0,5.2,0,0,0" class="s7_11">Problems Plus 1065</text>
+<image preserveAspectRatio="none" x="224" y="361" width="677" height="38" xlink:href="11/img/1.png"/>
+<text x="300" y="426" class="s3_11">16.1</text>
+<text x="351" y="426" dx="0,-.5,0,.2,-.1,0,0,.3,-.4,0,0,0,0,0,4.9,0,0,0" class="s4_11">Vector Fields 1068</text>
+<text x="300" y="449" class="s3_11">16.2</text>
+<text x="351" y="449" dx="0,0,0,0,0,.3,.1,-.1,-.1,0,-.1,-.1,0,0,0,4.9,0,0,0" class="s4_11">Line Integrals 1075</text>
+<text x="300" y="472" class="s3_11">16.3</text>
+<text x="351" y="472" dx="0,-.1,0,0,.3,-.5,0,0,0,0,0,0,-.1,0,0,0,-.3,-.1,0,0,0,-.2,0,0,.3,-.2,0,0,.3,0,0,0,0,.3,.1,-.1,-.1,0,-.1,-.1,0,0,0,4.8,0,0,0" class="s4_11">The Fundamental Theorem for Line Integrals 1087</text>
+<text x="300" y="495" class="s3_11">16.4</text>
+<text x="351" y="495" dx="0,0,-.2,0,0,-.5,-1.2,0,-.3,-.1,0,0,0,-.2,0,0,4.9,0,0,0" class="s4_11">Green’s Theorem 1096</text>
+<text x="300" y="518" class="s3_11">16.5</text>
+<text x="351" y="518" dx="0,-.2,0,0,0,.3,0,0,0,.3,0,0,-.2,0,-.2,0,0,0,-.1,0,4.9,0,0,0" class="s4_11">Curl and Divergence 1103</text>
+<text x="300" y="541" class="s3_11">16.6</text>
+<text x="351" y="541" dx="0,-.4,0,-.1,0,0,0,0,0,0,0,.3,0,0,.5,0,0,-.1,0,0,.3,0,0,0,-.3,-.1,0,0,0,0,.3,0,-.2,0,0,0,4.8,0,0,0" class="s4_11">Parametric Surfaces and Their Areas 1111</text>
+<text x="300" y="564" class="s3_11">16.7</text>
+<text x="351" y="564" dx="0,0,0,.5,0,0,-.1,0,.3,.1,-.1,-.1,0,-.1,-.1,0,0,0,4.9,0,0,0" class="s4_11">Surface Integrals 1122</text>
+<text x="300" y="586" class="s3_11">16.8</text>
+<text x="351" y="586" dx="0,-.1,-.1,0,-.1,0,-.2,-1.3,1.6,-.1,0,0,0,-.2,0,0,4.9,0,0,0" class="s4_11">Stokes’ Theorem 1134</text>
+<text x="363" y="609" dx="0,-.3,0,0,0,0,0,0,.3,-.2,-.2,0,0,0,.2,0,4.6" class="s5_11">Writing Project •</text>
+<text x="469" y="609" dx="0,-.1,0,-.2,0,0,.3,.1,0,0,.3,0,0,0,-.3,-.7,-.2,0,-.3,-.1,0,0,0,-.2,0,0,0,4.6,0,0,0" class="s6_11">Three Men and Two Theorems 1140</text>
+<text x="300" y="632" class="s3_11">16.9</text>
+<text x="351" y="632" dx="0,-.1,0,0,.3,0,0,-.2,0,-.2,0,0,0,-.1,0,-.3,-.1,0,0,0,-.2,0,0,4.9,0,0,0" class="s4_11">The Divergence Theorem 1141</text>
+<text x="300" y="655" class="s3_11">16.10</text>
+<text x="351" y="655" dx="0,0,0,0,0,0,.4,0,4.9,0,0,0" class="s4_11">Summary 1147</text>
+<text x="351" y="681" dx="0,0,0,0,0,0,0,4.9,0,0,0" class="s4_11">Review 1148</text>
+<text x="301" y="707" dx="0,-.2,-.2,0,0,0,0,0,0,.3,0,0,0,0,5.2,0,0,0" class="s7_11">Problems Plus 1151</text>
+<image preserveAspectRatio="none" x="224" y="769" width="677" height="38" xlink:href="11/img/2.png"/>
+<text x="300" y="834" class="s3_11">17.1</text>
+<text x="351" y="834" dx="0,.1,0,-.1,0,0,0,.2,0,-.2,0,0,0,.3,0,0,0,0,0,0,.3,-.1,0,0,-.1,0,0,0,0,0,4.9,0,0,0" class="s4_11">Second-Order Linear Equations 1154</text>
+<text x="300" y="857" class="s3_11">17.2</text>
+<text x="351" y="857" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.3,0,0,0,0,0,0,.3,-.1,0,0,-.1,0,0,0,0,0,4.9,0,0,0" class="s4_11">Nonhomogeneous Linear Equations 1160</text>
+<text x="300" y="880" class="s3_11">17.3</text>
+<text x="351" y="880" dx="0,0,0,0,0,0,0,-.1,0,0,0,0,0,.3,0,0,.3,.1,0,-.1,0,0,0,.2,0,-.2,0,0,0,.3,0,0,-.2,0,-.2,0,-.1,0,0,0,0,.3,-.1,0,0,-.1,0,0,0,0,0,4.8,0,0,0" class="s4_11">Applications of Second-Order Diﬀerential Equations 1168</text>
+<text x="300" y="903" class="s3_11">17.4</text>
+<text x="351" y="903" dx="0,.1,0,0,0,0,0,.3,.1,0,0,0,0,0,0,0,0,4.9,0,0,0" class="s4_11">Series Solutions 1176</text>
+<text x="351" y="929" dx="0,0,0,0,0,0,0,4.9,0,0,0" class="s4_11">Review 1181</text>
+<image preserveAspectRatio="none" x="109" y="413" width="175" height="111" xlink:href="11/img/3.png"/>
+<image preserveAspectRatio="none" x="109" y="822" width="175" height="117" xlink:href="11/img/4.png"/>
+<text x="121" y="1076" class="s8_11">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="s8_11">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-SemiCn_8y;
+	src: url("fonts/MyriadPro-SemiCn_8y.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-SemiCn_95;
+	src: url("fonts/MyriadPro-SemiCn_95.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-SemiboldSemiCn_4e;
+	src: url("fonts/MyriadPro-SemiboldSemiCn_4e.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

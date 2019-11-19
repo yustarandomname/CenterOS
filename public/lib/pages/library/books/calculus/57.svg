@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 57 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_57"><path d="M0,0H931V1096H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_57{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_57{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_57{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s4_57{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s5_57{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s6_57{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s7_57{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.s8_57{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.s9_57{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sa_57{
+font-size: 12.99px;
+font-family: ZapfDingbatsITC_my;
+fill: #EC008C;
+}
+.sb_57{
+font-size: 15.28px;
+font-family: TimesLTStd-Bold_oh;
+fill: #231F20;
+}
+.sc_57{
+font-size: 16.81px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.sd_57{
+font-size: 17.57px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.se_57{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #EC008C;
+}
+.sf_57{
+font-size: 9.17px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sg_57{
+font-size: 12.10px;
+font-family: TECHMath-Mix_15e;
+fill: #231F20;
+}
+.sh_57{
+font-size: 12.10px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.si_57{
+font-size: 12.10px;
+font-family: TECHMath-Mix_195;
+fill: #231F20;
+}
+.sj_57{
+font-size: 14.51px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sk_57{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sl_57{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sm_57{
+font-size: 14.51px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sn_57{
+font-size: 8.71px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.so_57{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #00AEEF;
+}
+.sp_57{
+font-size: 12.99px;
+font-family: TECHMath-Mix_191;
+fill: #231F20;
+}
+.sq_57{
+font-size: 12.22px;
+font-family: TECHMath-Mix_191;
+fill: #231F20;
+}
+.sr_57{
+font-size: 8.25px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.ss_57{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_57{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.605;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g1_57{
+fill: #231F20;
+}
+.g2_57{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.605;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_57{
+fill: #00AEEF;
+}
+.g4_57{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.756;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g5_57{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_57{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_57{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g8_57{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g9_57{
+fill: #E2F4FC;
+}
+.ga_57{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_57)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="440" y="64" dx="0,.2,.2,.5,.2,.2,.2" class="s1_57">SECTION</text>
+<text x="492" y="64" class="s2_57">1.2</text>
+<text x="522" y="64" dx="0,.2,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.2,.1,.1,.1,.1,.1,.1,.1,.1,.1,0,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,-.3,.1,.1,.3,.1,.1,.1,.1,.1" class="s3_57">Mathematical Models: A Catalog of Essential Functions </text>
+<text x="862" y="64" class="s4_57">25</text>
+<text x="342" y="109" dx="0,0,0,0,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_57">(b) The graph is sketched in Figure 3. The slope is </text>
+<text x="656" y="109" class="s6_57">m</text>
+<text x="672" y="109" class="s7_57">-</text>
+<text x="689" y="109" class="s8_57">2</text>
+<text x="702" y="109" class="s5_57">10°C</text>
+<text x="732" y="109" class="s9_57">y</text>
+<text x="739" y="109" dx="0,0,0,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_57">km, and this repre- </text>
+<text x="342" y="127" class="s5_57">sents the rate of change of temperature with respect to height.</text>
+<text x="342" y="150" dx="0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_57">(c) At a height of </text>
+<text x="454" y="150" class="s6_57">h</text>
+<text x="466" y="150" class="s7_57">-</text>
+<text x="483" y="150" class="s5_57">2.5 km, the temperature is</text>
+<text x="519" y="187" class="s6_57">T</text>
+<text x="532" y="187" class="s7_57">-</text>
+<text x="549" y="187" class="s8_57">2</text>
+<text x="562" y="187" class="s5_57">10</text>
+<text x="577" y="187" class="s9_57">s</text>
+<text x="582" y="187" class="s5_57">2.5</text>
+<text x="602" y="187" class="s9_57">d</text>
+<text x="611" y="187" class="s8_57">1</text>
+<text x="628" y="187" class="s5_57">20</text>
+<text x="648" y="187" class="s7_57">-</text>
+<text x="666" y="187" class="s8_57">2</text>
+<text x="678" y="187" class="s5_57">5°C </text>
+<text x="868" y="184" class="sa_57">■</text>
+<text x="360" y="237" dx="0,0,0,.2,0,0,0,0,0,.2,0,0,.2,0,0,.2,0,-.1,0,0,0,0,0,0,.2,0,-.2,0,.2,0,0,.2,0,0,0,0,0,0,0,0,0,.2,0,0,.2,0,0,0,0,.2,0,0,.2,0,0,0,0,0,0,0,0,0,.2,0,.2,0,0,0,0,0,0,.2,0,0,.2,0,0,0,0,0,0,0,0,0,.2,0,0" class="s5_57">±f there is no physical law or principle to help us formulate a model, we construct an </text>
+<text x="342" y="255" dx="0,0,0,0,0,0,0,0,0,0,.4,0,0,0,0" class="sb_57">empirical model</text>
+<text x="448" y="255" dx="0,0,.4,0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,-1.2,0,.4,0,0,0,0,.4,0,.4,0,0,0,-.2,0,.4,0,0,0,0,.4,0,0,0,0,0" class="s5_57">, which is based entirely on collected data. We seek a curve that “Its” </text>
+<text x="342" y="274" class="s5_57">the data in the sense that it captures the basic trend of the data points.</text>
+<text x="342" y="307" dx="0,.3,.3,.3,.3,.3,.3,.2" class="sc_57">EXAMPLE </text>
+<text x="413" y="307" class="sd_57">2 </text>
+<text x="431" y="307" dx="0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_57">Table 1 lists the average carbon dioxide level in the atmosphere, mea-</text>
+<text x="342" y="326" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_57">sured in parts per million at Mauna Loa Observatory from 1980 to 2012. Use the data </text>
+<text x="342" y="344" dx="0,0,0,-.3,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,-.2,0,0" class="s5_57">in Table 1 to Ind a model for the carbon dioxide level.</text>
+<text x="342" y="371" dx="0,.3,.3,.3,.3,.3,.3,.3,.1" class="se_57">SOLUTION </text>
+<text x="413" y="371" dx="0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_57">We use the data in Table 1 to make the scatter plot in Figure 4, where </text>
+<text x="839" y="371" class="s6_57">t</text>
+<text x="848" y="371" class="s5_57">rep-</text>
+<text x="342" y="390" class="s5_57">resents time (in years) and </text>
+<text x="507" y="390" class="s6_57">C</text>
+<text x="521" y="390" class="s5_57">represents the CO</text>
+<text x="631" y="391" class="sf_57">2</text>
+<text x="639" y="390" dx="0,0,-.4,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_57">level (in parts per million, ppm).</text>
+<path d="M431.7,677.9V434.8" class="g0_57"/>
+<path fill-rule="evenodd" d="M431.7,434.8l-2.4,1.6l2.4,-6.4l2.4,6.4Z" class="g1_57"/>
+<path d="M428.7,667.8h6m-6,-36.3h6m-6,-36.3h6" class="g0_57"/>
+<text x="419" y="437" class="sg_57">C</text>
+<text x="437" y="437" class="sh_57">(ppm)</text>
+<path d="M428.7,558.9h6m-6,-36.3h6m-3,157.7v10.1h10" class="g0_57"/>
+<path d="M428.5,683.5l6.4,-6.4m-6.4,4l6.4,-6.4m10,12.6l-6.4,6.4m8.8,-6.4l-6.4,6.4" class="g2_57"/>
+<text x="406" y="672" class="si_57">340</text>
+<text x="407" y="635" dx="0,-.6,-.6" class="si_57">350</text>
+<text x="407" y="599" dx="0,-.3,-.3" class="si_57">360</text>
+<text x="407" y="563" dx="0,-.6,-.6" class="si_57">370</text>
+<text x="407" y="526" dx="0,-.6,-.6" class="si_57">380</text>
+<path d="M428.7,486.3h6" class="g0_57"/>
+<text x="407" y="490" dx="0,-.6,-.6" class="si_57">390</text>
+<path d="M428.7,450h6" class="g0_57"/>
+<text x="408" y="454" dx="0,-.6,-.6" class="si_57">400</text>
+<path d="M456.9,672.5c0,.5,-.5,.9,-1,.9c-.5,0,-.9,-.4,-.9,-.9c0,-.6,.4,-1,.9,-1c.5,0,1,.4,1,1Z" class="g3_57"/>
+<path d="M456.9,672.5c0,.5,-.5,.9,-1,.9c-.5,0,-.9,-.4,-.9,-.9c0,-.6,.4,-1,.9,-1c.5,0,1,.4,1,1Z" class="g4_57"/>
+<path d="M478,663.4c0,.5,-.4,1,-.9,1c-.5,0,-1,-.5,-1,-1c0,-.5,.5,-.9,1,-.9c.5,0,.9,.4,.9,.9Z" class="g3_57"/>
+<path d="M478,663.4c0,.5,-.4,1,-.9,1c-.5,0,-1,-.5,-1,-1c0,-.5,.5,-.9,1,-.9c.5,0,.9,.4,.9,.9Z" class="g4_57"/>
+<path d="M499.2,651.8c0,.5,-.4,.9,-.9,.9c-.5,0,-1,-.4,-1,-.9c0,-.5,.5,-1,1,-1c.5,0,.9,.5,.9,1Z" class="g3_57"/>
+<path d="M499.2,651.8c0,.5,-.4,.9,-.9,.9c-.5,0,-1,-.4,-1,-.9c0,-.5,.5,-1,1,-1c.5,0,.9,.5,.9,1Z" class="g4_57"/>
+<path d="M520.4,641.6c0,.5,-.4,1,-1,1c-.5,0,-.9,-.5,-.9,-1c0,-.5,.4,-.9,.9,-.9c.6,0,1,.4,1,.9Z" class="g3_57"/>
+<path d="M520.4,641.6c0,.5,-.4,1,-1,1c-.5,0,-.9,-.5,-.9,-1c0,-.5,.4,-.9,.9,-.9c.6,0,1,.4,1,.9Z" class="g4_57"/>
+<path d="M541.6,626c0,.5,-.5,1,-1,1c-.5,0,-.9,-.5,-.9,-1c0,-.5,.4,-.9,.9,-.9c.5,0,1,.4,1,.9Z" class="g3_57"/>
+<path d="M541.6,626c0,.5,-.5,1,-1,1c-.5,0,-.9,-.5,-.9,-1c0,-.5,.4,-.9,.9,-.9c.5,0,1,.4,1,.9Z" class="g4_57"/>
+<path d="M562.7,616.2c0,.5,-.4,1,-.9,1c-.5,0,-.9,-.5,-.9,-1c0,-.5,.4,-.9,.9,-.9c.5,0,.9,.4,.9,.9Z" class="g3_57"/>
+<path d="M562.7,616.2c0,.5,-.4,1,-.9,1c-.5,0,-.9,-.5,-.9,-1c0,-.5,.4,-.9,.9,-.9c.5,0,.9,.4,.9,.9Z" class="g4_57"/>
+<path d="M583.9,608.6c0,.5,-.4,.9,-.9,.9c-.6,0,-1,-.4,-1,-.9c0,-.5,.4,-1,1,-1c.5,0,.9,.5,.9,1Z" class="g3_57"/>
+<path d="M583.9,608.6c0,.5,-.4,.9,-.9,.9c-.6,0,-1,-.4,-1,-.9c0,-.5,.4,-1,1,-1c.5,0,.9,.5,.9,1Z" class="g4_57"/>
+<path d="M605.1,600.2c0,.6,-.4,1,-1,1c-.5,0,-.9,-.4,-.9,-1c0,-.5,.4,-.9,.9,-.9c.6,0,1,.4,1,.9Z" class="g3_57"/>
+<path d="M605.1,600.2c0,.6,-.4,1,-1,1c-.5,0,-.9,-.4,-.9,-1c0,-.5,.4,-.9,.9,-.9c.6,0,1,.4,1,.9Z" class="g4_57"/>
+<path d="M626.3,586.5c0,.5,-.5,.9,-1,.9c-.5,0,-.9,-.4,-.9,-.9c0,-.6,.4,-1,.9,-1c.5,0,1,.4,1,1Z" class="g3_57"/>
+<path d="M626.3,586.5c0,.5,-.5,.9,-1,.9c-.5,0,-.9,-.4,-.9,-.9c0,-.6,.4,-1,.9,-1c.5,0,1,.4,1,1Z" class="g4_57"/>
+<path d="M647.4,571.6c0,.5,-.4,.9,-.9,.9c-.5,0,-1,-.4,-1,-.9c0,-.6,.5,-1,1,-1c.5,0,.9,.4,.9,1Z" class="g3_57"/>
+<path d="M647.4,571.6c0,.5,-.4,.9,-.9,.9c-.5,0,-1,-.4,-1,-.9c0,-.6,.5,-1,1,-1c.5,0,.9,.4,.9,1Z" class="g4_57"/>
+<path d="M668.6,561c0,.5,-.4,1,-.9,1c-.6,0,-1,-.5,-1,-1c0,-.5,.4,-.9,1,-.9c.5,0,.9,.4,.9,.9Z" class="g3_57"/>
+<path d="M668.6,561c0,.5,-.4,1,-.9,1c-.6,0,-1,-.5,-1,-1c0,-.5,.4,-.9,1,-.9c.5,0,.9,.4,.9,.9Z" class="g4_57"/>
+<path d="M689.8,547.2c0,.6,-.4,1,-1,1c-.5,0,-.9,-.4,-.9,-1c0,-.5,.4,-.9,.9,-.9c.6,0,1,.4,1,.9Z" class="g3_57"/>
+<path d="M689.8,547.2c0,.6,-.4,1,-1,1c-.5,0,-.9,-.4,-.9,-1c0,-.5,.4,-.9,.9,-.9c.6,0,1,.4,1,.9Z" class="g4_57"/>
+<path d="M711,531.6c0,.6,-.5,1,-1,1c-.5,0,-.9,-.4,-.9,-1c0,-.5,.4,-.9,.9,-.9c.5,0,1,.4,1,.9Z" class="g3_57"/>
+<path d="M711,531.6c0,.6,-.5,1,-1,1c-.5,0,-.9,-.4,-.9,-1c0,-.5,.4,-.9,.9,-.9c.5,0,1,.4,1,.9Z" class="g4_57"/>
+<path d="M732.1,515.7c0,.5,-.4,.9,-.9,.9c-.5,0,-.9,-.4,-.9,-.9c0,-.6,.4,-1,.9,-1c.5,0,.9,.4,.9,1Z" class="g3_57"/>
+<path d="M732.1,515.7c0,.5,-.4,.9,-.9,.9c-.5,0,-.9,-.4,-.9,-.9c0,-.6,.4,-1,.9,-1c.5,0,.9,.4,.9,1Z" class="g4_57"/>
+<path d="M753.3,502.2c0,.5,-.4,1,-.9,1c-.5,0,-1,-.5,-1,-1c0,-.5,.5,-.9,1,-.9c.5,0,.9,.4,.9,.9Z" class="g3_57"/>
+<path d="M753.3,502.2c0,.5,-.4,1,-.9,1c-.5,0,-1,-.5,-1,-1c0,-.5,.5,-.9,1,-.9c.5,0,.9,.4,.9,.9Z" class="g4_57"/>
+<path d="M774.5,487c0,.5,-.4,.9,-1,.9c-.5,0,-.9,-.4,-.9,-.9c0,-.5,.4,-1,.9,-1c.6,0,1,.5,1,1Z" class="g3_57"/>
+<path d="M774.5,487c0,.5,-.4,.9,-1,.9c-.5,0,-.9,-.4,-.9,-.9c0,-.5,.4,-1,.9,-1c.6,0,1,.5,1,1Z" class="g4_57"/>
+<path d="M795.7,472.5c0,.5,-.4,.9,-.9,.9c-.5,0,-1,-.4,-1,-.9c0,-.6,.5,-1,1,-1c.5,0,.9,.4,.9,1Z" class="g3_57"/>
+<path d="M795.7,472.5c0,.5,-.4,.9,-.9,.9c-.5,0,-1,-.4,-1,-.9c0,-.6,.5,-1,1,-1c.5,0,.9,.4,.9,1Z" class="g4_57"/>
+<path d="M444.1,690.4H806.8" class="g0_57"/>
+<path fill-rule="evenodd" d="M805.3,690.4L803.7,688l6.4,2.4l-6.4,2.5Z" class="g1_57"/>
+<path d="M455.9,687.4v6.1M509,687.4v6.1" class="g0_57"/>
+<text x="444" y="705" dx="0,-.3,-.3,-.3,0,18,-.3,-.3,-.3" class="si_57">1980 1985</text>
+<text x="805" y="702" class="si_57">t</text>
+<path d="M562,687.4v6.1" class="g0_57"/>
+<text x="550" y="705" dx="0,-.3,-.3,-.3" class="si_57">1990</text>
+<path d="M614.7,687.4v6.1" class="g0_57"/>
+<text x="602" y="705" class="si_57">1995</text>
+<path d="M667.7,687.4v6.1" class="g0_57"/>
+<text x="655" y="705" class="si_57">2000</text>
+<path d="M720.6,687.4v6.1m52.9,-6.1v6.1" class="g0_57"/>
+<text x="708" y="705" dx="0,0,0,0,0,16.6,0,0,0" class="si_57">2005 2010</text>
+<text x="406" y="737" dx="0,.3,.3,.3,.3,.3,.1" class="sj_57">FIGURE </text>
+<text x="458" y="737" class="sk_57">4 </text>
+<text x="475" y="737" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0" class="sl_57">Scatter plot for the average </text>
+<text x="626" y="737" class="sm_57">CO</text>
+<text x="647" y="739" class="sn_57">2</text>
+<text x="654" y="737" dx="0,0,-.3,-.2,0,0" class="sl_57">level </text>
+<text x="360" y="781" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.8,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_57">Notice that the data points appear to lie close to a straight line, so it’s natural to </text>
+<text x="342" y="800" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_57">choose a linear model in this case. But there are many possible lines that approximate </text>
+<text x="342" y="818" class="s5_57">these data points, so which one should we use? One possibility is the line that passes </text>
+<text x="342" y="836" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_57">through the Irst and last data points. The slope of this line is</text>
+<text x="468" y="876" class="s5_57">393.8</text>
+<text x="507" y="876" class="s8_57">2</text>
+<text x="525" y="876" class="s5_57">338.7</text>
+<path d="M467.1,882.2h95.1" class="g5_57"/>
+<text x="472" y="897" class="s5_57">2012</text>
+<text x="507" y="897" class="s8_57">2</text>
+<text x="525" y="897" class="s5_57">1980</text>
+<text x="566" y="887" class="s7_57">-</text>
+<text x="585" y="876" class="s5_57">55.1</text>
+<path d="M584.1,882.2h31.2" class="g5_57"/>
+<text x="591" y="897" class="s5_57">32</text>
+<text x="619" y="887" class="s7_57">-</text>
+<text x="636" y="887" class="s5_57">1.721875 </text>
+<text x="702" y="887" class="s9_57">&lt;</text>
+<text x="719" y="887" class="s5_57">1.722</text>
+<text x="342" y="937" dx="0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_57">We write its equation as </text>
+<text x="515" y="968" class="s6_57">C</text>
+<text x="530" y="968" class="s8_57">2</text>
+<text x="547" y="968" class="s5_57">338.7</text>
+<text x="586" y="968" class="s7_57">-</text>
+<text x="603" y="968" class="s5_57">1.722</text>
+<text x="638" y="968" class="s9_57">s</text>
+<text x="643" y="968" class="s6_57">t</text>
+<text x="652" y="968" class="s8_57">2</text>
+<text x="669" y="968" class="s5_57">1980</text>
+<text x="699" y="968" class="s9_57">d</text>
+<text x="342" y="991" class="s5_57">or</text>
+<text x="366" y="1018" class="so_57">1</text>
+<path d="M364,1004.8c0,0,-1.5,0,-1.5,1.5v14.1c0,0,0,1.6,1.5,1.6h14.1c0,0,1.6,0,1.6,-1.6v-14.1c0,0,0,-1.5,-1.6,-1.5H364Z" class="g6_57"/>
+<text x="538" y="1018" class="s6_57">C</text>
+<text x="553" y="1018" class="s7_57">-</text>
+<text x="570" y="1018" class="s5_57">1.722</text>
+<text x="605" y="1018" class="s6_57">t</text>
+<text x="614" y="1018" class="s8_57">2</text>
+<text x="631" y="1018" class="s5_57">3070.86</text>
+<text x="108" y="296" dx="0,.3,.3,.3,.3,.3,.1" class="sj_57">FIGURE </text>
+<text x="161" y="296" class="sk_57">3 </text>
+<text x="161" y="170" class="sp_57">T=_10h+20</text>
+<text x="124" y="107" class="sq_57">T</text>
+<text x="272" y="229" class="sq_57">h</text>
+<text x="127" y="226" class="sq_57">0</text>
+<text x="118" y="181" dx="0,-.1" class="sq_57">10</text>
+<text x="116" y="145" class="sq_57">20</text>
+<text x="156" y="232" class="sq_57">1</text>
+<text x="201" y="232" class="sq_57">3</text>
+<path d="M136,142l79.8,128.4" class="g7_57"/>
+<path d="M108.5,215.4h165" class="g8_57"/>
+<path fill-rule="evenodd" d="M273.5,215.4l-1.6,-2.5l6.5,2.5l-6.5,2.4Z" class="g1_57"/>
+<path d="M136,270.4v-165m22.9,106.9v6.1" class="g8_57"/>
+<path fill-rule="evenodd" d="M136,105.4l-2.5,1.6l2.5,-6.5l2.4,6.5Z" class="g1_57"/>
+<path d="M132.9,233.7H139M132.9,252H139M132.9,123.7H139M132.9,142H139m111.6,70.3v6.1m-117.7,-58H139m-6.1,18.3H139m88.7,33.6v6.1m-23,-6.1v6.1M132.9,197H139m42.8,15.3v6.1" class="g8_57"/>
+<path d="M108.7,464.2h50.4v44.3H108.7Zm50.4,0h70.3v44.3H159.1Zm70.3,0H234v44.3h-4.6Zm4.6,0h50.4v44.3H234Zm50.4,0h70.3v44.3H284.4Z" class="g9_57"/>
+<path d="M159.1,526.9v-18m125.3,18v-18M159.1,545.2V526.9m125.3,18.3V526.9M159.1,563.5V545.2m125.3,18.3V545.2M159.1,581.9V563.5m125.3,18.4V563.5M159.1,600.2V581.9m125.3,18.3V581.9M159.1,618.5V600.2m125.3,18.3V600.2M159.1,636.9V618.5m125.3,18.4V618.5M159.1,655.2V636.9m125.3,18.3V636.9M159.1,676.2v-21m125.3,21v-21M108.3,464.2h50.8m-50.4,44V464.6M234,464.2h50.4m-125.3,0h70.3m0,0H234m-74.9,44V464.6m125.3,-.4h70.7m-70.7,44V464.6m70.3,43.6V464.6m-246,62.3v-18m246,18v-18m-246,36.3V526.9m246,18.3V526.9m-246,36.6V545.2m246,18.3V545.2m-246,36.7V563.5m246,18.4V563.5m-246,36.7V581.9m246,18.3V581.9m-246,36.6V600.2m246,18.3V600.2m-246,36.7V618.5m246,18.4V618.5m-246,36.7V636.9m246,18.3V636.9m-246,39.3v-21m246,21v-21M108.3,676.6h50.8m0,0h70.3m0,0H234m0,0h50.4m0,0h70.7M108.3,508.5h50.8m0,0h70m.6,0h4m.6,0h50.1m0,0h70.7" class="g5_57"/>
+<path d="M229.4,508.5V464.6m4.6,43.9V464.6m-4.6,62.3V508.5m4.6,18.4V508.5m-4.6,36.7V526.9m4.6,18.3V526.9m-4.6,36.6V545.2m4.6,18.3V545.2m-4.6,36.7V563.5m4.6,18.4V563.5m-4.6,36.7V581.9m4.6,18.3V581.9m-4.6,36.6V600.2m4.6,18.3V600.2m-4.6,36.7V618.5m4.6,18.4V618.5m-4.6,36.7V636.9m4.6,18.3V636.9m-4.6,39.3v-21m4.6,21v-21" class="ga_57"/>
+<text x="121" y="499" dx="0,-1.4,0,0" class="sl_57">Year</text>
+<text x="167" y="482" class="sl_57">CO</text>
+<text x="187" y="484" class="sr_57">2</text>
+<text x="194" y="482" dx="0,0,-.3,-.2,0" class="sl_57">level</text>
+<text x="170" y="499" class="sl_57">(in ppm)</text>
+<text x="246" y="499" dx="0,-1.4,0,0" class="sl_57">Year</text>
+<text x="292" y="482" class="sl_57">CO</text>
+<text x="312" y="484" class="sr_57">2</text>
+<text x="320" y="482" dx="0,0,-.3,-.2,0" class="sl_57">level</text>
+<text x="295" y="499" class="sl_57">(in ppm)</text>
+<text x="120" y="522" class="sl_57">1980</text>
+<text x="178" y="522" class="sl_57">338.7</text>
+<text x="245" y="522" class="sl_57">1998</text>
+<text x="304" y="522" class="sl_57">366.5</text>
+<text x="120" y="540" class="sl_57">1982</text>
+<text x="178" y="540" class="sl_57">341.2</text>
+<text x="245" y="540" class="sl_57">2000</text>
+<text x="304" y="540" class="sl_57">369.4</text>
+<text x="120" y="559" class="sl_57">1984</text>
+<text x="178" y="559" class="sl_57">344.4</text>
+<text x="245" y="559" class="sl_57">2002</text>
+<text x="304" y="559" class="sl_57">373.2</text>
+<text x="120" y="577" class="sl_57">1986</text>
+<text x="178" y="577" class="sl_57">347.2</text>
+<text x="245" y="577" class="sl_57">2004</text>
+<text x="304" y="577" class="sl_57">377.5</text>
+<text x="120" y="595" class="sl_57">1988</text>
+<text x="178" y="595" class="sl_57">351.5</text>
+<text x="245" y="595" class="sl_57">2006</text>
+<text x="304" y="595" class="sl_57">381.9</text>
+<text x="120" y="614" class="sl_57">1990</text>
+<text x="178" y="614" class="sl_57">354.2</text>
+<text x="245" y="614" class="sl_57">2008</text>
+<text x="304" y="614" class="sl_57">385.6</text>
+<text x="120" y="632" class="sl_57">1992</text>
+<text x="178" y="632" class="sl_57">356.3</text>
+<text x="245" y="632" class="sl_57">2010</text>
+<text x="304" y="632" class="sl_57">389.9</text>
+<text x="120" y="650" class="sl_57">1994</text>
+<text x="178" y="650" class="sl_57">358.6</text>
+<text x="245" y="650" class="sl_57">2012</text>
+<text x="304" y="650" class="sl_57">393.8</text>
+<text x="120" y="668" class="sl_57">1996</text>
+<text x="178" y="668" class="sl_57">362.4</text>
+<text x="205" y="456" dx="0,-1,0,0,0,0" class="sj_57">Table </text>
+<text x="243" y="456" class="sk_57">1</text>
+<text x="121" y="1076" class="ss_57">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="ss_57">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_15e;
+	src: url("fonts/TECHMath-Mix_15e.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_191;
+	src: url("fonts/TECHMath-Mix_191.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_195;
+	src: url("fonts/TECHMath-Mix_195.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Bold_oh;
+	src: url("fonts/TimesLTStd-Bold_oh.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+@font-face {
+	font-family: ZapfDingbatsITC_my;
+	src: url("fonts/ZapfDingbatsITC_my.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

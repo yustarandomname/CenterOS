@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 79 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_79"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0_79"><path d="M514.9,894.6v-32h64.8v32Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_79{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_79{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_79{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s4_79{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s5_79{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s6_79{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s7_79{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.s8_79{
+font-size: 9.17px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s9_79{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sa_79{
+font-size: 9.17px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sb_79{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sc_79{
+font-size: 12.22px;
+font-family: TECHMath-Mix_16e;
+fill: #231F20;
+}
+.sd_79{
+font-size: 12.99px;
+font-family: TECHMath-Mix_1fv;
+fill: #231F20;
+}
+.se_79{
+font-size: 11.46px;
+font-family: TECHMath-Mix_1fv;
+fill: #231F20;
+}
+.sf_79{
+font-size: 8.78px;
+font-family: TECHMath-Mix_1fv;
+fill: #231F20;
+}
+.sg_79{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1fv;
+fill: #231F20;
+}
+.sh_79{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-6_13j;
+fill: #231F20;
+}
+.si_79{
+font-size: 9.17px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sj_79{
+font-size: 12.99px;
+font-family: Times-Roman_n6;
+fill: #231F20;
+}
+.sk_79{
+font-size: 12.99px;
+font-family: TECHMath-Mix_1fr;
+fill: #231F20;
+}
+.sl_79{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1fr;
+fill: #231F20;
+}
+.sm_79{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #00AEEF;
+}
+.sn_79{
+font-size: 15.28px;
+font-family: TimesLTStd-Bold_oh;
+fill: #231F20;
+}
+.so_79{
+font-size: 16.81px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.sp_79{
+font-size: 17.57px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.sq_79{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #EC008C;
+}
+.sr_79{
+font-size: 14.51px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.ss_79{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.st_79{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.su_79{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sv_79{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sw_79{
+font-size: 8.25px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sx_79{
+font-size: 13.75px;
+font-family: Times-Italic_n3;
+fill: #231F20;
+}
+.sy_79{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_79{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g1_79{
+fill: none;
+stroke: #FCB914;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g2_79{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g3_79{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g4_79{
+fill: none;
+stroke: #A3D061;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g5_79{
+fill: none;
+stroke: #A153A1;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g6_79{
+fill: none;
+stroke: #F58320;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g7_79{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.534;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g8_79{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g9_79{
+fill: #231F20;
+}
+.ga_79{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 1.069;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.gb_79{
+fill: #00AEEF;
+}
+.gc_79{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.gd_79{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.ge_79{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.gf_79{
+fill: #F2F2F3;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_79)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="607" y="64" dx="0,.2,.2,.5,.2,.2,.2" class="s1_79">SECTION</text>
+<text x="659" y="64" class="s2_79">1.4</text>
+<text x="689" y="64" dx="0,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,-.3,.1,.1,.3,.1,.1,.1,.1,.1" class="s3_79">Exponential Functions </text>
+<text x="862" y="64" class="s4_79">47</text>
+<text x="360" y="108" dx="0,-.1,-.1,-.1,.9,-.1,-.1,-.1,-.1,-.1,-.1,.9,-.1,-.1,.9,-.1,-.1,-.1,-.1,-.1,-.1,-.1,.9,-.1,-.1,.9,-.1,-.1,-.1,.9,-.2,-.1,-.1,-.1,-.1,-.1,.9,-.1,-.1,.9,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1" class="s5_79">The graphs of members of the family of functions </text>
+<text x="674" y="108" class="s6_79">y</text>
+<text x="685" y="108" class="s7_79">-</text>
+<text x="703" y="108" class="s6_79">b</text>
+<text x="712" y="101" class="s8_79">x</text>
+<text x="720" y="108" dx="0,-.1,-.1,-.1,.9,-.1,-.1,-.5,-.1,-.1,.9,-.1,-.1,.9,-.1,-.1,-.1,-.1,-.1,-.1,.9,-.1,.9,-.1,-.1,0" class="s5_79">are shown in Figure 3 for </text>
+<text x="342" y="126" dx="0,-.5,-.1,-.1,-.1,-.1,-.1,-.1,.5,-.5,-.1,-.1,-.1,-.1,-.1,.5,-.1,-.1,.5,-.1,-.1,-.1,.5,-.1,-.1,-.1,-.1" class="s5_79">various values of the base </text>
+<text x="504" y="126" class="s6_79">b</text>
+<text x="511" y="126" dx="0,-.1,.5,-.1,-.1,-.1,-.1,-.1,-.1,.5,-.1,-.1,-.1,-.1,.5,-.1,-.1,-.1,.5,-.1,-.1,.5,-.1,-.1,-.1,-.1,-.1,.5,-.1,-.1,-.1,-.1,-.1,-.1,.5,-.1,-.1,-.1,-.1,.5,-.1,-.1,-.1,-.1,-.1,-.1,-.1,.5,-.1,-.1,-.1,.5,-.1,-.1,-.1,-.1,.5,-.1,-.1,-.1,-.1,0" class="s5_79">. Notice that all of these graphs pass through the same point </text>
+<text x="342" y="144" class="s9_79">s</text>
+<text x="347" y="144" class="s5_79">0, 1</text>
+<text x="370" y="144" class="s9_79">d</text>
+<text x="378" y="144" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1" class="s5_79">because </text>
+<text x="429" y="144" class="s6_79">b</text>
+<text x="438" y="138" class="sa_79">0</text>
+<text x="448" y="144" class="s7_79">-</text>
+<text x="465" y="144" dx="0,-.1,-.5,-.1,-.1,-.1" class="s5_79">1 for </text>
+<text x="497" y="144" class="s6_79">b</text>
+<text x="509" y="144" class="s7_79">±</text>
+<text x="526" y="144" dx="0,-.1,-.1,-.5,-.1,-.1,-.1,-.1,-.1,-.1,-.5,-.1,-.1,-.1,-.1,-.5,-.1,-.1,-.1,-.1,-.5,-.1,-.1,-.5,-.1,-.1,-.1,-.5,-.1,-.1,-.1,-.1" class="s5_79">0. Notice also that as the base </text>
+<text x="706" y="144" class="s6_79">b</text>
+<text x="717" y="144" dx="0,-.1,-.1,-.1,-.1,-.5,-.1,-.1,-.4,-.1,-.1,-.7,-.1,-.5,-.1,-.1,-.1,-.5,-.3,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,0" class="s5_79">gets larger, the exponential </text>
+<text x="342" y="163" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.5,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1" class="s5_79">function grows more rapidly (for </text>
+<text x="544" y="163" class="s6_79">x</text>
+<text x="555" y="163" class="sb_79">.</text>
+<text x="573" y="163" dx="0,-.1,-.1" class="s5_79">0).</text>
+<path d="M680.5,402.9V409M585.8,314.2h6.1" class="g0_79"/>
+<text x="578" y="417" class="sc_79">0</text>
+<text x="767" y="317" class="sd_79">1®</text>
+<text x="776" y="202" class="sd_79">1.5®</text>
+<text x="708" y="195" class="sd_79">2®</text>
+<text x="652" y="192" class="sd_79">4®</text>
+<text x="601" y="193" dx="0,-.1,.6" class="sd_79">10®</text>
+<path d="M424,404.4c95.3,-2.1,137.3,-23.2,164.8,-90.2c9.2,-22.3,27.5,-78.8,34,-129.6" class="g1_79"/>
+<path d="M424,398.3c54,-7.1,119.7,-19.7,164.8,-84.1c16.3,-23.2,42,-69.6,58.4,-129.6" class="g2_79"/>
+<path d="M424,379.2c57.1,-10.1,119.7,-33.4,164.8,-65C620.2,292.3,669,249.1,705.7,184.6" class="g3_79"/>
+<path d="M470,185.3C528.5,280.1,579.4,307,588.8,314.2c16,12.5,77.2,51.8,185.4,69.9" class="g4_79"/>
+<path d="M528.8,185.3c21,72.6,52.8,120.5,60,128.9c17.6,20.9,42.8,73.6,185.4,86.8" class="g5_79"/>
+<path d="M424,314.4H762.3" class="g6_79"/>
+<text x="504" y="196" class="se_79">” </text>
+<text x="516" y="196" class="se_79">’</text>
+<text x="518" y="192" class="sd_79">®</text>
+<text x="509" y="190" class="sf_79">1</text>
+<text x="508" y="200" class="sf_79">4</text>
+<path d="M508.8,192.7h5.1" class="g7_79"/>
+<text x="446" y="197" class="se_79">” </text>
+<text x="458" y="197" class="se_79">’</text>
+<text x="460" y="192" class="sd_79">®</text>
+<text x="451" y="191" class="sf_79">1</text>
+<text x="450" y="201" class="sf_79">2</text>
+<path d="M450.6,193.5h5" class="g7_79"/>
+<path d="M424,360.9c57.1,-10.2,109.6,-23.7,164.8,-46.7C655.3,286.6,728.6,245.7,772.1,201.4" class="g8_79"/>
+<path d="M423.9,405.9H778.3" class="g0_79"/>
+<path fill-rule="evenodd" d="M778.3,405.9l-1.6,-2.4l6.5,2.4l-6.5,2.5Z" class="g9_79"/>
+<path d="M588.9,427.3V185.9" class="g0_79"/>
+<path fill-rule="evenodd" d="M588.9,185.9l-2.5,1.6l2.5,-6.5l2.4,6.5Z" class="g9_79"/>
+<text x="776" y="418" class="sg_79">x</text>
+<text x="578" y="186" class="sg_79">y</text>
+<text x="678" y="422" class="sg_79">1</text>
+<text x="360" y="457" dx="0,-1.7,0,0,-.6,0,0,0,-.6,0,0,0,-.6,0,0,0,0,-.6,0,0,0,0,0,0,-.6,0,-.6,0,0,0,0,-.6,0,0,0,0,0,-.6,0,0,0,-.6,0,0,0,0,0,0,0,0,0,-.6,0,0,0,0,0,-.6,0,0,0,0,0,-.6,0,0,-.6,-.2,0,0,0,0,0,0,0,0,0,0,-.6,0,0,0,0,0,0,0,0,0" class="s5_79">You can see from Figure 3 that there are basically three kinds of exponential functions </text>
+<text x="342" y="475" class="s6_79">y</text>
+<text x="354" y="475" class="s7_79">-</text>
+<text x="371" y="475" class="s6_79">b</text>
+<text x="380" y="469" class="s8_79">x</text>
+<text x="384" y="475" dx="0,0,.3,0,0,.3" class="s5_79">. ±f 0</text>
+<text x="418" y="475" class="sb_79">,</text>
+<text x="436" y="475" class="s6_79">b</text>
+<text x="448" y="475" class="sb_79">,</text>
+<text x="465" y="475" dx="0,0,0,.3,0,0,0,.3,-.2,0,0,0,0,0,0,0,0,0,0,.3,0,0,0,0,0,0,0,0,.3,0,0,0,0,0,0,0,0,0,0,.3,0,0" class="s5_79">1, the exponential function decreases; if </text>
+<text x="714" y="475" class="s6_79">b</text>
+<text x="726" y="475" class="s7_79">-</text>
+<text x="743" y="475" dx="0,0,0,.3,0,0,.3,0,0,.3,0,.3,0,0,0,0,0,0,0,0,0,.3,0,0,0" class="s5_79">1, it is a constant; and </text>
+<text x="342" y="493" class="s5_79">if </text>
+<text x="355" y="493" class="s6_79">b</text>
+<text x="367" y="493" class="sb_79">.</text>
+<text x="384" y="493" dx="0,0,0,-.4,0,0,-.4,0,0,0,0,0,0,0,0,0,0,-.6,0,0,0,0,0,-.4,0,0,0,0,0,-.4,0,0,0,0,0,-.4,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,-.4,0,0,0,0,0,0,-.4,0,0,-.4,0,0,0,0,0,-.2,0,-.4,0,0,0,0,-.4,0,0" class="s5_79">1, it increases. These three cases are illustrated in Figure 4. Observe that if </text>
+<text x="837" y="493" class="s6_79">b</text>
+<text x="849" y="493" class="s7_79">±</text>
+<text x="867" y="493" class="s5_79">1, </text>
+<text x="342" y="512" dx="0,0,0,0,0,1,0,0,0,1,-.2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0" class="s5_79">then the exponential function </text>
+<text x="528" y="512" class="s6_79">y</text>
+<text x="540" y="512" class="s7_79">-</text>
+<text x="557" y="512" class="s6_79">b</text>
+<text x="566" y="506" class="s8_79">x</text>
+<text x="575" y="512" dx="0,0,0,0,1,0,0,0,0,0,0" class="s5_79">has domain </text>
+<text x="651" y="512" class="sh_79">R</text>
+<text x="667" y="512" dx="0,0,0,0,1,0,0,0,0,0" class="s5_79">and range </text>
+<text x="732" y="512" class="s9_79">s</text>
+<text x="737" y="512" class="s5_79">0, </text>
+<text x="752" y="512" class="sb_79">`</text>
+<text x="763" y="512" class="s9_79">d</text>
+<text x="768" y="512" dx="0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0" class="s5_79">. Notice also that, </text>
+<text x="342" y="530" class="s5_79">since </text>
+<text x="377" y="530" class="s9_79">s</text>
+<text x="382" y="530" class="s5_79">1</text>
+<text x="388" y="530" class="s9_79">y</text>
+<text x="396" y="530" class="s6_79">b</text>
+<text x="404" y="530" class="s9_79">d</text>
+<text x="409" y="524" class="s8_79">x</text>
+<text x="418" y="530" class="s7_79">-</text>
+<text x="435" y="530" class="s5_79">1</text>
+<text x="442" y="530" class="s9_79">y</text>
+<text x="449" y="530" class="s6_79">b</text>
+<text x="458" y="524" class="s8_79">x</text>
+<text x="467" y="530" class="s7_79">-</text>
+<text x="484" y="530" class="s6_79">b</text>
+<text x="493" y="524" class="si_79">2</text>
+<text x="501" y="524" class="s8_79">x</text>
+<text x="505" y="530" dx="0,0,.3,0,0,0,.3,0,0,0,0,0,.3,0,0" class="s5_79">, the graph of </text>
+<text x="592" y="530" class="s6_79">y</text>
+<text x="604" y="530" class="s7_79">-</text>
+<text x="621" y="530" class="s9_79">s</text>
+<text x="626" y="530" class="s5_79">1</text>
+<text x="632" y="530" class="s9_79">y</text>
+<text x="640" y="530" class="s6_79">b</text>
+<text x="647" y="530" class="s9_79">d</text>
+<text x="653" y="524" class="s8_79">x</text>
+<text x="661" y="530" dx="0,0,0,.3,0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,0,0,0,0,.3,0,0,.3,0,0,0,.3,0,0,0,0,0,.3,0,0" class="s5_79">is just the re²ection of the graph of </text>
+<text x="342" y="548" class="s6_79">y</text>
+<text x="354" y="548" class="s7_79">-</text>
+<text x="371" y="548" class="s6_79">b</text>
+<text x="380" y="542" class="s8_79">x</text>
+<text x="388" y="548" class="s5_79">about the </text>
+<text x="449" y="548" class="s6_79">y</text>
+<text x="455" y="548" class="s5_79">-axis.</text>
+<path d="M672.3,636.6H539.5" class="ga_79"/>
+<path d="M794.7,636.6c0,-.6,.5,-1.2,1.2,-1.2c.7,0,1.2,.6,1.2,1.2c0,.7,-.5,1.2,-1.2,1.2c-.7,0,-1.2,-.5,-1.2,-1.2Z" class="gb_79"/>
+<path d="M794.7,636.6c0,-.6,.5,-1.2,1.2,-1.2c.7,0,1.2,.6,1.2,1.2c0,.7,-.5,1.2,-1.2,1.2c-.7,0,-1.2,-.5,-1.2,-1.2Z" class="gc_79"/>
+<path d="M841.5,578.5C822,626.4,783,654.5,729.1,659.3" class="ga_79"/>
+<text x="368" y="706" class="sj_79">(a)</text>
+<text x="385" y="706" class="sk_79">y=b®, </text>
+<text x="426" y="706" class="sk_79">0&lt;b&lt;1</text>
+<text x="578" y="706" class="sj_79">(b)</text>
+<text x="597" y="706" class="sk_79">y=1®</text>
+<text x="754" y="706" class="sj_79">(c)</text>
+<text x="771" y="706" class="sk_79">y=b®, </text>
+<text x="812" y="706" class="sk_79">b&gt;1</text>
+<path d="M375.5,578.5c19.5,47.9,58.5,76,112.3,80.8" class="ga_79"/>
+<path d="M419.8,636.6c0,-.6,.6,-1.2,1.3,-1.2c.6,0,1.2,.6,1.2,1.2c0,.7,-.6,1.2,-1.2,1.2c-.7,0,-1.3,-.5,-1.3,-1.2Z" class="gb_79"/>
+<path d="M419.8,636.6c0,-.6,.6,-1.2,1.3,-1.2c.6,0,1.2,.6,1.2,1.2c0,.7,-.6,1.2,-1.2,1.2c-.7,0,-1.3,-.5,-1.3,-1.2Z" class="gc_79"/>
+<path d="M539.6,663H674.3M607,679.3V578.4M728.5,663H863.3m-67.4,16.3V578.4M353.7,663H488.4m-67.3,16.3V578.4" class="g0_79"/>
+<text x="600" y="633" class="sl_79">1</text>
+<text x="799" y="645" class="sl_79">(0, 1)</text>
+<text x="425" y="633" class="sl_79">(0, 1)</text>
+<path fill-rule="evenodd" d="M673.5,663l-1.7,-2.4l6.5,2.4l-6.5,2.5Z" class="g9_79"/>
+<path fill-rule="evenodd" d="M607.2,579.9l-2.5,1.6l2.5,-6.5l2.4,6.5Z" class="g9_79"/>
+<text x="672" y="675" class="sl_79">x</text>
+<text x="598" y="673" class="sl_79">0</text>
+<text x="596" y="581" class="sl_79">y</text>
+<path fill-rule="evenodd" d="M796.2,579.7l-2.5,1.6l2.5,-6.5l2.4,6.5Z" class="g9_79"/>
+<text x="785" y="581" class="sl_79">y</text>
+<path fill-rule="evenodd" d="M862.1,663l-1.6,-2.4L867,663l-6.5,2.5Z" class="g9_79"/>
+<text x="860" y="675" class="sl_79">x</text>
+<text x="787" y="673" class="sl_79">0</text>
+<path fill-rule="evenodd" d="M487.3,662.9l-1.6,-2.4l6.5,2.4l-6.5,2.5Z" class="g9_79"/>
+<path fill-rule="evenodd" d="M421.3,579.8l-2.4,1.7l2.4,-6.6l2.5,6.6Z" class="g9_79"/>
+<text x="485" y="675" class="sl_79">x</text>
+<text x="412" y="673" class="sl_79">0</text>
+<text x="410" y="581" class="sl_79">y</text>
+<text x="360" y="745" dx="0,0,0,0,-.9,0,0,0,0,0,0,-.9,0,0,0,-.9,0,0,0,-.9,0,0,0,0,0,0,0,0,0,0,-.9,0,0,-.9,0,0,0,-.9,-.2,0,0,0,0,0,0,0,0,0,0,-.9,0,0,0,0,0,0,0,0,-.9,0,0,0,0,-.9,0,0,-.9,0,0,0,-.9,0,0,0,0,-.4,0,0,0,0,-.9,0,0,0,0,0,-.3" class="s5_79">One reason for the importance of the exponential function lies in the following proper-</text>
+<text x="342" y="763" dx="0,0,0,0,0,0,1.1,0,0" class="s5_79">ties. ±f </text>
+<text x="387" y="763" class="s6_79">x</text>
+<text x="399" y="763" class="s5_79">and </text>
+<text x="426" y="763" class="s6_79">y</text>
+<text x="438" y="763" dx="0,0,0,0,1.1,0,0,0,0,0,0,0,0,1.1,0,0,0,0,0,0,0,0,1.1,0,0,0,0,1.1,0,0,0,0,0,1.1,0,-.2,0,0,1.1,0,0,0,1.1,0,0,0,0,1.1,0,0,-.4,0,0,1.1,0,0,0,0,1.1,0,0,0,0,0,0,0,0,0,0" class="s5_79">are rational numbers, then these laws are well known from elementary </text>
+<text x="342" y="782" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,-.2,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_79">algebra. ±t can be proved that they remain true for arbitrary real numbers </text>
+<text x="789" y="782" class="s6_79">x</text>
+<text x="799" y="782" class="s5_79">and </text>
+<text x="826" y="782" class="s6_79">y</text>
+<text x="832" y="782" class="s5_79">. </text>
+<text x="358" y="833" dx="0,.1,-.2,-.2,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0" class="sm_79">Laws of Exponents </text>
+<text x="492" y="833" class="s5_79">±f </text>
+<text x="506" y="833" class="s6_79">a</text>
+<text x="517" y="833" class="s5_79">and </text>
+<text x="543" y="833" class="s6_79">b</text>
+<text x="554" y="833" dx="0,0,0,0,0,0,0,0,0,0,-.4,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_79">are positive numbers and </text>
+<text x="711" y="833" class="s6_79">x</text>
+<text x="722" y="833" class="s5_79">and </text>
+<text x="748" y="833" class="s6_79">y</text>
+<text x="759" y="833" dx="0,0,0,0,0,0,-.2,0,0,0,0,0,0" class="s5_79">are any real </text>
+<text x="356" y="851" class="s5_79">numbers, then</text>
+<text x="356" y="883" class="sn_79">1.</text>
+<text x="375" y="883" class="s6_79">b</text>
+<text x="385" y="877" class="s8_79">x</text>
+<text x="389" y="877" class="si_79">1</text>
+<text x="396" y="877" class="s8_79">y</text>
+<text x="405" y="883" class="s7_79">-</text>
+<text x="422" y="883" class="s6_79">b</text>
+<text x="431" y="877" class="s8_79">x</text>
+<text x="436" y="883" class="s6_79">b</text>
+<text x="445" y="877" class="s8_79">y</text>
+<text x="495" y="883" class="sn_79">2.</text>
+<text x="514" y="883" class="s6_79">b</text>
+<text x="524" y="877" class="s8_79">x</text>
+<text x="528" y="877" class="si_79">2</text>
+<text x="535" y="877" class="s8_79">y</text>
+<text x="544" y="883" class="s7_79">-</text>
+<text x="564" y="873" class="s6_79">b</text>
+<text x="573" y="866" class="s8_79">x</text>
+<g clip-path="url(#c0_79)">
+<path d="M562.2,878.8H580" class="gd_79"/>
+</g>
+<text x="564" y="894" class="s6_79">b</text>
+<text x="573" y="888" class="s8_79">y</text>
+<text x="625" y="883" class="sn_79">3.</text>
+<text x="644" y="883" class="s9_79">s</text>
+<text x="649" y="883" class="s6_79">b</text>
+<text x="658" y="877" class="s8_79">x</text>
+<text x="664" y="883" class="s9_79">d</text>
+<text x="670" y="877" class="s8_79">y</text>
+<text x="678" y="883" class="s7_79">-</text>
+<text x="696" y="883" class="s6_79">b</text>
+<text x="705" y="877" dx="0,.8" class="s8_79">xy</text>
+<text x="760" y="883" class="sn_79">4.</text>
+<text x="779" y="883" class="s9_79">s</text>
+<text x="784" y="883" class="s6_79">ab</text>
+<text x="799" y="883" class="s9_79">d</text>
+<text x="805" y="877" class="s8_79">x</text>
+<text x="814" y="883" class="s7_79">-</text>
+<text x="831" y="883" class="s6_79">a</text>
+<text x="840" y="877" class="s8_79">x</text>
+<text x="844" y="883" class="s6_79">b</text>
+<text x="853" y="877" class="s8_79">x</text>
+<path d="M345.7,810c0,0,-3.1,0,-3.1,2.4v93.8c0,0,0,2.4,3.1,2.4H875.1c0,0,3,0,3,-2.4V812.4c0,0,0,-2.4,-3,-2.4H345.7Z" class="ge_79"/>
+<text x="342" y="947" dx="0,.3,.3,.3,.3,.3,.3,.2" class="so_79">EXAMPLE </text>
+<text x="413" y="947" class="sp_79">1</text>
+<text x="430" y="947" dx="0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_79">Sketch the graph of the function </text>
+<text x="631" y="947" class="s6_79">y</text>
+<text x="642" y="947" class="s7_79">-</text>
+<text x="659" y="947" class="s5_79">3</text>
+<text x="671" y="947" class="sb_79">2</text>
+<text x="689" y="947" class="s5_79">2</text>
+<text x="697" y="941" class="s8_79">x</text>
+<text x="705" y="947" class="s5_79">and determine its domain </text>
+<text x="342" y="965" class="s5_79">and range.</text>
+<text x="342" y="993" dx="0,.3,.3,.3,.3,.3,.3,.3,.1" class="sq_79">SOLUTION </text>
+<text x="413" y="993" class="s5_79">First we re²ect the graph of </text>
+<text x="587" y="993" class="s6_79">y</text>
+<text x="598" y="993" class="s7_79">-</text>
+<text x="616" y="993" class="s5_79">2</text>
+<text x="624" y="986" class="s8_79">x</text>
+<text x="632" y="993" dx="0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_79">[shown in Figures 2 and 5(a)] about the </text>
+<text x="342" y="1011" class="s6_79">x</text>
+<text x="349" y="1011" class="s5_79">-axis to get the graph of </text>
+<text x="499" y="1011" class="s6_79">y</text>
+<text x="510" y="1011" class="s7_79">-</text>
+<text x="527" y="1011" class="sb_79">2</text>
+<text x="540" y="1011" class="s5_79">2</text>
+<text x="549" y="1005" class="s8_79">x</text>
+<text x="556" y="1011" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_79">in Figure 5(b). Then we shift the graph of </text>
+<text x="815" y="1011" class="s6_79">y</text>
+<text x="826" y="1011" class="s7_79">-</text>
+<text x="843" y="1011" class="sb_79">2</text>
+<text x="856" y="1011" class="s5_79">2</text>
+<text x="864" y="1005" class="s8_79">x</text>
+<text x="267" y="418" dx="0,.3,.3,.3,.3,.3,.1" class="sr_79">FIGURE </text>
+<text x="319" y="418" class="ss_79">3</text>
+<text x="108" y="244" dx="0,-.1,-.1,-.1" class="st_79">±f 0</text>
+<text x="131" y="244" class="su_79">,</text>
+<text x="147" y="244" class="sv_79">b</text>
+<text x="158" y="244" class="su_79">,</text>
+<text x="173" y="244" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1" class="st_79">1, then </text>
+<text x="214" y="244" class="sv_79">b</text>
+<text x="222" y="238" class="sw_79">x</text>
+<text x="229" y="244" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,0" class="st_79">approaches 0 </text>
+<text x="108" y="261" dx="0,-.1,-.1" class="st_79">as </text>
+<text x="123" y="261" class="sv_79">x</text>
+<text x="132" y="261" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.3,-.1,-.1,-.1,-.1,-.1,-.1" class="st_79">becomes large. ±f </text>
+<text x="229" y="261" class="sv_79">b</text>
+<text x="240" y="261" class="su_79">.</text>
+<text x="256" y="261" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1" class="st_79">1, then </text>
+<text x="296" y="261" class="sv_79">b</text>
+<text x="305" y="255" class="sw_79">x</text>
+<text x="108" y="278" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1" class="st_79">approaches 0 as </text>
+<text x="198" y="278" class="sv_79">x</text>
+<text x="207" y="278" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,0" class="st_79">decreases through </text>
+<text x="108" y="294" dx="0,-.1,-.3,-.1,-.1,-.1,-.4,-.3,-.1,-.1,-.4,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,0" class="st_79">negative values. ±n both cases the </text>
+<text x="108" y="311" class="sv_79">x</text>
+<text x="114" y="311" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.3,-.1,-.1,-.1,-.1,0" class="st_79">-axis is a horizontal asymptote. These </text>
+<text x="108" y="328" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1" class="st_79">matters are discussed in Section 2.6.</text>
+<text x="267" y="706" dx="0,.3,.3,.3,.3,.3,.1" class="sr_79">FIGURE </text>
+<text x="320" y="706" class="ss_79">4</text>
+<path d="M114.6,809.6c0,0,-6.1,0,-6.1,6.1v61.2c0,0,0,6.1,6.1,6.1H322.4c0,0,6.1,0,6.1,-6.1V815.7c0,0,0,-6.1,-6.1,-6.1Z" class="gf_79"/>
+<text x="117" y="825" dx="0,.2,.2,-.6,0,0,-.1,0,-.1,0,.3,-.1,0,0,0,0,0,0,0,-.2,0,-.1,0" class="s2_79">www.stewartcalculus.com</text>
+<text x="117" y="840" dx="0,-.2,0,0,0,0,-.3,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="st_79">For review and practice using the </text>
+<text x="117" y="856" dx="0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="st_79">Laws of Exponents, click on</text>
+<text x="277" y="856" class="sx_79">Review </text>
+<text x="117" y="871" class="sx_79">of Algebra.</text>
+<text x="108" y="992" dx="0,-.4,-.2,-.2,-.2,-.2,-.2,-.2,-.5,-.2,-.2,-.6,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,0" class="st_79">For a review of re²ecting and shifting </text>
+<text x="108" y="1009" dx="0,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2" class="st_79">graphs, see Section 1.3.</text>
+<text x="121" y="1076" class="sy_79">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="sy_79">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-6_13j;
+	src: url("fonts/MathematicalPiLTStd-6_13j.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_16e;
+	src: url("fonts/TECHMath-Mix_16e.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1fr;
+	src: url("fonts/TECHMath-Mix_1fr.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1fv;
+	src: url("fonts/TECHMath-Mix_1fv.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Italic_n3;
+	src: url("fonts/Times-Italic_n3.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_n6;
+	src: url("fonts/Times-Roman_n6.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Bold_oh;
+	src: url("fonts/TimesLTStd-Bold_oh.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

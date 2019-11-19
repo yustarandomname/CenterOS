@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 36 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_36"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0_36"><path d="M435.9,187.7V152.5h239v35.2Z"/></clipPath>
+<clipPath id="c1_36"><path d="M387.2,882.9V846.5H723.5v36.4Z"/></clipPath>
+<clipPath id="c2_36"><path d="M485.7,979V945.8H625.1V979Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_36{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_36{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_36{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_-s;
+fill: #231F20;
+}
+.s4_36{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.s5_36{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s6_36{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.s7_36{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.s8_36{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s9_36{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_-s;
+fill: #231F20;
+}
+.sa_36{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sb_36{
+font-size: 13.75px;
+font-family: CenturyOldStyle-Italic__q;
+fill: #231F20;
+}
+.sc_36{
+font-size: 9.93px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sd_36{
+font-size: 9.93px;
+font-family: UniversalChemicalPi-T_-_;
+fill: #231F20;
+}
+.se_36{
+font-size: 9.93px;
+font-family: TimesLTStd-Roman_-s;
+fill: #231F20;
+}
+.sf_36{
+font-size: 12.22px;
+font-family: TECHMath-Mix__m;
+fill: #231F20;
+}
+.sg_36{
+font-size: 12.22px;
+font-family: Times-Italic_n3;
+fill: #231F20;
+}
+.sh_36{
+font-size: 12.22px;
+font-family: Times-Roman_n6;
+fill: #231F20;
+}
+.si_36{
+font-size: 12.99px;
+font-family: TECHMath-Mix__m;
+fill: #231F20;
+}
+.sj_36{
+font-size: 14.51px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sk_36{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sl_36{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_36{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g1_36{
+fill: #E2F4FC;
+}
+.g2_36{
+fill: #231F20;
+}
+.g3_36{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g4_36{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g5_36{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g6_36{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g7_36{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_36)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="53" y="64" class="s1_36">4</text>
+<text x="126" y="64" dx="0,.1,.1,.2,.2,.3,.2,.2,.3,.1,.1,.2,.1,.1,.3,.2,-.2,.2,.2,-.2,.2" class="s2_36">A PREVIEW OF CALCULUS</text>
+<text x="287" y="107" dx="0,0,0,-.2,0,-.2,0,0,0,0,-.2,0,0,0,0,-.2,0,-.4,-.2,0,0,0,-.2,0,0,0,0,0,0,-.2,0,0,0,-.2,-.2,0,0,0,0,0,0,0,-.2,0,0,0,0,0,-.2,0,-.2,0,0,0,0,0,0,0,-.2,0,-.3,-.2,0,-.2,0,0,0,0,0,0,0,0,-.2,0,0,-.2,0,0,0,-.2,0,0,0,-.2,-.3,-.2,0,-.3" class="s3_36">As a Irst step toward Inding the velocity after 2 seconds have elapsed, we Ind the aver-</text>
+<text x="287" y="126" dx="0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0" class="s3_36">age velocity during the time interval 2</text>
+<text x="524" y="126" class="s4_36">&lt;</text>
+<text x="542" y="126" class="s5_36">t</text>
+<text x="551" y="126" class="s4_36">&lt;</text>
+<text x="568" y="126" class="s3_36">4:</text>
+<text x="435" y="173" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,.7,0" class="s3_36">average velocity</text>
+<text x="541" y="173" class="s6_36">-</text>
+<text x="560" y="162" class="s3_36">change in position</text>
+<g clip-path="url(#c0_36)">
+<path d="M559,168.7H675.2" class="g0_36"/>
+</g>
+<text x="578" y="184" class="s3_36">time elapsed</text>
+<text x="541" y="225" class="s6_36">-</text>
+<text x="560" y="214" class="s3_36">42</text>
+<text x="580" y="214" class="s4_36">2</text>
+<text x="598" y="214" class="s3_36">9</text>
+<path d="M559,220.7h49.3" class="g0_36"/>
+<text x="564" y="236" class="s3_36">4</text>
+<text x="576" y="236" class="s4_36">2</text>
+<text x="594" y="236" class="s3_36">2</text>
+<text x="541" y="266" class="s6_36">-</text>
+<text x="558" y="266" class="s3_36">16.5 ft</text>
+<text x="598" y="266" class="s7_36">y</text>
+<text x="604" y="266" class="s3_36">s</text>
+<text x="287" y="303" dx="0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0" class="s3_36">Similarly, the average velocity in the time interval 2</text>
+<text x="608" y="303" class="s4_36">&lt;</text>
+<text x="626" y="303" class="s5_36">t</text>
+<text x="635" y="303" class="s4_36">&lt;</text>
+<text x="652" y="303" class="s3_36">3 is</text>
+<text x="438" y="344" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,.7,0" class="s3_36">average velocity</text>
+<text x="543" y="344" class="s6_36">-</text>
+<text x="563" y="334" class="s3_36">24</text>
+<text x="583" y="334" class="s4_36">2</text>
+<text x="600" y="334" class="s3_36">9</text>
+<path d="M561.3,339.8h49.4" class="g0_36"/>
+<text x="567" y="355" class="s3_36">3</text>
+<text x="579" y="355" class="s4_36">2</text>
+<text x="596" y="355" class="s3_36">2</text>
+<text x="614" y="344" class="s6_36">-</text>
+<text x="632" y="344" class="s3_36">15 ft</text>
+<text x="660" y="344" class="s7_36">y</text>
+<text x="666" y="344" class="s3_36">s</text>
+<text x="287" y="381" dx="0,-1.2,0,-.5,0,-.3,-.2,0,-.5,0,0,0,-.5,0,0,0,0,0,0,0,-.5,0,0,0,0,-.5,0,0,0,-.5,-.2,0,0,0,0,0,0,0,-.5,0,0,-.5,0,0,0,-.5,0,0,0,0,0,0,0" class="s3_36">We have the feeling that the velocity at the instant </text>
+<text x="590" y="381" class="s5_36">t</text>
+<text x="599" y="381" class="s6_36">-</text>
+<text x="616" y="381" dx="0,0,-.5,0,0,0,-.3,0,-.5,0,0,-.5,0,0,0,0,-.5,0,0,-.4,0,0,0,0,0,0,-.5,0,0,0,0,-.5,0,0,0" class="s3_36">2 can’t Be much different from the </text>
+<text x="287" y="399" dx="0,-.3,-.2,0,0,0,0,0,-1.2,-.2,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,-1.2,0,-1.2,0,0,0,0,0,-1.2,0,0,0,0,-1.2,0,0,0,0,0,-.4,0,0,-1.2,0,0,0,0,0,0,0,0,-1.2,0,0" class="s3_36">average velocity during a short time interval starting at </text>
+<text x="614" y="399" class="s5_36">t</text>
+<text x="623" y="399" class="s6_36">-</text>
+<text x="640" y="399" dx="0,0,0,-1.2,0,0,-1.2,0,0,0,-.8,0,-1.2,0,0,0,0,0,0,0,-1.2,0,0,0,0,-1.2,0,0,0,-1.2,0,0,0,0" class="s3_36">2. So let’s imagine that the dis- </text>
+<text x="287" y="418" dx="0,0,0,0,0,0,.6,0,0,-.3,-.2,0,0,0,0,.6,0,0,0,.5,0,0,0,0,.5,0,0,0,0,0,0,0,0,.5,0,0,.5,0,0,0,0,0,0,0,0,0,0,.5,0,0,0,0,.5,0,0,0,0,0,-.4,0,0,0,.5,0,0,.5,0,0,.5,0,0,0,.5,0,0,0,0,-.4,0,0,0,0,.5,0,0,0,0,0" class="s3_36">tance traveled has Been measured at 0.l-second time intervals as in the following chart:</text>
+<path d="M369.2,443h42.3v27.5H369.2Zm0,27.5h42.3V498H369.2Z" class="g1_36"/>
+<path d="M368.9,443h42.6m-42.3,27.1V443.3m-.3,27.2h42.6m-42.3,27.1V470.8m-.3,27.2h42.6m0,-55h55m-55,27.1V443.3m55,-.3h55m-55,27.1V443.3m55,-.3h55m-55,27.1V443.3m55,-.3h55m-55,27.1V443.3m55,-.3h55m-55,27.1V443.3m55,-.3h55.4m-55.4,27.1V443.3m55,26.8V443.3m-330,54.3V470.8m55,26.8V470.8m55,26.8V470.8m55,26.8V470.8m55,26.8V470.8m55,26.8V470.8m55,26.8V470.8M411.5,498h55m0,0h55m0,0h55m0,0h55m0,0h55m0,0h55.4M411.5,470.5h55m0,0h55m0,0h55m0,0h55m0,0h55m0,0h55.4" class="g0_36"/>
+<text x="388" y="461" class="s8_36">t</text>
+<text x="430" y="461" class="s9_36">2.0</text>
+<text x="485" y="461" class="s9_36">2.1</text>
+<text x="540" y="461" class="s9_36">2.2</text>
+<text x="595" y="461" class="s9_36">2.3</text>
+<text x="650" y="461" class="s9_36">2.4</text>
+<text x="705" y="461" class="s9_36">2.5</text>
+<text x="386" y="488" class="s8_36">d</text>
+<text x="426" y="488" class="s9_36">9.00</text>
+<text x="478" y="488" class="s9_36">10.02</text>
+<text x="533" y="488" class="s9_36">11.16</text>
+<text x="588" y="488" class="s9_36">12.45</text>
+<text x="643" y="488" class="s9_36">13.96</text>
+<text x="698" y="488" class="s9_36">15.80</text>
+<text x="287" y="528" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,-.2,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0" class="s3_36">Then we can compute, for instance, the average velocity over the time interval </text>
+<text x="768" y="528" class="s7_36">f</text>
+<text x="773" y="528" class="s3_36">2, 2.5</text>
+<text x="808" y="528" class="s7_36">g</text>
+<text x="813" y="528" class="s3_36">:</text>
+<text x="413" y="570" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,.7,0" class="s3_36">average velocity</text>
+<text x="518" y="570" class="s6_36">-</text>
+<text x="538" y="559" class="s3_36">15.80</text>
+<text x="577" y="559" class="s4_36">2</text>
+<text x="594" y="559" class="s3_36">9.00</text>
+<path d="M536.6,565.2H624" class="g0_36"/>
+<text x="555" y="580" class="s3_36">2.5</text>
+<text x="579" y="580" class="s4_36">2</text>
+<text x="596" y="580" class="s3_36">2</text>
+<text x="628" y="570" class="s6_36">-</text>
+<text x="645" y="570" class="s3_36">13.6 ft</text>
+<text x="685" y="570" class="s7_36">y</text>
+<text x="691" y="570" class="s3_36">s</text>
+<text x="287" y="606" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0" class="s3_36">The results of such calculations are shown in the following chart:</text>
+<path d="M312.4,631.6H468.3v27.5H312.4Zm0,27.5H468.3v27.5H312.4Z" class="g1_36"/>
+<path d="M312.1,631.6H468.3M312.4,658.8V632m-.3,27.1H468.3M312.4,686.3V659.5m-.3,27.1H468.3m0,-55h55m-55,27.2V632m55,-.4h55m-55,27.2V632m55,-.4h55m-55,27.2V632m55,-.4h55m-55,27.2V632m55,-.4h55m-55,27.2V632m55,-.4h55.4m-55.4,27.2V632m55,26.8V632m-330,54.3V659.5m55,26.8V659.5m55,26.8V659.5m55,26.8V659.5m55,26.8V659.5m55,26.8V659.5m55,26.8V659.5m-330,27.1h55m0,0h55m0,0h55m0,0h55m0,0h55m0,0h55.4M468.3,659.1h55m0,0h55m0,0h55m0,0h55m0,0h55m0,0h55.4" class="g0_36"/>
+<text x="326" y="650" dx="0,-.5,0,0,0,0,0,0,0,0,0,-.3,0" class="s9_36">Time interval</text>
+<text x="480" y="650" class="sa_36">f</text>
+<text x="485" y="650" class="s9_36">2, 3</text>
+<text x="506" y="650" class="sa_36">g</text>
+<text x="530" y="650" class="sa_36">f</text>
+<text x="535" y="650" class="s9_36">2, 2.5</text>
+<text x="566" y="650" class="sa_36">g</text>
+<text x="585" y="650" class="sa_36">f</text>
+<text x="590" y="650" class="s9_36">2, 2.4</text>
+<text x="621" y="650" class="sa_36">g</text>
+<text x="640" y="650" class="sa_36">f</text>
+<text x="645" y="650" class="s9_36">2, 2.3</text>
+<text x="676" y="650" class="sa_36">g</text>
+<text x="695" y="650" class="sa_36">f</text>
+<text x="700" y="650" class="s9_36">2, 2.2</text>
+<text x="731" y="650" class="sa_36">g</text>
+<text x="750" y="650" class="sa_36">f</text>
+<text x="755" y="650" class="s9_36">2, 2.1</text>
+<text x="786" y="650" class="sa_36">g</text>
+<text x="326" y="678" dx="0,-1,-.2,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0" class="s9_36">Average velocity </text>
+<text x="422" y="678" class="sa_36">s</text>
+<text x="427" y="678" class="s9_36">ft</text>
+<text x="436" y="678" class="sa_36">y</text>
+<text x="443" y="678" class="s9_36">s</text>
+<text x="448" y="678" class="sa_36">d</text>
+<text x="483" y="677" class="s9_36">15.0</text>
+<text x="538" y="677" class="s9_36">13.6</text>
+<text x="593" y="677" class="s9_36">12.4</text>
+<text x="648" y="677" class="s9_36">11.5</text>
+<text x="703" y="677" class="s9_36">10.8</text>
+<text x="758" y="677" class="s9_36">10.2</text>
+<text x="305" y="717" dx="0,0,0,0,-1.2,-.3,-.2,0,0,0,0,0,-1.2,-.2,0,0,0,0,0,0,0,0,0,-1.2,-.2,-.2,0,0,-1.2,0,0,0,0,0,0,0,-.4,-.2,0,0,0,-1.2,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,-.4,0,0,0,-1.2,0,0,0,0,0,0,-1.2,0,0,-1.2,0,0,-1.2,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,-1.2,0,0" class="s3_36">The average velocities over successively smaller intervals appear to Be getting closer to </text>
+<text x="287" y="735" dx="0,0,-.1,0,0,0,0,0,0,-.1,0,0,0,0,-.1,0,0,0,-.1,0,0,0,-.1,0,0,-.1,0,0,-.1,-.2,0,0,0,0,0,-.1,0,0,0,0,-.1,0,0,0,-.1,-.2,0,0,0,0,0,0,0,-.1,0,0,-.1,-.2,0,0,0,0,0,0" class="s3_36">a numBer near 10, and so we expect that the velocity at exactly </text>
+<text x="672" y="735" class="s5_36">t</text>
+<text x="681" y="735" class="s6_36">-</text>
+<text x="698" y="735" dx="0,0,-.1,0,0,-.1,0,0,0,0,0,-.1,0,0,-.1,0" class="s3_36">2 is aBout 10 ft</text>
+<text x="789" y="735" class="s7_36">y</text>
+<text x="797" y="735" dx="0,0,0,-.1,0,0" class="s3_36">s. ²n </text>
+<text x="287" y="754" dx="0,0,0,0,0,0,0,0,-1.5,0,-1.5,0,0,-1.5,0,0,0,0,-1.5,0,0,0,0,0,-1.5,0,0,0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,-.2,0,0,0,0,0,0,0,-1.5,0,0,-1.5,0,-1.5,0,-.2,0,0,0,0,-1.5,0,0,0,0,0,0,-1.5,0,0,-1.5,0,0,0,-1.5,0,0,0,0,0,0,0,0,-1.5,-.4,0,0,0,.1" class="s3_36">±hapter 2 we will deIne the instantaneous velocity of a moving oBject as the limiting value </text>
+<text x="287" y="772" dx="0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,-.2,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0" class="s3_36">of the average velocities over smaller and smaller time intervals.</text>
+<text x="305" y="790" dx="0,0,0,-.6,0,0,0,0,0,0,-.6,0,-.6,0,0,-.6,0,0,-.4,0,-.6,0,-.6,0,0,0,0,0,0,0,0,0,-.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.6,0,0,-.6,0,0,0,-.6,0,0,0,0,0,0,-.6,0,0,-.6,0,0,0,-.6,0,0,0,-.6,0,0,-.6,0,0,0,0,0,0,0,0,-.6,0,0,0" class="s3_36">²n Figure 8 we show a graphical representation of the motion of the car By plotting the </text>
+<text x="287" y="809" dx="0,0,0,0,0,0,0,0,0,.7,0,0,-.3,-.2,0,0,0,0,.7,0,0,.7,0,.7,0,0,0,0,0,0,0,0,.7,0,0,.7,0,0,0,0,0,.7,0,0,.7,0,0,.7,0,0,0,0,0" class="s3_36">distance traveled as a function of time. ²f we write </text>
+<text x="604" y="809" class="s5_36">d</text>
+<text x="616" y="809" class="s6_36">-</text>
+<text x="634" y="809" class="s5_36">f</text>
+<text x="640" y="809" class="s7_36">s</text>
+<text x="645" y="809" class="s5_36">t</text>
+<text x="649" y="809" class="s7_36">d</text>
+<text x="654" y="809" dx="0,0,.7,0,0,0,0" class="s3_36">, then </text>
+<text x="696" y="809" class="s5_36">f</text>
+<text x="702" y="809" class="s7_36">s</text>
+<text x="707" y="809" class="s5_36">t</text>
+<text x="712" y="809" class="s7_36">d</text>
+<text x="721" y="809" dx="0,0,0,.7,0,0,0,.7,0,0,0,0,0,0,.7,0,0" class="s3_36">is the numBer of </text>
+<text x="287" y="827" dx="0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0" class="s3_36">feet traveled after </text>
+<text x="398" y="827" class="s5_36">t</text>
+<text x="406" y="827" dx="0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,-.3,-.2,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0" class="s3_36">seconds. The average velocity in the time interval </text>
+<text x="712" y="827" class="s7_36">f</text>
+<text x="717" y="827" class="s3_36">2, </text>
+<text x="733" y="827" class="s5_36">t</text>
+<text x="737" y="827" class="s7_36">g</text>
+<text x="746" y="827" class="s3_36">is</text>
+<text x="387" y="868" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,.7,0" class="s3_36">average velocity</text>
+<text x="492" y="868" class="s6_36">-</text>
+<text x="512" y="858" class="s3_36">change in position</text>
+<path d="M510.3,863.9H626.6" class="g0_36"/>
+<text x="529" y="879" class="s3_36">time elapsed</text>
+<text x="630" y="868" class="s6_36">-</text>
+<text x="654" y="858" class="s5_36">f</text>
+<text x="660" y="858" class="s7_36">s</text>
+<text x="665" y="858" class="s5_36">t</text>
+<text x="669" y="858" class="s7_36">d</text>
+<text x="679" y="858" class="s4_36">2</text>
+<text x="696" y="858" class="s5_36">f</text>
+<text x="703" y="858" class="s7_36">s</text>
+<text x="708" y="858" class="s3_36">2</text>
+<text x="716" y="858" class="s7_36">d</text>
+<g clip-path="url(#c1_36)">
+<path d="M648.5,863.9h75.4" class="g0_36"/>
+</g>
+<text x="668" y="879" class="s5_36">t</text>
+<text x="677" y="879" class="s4_36">2</text>
+<text x="695" y="879" class="s3_36">2</text>
+<text x="287" y="908" dx="0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0" class="s3_36">which is the same as the slope of the secant line </text>
+<text x="594" y="908" class="s5_36">PQ</text>
+<text x="619" y="908" dx="0,0,0,1,0,0,0,0,0,0,1,0,0,.7,0,0,0,1,-.2,0,0,0,0,0,0,0" class="s3_36">in Figure 8. The velocity </text>
+<text x="779" y="908" class="sb_36">v</text>
+<text x="790" y="908" class="s3_36">when </text>
+<text x="287" y="926" class="s5_36">t</text>
+<text x="296" y="926" class="s6_36">-</text>
+<text x="313" y="926" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0" class="s3_36">2 is the limiting value of this average velocity as </text>
+<text x="612" y="926" class="s5_36">t</text>
+<text x="620" y="926" class="s3_36">approaches 2; that is,</text>
+<text x="485" y="968" class="sb_36">v</text>
+<text x="496" y="968" class="s6_36">-</text>
+<text x="515" y="968" dx="0,0,0,-1.5" class="s3_36">lim </text>
+<text x="515" y="977" class="sc_36">t</text>
+<text x="519" y="977" class="sd_36">l</text>
+<text x="531" y="977" class="se_36">2</text>
+<text x="554" y="957" class="s5_36">f</text>
+<text x="561" y="957" class="s7_36">s</text>
+<text x="566" y="957" class="s5_36">t</text>
+<text x="570" y="957" class="s7_36">d</text>
+<text x="580" y="957" class="s4_36">2</text>
+<text x="597" y="957" class="s5_36">f</text>
+<text x="604" y="957" class="s7_36">s</text>
+<text x="610" y="957" class="s3_36">2</text>
+<text x="617" y="957" class="s7_36">d</text>
+<g clip-path="url(#c2_36)">
+<path d="M542.3,963.2h83.1" class="g0_36"/>
+</g>
+<text x="566" y="978" class="s5_36">t</text>
+<text x="575" y="978" class="s4_36">2</text>
+<text x="592" y="978" class="s3_36">2</text>
+<text x="287" y="1007" dx="0,0,0,0,.7,0,0,.7,0,0,0,0,0,0,0,0,0,.7,0,0,0,0,.7,0,0,0,0,0,0,0,0,.7,0,.7,0,0,0,0,.7,0,0,0,0,.7,0,0,.7,0,0,0,.7,0,0,0,0,.7,0,0,.7,0,0,0,.7,0,0,0,0,0,.7,0,0,.7,0,0,0,.7,0,0,0,0,0,0,0,.7,0,0,0,0" class="s3_36">and we recognize from Equation 2 that this is the same as the slope of the tangent line </text>
+<text x="287" y="1026" dx="0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0" class="s3_36">to the curve at </text>
+<text x="377" y="1026" class="s5_36">P</text>
+<text x="385" y="1026" class="s3_36">.</text>
+<text x="257" y="983" class="sf_36">t</text>
+<text x="66" y="757" class="sg_36">d</text>
+<text x="68" y="981" class="sh_36">0</text>
+<text x="100" y="984" class="sf_36">1</text>
+<text x="123" y="984" class="sf_36">2</text>
+<text x="147" y="984" class="sf_36">3</text>
+<text x="171" y="984" class="sf_36">4</text>
+<text x="196" y="984" class="sf_36">5</text>
+<text x="59" y="945" class="sh_36">10</text>
+<text x="59" y="917" class="sh_36">20</text>
+<path fill-rule="evenodd" d="M257.4,969.3l-1.6,-2.4l6.5,2.4l-6.5,2.5Z" class="g2_36"/>
+<path fill-rule="evenodd" d="M77.5,754.5L75,756.2l2.5,-6.6l2.4,6.6Z" class="g2_36"/>
+<path d="M199.9,865.2L102.2,969.4" class="g3_36"/>
+<path d="M113.4,969.2L205.2,791.1" class="g4_36"/>
+<text x="133" y="950" dx="0,1.3,1.3,0,0,0,0,0,0,-.8" class="si_36">P{2, f(2)}</text>
+<text x="190" y="834" dx="0,.8,0,-1.9,0,0,0,0,0,0,-.8" class="si_36">Q{ t, f(t)}</text>
+<path d="M184.1,828.9c0,-1,.8,-1.7,1.7,-1.7c1,0,1.7,.7,1.7,1.7c0,.9,-.7,1.7,-1.7,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="g2_36"/>
+<path d="M184.1,828.9c0,-1,.8,-1.7,1.7,-1.7c1,0,1.7,.7,1.7,1.7c0,.9,-.7,1.7,-1.7,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="g5_36"/>
+<path d="M53.5,969.3H257.4M77.5,998.5v-244" class="g6_36"/>
+<path d="M200,779.3C192.4,810.9,150.7,968.6,77.8,968.7" class="g7_36"/>
+<path d="M125.1,943.2c0,-.9,.8,-1.7,1.7,-1.7c1,0,1.7,.8,1.7,1.7c0,1,-.7,1.8,-1.7,1.8c-.9,0,-1.7,-.8,-1.7,-1.8Z" class="g2_36"/>
+<path d="M125.1,943.2c0,-.9,.8,-1.7,1.7,-1.7c1,0,1.7,.8,1.7,1.7c0,1,-.7,1.8,-1.7,1.8c-.9,0,-1.7,-.8,-1.7,-1.8Z" class="g5_36"/>
+<path d="M199.8,971.8v-5.4m-25.5,5.4v-5.4M151,971.8v-5.4m-24.3,5.4v-5.4m-24.5,5.4v-5.4M80.1,773.6H74.7m5.4,28H74.7m5.4,28H74.7m5.4,27.9H74.7m5.4,28H74.7m5.4,27.9H74.7m5.4,28H74.7" class="g6_36"/>
+<text x="53" y="1026" dx="0,.3,.3,.3,.3,.3,.1" class="sj_36">FIGURE </text>
+<text x="106" y="1026" class="sk_36">8</text>
+<text x="121" y="1076" class="sl_36">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="sl_36">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: CenturyOldStyle-Italic__q;
+	src: url("fonts/CenturyOldStyle-Italic__q.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix__m;
+	src: url("fonts/TECHMath-Mix__m.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Italic_n3;
+	src: url("fonts/Times-Italic_n3.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_n6;
+	src: url("fonts/Times-Roman_n6.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_-s;
+	src: url("fonts/TimesLTStd-Roman_-s.woff") format("woff");
+}
+
+@font-face {
+	font-family: UniversalChemicalPi-T_-_;
+	src: url("fonts/UniversalChemicalPi-T_-_.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 21 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_21"><path d="M0,0H931V1096H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_21{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s2_21{
+font-size: 15.28px;
+font-family: MyriadPro-SemiboldSemiCn_4e;
+fill: #231F20;
+}
+.s3_21{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.s4_21{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s5_21{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_21)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="781" y="64" dx="0,-.1,0,.1,.1,.1,0,.1" class="s1_21">Preface </text>
+<text x="861" y="64" class="s2_21">xix</text>
+<text x="109" y="109" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.5,0" class="s3_21">Dennis Dunninger, </text>
+<text x="216" y="109" class="s4_21">Michigan State University</text>
+<text x="109" y="126" dx="0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0" class="s3_21">Bruce Edwards, </text>
+<text x="200" y="126" class="s4_21">University of Florida</text>
+<text x="109" y="143" dx="0,0,-.3,0,0,0,0,0,0,0,0,0,0" class="s3_21">David Ellis, </text>
+<text x="177" y="143" class="s4_21">San Francisco State University</text>
+<text x="109" y="160" class="s3_21">John Ellison, </text>
+<text x="184" y="160" class="s4_21">Grove City College</text>
+<text x="109" y="176" class="s3_21">Martin Erickson, </text>
+<text x="205" y="176" class="s4_21">Truman State University</text>
+<text x="109" y="193" class="s3_21">Garret Etgen, </text>
+<text x="186" y="193" class="s4_21">University of Houston</text>
+<text x="109" y="210" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0" class="s3_21">Theodore G. Faticoni, </text>
+<text x="233" y="210" class="s4_21">Fordham University</text>
+<text x="109" y="227" dx="0,0,0,0,0,0,0,0,-.7,-1.8,0,0,-.2,0,0,0,0,0,0,0" class="s3_21">Laurene V. Fausett, </text>
+<text x="218" y="227" class="s4_21">Georgia Southern University</text>
+<text x="109" y="244" class="s3_21">Norman Feldman, </text>
+<text x="212" y="244" class="s4_21">Sonoma State University</text>
+<text x="109" y="261" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0" class="s3_21">Le Baron O. Ferguson, </text>
+<text x="238" y="261" class="s4_21">University of California—Riverside</text>
+<text x="109" y="277" dx="0,0,-.3,0,0,0,0,0,0,0,0,0,0,-.6,0" class="s3_21">Newman Fisher, </text>
+<text x="202" y="277" class="s4_21">San Francisco State University</text>
+<text x="109" y="294" class="s3_21">José D. Flores, </text>
+<text x="194" y="294" class="s4_21">The University of South Dakota</text>
+<text x="109" y="311" dx="0,-.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s3_21">William Francis, </text>
+<text x="204" y="311" class="s4_21">Michigan Technological University </text>
+<text x="109" y="328" dx="0,0,0,0,0,0,-.2,-1,0,0,0,0,0,0,0,0,0,0,0" class="s3_21">James T. Franklin, </text>
+<text x="213" y="328" class="s4_21">Valencia Community College, East</text>
+<text x="109" y="345" dx="0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,-.5,0" class="s3_21">Stanley Friedlander, </text>
+<text x="223" y="345" class="s4_21">Bronx Community College</text>
+<text x="109" y="361" dx="0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.6,0" class="s3_21">Patrick Gallagher, </text>
+<text x="211" y="361" class="s4_21">Columbia University–New York</text>
+<text x="109" y="378" dx="0,-.2,0,0,0,0,0,0,0,0,0,0,0,0" class="s3_21">Paul Garrett, </text>
+<text x="182" y="378" class="s4_21">University of Minnesota–Minneapolis</text>
+<text x="109" y="395" class="s3_21">Frederick Gass, </text>
+<text x="198" y="395" class="s4_21">Miami University of Ohio</text>
+<text x="109" y="412" dx="0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0" class="s3_21">Bruce Gilligan, </text>
+<text x="197" y="412" class="s4_21">University of Regina</text>
+<text x="109" y="429" class="s3_21">Matthias K. Gobbert, </text>
+<text x="229" y="429" class="s4_21">University of Maryland, Baltimore County</text>
+<text x="109" y="445" dx="0,0,0,0,0,0,0,0,0,0,-.3,0,0" class="s3_21">Gerald Goff, </text>
+<text x="182" y="445" class="s4_21">Oklahoma State University</text>
+<text x="109" y="462" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0" class="s3_21">Stuart Goldenberg, </text>
+<text x="216" y="462" class="s4_21">California Polytechnic State University</text>
+<text x="109" y="479" dx="0,0,0,0,0,-.8,0,0,0,0,0,0,0,0,0,0" class="s3_21">John A. Graham, </text>
+<text x="205" y="479" class="s4_21">Buckingham Browne &amp; Nichols School</text>
+<text x="109" y="496" class="s3_21">Richard Grassl, </text>
+<text x="198" y="496" class="s4_21">University of New Mexico</text>
+<text x="109" y="513" dx="0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,-.9,0" class="s3_21">Michael Gregory, </text>
+<text x="209" y="513" class="s4_21">University of North Dakota</text>
+<text x="109" y="529" class="s3_21">Charles Groetsch, </text>
+<text x="210" y="529" class="s4_21">University of Cincinnati</text>
+<text x="109" y="546" dx="0,-.2,0,0,0,-.2,-.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.3,0,0,0" class="s3_21">Paul Trianta±los Hadavas, </text>
+<text x="256" y="546" class="s4_21">Armstrong Atlantic State University</text>
+<text x="109" y="563" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.6,0" class="s3_21">Salim M. Haïdar, </text>
+<text x="207" y="563" class="s4_21">Grand Valley State University</text>
+<text x="109" y="580" dx="0,0,0,-.4,-1.3,0,0,0,0,0,0,0" class="s3_21">D. W. Hall, </text>
+<text x="174" y="580" class="s4_21">Michigan State University</text>
+<text x="109" y="597" class="s3_21">Robert L. Hall, </text>
+<text x="195" y="597" class="s4_21">University of Wisconsin–Milwaukee</text>
+<text x="109" y="613" dx="0,0,-.3,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s3_21">Howard B. Hamilton, </text>
+<text x="231" y="613" class="s4_21">California State University, Sacramento</text>
+<text x="109" y="630" dx="0,0,0,0,0,0,0,0,0,0,0,-.9,0" class="s3_21">Darel Hardy, </text>
+<text x="183" y="630" class="s4_21">Colorado State University</text>
+<text x="109" y="647" class="s3_21">Shari Harris, </text>
+<text x="182" y="647" class="s4_21">John Wood Community College</text>
+<text x="109" y="664" dx="0,0,0,0,0,-.4,-1.3,0,0,0,0,0,0,0,0,0,0,0" class="s3_21">Gary W. Harrison, </text>
+<text x="213" y="664" class="s4_21">College of Charleston</text>
+<text x="109" y="681" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.6,0" class="s3_21">Melvin Hausner, </text>
+<text x="204" y="681" class="s4_21">New York University/Courant Institute </text>
+<text x="109" y="697" class="s3_21">Curtis Herink, </text>
+<text x="191" y="697" class="s4_21">Mercer University</text>
+<text x="109" y="714" class="s3_21">Russell Herman, </text>
+<text x="204" y="714" class="s4_21">University of North Carolina at Wilmington</text>
+<text x="109" y="731" class="s3_21">Allen Hesse, </text>
+<text x="182" y="731" class="s4_21">Rochester Community College</text>
+<text x="109" y="748" class="s3_21">Randall R. Holmes, </text>
+<text x="220" y="748" class="s4_21">Auburn University</text>
+<text x="109" y="765" dx="0,0,0,0,0,0,0,-1.1,0,0,0,0,0,0,-.2,-.9,0" class="s3_21">James F. Hurley, </text>
+<text x="203" y="765" class="s4_21">University of Connecticut</text>
+<text x="109" y="781" class="s3_21">Amer Iqbal, </text>
+<text x="178" y="781" class="s4_21">University of Washington—Seattle</text>
+<text x="109" y="798" dx="0,0,0,0,0,0,-.3,0,-.8,0,0,0,0,0,0,0,0" class="s3_21">Matthew A. Isom, </text>
+<text x="211" y="798" class="s4_21">Arizona State University</text>
+<text x="109" y="815" class="s3_21">Gerald Janusz, </text>
+<text x="193" y="815" class="s4_21">University of Illinois at Urbana-Champaign</text>
+<text x="109" y="832" class="s3_21">John H. Jenkins, </text>
+<text x="203" y="832" class="s4_21">Embry-Riddle Aeronautical University, </text>
+<text x="127" y="849" class="s4_21">Prescott Campus</text>
+<text x="109" y="865" dx="0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0" class="s3_21">Clement Jeske, </text>
+<text x="195" y="865" class="s4_21">University of Wisconsin, Platteville</text>
+<text x="109" y="882" class="s3_21">Carl Jockusch, </text>
+<text x="193" y="882" class="s4_21">University of Illinois at Urbana-Champaign</text>
+<text x="109" y="899" class="s3_21">Jan E. H. Johansson, </text>
+<text x="226" y="899" class="s4_21">University of Vermont</text>
+<text x="109" y="916" class="s3_21">Jerry Johnson, </text>
+<text x="191" y="916" class="s4_21">Oklahoma State University</text>
+<text x="109" y="933" class="s3_21">Zsuzsanna M. Kadas, </text>
+<text x="230" y="933" dx="0,0,0,0,0,0,0,-.2,0,0,0,0,-.5,0,0,0,0,0,0,-.5,-.1" class="s4_21">St. Michael’s College</text>
+<text x="109" y="949" class="s3_21">Nets Katz, </text>
+<text x="170" y="949" class="s4_21">Indiana University Bloomington</text>
+<text x="109" y="966" class="s3_21">Matt Kaufman</text>
+<text x="109" y="983" dx="0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0" class="s3_21">Matthias Kawski, </text>
+<text x="209" y="983" class="s4_21">Arizona State University</text>
+<text x="109" y="1000" dx="0,0,0,0,0,0,0,0,0,0,-.4,-1.3,0,0,-.3,0,0,0,0,0" class="s3_21">Frederick W. Keene, </text>
+<text x="224" y="1000" class="s4_21">Pasadena City College</text>
+<text x="109" y="1017" dx="0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,-.2,-.9,0" class="s3_21">Robert L. Kelley, </text>
+<text x="207" y="1017" class="s4_21">University of Miami</text>
+<text x="109" y="1033" class="s3_21">Akhtar Khan, </text>
+<text x="187" y="1033" class="s4_21">Rochester Institute of Technology</text>
+<text x="503" y="109" dx="0,0,0,0,0,0,0,0,0,0,-.5,0,0,0,0,0,0" class="s3_21">Marianne Korten, </text>
+<text x="603" y="109" class="s4_21">Kansas State University</text>
+<text x="503" y="126" dx="0,-.8,0,-.2,0,0,0,0,-.5,-.3,-.1,0,0,0,0,0" class="s3_21">Virgil Kowalik, </text>
+<text x="591" y="126" class="s4_21">Texas A&amp;I University</text>
+<text x="503" y="143" dx="0,-.3,-.3,0,0,0,0,0,0,0,0,0,0,-.5,0" class="s3_21">Kevin Kreider, </text>
+<text x="587" y="143" class="s4_21">University of Akron</text>
+<text x="503" y="160" class="s3_21">Leonard Krop, </text>
+<text x="587" y="160" class="s4_21">DePaul University</text>
+<text x="503" y="176" dx="0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,-.6,0" class="s3_21">Mark Krusemeyer, </text>
+<text x="609" y="176" class="s4_21">Carleton College</text>
+<text x="503" y="193" dx="0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,-.5,0" class="s3_21">John C. Lawlor, </text>
+<text x="594" y="193" class="s4_21">University of Vermont</text>
+<text x="503" y="210" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.9,0" class="s3_21">Christopher C. Leary, </text>
+<text x="625" y="210" class="s4_21">State University of New York at Geneseo</text>
+<text x="503" y="227" dx="0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0" class="s3_21">David Leeming, </text>
+<text x="595" y="227" class="s4_21">University of Victoria</text>
+<text x="503" y="244" class="s3_21">Sam Lesseig, </text>
+<text x="579" y="244" class="s4_21">Northeast Missouri State University</text>
+<text x="503" y="260" dx="0,0,0,0,0,0,0,0,0,-.1,0,0" class="s3_21">Phil Locke, </text>
+<text x="569" y="260" class="s4_21">University of Maine</text>
+<text x="503" y="277" dx="0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0" class="s3_21">Joyce Longman, </text>
+<text x="597" y="277" class="s4_21">Villanova University</text>
+<text x="503" y="294" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-.6,0" class="s3_21">Joan McCarter, </text>
+<text x="590" y="294" class="s4_21">Arizona State University</text>
+<text x="503" y="311" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,-.9,0" class="s3_21">Phil McCartney, </text>
+<text x="596" y="311" class="s4_21">Northern Kentucky University</text>
+<text x="503" y="328" dx="0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.9,0" class="s3_21">Igor Malyshev, </text>
+<text x="589" y="328" class="s4_21">San Jose State University</text>
+<text x="503" y="344" class="s3_21">Larry Mans±eld, </text>
+<text x="599" y="344" class="s4_21">Queens College</text>
+<text x="503" y="361" class="s3_21">Mary Martin, </text>
+<text x="580" y="361" class="s4_21">Colgate University</text>
+<text x="503" y="378" dx="0,0,0,0,0,0,0,0,0,0,0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0" class="s3_21">Nathaniel F. G. Martin, </text>
+<text x="634" y="378" class="s4_21">University of Virginia</text>
+<text x="503" y="395" dx="0,0,0,0,0,0,0,-1.2,-1.8,0,0,0,0,0,0,0,0,0,0,0,0" class="s3_21">Gerald Y. Matsumoto, </text>
+<text x="627" y="395" class="s4_21">American River College</text>
+<text x="503" y="412" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,-.9,0" class="s3_21">James McKinney, </text>
+<text x="604" y="412" class="s4_21">California State Polytechnic University, Pomona</text>
+<text x="503" y="428" dx="0,-1.1,0,0,0,0,0,0,0,0,0,-.5,0" class="s3_21">Tom Metzger, </text>
+<text x="583" y="428" class="s4_21">University of Pittsburgh</text>
+<text x="503" y="445" class="s3_21">Richard Millspaugh, </text>
+<text x="619" y="445" class="s4_21">University of North Dakota</text>
+<text x="503" y="462" class="s3_21">Lon H. Mitchell, </text>
+<text x="599" y="462" class="s4_21">Virginia Commonwealth University</text>
+<text x="503" y="479" class="s3_21">Michael Montaño, </text>
+<text x="608" y="479" class="s4_21">Riverside Community College</text>
+<text x="503" y="496" dx="0,-1,0,0,0,0,0,0,0,0,0,0,0,-.1,-.9,0" class="s3_21">Teri Jo Murphy, </text>
+<text x="594" y="496" class="s4_21">University of Oklahoma</text>
+<text x="503" y="512" class="s3_21">Martin Nakashima, </text>
+<text x="612" y="512" class="s4_21">California State Polytechnic University, </text>
+<text x="521" y="529" class="s4_21">Pomona</text>
+<text x="503" y="546" dx="0,0,0,0,-.2,0,0,0,0,0,0,0" class="s3_21">Ho Kuen Ng, </text>
+<text x="580" y="546" class="s4_21">San Jose State University</text>
+<text x="503" y="563" dx="0,0,0,0,0,0,0,0,0,0,-.3,-.1,0,-.1,-.3,0,0,0,0,0" class="s3_21">Richard Nowakowski, </text>
+<text x="628" y="563" class="s4_21">Dalhousie University</text>
+<text x="503" y="580" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.5,0" class="s3_21">Hussain S. Nur, </text>
+<text x="593" y="580" class="s4_21">California State University, Fresno</text>
+<text x="503" y="596" class="s3_21">Norma Ortiz-Robinson, </text>
+<text x="637" y="596" class="s4_21">Virginia Commonwealth University</text>
+<text x="503" y="613" dx="0,-1.1,0,0,0,0,0,0,0,0,-.2,0,0,0,0,-.6,0" class="s3_21">Wayne N. Palmer, </text>
+<text x="606" y="613" class="s4_21">Utica College</text>
+<text x="503" y="630" dx="0,-.8,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0" class="s3_21">Vincent Panico, </text>
+<text x="593" y="630" class="s4_21">University of the Paci±c</text>
+<text x="503" y="647" dx="0,-1.1,0,0,0,0,0,-.2,0,0,0,0" class="s3_21">F. J. Papp, </text>
+<text x="563" y="647" class="s4_21">University of Michigan–Dearborn</text>
+<text x="503" y="664" dx="0,0,0,-.1,0,0,0,0,0,0,0,0" class="s3_21">Mike Penna, </text>
+<text x="576" y="664" class="s4_21">Indiana University–Purdue University Indianapolis</text>
+<text x="503" y="680" dx="0,0,0,0,0,0,0,0,0,0,-.2,-.9,0" class="s3_21">Mark Pinsky, </text>
+<text x="579" y="680" class="s4_21">Northwestern University</text>
+<text x="503" y="697" class="s3_21">Lothar Redlin, </text>
+<text x="586" y="697" class="s4_21">The Pennsylvania State University</text>
+<text x="503" y="714" dx="0,0,0,0,0,-.4,-1.3,0,0,0,0,0,0,0,0,0" class="s3_21">Joel W. Robbin, </text>
+<text x="594" y="714" class="s4_21">University of Wisconsin–Madison</text>
+<text x="503" y="731" class="s3_21">Lila Roberts, </text>
+<text x="578" y="731" class="s4_21">Georgia College and State University</text>
+<text x="503" y="748" dx="0,0,0,-.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.8,0,0" class="s3_21">E. Arthur Robinson, Jr., </text>
+<text x="636" y="748" class="s4_21">The George Washington University</text>
+<text x="503" y="764" class="s3_21">Richard Rockwell, </text>
+<text x="609" y="764" class="s4_21">Paci±c Union College </text>
+<text x="503" y="781" class="s3_21">Rob Root, </text>
+<text x="563" y="781" class="s4_21">Lafayette College</text>
+<text x="503" y="798" class="s3_21">Richard Ruedemann, </text>
+<text x="622" y="798" class="s4_21">Arizona State University</text>
+<text x="503" y="815" dx="0,0,-.3,0,0,0,0,0,0,0,-.3,0,0,0,0" class="s3_21">David Ryeburn, </text>
+<text x="593" y="815" class="s4_21">Simon Fraser University</text>
+<text x="503" y="832" dx="0,0,0,0,0,0,0,0,0,0,0,0,-.8,0,0,0,0,0,0" class="s3_21">Richard St. Andre, </text>
+<text x="609" y="832" class="s4_21">Central Michigan University</text>
+<text x="503" y="848" class="s3_21">Ricardo Salinas, </text>
+<text x="596" y="848" class="s4_21">San Antonio College</text>
+<text x="503" y="865" class="s3_21">Robert Schmidt, </text>
+<text x="596" y="865" class="s4_21">South Dakota State University</text>
+<text x="503" y="882" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.6,0" class="s3_21">Eric Schreiner, </text>
+<text x="588" y="882" class="s4_21">Western Michigan University</text>
+<text x="503" y="899" class="s3_21">Mihr J. Shah, </text>
+<text x="580" y="899" class="s4_21">Kent State University–Trumbull</text>
+<text x="503" y="916" class="s3_21">Qin Sheng, </text>
+<text x="568" y="916" class="s4_21">Baylor University</text>
+<text x="503" y="932" class="s3_21">Theodore Shifrin, </text>
+<text x="604" y="932" class="s4_21">University of Georgia</text>
+<text x="503" y="949" dx="0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s3_21">Wayne Skrapek, </text>
+<text x="596" y="949" class="s4_21">University of Saskatchewan</text>
+<text x="503" y="966" class="s3_21">Larry Small, </text>
+<text x="576" y="966" class="s4_21">Los Angeles Pierce College</text>
+<text x="503" y="983" dx="0,-1,0,0,0,0,0,0,0,0,-.2,-.1,0,0,0,0,0,0,0,0,0" class="s3_21">Teresa Morgan Smith, </text>
+<text x="628" y="983" class="s4_21">Blinn College</text>
+<text x="503" y="1000" dx="0,-.6,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s3_21">William Smith, </text>
+<text x="590" y="1000" class="s4_21">University of North Carolina</text>
+<text x="503" y="1016" dx="0,0,0,0,0,0,0,-.4,-1.3,0,0,0,0,0,0,0,0,0,0" class="s3_21">Donald W. Solomon, </text>
+<text x="621" y="1016" class="s4_21">University of Wisconsin–Milwaukee</text>
+<text x="503" y="1033" dx="0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s3_21">Edward Spitznagel, </text>
+<text x="614" y="1033" class="s4_21">Washington University</text>
+<text x="121" y="1076" class="s5_21">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="s5_21">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-SemiboldSemiCn_4e;
+	src: url("fonts/MyriadPro-SemiboldSemiCn_4e.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_6c;
+	src: url("fonts/TimesLTStd-Roman_6c.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

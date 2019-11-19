@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 4 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_4"><path d="M0,0H931V1096H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_4{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.s2_4{
+font-size: 12.22px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.s3_4{
+font-size: 12.99px;
+font-family: KievitOT-BoldItalic_6k;
+fill: #231F20;
+}
+.s4_4{
+font-size: 12.99px;
+font-family: KievitOT-Bold_6q;
+fill: #231F20;
+}
+.s5_4{
+font-size: 12.99px;
+font-family: KievitOT-Regular_5_;
+fill: #231F20;
+}
+.s6_4{
+font-size: 11.84px;
+font-family: ArialMT_68;
+fill: #231F20;
+}
+.s7_4{
+font-size: 12.99px;
+font-family: KievitOT-Book_6h;
+fill: #231F20;
+}
+.s8_4{
+font-size: 11.61px;
+font-family: KievitOT-Regular_5_;
+fill: #231F20;
+}
+.s9_4{
+font-size: 11.61px;
+font-family: KievitOT-Bold_6q;
+fill: #231F20;
+}
+.sa_4{
+font-size: 10.69px;
+font-family: Arial-BoldMT_64;
+fill: #231F20;
+}
+.sb_4{
+font-size: 11.46px;
+font-family: KievitOT-Regular_5_;
+fill: #231F20;
+}
+.sc_4{
+font-size: 11.46px;
+font-family: KievitOT-Book_6h;
+fill: #231F20;
+}
+.sd_4{
+font-size: 11.46px;
+font-family: KievitOT-Book_42;
+fill: #231F20;
+}
+.se_4{
+font-size: 11.46px;
+font-family: KievitOT-Bold_6q;
+fill: #231F20;
+}
+.sf_4{
+font-size: 11.61px;
+font-family: KievitOT-Medium_6n;
+fill: #231F20;
+}
+.sg_4{
+font-size: 12.99px;
+font-family: KievitOT-Medium_6n;
+fill: #231F20;
+}
+.sh_4{
+font-size: 12.22px;
+font-family: ArialMT_5x;
+fill: #000000;
+}
+.si_4{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_4{
+fill: #FFFFFF;
+}
+.g1_4{
+fill: #003B57;
+}
+.g2_4{
+fill: #006288;
+}
+.g3_4{
+fill: #008CC2;
+}
+.g4_4{
+fill: #17B9E9;
+}
+.g5_4{
+fill: #6CCFF6;
+}
+.g6_4{
+fill: #ABE0F9;
+}
+.g7_4{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.381;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_4{
+fill: none;
+stroke: #231F20;
+stroke-width: 1.145;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_4)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<path d="M43,110.1H240V50H43v60.1Z" class="g0_4"/>
+<path fill-rule="evenodd" d="M62.2,59.4l5.1,1.7l-.9,4.1l-7,-2.4l1.7,-3c.3,-.5,.6,-.6,1.1,-.4Z" class="g1_4"/>
+<path fill-rule="evenodd" d="M55,72.2l4.4,-3.8l3.5,3l-6.2,5.4L54.8,73.5c-.3,-.5,-.2,-.9,.2,-1.3Z" class="g2_4"/>
+<path fill-rule="evenodd" d="M62.9,85.6L61.7,79.2l4.7,-1.6l1.8,8.8H64c-.6,0,-.9,-.3,-1.1,-.8Z" class="g3_4"/>
+<path fill-rule="evenodd" d="M79.3,85.3L72.5,83l1.1,-5.4L83,80.8l-2.3,3.9c-.4,.6,-.8,.8,-1.4,.6Z" class="g4_4"/>
+<path fill-rule="evenodd" d="M87.7,70.2l-5.9,5.2l-4.6,-4l8.2,-7.2l2.5,4.4c.4,.6,.3,1.1,-.2,1.6Z" class="g5_4"/>
+<path fill-rule="evenodd" d="M78.3,54.5L79.9,63l-6.3,2.2L71.3,53.4h5.5c.9,0,1.3,.4,1.5,1.1Z" class="g6_4"/>
+<path d="M98.3,77.3h1.6V90.1h5.3v1.3H98.3Z" class="g1_4"/>
+<path d="M113.2,85.4c-.1,-1.5,-.8,-3.1,-2.4,-3.1c-1.6,0,-2.5,1.4,-2.5,3.1Zm-6.6,.8c0,-3,1.7,-5.2,4.2,-5.2c2.6,0,4,2,4,5.2v.4h-6.6c.1,2.1,1.3,3.7,3.4,3.7c1,0,1.8,-.3,2.5,-.7l.5,1.1c-.9,.6,-2.1,1,-3.2,1c-3.2,0,-4.8,-2.5,-4.8,-5.5Z" class="g1_4"/>
+<path d="M121.7,86.5c-.9,0,-1.5,.1,-2,.4c-.5,.3,-.8,.9,-.8,1.5c0,1.2,.7,1.9,1.9,1.9c1.2,0,2.2,-.8,2.6,-1.3V86.4Zm1.8,3.8c-.8,.8,-1.8,1.4,-3,1.4c-1.9,0,-3.2,-1.2,-3.2,-3.2c0,-1.3,.6,-2.3,1.7,-2.7c.7,-.4,1.5,-.5,2.5,-.5l1.9,-.1v-.6c0,-1.6,-.9,-2.3,-2.2,-2.3c-1.2,0,-2,.5,-2.7,.9l-.6,-1.1c1.1,-.8,2.4,-1.1,3.5,-1.1c2.1,0,3.6,1.1,3.6,3.5V88c0,2,.1,2.9,.2,3.4h-1.4Z" class="g1_4"/>
+<path d="M128.8,81.3h1.3l.2,1.3c1.1,-1.2,2,-1.6,2.9,-1.6c.4,0,.8,.1,1.1,.3l-.6,1.4c-.3,-.1,-.5,-.2,-.9,-.2c-.7,0,-1.4,.5,-2.4,1.5v7.4h-1.6Z" class="g1_4"/>
+<path d="M136.5,81.3h1.4l.2,1.3c1.1,-.9,2.2,-1.6,3.5,-1.6c1.6,0,3,1,3,3.6v6.8H143V85.1c0,-1.5,-.3,-2.6,-1.8,-2.6c-1.1,0,-2.1,.6,-3.1,1.5v7.4h-1.6Z" class="g1_4"/>
+<path d="M148.4,81.3H150V91.4h-1.6Zm-.3,-3.4c0,-.5,.4,-1,1.1,-1c.6,0,1,.4,1,1c0,.7,-.4,1.1,-1,1.1c-.7,0,-1.1,-.4,-1.1,-1.1Z" class="g1_4"/>
+<path d="M153.7,81.3h1.4l.2,1.3c1.1,-.9,2.2,-1.6,3.5,-1.6c1.6,0,3,1,3,3.6v6.8h-1.6V85.1c0,-1.5,-.3,-2.6,-1.8,-2.6c-1.1,0,-2.1,.6,-3.1,1.5v7.4h-1.6Z" class="g1_4"/>
+<path d="M171.3,84.7c0,-1.3,-1,-2.3,-2.3,-2.3c-1.4,0,-2.3,.9,-2.3,2.3c0,1.4,.9,2.4,2.3,2.4c1.3,0,2.3,-.9,2.3,-2.4m.9,8.8c0,-1.8,-3,-1.5,-4.9,-2.1c-.5,.4,-1.4,1,-1.4,1.9c0,1.3,1.3,2,3.1,2c2.2,0,3.2,-.8,3.2,-1.8m-7.7,.1c0,-1,.6,-2,1.9,-2.6c-.5,-.3,-.8,-.7,-.8,-1.3c0,-.4,.2,-1.2,1.1,-2c-.9,-.6,-1.6,-1.7,-1.6,-3c0,-2.1,1.6,-3.6,3.8,-3.6c.8,0,1.4,.2,1.9,.3q.1,.1,.2,0c.5,-.5,1.2,-.8,2.1,-.8c.2,0,.5,0,.6,.1l-.4,1.2c-.2,0,-.4,-.1,-.6,-.1c-.3,0,-.7,.1,-1,.3c.8,.7,1.2,1.7,1.2,2.6c0,2.2,-1.6,3.7,-3.9,3.7c-.5,0,-1,-.1,-1.4,-.2c-.3,.4,-.5,.8,-.5,1.1c0,2,6.7,.3,6.7,4c0,2,-1.9,3.2,-4.9,3.2c-2.7,0,-4.4,-1,-4.4,-2.9Z" class="g1_4"/>
+<path d="M107.7,70.6c-1.4,.7,-2.8,1,-4.1,1c-4.4,0,-7,-3.1,-7,-7.4c0,-4.3,2.9,-7.6,7.3,-7.6c1.5,0,2.9,.3,3.6,.8v1.5c-1,-.5,-2.1,-.9,-3.6,-.9c-3.4,0,-5.6,2.6,-5.6,6.1c0,3.6,2.1,6.1,5.4,6.1c1.4,0,2.5,-.4,3.5,-.9Z" class="g1_4"/>
+<path d="M112.7,56.7h7l-.5,1.4h-4.9v5.1h4.8v1.3h-4.8V70h5.6v1.4h-7.2Z" class="g1_4"/>
+<path d="M125.3,56.7h1.6l6.8,8.9c.9,1.3,1.6,2.2,2.1,3h.1c-.1,-.8,-.1,-1.5,-.1,-2.6V56.7h1.7V71.4h-1.4L129,62.1C128.1,61,127.4,60,126.9,59.3c0,.7,.1,1.3,.1,2.5v9.6h-1.7Z" class="g1_4"/>
+<path d="M152.1,65.3h-3.5L148.1,64h5.6v6.5c-1,.5,-2.7,1.1,-4.8,1.1c-4.3,0,-7.2,-3,-7.2,-7.4c0,-4.4,3,-7.6,7.6,-7.6c1.7,0,3.1,.4,4,.8v1.5c-1.1,-.5,-2.4,-.9,-4,-.9c-3.7,0,-5.9,2.5,-5.9,6.1c0,3.7,2.2,6.1,5.7,6.1c1.2,0,2.3,-.3,3,-.6Z" class="g1_4"/>
+<path d="M165.3,66l-1.6,-4.2c-.4,-1.3,-.7,-2,-.8,-2.5h-.1c-.1,.5,-.4,1.2,-.9,2.5L160.4,66Zm-3,-9.3h1.1L169,71.4h-1.7l-1.5,-4h-5.9l-1.4,4h-1.8Z" class="g1_4"/>
+<path d="M182.1,65.3h-3.4L178.2,64h5.6v6.5c-1,.5,-2.8,1.1,-4.9,1.1c-4.3,0,-7.2,-3,-7.2,-7.4c0,-4.4,3,-7.6,7.6,-7.6c1.7,0,3.1,.4,4,.8v1.5C182.2,58.4,181,58,179.4,58c-3.8,0,-6,2.5,-6,6.1c0,3.7,2.3,6.1,5.7,6.1c1.3,0,2.4,-.3,3,-.6Z" class="g1_4"/>
+<path d="M188.6,56.7h7.1l-.5,1.4h-4.9v5.1h4.8v1.3h-4.8V70h5.5v1.4h-7.2Z" class="g1_4"/>
+<path d="M176.1,81.9c.2,0,.3,0,.3,-.2c0,-.1,-.1,-.2,-.2,-.2H176v.4Zm-.5,-.7h.6c.4,0,.6,.2,.6,.5c0,.3,-.2,.4,-.4,.4c.1,.1,.1,.2,.2,.3l.3,.5h-.4l-.3,-.5q-.1,-.2,-.2,-.2v.7h-.4Zm1.8,.9c0,-.8,-.5,-1.3,-1.2,-1.3c-.7,0,-1.2,.5,-1.2,1.3c0,.7,.5,1.2,1.2,1.2c.7,0,1.2,-.5,1.2,-1.2m-2.8,0c0,-.9,.7,-1.6,1.6,-1.6c.8,0,1.5,.7,1.5,1.6c0,.8,-.7,1.5,-1.5,1.5c-.9,0,-1.6,-.7,-1.6,-1.5Z" class="g1_4"/>
+<path d="M96.6,103H823.5" class="g7_4"/>
+<text x="97" y="1025" class="s1_4">Printed in the United States of America</text>
+<text x="97" y="1043" class="s1_4">Print Number: 01 </text>
+<text x="265" y="1043" class="s1_4">Print Year: 2014</text>
+<text transform="matrix(0,-1,1,0,847,946)" dx="0,-.5,-.5,-.5,-.5,-.5" class="s2_4">K12T14</text>
+<path d="M97.2,955.3H389.9V121H97.2V955.3Z" class="g0_4"/>
+<text x="97" y="130" class="s3_4">Calculus: Early Transcendentals,</text>
+<text x="275" y="130" class="s4_4">Eighth Edition</text>
+<text x="97" y="147" dx="0,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2" class="s5_4">James Stewart</text>
+<text x="97" y="179" dx="0,-.1,0,0,0,0,.1,0,0,0,0,0,-.1,0,0,.1,0,0,0,0,0,0,0,-1,0,0,0,0" class="s5_4">Product Manager: Neha Taleja</text>
+<text x="97" y="201" dx="0,0,0,0,0,0,0,0,-.1,0,0,-.1,0,0,0,0,0,0,-.1,0,0,0,0,0,.1,0,0,0,.1,0,.1,0,0,-.1,-.1,0,0" class="s5_4">Senior Content Developer: Stacy Green</text>
+<text x="97" y="222" dx="0,0,0,0,0,0,0,-.1,-.1,0,0,-.1,0,0,-.1,0,0,0,0,0,0,-.1,0,0,0,0,0,.1,0,0,0,0,0,0,0,0,0,0,0,-.2,0,.1,-.1" class="s5_4">Associate Content Developer: Samantha Lugtu</text>
+<text x="97" y="243" dx="0,-.1,0,0,0,0,.1,0,0,0,0,0,0,0,.1,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,-.1,-.1,0,0" class="s5_4">Product Assistant: Stephanie Kreuz</text>
+<text x="97" y="265" dx="0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,.1,0,0,-.5,0,0,0,0,0,0,0" class="s5_4">Media Developer: Lynh Pham</text>
+<text x="97" y="286" dx="0,0,0,.1,-.1,0,0,0,0,0,0,0,0,0,-.1,0,0,.1,0,0,-.1,0,0,0,0,0,0,0,0" class="s5_4">Marketing Manager: Ryan Ahern</text>
+<text x="97" y="308" dx="0,-.1,0,0,-.1,0,0,0,0,-.1,0,0,0,0,.1,0,0,0,0,0,-.1,0,0,.1,0,0,0,0,0,.2,-.1,.1,0,0,-.1,0,0,0,0,0,0,0" class="s5_4">Content Project Manager: Cheryll Linthicum</text>
+<text x="97" y="329" dx="0,0,.1,0,0,-.1,0,-.1,0,.1,0,0,.1,0,0,-.7,0,0,0,0,0,0,0,0,0" class="s5_4">Art Director: Vernon Boes</text>
+<text x="97" y="350" dx="0,0,0,0,0,-.1,0,.1,-.1,0,0,0,0,0,0,0,0,0,0,0,0,.1,0,0,-.1,0,0,0,0,0,0,0,0,0" class="s5_4">Manufacturing Planner: Becky Cross</text>
+<text x="97" y="372" dx="0,-.1,0,0,0,0,.1,0,0,0,0,0,0,0,.1,0,0,0,0,0,0,0,0,0,0,0,.1,0" class="s5_4">Production Service: TECHarts</text>
+<text x="97" y="393" dx="0,0,0,0,0,0,0,0,0,0,0,-.9,-.1,0,0,0,-.2,0,0,0,0,-.1,0,0,0,.1,0,0,-.2,0,0,0,0,0,0,-.1,-.1,.1,0,0,-.1,0,0,0" class="s5_4">Photo and Text Researcher: Lumina Datamatics</text>
+<text x="97" y="415" dx="0,-.1,0,0,0,0,-.1,0,0,0,0,.1,0,0,-.1,-.1,0,0,0,0,-.8,0,0,0,0,0,0,0,0,0,0,0,0,.1,0" class="s5_4">Copy Editor: Kathi Townes, TECHarts</text>
+<text x="97" y="436" dx="0,0,.1,0,0,0,0,0,-.1,0,0,.1,0,0,0,0,0,0,0,.1,0" class="s5_4">Illustrator: TECHarts</text>
+<text x="97" y="457" dx="0,-.9,-.1,0,0,0,0,0,0,0,0,0,0,.1,0,0,-.1,0,0,0,0,0,-.1,0,0,0,0,0" class="s5_4">Text Designer: Diane Beasley</text>
+<text x="97" y="479" dx="0,-.1,-.1,-.1,0,0,0,0,0,0,0,0,0,0,.1,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_4">Cover Designer: Irene Morris, Morris Design</text>
+<text x="97" y="500" dx="0,-.1,0,0,0,0,0,0,0,0,.1,0,0,0,-.1,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,.1,0,0,0,0,.1,0" class="s5_4">Compositor: Stephanie Kuhns, Kristina Elliott, </text>
+<text x="97" y="522" dx="0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,.1,0,0,0,0,0,0,0,0,0,0,.1,0" class="s5_4">and Kira Abdallah, TECHarts</text>
+<text x="97" y="543" dx="0,-.1,-.1,-.1,0,0,0,0,0,-.1,0,0,0,0,0,0,0,.1,0,0,0,-.1" class="s5_4">Cover Image: elisanth/</text>
+<text x="217" y="543" class="s6_4">123</text>
+<text x="237" y="543" dx="0,0,-.1,0,0,0,0,0,0,0,0,0,0,-.1,-.3,0,0,0,0,0,0,0,0,-.1,0,0" class="s5_4">RF; tharrison/Getty Images</text>
+<path d="M400.2,102.8V990.1" class="g7_4"/>
+<text x="422" y="870" dx="0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,-.1,0,-.1,0,0,0,0,0,0,0,0,0,0,.1,0,0,-.1,0,0,0,0,0,0,-.1,0,0,0,0,0,-.1,0,0,0,-.1,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_4">Windows is a registered trademark of the Microsoft Corporation and used </text>
+<text x="422" y="886" dx="0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_4">herein under license.</text>
+<text x="422" y="902" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,-.1,0,-.1,0,0,0,0,0,0,0,0,0,0,.1,0,0,-.1,0,0,0,0,0,0,0,0,-.1,0,0,0,0,-.1,0,-.8,0,0,0,0,.1,0" class="s5_4">Macintosh is a registered trademark of Apple Computer, Inc. </text>
+<text x="422" y="918" dx="0,-.1,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_4">Used herein under license.</text>
+<text x="422" y="934" dx="0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,-.1,0,-.1,0,0,0,0,0,0,0,0,0,0,.1,0,0,-.1,0,0,-.4,-.1,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.1" class="s5_4">Maple is a registered trademark of Waterloo Maple, Inc.</text>
+<text x="422" y="950" dx="0,0,-.1,0,0,0,0,-.1,0,0,.1,0,0,0,0,0,0,0,-.1,0,0,0,0,-.1,0,-.1,0,0,0,0,0,0,0,0,0,0,.1,0,0,-.1,0,0,-.5,0,0,-.2,0,0,0,0,-.2,0,0,0,0,-.1,0,0,0,0,0,0,.1" class="s5_4">Mathematica is a registered trademark of Wolfram Research, Inc.</text>
+<text x="422" y="966" dx="0,-.8,0,0,0,0,0,-.1,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.1,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_4">Tools for Enriching Calculus is a trademark used herein under license.</text>
+<text x="422" y="131" class="s7_4">© </text>
+<text x="436" y="131" class="s6_4">2016, 2012</text>
+<text x="498" y="131" class="s5_4">Cengage Learning</text>
+<text x="422" y="182" class="s5_4">ALL RIGHTS RESERVED. No part of this work covered by the copyright </text>
+<text x="422" y="199" class="s5_4">herein may be reproduced, transmitted, stored, or used in any form or by </text>
+<text x="422" y="215" class="s5_4">any means graphic, electronic, or mechanical, including but not limited to </text>
+<text x="422" y="231" class="s5_4">photocopying, recording, scanning, digitizing, taping, Web distribution, </text>
+<text x="422" y="247" class="s5_4">information networks, or information storage and retrieval systems, except </text>
+<text x="422" y="263" class="s5_4">as permitted under Section </text>
+<text x="570" y="263" class="s6_4">107</text>
+<text x="592" y="263" class="s5_4">or </text>
+<text x="607" y="263" class="s6_4">108</text>
+<text x="629" y="263" class="s5_4">of the </text>
+<text x="664" y="263" class="s6_4">1976</text>
+<text x="693" y="263" class="s5_4">United States Copyright </text>
+<text x="422" y="279" class="s5_4">Act, without the prior written permission of the publisher.</text>
+<path d="M422.9,411.2H806.7V307.4H422.9V411.2Z" class="g0_4"/>
+<text x="458" y="326" dx="0,0,0,0,.3,0,0,0,0,0,0,0,.3,0,0,0,0,0,0,0,0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,0,0,0,0,0,.3,0,0,0,0,0,0,0,0,0,0,0,.3,0,0,0,0,0,0,0,.3,0,0,.3,0" class="s8_4">For product information and technology assistance, contact us at</text>
+<text x="460" y="341" dx="0,0,0,0,0,0,0,0,.2,0,0,0,0,0,0,0,0,.2,0,0,0,0,0,0,0,0,.2,0,.2,0,0,0,0,0,.2,0,0,0,0,0,0,0,0" class="s9_4">Cengage Learning Customer &amp; Sales Support, </text>
+<text x="690" y="341" class="sa_4">1-800-354-9706</text>
+<text x="767" y="341" class="sb_4">.</text>
+<text x="479" y="359" class="sc_4">F</text>
+<text x="485" y="359" dx="0,0,0,.3,0,0,0,0,0,0,0,0,0,0,.3,0,0,.3,0,0,0,.3,0,0,0,0,0,0,0,0,.3,0,0,0,0,.3,0,0,0,0,.3,0,0,0,0,.3,0,0,.3,0,0,0,0,0,0,0,0" class="sd_4">or permission to use material from this text or product, </text>
+<text x="464" y="373" class="sc_4">s</text>
+<text x="469" y="373" dx="0,0,0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,0,0,0,.3,0,0,0,0,0,0,.3,0,0" class="sd_4">ubmit all requests online at </text>
+<text x="602" y="373" class="se_4">www.cengage.com/permissions</text>
+<text x="762" y="373" class="sb_4">.</text>
+<text x="496" y="387" class="sc_4">F</text>
+<text x="502" y="387" dx="0,0,0,0,0,0,0,.3,0,0,0,0,0,0,0,0,0,0,0,.3,0,0,0,0,0,0,0,0,0,.3,0,0,0,.3,0,0,.3,0,0,0,0,0,0,0,0,.3,0,0" class="sd_4">urther permissions questions can be e-mailed to </text>
+<text x="529" y="401" class="se_4">permissionrequest@cengage.com</text>
+<text x="697" y="401" class="sb_4">.</text>
+<path d="M422.9,411.2H806.7V307.4H422.9V411.2Z" class="g8_4"/>
+<text x="422" y="446" class="s5_4">Library of Congress Control Number: </text>
+<text x="622" y="446" class="s6_4">2014951195</text>
+<text x="422" y="472" class="s5_4">Student Edition:</text>
+<text x="422" y="488" class="s5_4">ISBN:</text>
+<text x="455" y="488" class="s6_4">978-1-285-74155-0</text>
+<text x="422" y="514" class="s5_4">Loose-leaf Edition:</text>
+<text x="422" y="531" class="s6_4">ISBN: 978-1-305-27235-4</text>
+<text x="422" y="570" class="s4_4">Cengage Learning</text>
+<text x="422" y="586" class="s6_4">20 </text>
+<text x="438" y="586" class="s5_4">Channel Center Street</text>
+<text x="422" y="602" class="s5_4">Boston, MA </text>
+<text x="488" y="602" class="s6_4">02210 </text>
+<text x="422" y="618" class="s5_4">USA</text>
+<text x="422" y="662" class="s5_4">Cengage Learning is a leading provider of customized learning solutions </text>
+<text x="422" y="678" class="s5_4">with o±ce locations around the globe, including Singapore, the United </text>
+<text x="422" y="694" class="s5_4">Kingdom, Australia, Mexico, Brazil, and Japan. Locate your local o±ce at </text>
+<text x="422" y="710" class="s4_4">www.cengage.com/global</text>
+<text x="570" y="710" class="s5_4">.</text>
+<text x="422" y="753" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,0" class="s5_4">Cengage Learning products are represented in Canada by </text>
+<text x="422" y="770" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1" class="s5_4">Nelson Education, Ltd.</text>
+<text x="422" y="808" dx="0,-.8,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,-.2,0,0,0,-.1,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_4">To learn more about Cengage Learning Solutions, visit </text>
+<text x="712" y="808" dx="0,.1,.1,-.7,0,0,0,0,-.1,0,-.1,-.1,0,-.1,0" class="s4_4">www.cengage.com</text>
+<text x="818" y="808" class="sf_4">.</text>
+<text x="422" y="825" dx="0,-.2,0,-.1,0,0,0,0,0,0,0,-.1,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,.1,0,0,0,0,0,0,-.1,0,0,0,0,0,0,.1,0,0,0,-.1,0,.1,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0" class="sg_4">Purchase any of our products at your local college store or at our pre-</text>
+<text x="422" y="841" dx="0,-.3,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1" class="sg_4">ferred online store</text>
+<text x="527" y="841" dx="0,.1,.1,-.7,0,0,0,0,-.1,0,-.1,0,0,0,0,0,0,0,-.1,0" class="s4_4">www.cengagebrain.com</text>
+<text x="663" y="841" class="sf_4">.</text>
+<image preserveAspectRatio="none" x="0" y="-19" width="935" height="61" xlink:href="4/img/1.png"/>
+<text x="422" y="156" class="sh_4">WCN: 02-200-203</text>
+<text x="121" y="1076" class="si_4">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="si_4">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Arial-BoldMT_64;
+	src: url("fonts/Arial-BoldMT_64.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialMT_5x;
+	src: url("fonts/ArialMT_5x.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialMT_68;
+	src: url("fonts/ArialMT_68.woff") format("woff");
+}
+
+@font-face {
+	font-family: KievitOT-BoldItalic_6k;
+	src: url("fonts/KievitOT-BoldItalic_6k.woff") format("woff");
+}
+
+@font-face {
+	font-family: KievitOT-Bold_6q;
+	src: url("fonts/KievitOT-Bold_6q.woff") format("woff");
+}
+
+@font-face {
+	font-family: KievitOT-Book_42;
+	src: url("fonts/KievitOT-Book_42.woff") format("woff");
+}
+
+@font-face {
+	font-family: KievitOT-Book_6h;
+	src: url("fonts/KievitOT-Book_6h.woff") format("woff");
+}
+
+@font-face {
+	font-family: KievitOT-Medium_6n;
+	src: url("fonts/KievitOT-Medium_6n.woff") format("woff");
+}
+
+@font-face {
+	font-family: KievitOT-Regular_5_;
+	src: url("fonts/KievitOT-Regular_5_.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_6c;
+	src: url("fonts/TimesLTStd-Roman_6c.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

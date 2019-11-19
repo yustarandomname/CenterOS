@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 71 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_71"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0_71"><path d="M108.5,375.6V242.1h361V375.6Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_71{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_71{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_71{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s4_71{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s5_71{
+font-size: 16.81px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.s6_71{
+font-size: 17.57px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.s7_71{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s8_71{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s9_71{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.sa_71{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sb_71{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #EC008C;
+}
+.sc_71{
+font-size: 15.28px;
+font-family: MathematicalPi-One-Italic_x2;
+fill: #231F20;
+}
+.sd_71{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.se_71{
+font-size: 12.22px;
+font-family: TECHMath-Mix_16a;
+fill: #231F20;
+}
+.sf_71{
+font-size: 12.22px;
+font-family: TECHMath-Mix_19t;
+fill: #231F20;
+}
+.sg_71{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1ac;
+fill: #231F20;
+}
+.sh_71{
+font-size: 10.69px;
+font-family: TECHMath-Mix_1am;
+fill: #231F20;
+}
+.si_71{
+font-size: 10.69px;
+font-family: TECHMath-Mix_16e;
+fill: #231F20;
+}
+.sj_71{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1am;
+fill: #231F20;
+}
+.sk_71{
+font-size: 12.99px;
+font-family: TECHMath-Mix_164;
+fill: #231F20;
+}
+.sl_71{
+font-size: 12.99px;
+font-family: Times-Roman_n6;
+fill: #231F20;
+}
+.sm_71{
+font-size: 12.99px;
+font-family: TECHMath-Mix_16a;
+fill: #231F20;
+}
+.sn_71{
+font-size: 14.51px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.so_71{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sp_71{
+font-size: 12.22px;
+font-family: TECHMath-Mix_13x;
+fill: #231F20;
+}
+.sq_71{
+font-size: 12.22px;
+font-family: TECHMath-Mix_16e;
+fill: #231F20;
+}
+.sr_71{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1cp;
+fill: #231F20;
+}
+.ss_71{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1c_;
+fill: #231F20;
+}
+.st_71{
+font-size: 12.99px;
+font-family: TECHMath-Mix_1c_;
+fill: #231F20;
+}
+.su_71{
+font-size: 10.69px;
+font-family: TECHMath-Mix_1c_;
+fill: #231F20;
+}
+.sv_71{
+font-size: 12.99px;
+font-family: ZapfDingbatsITC_my;
+fill: #EC008C;
+}
+.sw_71{
+font-size: 12.22px;
+font-family: Times-Roman_n6;
+fill: #231F20;
+}
+.sx_71{
+font-size: 10.69px;
+font-family: Times-Roman_n6;
+fill: #231F20;
+}
+.sy_71{
+font-size: 12.99px;
+font-family: TECHMath-Mix_1d3;
+fill: #231F20;
+}
+.sz_71{
+font-size: 12.99px;
+font-family: TECHMath-Mix_1cp;
+fill: #231F20;
+}
+.s10_71{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s11_71{
+font-size: 10.69px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s12_71{
+font-size: 10.69px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s13_71{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_71{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g1_71{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g2_71{
+fill: #231F20;
+}
+.g3_71{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.381;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g4_71{
+fill: none;
+stroke: #8A8C8E;
+stroke-width: 0.534;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g5_71{
+fill: none;
+stroke: #7E3F98;
+stroke-width: 1.069;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g6_71{
+fill: none;
+stroke: #66C18C;
+stroke-width: 1.069;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g7_71{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 1.069;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g8_71{
+fill: none;
+stroke: #EC008C;
+stroke-width: 1.069;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g9_71{
+fill: none;
+stroke: #231F20;
+stroke-width: 1.069;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.ga_71{
+fill: none;
+stroke: #EC008C;
+stroke-width: 1.222;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.gb_71{
+fill: #FFFFFF;
+}
+.gc_71{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.gd_71{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.ge_71{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.gf_71{
+fill: none;
+stroke: #66C18C;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.gg_71{
+fill: none;
+stroke: #7E3F98;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.gh_71{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_71)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="543" y="64" dx="0,.2,.2,.5,.2,.2,.2" class="s1_71">SECTION</text>
+<text x="595" y="64" class="s2_71">1.3</text>
+<text x="625" y="64" dx="0,.1,.1,.1,.1,-.3,.1,.1,.3,.1,.1,.1,.1,.1,.1,.1,0,.1,.1,.1,.1,.1,.1,.1,-.3,.1,.1,.3,.1,.1,.1,.1,.1" class="s3_71">New Functions from Old Functions </text>
+<text x="862" y="64" class="s4_71">39</text>
+<text x="342" y="112" dx="0,.3,.3,.3,.3,.3,.3,.2" class="s5_71">EXAMPLE </text>
+<text x="413" y="112" class="s6_71">3</text>
+<text x="430" y="112" dx="0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7_71">Sketch the graphs of the following functions.</text>
+<text x="342" y="130" class="s7_71">(a) </text>
+<text x="367" y="130" class="s8_71">y</text>
+<text x="378" y="130" class="s9_71">-</text>
+<text x="395" y="130" class="s7_71">sin 2</text>
+<text x="425" y="130" class="s8_71">x</text>
+<text x="559" y="130" class="s7_71">(b) </text>
+<text x="585" y="130" class="s8_71">y</text>
+<text x="596" y="130" class="s9_71">-</text>
+<text x="613" y="130" class="s7_71">1</text>
+<text x="625" y="130" class="sa_71">2</text>
+<text x="643" y="130" class="s7_71">sin </text>
+<text x="665" y="130" class="s8_71">x</text>
+<text x="342" y="158" dx="0,.3,.3,.3,.3,.3,.3,.3" class="sb_71">SOLUTION</text>
+<text x="342" y="176" dx="0,0,0,0,3.4,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7_71">(a) We obtain the graph of </text>
+<text x="510" y="176" class="s8_71">y</text>
+<text x="521" y="176" class="s9_71">-</text>
+<text x="538" y="176" class="s7_71">sin 2</text>
+<text x="568" y="176" class="s8_71">x</text>
+<text x="579" y="176" class="s7_71">from that of </text>
+<text x="656" y="176" class="s8_71">y</text>
+<text x="668" y="176" class="s9_71">-</text>
+<text x="685" y="176" class="s7_71">sin </text>
+<text x="707" y="176" class="s8_71">x</text>
+<text x="718" y="176" class="s7_71">by compressing horizon-</text>
+<text x="342" y="194" dx="0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7_71">tally by a factor of 2. (See Figures 6 and 7.) Thus, whereas the period of </text>
+<text x="786" y="194" class="s8_71">y</text>
+<text x="797" y="194" class="s9_71">-</text>
+<text x="815" y="194" class="s7_71">sin</text>
+<text x="836" y="194" class="s8_71">x</text>
+<text x="846" y="194" class="s7_71">is </text>
+<text x="342" y="213" class="s7_71">2</text>
+<text x="349" y="213" class="sc_71">°</text>
+<text x="360" y="213" class="s7_71">, the period of </text>
+<text x="450" y="213" class="s8_71">y</text>
+<text x="461" y="213" class="s9_71">-</text>
+<text x="478" y="213" dx="0,0,0,0,-.8" class="s7_71">sin 2</text>
+<text x="507" y="213" class="s8_71">x</text>
+<text x="518" y="213" class="s7_71">is 2</text>
+<text x="540" y="213" class="sc_71">°</text>
+<text x="549" y="213" class="sd_71">y</text>
+<text x="556" y="213" class="s7_71">2</text>
+<text x="568" y="213" class="s9_71">-</text>
+<text x="585" y="213" class="sc_71">°</text>
+<text x="596" y="213" class="s7_71">.</text>
+<path d="M814.3,293.8c-8.4,0,-15,14.8,-21.7,27.3c-6.4,12.7,-13.3,27.2,-21.5,27.2c-8.4,0,-14.8,-14.7,-21.6,-27.2C743.3,308.6,736.3,293.8,728,293.8c-8.1,0,-14.8,14.8,-21.5,27.3c-6.2,12.5,-13.5,27.2,-21.6,27.2c-8.2,0,-15,-14.7,-21.7,-27.2c-5.9,-12.5,-13.6,-27.3,-21.5,-27.3c-8,0,-14.8,14.8,-21.6,27.3c-6.2,12.5,-13.4,27.2,-21.5,27.2c-8.1,0,-14.7,-15.1,-21.5,-28c-6.3,-12.5,-13.3,-26.5,-21.6,-26.5c-8.2,0,-15.1,14.8,-21.7,27.3c-5,9.8,-10.2,20.8,-16.2,25.2" class="g0_71"/>
+<text x="821" y="333" class="se_71">x</text>
+<path d="M515.8,321H823.2" class="g1_71"/>
+<path fill-rule="evenodd" d="M823.2,321l-1.7,-2.5l6.6,2.5l-6.6,2.4Z" class="g2_71"/>
+<text x="622" y="334" class="se_71">0</text>
+<text x="609" y="252" class="sf_71">y</text>
+<path d="M620.3,375.6V251m-3.1,42.5h6.1m83,24.4V324" class="g1_71"/>
+<path fill-rule="evenodd" d="M620.3,251l-2.5,1.6l2.5,-6.5l2.4,6.5Z" class="g2_71"/>
+<path d="M533.7,317.9V324m44.1,-6.1V324m214.4,-6.1V324M641.4,317.9V324m21.7,-6.1V324" class="g1_71"/>
+<text x="609" y="298" class="sg_71">1</text>
+<path d="M555.7,317.9V324m42.7,-6.1V324" class="g1_71"/>
+<text x="657" y="333" class="sh_71">π</text>
+<text x="658" y="347" class="sh_71">2</text>
+<path d="M664.9,336.8h-7.6" class="g3_71"/>
+<text x="637" y="333" class="sh_71">π</text>
+<text x="638" y="347" class="si_71">4</text>
+<path d="M645.1,336.8h-7.6" class="g3_71"/>
+<text x="701" y="337" class="sj_71">π</text>
+<text x="655" y="294" class="sk_71">y=</text>
+<text x="676" y="294" class="sl_71">sin</text>
+<text x="694" y="294" class="sk_71">2</text>
+<text x="701" y="294" class="sm_71">x</text>
+<text x="515" y="399" dx="0,.3,.3,.3,.3,.3,.1" class="sn_71">FIGURE </text>
+<text x="568" y="399" class="so_71">7</text>
+<text x="342" y="430" dx="0,0,0,0,3.5,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7_71">(b) To obtain the graph of </text>
+<text x="507" y="430" class="s8_71">y</text>
+<text x="518" y="430" class="s9_71">-</text>
+<text x="535" y="430" class="s7_71">1</text>
+<text x="547" y="430" class="sa_71">2</text>
+<text x="565" y="430" class="s7_71">sin </text>
+<text x="587" y="430" class="s8_71">x</text>
+<text x="594" y="430" dx="0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7_71">, we again start with </text>
+<text x="722" y="430" class="s8_71">y</text>
+<text x="733" y="430" class="s9_71">-</text>
+<text x="750" y="430" class="s7_71">sin </text>
+<text x="773" y="430" class="s8_71">x</text>
+<text x="780" y="430" dx="0,0,-.5,-1.2,0,0,0,0,0,0,0,0" class="s7_71">. We re²ect </text>
+<text x="342" y="448" class="s7_71">about the </text>
+<text x="402" y="448" class="s8_71">x</text>
+<text x="409" y="448" class="s7_71">-axis to get the graph of </text>
+<text x="559" y="448" class="s8_71">y</text>
+<text x="570" y="448" class="s9_71">-</text>
+<text x="588" y="448" class="sa_71">2</text>
+<text x="600" y="448" class="s7_71">sin </text>
+<text x="623" y="448" class="s8_71">x</text>
+<text x="633" y="448" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0" class="s7_71">and then we shift 1 unit upward to get </text>
+<text x="342" y="467" class="s8_71">y</text>
+<text x="354" y="467" class="s9_71">-</text>
+<text x="371" y="467" class="s7_71">1</text>
+<text x="383" y="467" class="sa_71">2</text>
+<text x="400" y="467" class="s7_71">sin </text>
+<text x="423" y="467" class="s8_71">x</text>
+<text x="429" y="467" class="s7_71">. (See Figure 8.)</text>
+<path d="M805.2,531.7c-12,0,-22.6,11.5,-32.9,21.2c-9.7,9.8,-19.9,21.2,-32.2,21.2c-12.4,0,-22.4,-11.4,-32.8,-21.2c-9.4,-9.7,-20.7,-21.2,-33,-21.2c-12.1,0,-22.6,11.5,-32.9,21.2c-9.7,9.8,-19.9,21.2,-32.2,21.2c-12.4,0,-22.4,-11.4,-32.8,-21.2c-9.4,-9.7,-20.7,-21.2,-33,-21.2c-12,0,-22.6,11.5,-32.8,21.2c-9.7,9.8,-20,21.2,-32.3,21.2c-12.3,0,-22.4,-11.4,-32.8,-21.2c-9.4,-9.7,-20.7,-21.2,-33,-21.2" class="g0_71"/>
+<path d="M573.7,552.8h5.2m30.3,18.7v5.2M573.7,532.1h5.2m95.5,39.4v5.2M444.1,571.5v5.2m328.5,-5.2v5.2m-32.5,-5.2v5.2m-32.9,-5.2v5.2M543.6,571.5v5.2m-32.8,-5.2v5.2m-32.3,-5.2v5.2m163.2,-5.2v5.2M412.5,574.1H805.3m-229,26V503.3" class="g1_71"/>
+<path fill-rule="evenodd" d="M804.5,574.1l-1.7,-2.4l6.6,2.4l-6.6,2.5Z" class="g2_71"/>
+<text x="803" y="586" class="se_71">x</text>
+<path fill-rule="evenodd" d="M576.3,504.3l-2.5,1.6l2.5,-6.5l2.4,6.5Z" class="g2_71"/>
+<text x="566" y="557" class="sp_71">1</text>
+<text x="565" y="535" class="sq_71">2</text>
+<text x="565" y="506" class="sr_71">y</text>
+<text x="637" y="586" class="sj_71">π</text>
+<text x="567" y="585" class="sq_71">0</text>
+<text x="700" y="587" class="ss_71">2π</text>
+<text x="656" y="526" class="st_71">y=1-</text>
+<text x="697" y="526" class="sl_71">sin</text>
+<text x="715" y="526" class="st_71">x</text>
+<text x="605" y="585" class="su_71">π</text>
+<text x="606" y="599" class="su_71">2</text>
+<path d="M605.5,588.5h8" class="g3_71"/>
+<text x="668" y="585" class="su_71">3π</text>
+<text x="673" y="599" class="su_71">2</text>
+<path d="M668.6,588.5h13" class="g3_71"/>
+<text x="868" y="603" class="sv_71">■</text>
+<text x="342" y="652" dx="0,.3,.3,.3,.3,.3,.3,.2" class="s5_71">EXAMPLE </text>
+<text x="413" y="652" class="s6_71">4</text>
+<text x="430" y="652" dx="0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7_71">Figure 9 shows graphs of the number of hours of daylight as functions of </text>
+<text x="342" y="670" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s7_71">the time of the year at several latitudes. Given that Philadelphia is located at approxi-</text>
+<text x="342" y="689" class="s7_71">mately 40</text>
+<text x="403" y="689" class="sa_71">8</text>
+<text x="408" y="689" class="s7_71">N latitude, Ind a function that models the length of daylight at Philadelphia.</text>
+<path d="M731.6,1005.2v-275m-27.5,275v-275m-27.5,275v-275m-27.5,275v-275m-27.5,275v-275m-27.5,275v-275m-27.5,275v-275m-27.5,275v-275m-27.5,275v-275M484.1,977.7h275m-275,-27.5h275m-275,-27.5h275m-275,-27.5h275m-275,-27.5h275m-275,-27.5h275m-275,-27.5h275m-275,-27.5h275m-275,-27.5h275" class="g4_71"/>
+<path d="M503.4,840.2c12.9,-20,50.5,-90.1,82.5,-90.1c30.5,0,69.6,70.1,82.5,90.1c12.8,20,50.5,90.2,82.5,90.2" class="g5_71"/>
+<path d="M503.4,840.2c12.8,-12.8,50.7,-58,82.5,-58c31.7,0,69.7,45.2,82.5,58c11.3,11.1,50.7,58.1,82.5,58.1" class="g6_71"/>
+<path d="M503.4,840.2c12.8,-8.8,50.6,-39.7,82.5,-39.7c31.8,0,69.6,30.9,82.5,39.7c12.8,8.8,50.6,39.7,82.5,39.7" class="g7_71"/>
+<path d="M503.4,840.2c12.6,-6.1,51.1,-27.5,82.5,-27.5c31.4,0,69.8,21.4,82.5,27.5c12.6,6.2,51,27.5,82.5,27.5" class="g8_71"/>
+<path d="M503.4,840.2c12.7,-3.4,50.9,-15.3,82.5,-15.3c31.6,0,69.7,11.9,82.5,15.3c12.7,3.5,50.9,15.3,82.5,15.3" class="g9_71"/>
+<path d="M503.4,840.2c12.6,-6.1,51.1,-27.5,82.5,-27.5" class="ga_71"/>
+<path d="M484.1,1005.2h275v-275h-275v275Z" class="g4_71"/>
+<text x="471" y="1007" class="sw_71">0</text>
+<text x="471" y="980" class="sw_71">2</text>
+<text x="471" y="952" class="sw_71">4</text>
+<text x="471" y="925" class="sw_71">6</text>
+<text x="471" y="897" class="sw_71">8</text>
+<text x="465" y="870" class="sw_71">10</text>
+<text x="465" y="842" class="sw_71">12</text>
+<text x="465" y="815" class="sw_71">14</text>
+<text x="465" y="787" class="sw_71">16</text>
+<text x="465" y="760" class="sw_71">18</text>
+<text x="465" y="732" class="sw_71">20</text>
+<text x="488" y="1017" class="sx_71">Mar.</text>
+<text x="516" y="1017" class="sx_71">Apr.</text>
+<text x="543" y="1017" class="sx_71">May</text>
+<text x="571" y="1017" class="sx_71">June</text>
+<text x="599" y="1017" class="sx_71">July</text>
+<text x="625" y="1017" dx="0,0,0,0,0,3.4,0,0,0,0" class="sx_71">Aug. Sept.</text>
+<text x="682" y="1017" class="sx_71">Oct.</text>
+<text x="708" y="1017" dx="0,0,0,0,0,3.9,0,0,0" class="sx_71">Nov. Dec.</text>
+<text x="424" y="870" class="sw_71">Hours</text>
+<path d="M501.6,840.2c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M501.6,840.2c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gc_71"/>
+<path d="M529.1,833.3c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="gb_71"/>
+<path d="M529.1,833.3c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="gc_71"/>
+<path d="M556.6,828c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gb_71"/>
+<path d="M556.6,828c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gc_71"/>
+<path d="M584.1,824.9c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="gb_71"/>
+<path d="M584.1,824.9c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="gc_71"/>
+<path d="M666.6,840.2c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M666.6,840.2c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gc_71"/>
+<path d="M529.1,827.6c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M529.1,827.6c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gd_71"/>
+<path d="M529.1,821.9c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gb_71"/>
+<path d="M529.1,821.9c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="ge_71"/>
+<path d="M529.1,812.7c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M529.1,812.7c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gf_71"/>
+<path d="M529.1,797.8c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M529.1,797.8c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gg_71"/>
+<path d="M556.6,817.3c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gb_71"/>
+<path d="M556.6,817.3c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gd_71"/>
+<path d="M556.6,806.6c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M556.6,806.6c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="ge_71"/>
+<path d="M556.6,791.7c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M556.6,791.7c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gf_71"/>
+<path d="M556.6,765c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gb_71"/>
+<path d="M556.6,765c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gg_71"/>
+<path d="M584.1,812.7c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M584.1,812.7c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gd_71"/>
+<path d="M584.1,800.5c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gb_71"/>
+<path d="M584.1,800.5c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="ge_71"/>
+<path d="M584.1,782.2c0,-1,.8,-1.8,1.8,-1.8c.9,0,1.7,.8,1.7,1.8c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gb_71"/>
+<path d="M584.1,782.2c0,-1,.8,-1.8,1.8,-1.8c.9,0,1.7,.8,1.7,1.8c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gf_71"/>
+<path d="M584.1,750.1c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gb_71"/>
+<path d="M584.1,750.1c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gg_71"/>
+<path d="M611.6,828c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gb_71"/>
+<path d="M611.6,828c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gc_71"/>
+<path d="M611.6,817.3c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gb_71"/>
+<path d="M611.6,817.3c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gd_71"/>
+<path d="M611.6,806.6c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M611.6,806.6c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="ge_71"/>
+<path d="M611.6,791.7c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M611.6,791.7c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gf_71"/>
+<path d="M611.6,765c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gb_71"/>
+<path d="M611.6,765c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gg_71"/>
+<path d="M639.1,833.3c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="gb_71"/>
+<path d="M639.1,833.3c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="gc_71"/>
+<path d="M639.1,827.6c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M639.1,827.6c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gd_71"/>
+<path d="M639.1,821.9c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gb_71"/>
+<path d="M639.1,821.9c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="ge_71"/>
+<path d="M639.1,812.7c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M639.1,812.7c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gf_71"/>
+<path d="M639.1,797.8c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M639.1,797.8c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gg_71"/>
+<path d="M694.1,847.3c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gb_71"/>
+<path d="M694.1,847.3c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gc_71"/>
+<path d="M694.1,853c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M694.1,853c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gd_71"/>
+<path d="M694.1,858.7c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="gb_71"/>
+<path d="M694.1,858.7c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="ge_71"/>
+<path d="M694.1,867.7c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M694.1,867.7c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gf_71"/>
+<path d="M694.1,882.6c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M694.1,882.6c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gg_71"/>
+<path d="M721.6,853.2c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gb_71"/>
+<path d="M721.6,853.2c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gc_71"/>
+<path d="M721.6,863.5c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M721.6,863.5c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gd_71"/>
+<path d="M721.6,873.8c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="gb_71"/>
+<path d="M721.6,873.8c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="ge_71"/>
+<path d="M721.6,889.5c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gb_71"/>
+<path d="M721.6,889.5c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gf_71"/>
+<path d="M721.6,916.6c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M721.6,916.6c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gg_71"/>
+<path d="M749.1,855.5c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gb_71"/>
+<path d="M749.1,855.5c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gc_71"/>
+<path d="M749.1,867.7c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gb_71"/>
+<path d="M749.1,867.7c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.7,-1.8,-1.7Z" class="gd_71"/>
+<path d="M749.1,879.9c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="gb_71"/>
+<path d="M749.1,879.9c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="ge_71"/>
+<path d="M749.1,898.3c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gb_71"/>
+<path d="M749.1,898.3c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gf_71"/>
+<path d="M749.1,930.4c0,-1,.8,-1.8,1.8,-1.8c.9,0,1.7,.8,1.7,1.8c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gb_71"/>
+<path d="M749.1,930.4c0,-1,.8,-1.8,1.8,-1.8c.9,0,1.7,.8,1.7,1.8c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="gg_71"/>
+<text x="766" y="933" class="sy_71">60° </text>
+<text x="787" y="933" class="sl_71">N</text>
+<text x="766" y="903" class="sy_71">50° </text>
+<text x="787" y="903" class="sl_71">N</text>
+<text x="766" y="887" class="sy_71">40° </text>
+<text x="787" y="887" class="sl_71">N</text>
+<text x="766" y="872" class="sy_71">30° </text>
+<text x="787" y="872" class="sl_71">N</text>
+<text x="766" y="856" class="sy_71">20° </text>
+<text x="787" y="856" class="sl_71">N</text>
+<text x="108" y="400" dx="0,.3,.3,.3,.3,.3,.1" class="sn_71">FIGURE </text>
+<text x="161" y="400" class="so_71">6</text>
+<path d="M455.3,293.9c-16.2,0,-29.6,14.8,-43.1,27.2c-12.1,12.7,-26.6,27.4,-43.1,27.4c-16.2,0,-29.3,-14.7,-42.9,-27.4C314,308.7,299.2,293.9,283.1,293.9c-15.7,0,-29.5,14.8,-42.9,27.2c-12.7,12.7,-26.9,27.4,-42.9,27.4c-16.2,0,-29.4,-15.2,-43.1,-28.2C141.8,308,127.9,293.9,111.2,293.9" class="gh_71"/>
+<text x="462" y="333" class="se_71">x</text>
+<text x="242" y="334" class="se_71">0</text>
+<text x="229" y="252" class="sf_71">y</text>
+<text x="229" y="298" class="sg_71">1</text>
+<text x="279" y="333" class="su_71">π</text>
+<text x="280" y="347" class="su_71">2</text>
+<path d="M287.3,336.8h-7.7" class="g3_71"/>
+<path d="M108.5,321H464.6" class="g1_71"/>
+<g clip-path="url(#c0_71)">
+<path fill-rule="evenodd" d="M464.6,321L463,318.5l6.5,2.5l-6.5,2.4Z" class="g2_71"/>
+</g>
+<text x="322" y="339" class="ss_71">π</text>
+<path d="M240.3,375.6V251m-3,42.5h6.1m82.9,24.4V324" class="g1_71"/>
+<path fill-rule="evenodd" d="M240.3,251l-2.4,1.6l2.4,-6.5l2.5,6.5Z" class="g2_71"/>
+<path d="M155.5,317.9V324m41.6,-6.1V324m215.1,-6.1V324M369,317.9V324m-85.9,-6.1V324" class="g1_71"/>
+<text x="304" y="293" class="sk_71">y=</text>
+<text x="324" y="293" class="sl_71">sin</text>
+<text x="343" y="293" class="sz_71">x</text>
+<text x="267" y="602" dx="0,.3,.3,.3,.3,.3,.1" class="sn_71">FIGURE </text>
+<text x="320" y="602" class="so_71">8</text>
+<text x="267" y="921" dx="0,.3,.3,.3,.3,.3,.1" class="sn_71">FIGURE </text>
+<text x="320" y="921" class="so_71">9 </text>
+<text x="127" y="938" class="s10_71">Graph of the length of daylight from </text>
+<text x="152" y="954" class="s10_71">March 21 through December 21 </text>
+<text x="224" y="971" dx="0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s10_71">at various latitudes </text>
+<text x="179" y="990" dx="0,0,0,0,-.4,0,0" class="s11_71">Source:</text>
+<text x="214" y="990" class="s12_71">Adapted from L. Harrison, </text>
+<text x="163" y="1003" dx="0,0,0,0,0,0,0,0,0,0,-.2,-.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,-.3,0,0" class="s11_71">Daylight, Twilight, Darkness and Time</text>
+<text x="165" y="1017" dx="0,0,0,-.3,0,-1,-1.2,0,0,0,0,0,0,0,0,-.2,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s12_71">(New York: Silver, Burdett, 1935), 40.</text>
+<text x="121" y="1076" class="s13_71">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="s13_71">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MathematicalPi-One-Italic_x2;
+	src: url("fonts/MathematicalPi-One-Italic_x2.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_13x;
+	src: url("fonts/TECHMath-Mix_13x.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_164;
+	src: url("fonts/TECHMath-Mix_164.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_16a;
+	src: url("fonts/TECHMath-Mix_16a.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_16e;
+	src: url("fonts/TECHMath-Mix_16e.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_19t;
+	src: url("fonts/TECHMath-Mix_19t.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1ac;
+	src: url("fonts/TECHMath-Mix_1ac.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1am;
+	src: url("fonts/TECHMath-Mix_1am.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1c_;
+	src: url("fonts/TECHMath-Mix_1c_.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1cp;
+	src: url("fonts/TECHMath-Mix_1cp.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1d3;
+	src: url("fonts/TECHMath-Mix_1d3.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_n6;
+	src: url("fonts/Times-Roman_n6.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+@font-face {
+	font-family: ZapfDingbatsITC_my;
+	src: url("fonts/ZapfDingbatsITC_my.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

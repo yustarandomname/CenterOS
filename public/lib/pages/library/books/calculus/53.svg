@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 53 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_53"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0_53"><path d="M279.2,937.9V908.1h96.6v29.8Z"/></clipPath>
+<clipPath id="c1_53"><path d="M220.1,980.6V950.8h96.6v29.8Z"/></clipPath>
+<clipPath id="c2_53"><path d="M133.7,1023.5V994.8h54.7v28.7Z"/></clipPath>
+<clipPath id="c3_53"><path d="M219.4,1023.5V993.6h70v29.9Z"/></clipPath>
+<clipPath id="c4_53"><path d="M538.6,127.5V98.7H619v28.8Z"/></clipPath>
+<clipPath id="c5_53"><path d="M650,127.5V97.6h70v29.9Z"/></clipPath>
+<clipPath id="c6_53"><path d="M538.6,216.3V187.4h86.1v28.9Z"/></clipPath>
+<clipPath id="c7_53"><path d="M715,216.1V185.6H826.9v30.5Z"/></clipPath>
+<clipPath id="c8_53"><path d="M540.8,242.7V226.8h92.5v15.9Z"/></clipPath>
+<clipPath id="c9_53"><path d="M715,243V226.8H860.3V243Z"/></clipPath>
+<clipPath id="ca_53"><path d="M540.8,288.8V256.1h104v32.7Z"/></clipPath>
+<clipPath id="cb_53"><path d="M715,304.1v-48H827v48Z"/></clipPath>
+<clipPath id="cc_53"><path d="M538.6,324.3V306.2H643.8v18.1Z"/></clipPath>
+<clipPath id="cd_53"><path d="M587.8,386.9V371.1h93.1v15.8Z"/></clipPath>
+<clipPath id="ce_53"><path d="M740.2,454.4V423.9h80.4v30.5Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_53{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_53{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_53{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s4_53{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s5_53{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s6_53{
+font-size: 13.75px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #231F20;
+}
+.s7_53{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s8_53{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.s9_53{
+font-size: 10.69px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sa_53{
+font-size: 10.69px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sb_53{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.sc_53{
+font-size: 8.25px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sd_53{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.se_53{
+font-size: 9.63px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sf_53{
+font-size: 13.75px;
+font-family: MathematicalPi-One-Italic_x2;
+fill: #231F20;
+}
+.sg_53{
+font-size: 13.75px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #00AEEF;
+}
+.sh_53{
+font-size: 13.75px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.si_53{
+font-size: 13.75px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #231F20;
+}
+.sj_53{
+font-size: 6.60px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sk_53{
+font-size: 42.63px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sl_53{
+font-size: 22.00px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sm_53{
+font-size: 24.75px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sn_53{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_53{
+fill: #E2F4FC;
+}
+.g1_53{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_53{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_53{
+fill: #FFFFFF;
+}
+.g4_53{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.481;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_53{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.687;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_53{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_53)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="544" y="64" dx="0,.2,.2,.5,.2,.2,.2" class="s1_53">SECTION</text>
+<text x="596" y="64" class="s2_53">1.1</text>
+<text x="626" y="64" dx="0,-.3,.1,.1,.1,-.3,-.3,0,0,.1,.1,0,.1,.1,.2,.1,.1,0,.1,.1,.1,.1,.1,.1,.1,.1,-.3,.1,.1,.3,.1,.1,.1,.1" class="s3_53">Four Ways to Represent a Function </text>
+<text x="862" y="64" class="s4_53">21</text>
+<text x="133" y="106" dx="0,0,0,0,4.2,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_53">(c) Sketch a possible graph of the ground speed.</text>
+<text x="133" y="123" dx="0,0,0,0,3.5,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,-.9" class="s5_53">(d) Sketch a possible graph of the vertical velocity.</text>
+<text x="109" y="149" class="s6_53">23. </text>
+<text x="133" y="149" dx="0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_53">Temperature readings </text>
+<text x="256" y="149" class="s7_53">T</text>
+<text x="268" y="149" dx="0,0,0,0,0,0,0,-2.2,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,-.1,0,0,0,0,0,0,0" class="s5_53">(in °F ) were recorded every two hours </text>
+<text x="133" y="166" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0" class="s5_53">from midnight to 2:00 ³´ in Atlanta on June 4, 2013. The time </text>
+<text x="133" y="183" class="s7_53">t</text>
+<text x="141" y="183" dx="0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_53">was measured in hours from midnight.</text>
+<path d="M156.2,203.6h33.6v29H156.2Zm0,29h33.6v29.7H156.2Z" class="g0_53"/>
+<path d="M155.8,203.6h34m-33.6,28.6V204m235.3,-.4h33.6m0,0h34m-.4,28.6V204M156.2,262V233m302.5,29V233m-302.9,-.4h34m201.7,0h33.6m0,0h34" class="g1_53"/>
+<path d="M155.8,262.3h34m201.7,0h33.6m0,0h34" class="g2_53"/>
+<path d="M425.1,232.2V204m0,58V233M189.8,203.6h33.7m0,0h33.6m0,0h33.6m0,0h33.6m0,0h33.6m0,0h33.6M189.8,232.2V204m33.7,28.2V204m33.6,28.2V204m33.6,28.2V204m33.6,28.2V204m33.6,28.2V204m33.6,28.2V204M189.8,232.6h33.7M189.8,262V233m33.7,-.4h33.6M223.5,262V233m33.6,-.4h33.6M257.1,262V233m33.6,-.4h33.6M290.7,262V233m33.6,-.4h33.6M324.3,262V233m33.6,-.4h33.6M357.9,262V233m33.6,29V233" class="g1_53"/>
+<path d="M189.8,262.3h33.7m0,0h33.6m0,0h33.6m0,0h33.6m0,0h33.6m0,0h33.6" class="g2_53"/>
+<text x="171" y="223" class="s7_53">t</text>
+<text x="203" y="222" class="s5_53">0</text>
+<text x="236" y="222" class="s5_53">2</text>
+<text x="272" y="222" class="s5_53">4</text>
+<text x="305" y="222" class="s5_53">6</text>
+<text x="337" y="222" class="s5_53">8</text>
+<text x="367" y="222" class="s5_53">10</text>
+<text x="401" y="222" class="s5_53">12</text>
+<text x="435" y="222" class="s5_53">14</text>
+<text x="168" y="252" class="s7_53">T</text>
+<text x="199" y="252" class="s5_53">74</text>
+<text x="233" y="252" class="s5_53">69</text>
+<text x="266" y="252" class="s5_53">68</text>
+<text x="300" y="252" class="s5_53">66</text>
+<text x="334" y="252" class="s5_53">70</text>
+<text x="367" y="252" class="s5_53">78</text>
+<text x="401" y="252" class="s5_53">82</text>
+<text x="435" y="252" class="s5_53">86</text>
+<text x="133" y="291" class="s5_53">(a) </text>
+<text x="156" y="291" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_53">Use the readings to sketch a rough graph of </text>
+<text x="398" y="291" class="s7_53">T</text>
+<text x="410" y="291" class="s5_53">as a function </text>
+<text x="156" y="308" class="s5_53">of </text>
+<text x="171" y="308" class="s7_53">t</text>
+<text x="175" y="308" class="s5_53">.</text>
+<text x="133" y="325" class="s5_53">(b) </text>
+<text x="156" y="325" class="s5_53">Use your graph to estimate the temperature at 9:00 µ´.</text>
+<text x="109" y="351" class="s6_53">24. </text>
+<text x="133" y="351" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.5,-.6,0,0" class="s5_53">Researchers measured the blood alcohol concentration (BAC) </text>
+<text x="133" y="367" class="s5_53">of eight adult male subjects after rapid consumption of 30 mL </text>
+<text x="133" y="384" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_53">of ethanol (corresponding to two standard alcoholic drinks). </text>
+<text x="133" y="401" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0,0,-.5,-.6,0" class="s5_53">The table shows the data they obtained by averaging the BAC </text>
+<text x="133" y="418" class="s5_53">(in mg</text>
+<text x="170" y="418" class="s8_53">y</text>
+<text x="176" y="418" class="s5_53">mL) of the eight men.</text>
+<text x="133" y="435" class="s5_53">(a) </text>
+<text x="156" y="435" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.5,-.6,0,0,0,0,0,0" class="s5_53">Use the readings to sketch the graph of the BAC as a </text>
+<text x="156" y="452" class="s5_53">function of </text>
+<text x="220" y="452" class="s7_53">t</text>
+<text x="224" y="452" class="s5_53">.</text>
+<text x="133" y="468" class="s5_53">(b) </text>
+<text x="156" y="468" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_53">Use your graph to describe how the effect of alcohol </text>
+<text x="156" y="485" dx="0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_53">varies with time.</text>
+<path d="M144,665.4H448.8V505.5H144V665.4Z" class="g3_53"/>
+<path d="M144.4,505.9h73.3v27.5H144.4Zm73.3,0h73.4v27.5H217.7Zm73.4,0h4.5v27.5h-4.5Zm4.5,0H369v27.5H295.6Zm73.4,0h73.3v27.5H369Z" class="g0_53"/>
+<path d="M217.7,533.4h73.4m77.9,0h73.7m-225,-27.5h73.4m77.9,0h73.7M291.1,533.4h4.5m-4.5,-27.5h4.5M442.3,533V506.2M291.1,533V506.2m4.5,45.9V533.7m0,36.7V552.1m0,36.6V570.4M144,505.9h73.7M144.4,533V506.2M217.7,533V506.2m77.9,-.3H369M295.6,533V506.2M369,533V506.2M144,533.4h73.7m-73.3,18.7V533.7m73.3,18.4V533.7m73.4,18.4V533.7m4.5,-.3H369m0,18.7V533.7m73.3,18.4V533.7M144.4,570.4V552.1m73.3,18.3V552.1m73.4,18.3V552.1M369,570.4V552.1m73.3,18.3V552.1M144.4,588.7V570.4m73.3,18.3V570.4m73.4,18.3V570.4M369,588.7V570.4m73.3,18.3V570.4M144.4,607.1V588.7m73.3,18.4V588.7m73.4,18.4V588.7M369,607.1V588.7M217.7,625.4V607.1m77.9,0V588.7m146.7,18.4V588.7M144.4,625.4V607.1m146.7,18.3V607.1m4.5,18.3V607.1M369,625.4V607.1m73.3,18.3V607.1M144.4,643.7V625.4m73.3,18.3V625.4m73.4,18.3V625.4m4.5,18.3V625.4M369,643.7V625.4m73.3,18.3V625.4M144.4,664.6V643.7m73.3,20.9V643.7m73.4,20.9V643.7m4.5,20.9V643.7M369,664.6V643.7m73.3,20.9V643.7M144,665h73.7m0,0h73.4m0,0h4.5m0,0H369m0,0h73.7" class="g1_53"/>
+<text x="157" y="524" class="s7_53">t</text>
+<text x="164" y="524" class="s5_53">(hours)</text>
+<text x="240" y="524" dx="0,-.5,-.6" class="s5_53">BAC</text>
+<text x="308" y="524" class="s7_53">t</text>
+<text x="316" y="524" class="s5_53">(hours)</text>
+<text x="392" y="524" dx="0,-.5,-.6" class="s5_53">BAC</text>
+<text x="168" y="547" class="s5_53">0</text>
+<text x="239" y="547" class="s5_53">0</text>
+<text x="317" y="547" class="s5_53">1.75</text>
+<text x="393" y="547" class="s5_53">0.22</text>
+<text x="168" y="565" class="s5_53">0.2</text>
+<text x="239" y="565" class="s5_53">0.25</text>
+<text x="317" y="565" class="s5_53">2.0</text>
+<text x="393" y="565" class="s5_53">0.18</text>
+<text x="168" y="584" class="s5_53">0.5</text>
+<text x="239" y="584" class="s5_53">0.41</text>
+<text x="317" y="584" class="s5_53">2.25</text>
+<text x="393" y="584" class="s5_53">0.15</text>
+<text x="168" y="602" class="s5_53">0.75</text>
+<text x="239" y="602" class="s5_53">0.40</text>
+<text x="317" y="602" class="s5_53">2.5</text>
+<text x="393" y="602" class="s5_53">0.12</text>
+<text x="168" y="620" class="s5_53">1.0</text>
+<text x="239" y="620" class="s5_53">0.33</text>
+<text x="317" y="620" class="s5_53">3.0</text>
+<text x="393" y="620" class="s5_53">0.07</text>
+<text x="167" y="639" class="s5_53">1.25</text>
+<text x="239" y="639" class="s5_53">0.29</text>
+<text x="317" y="639" class="s5_53">3.5</text>
+<text x="393" y="639" class="s5_53">0.03</text>
+<text x="167" y="657" class="s5_53">1.5</text>
+<text x="239" y="657" class="s5_53">0.24</text>
+<text x="317" y="657" class="s5_53">4.0</text>
+<text x="393" y="657" class="s5_53">0.01</text>
+<text x="135" y="686" dx="0,0,0,0,-.4,0,0,0" class="s9_53">Source: </text>
+<text x="171" y="686" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,-.3,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sa_53">Adapted from P. Wilkinson et al., “Pharmacokinetics of Ethanol after </text>
+<text x="135" y="700" dx="0,0,0,0,0,-.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,-.7" class="sa_53">Oral Administration in the Fasting State,”</text>
+<text x="315" y="700" dx="0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s9_53">Journal of Pharmacokinetics and </text>
+<text x="135" y="714" class="s9_53">Biopharmaceutics </text>
+<text x="216" y="714" class="sa_53">5 (1977): 207–24.</text>
+<text x="109" y="753" class="s6_53">25. </text>
+<text x="133" y="753" class="s5_53">±f </text>
+<text x="148" y="753" class="s7_53">f</text>
+<text x="154" y="753" class="s8_53">s</text>
+<text x="159" y="753" class="s7_53">x</text>
+<text x="165" y="753" class="s8_53">d</text>
+<text x="174" y="753" class="sb_53">-</text>
+<text x="190" y="753" class="s5_53">3</text>
+<text x="197" y="753" class="s7_53">x</text>
+<text x="205" y="748" class="sc_53">2</text>
+<text x="213" y="753" class="sd_53">2</text>
+<text x="229" y="753" class="s7_53">x</text>
+<text x="239" y="753" class="sd_53">1</text>
+<text x="254" y="753" class="s5_53">2, Ind </text>
+<text x="295" y="753" class="s7_53">f</text>
+<text x="301" y="753" class="s8_53">s</text>
+<text x="306" y="753" class="s5_53">2</text>
+<text x="312" y="753" class="s8_53">d</text>
+<text x="317" y="753" class="s5_53">, </text>
+<text x="328" y="753" class="s7_53">f</text>
+<text x="334" y="753" class="s8_53">s</text>
+<text x="338" y="753" class="sd_53">2</text>
+<text x="350" y="753" class="s5_53">2</text>
+<text x="357" y="753" class="s8_53">d</text>
+<text x="361" y="753" class="s5_53">, </text>
+<text x="371" y="753" class="s7_53">f</text>
+<text x="377" y="753" class="s8_53">s</text>
+<text x="382" y="753" class="s7_53">a</text>
+<text x="389" y="753" class="s8_53">d</text>
+<text x="393" y="753" class="s5_53">, </text>
+<text x="403" y="753" class="s7_53">f</text>
+<text x="409" y="753" class="s8_53">s</text>
+<text x="414" y="753" class="sd_53">2</text>
+<text x="425" y="753" class="s7_53">a</text>
+<text x="432" y="753" class="s8_53">d</text>
+<text x="437" y="753" class="s5_53">, </text>
+<text x="135" y="770" class="s7_53">f</text>
+<text x="141" y="770" class="s8_53">s</text>
+<text x="146" y="770" class="s7_53">a</text>
+<text x="157" y="770" class="sd_53">1</text>
+<text x="172" y="770" class="s5_53">1</text>
+<text x="179" y="770" class="s8_53">d</text>
+<text x="184" y="770" class="s5_53">, 2</text>
+<text x="199" y="770" class="s7_53">f</text>
+<text x="205" y="770" class="s8_53">s</text>
+<text x="210" y="770" class="s7_53">a</text>
+<text x="217" y="770" class="s8_53">d</text>
+<text x="221" y="770" class="s5_53">, </text>
+<text x="231" y="770" class="s7_53">f</text>
+<text x="237" y="770" class="s8_53">s</text>
+<text x="242" y="770" class="s5_53">2</text>
+<text x="249" y="770" class="s7_53">a</text>
+<text x="256" y="770" class="s8_53">d</text>
+<text x="260" y="770" class="s5_53">, </text>
+<text x="270" y="770" class="s7_53">f</text>
+<text x="276" y="770" class="s8_53">s</text>
+<text x="281" y="770" class="s7_53">a</text>
+<text x="288" y="765" class="sc_53">2</text>
+<text x="293" y="770" class="s8_53">d</text>
+<text x="298" y="770" class="s5_53">, [</text>
+<text x="312" y="770" class="s7_53">f</text>
+<text x="318" y="770" class="s8_53">s</text>
+<text x="323" y="770" class="s7_53">a</text>
+<text x="330" y="770" class="s8_53">d</text>
+<text x="334" y="770" class="s5_53">]</text>
+<text x="340" y="765" class="sc_53">2</text>
+<text x="344" y="770" class="s5_53">, and </text>
+<text x="377" y="770" class="s7_53">f</text>
+<text x="383" y="770" class="s8_53">s</text>
+<text x="388" y="770" class="s7_53">a</text>
+<text x="399" y="770" class="sd_53">1</text>
+<text x="414" y="770" class="s7_53">h</text>
+<text x="421" y="770" class="s8_53">d</text>
+<text x="426" y="770" class="s5_53">.</text>
+<text x="109" y="796" class="s6_53">26. </text>
+<text x="133" y="796" class="s5_53">A spherical balloon with radius </text>
+<text x="309" y="796" class="s7_53">r</text>
+<text x="318" y="796" dx="0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0" class="s5_53">inches has volume </text>
+<text x="133" y="813" class="s7_53">V</text>
+<text x="142" y="813" class="s8_53">s</text>
+<text x="146" y="813" class="s7_53">r</text>
+<text x="152" y="813" class="s8_53">d</text>
+<text x="160" y="813" class="sb_53">-</text>
+<text x="176" y="807" class="se_53">4</text>
+<path d="M176.6,809h4.8" class="g4_53"/>
+<text x="176" y="817" class="se_53">3</text>
+<text x="183" y="813" class="sf_53">°</text>
+<text x="193" y="813" class="s7_53">r</text>
+<text x="199" y="808" class="sc_53">3</text>
+<text x="204" y="813" class="s5_53">. Find a function that represents the amount of </text>
+<text x="133" y="830" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_53">air required to in²ate the balloon from a radius of </text>
+<text x="409" y="830" class="s7_53">r</text>
+<text x="418" y="830" class="s5_53">inches </text>
+<text x="133" y="847" class="s5_53">to a radius of </text>
+<text x="209" y="847" class="s7_53">r</text>
+<text x="218" y="847" class="sd_53">1</text>
+<text x="234" y="847" class="s5_53">1 inches.</text>
+<text x="108" y="880" class="sg_53">27–30 </text>
+<text x="150" y="880" dx="0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_53">Evaluate the difference quotient for the given function. </text>
+<text x="108" y="897" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.8" class="s5_53">Simplify your answer.</text>
+<text x="109" y="928" class="sh_53">27. </text>
+<text x="135" y="928" class="s7_53">f</text>
+<text x="141" y="928" class="s8_53">s</text>
+<text x="147" y="928" class="s7_53">x</text>
+<text x="153" y="928" class="s8_53">d</text>
+<text x="161" y="928" class="sb_53">-</text>
+<text x="177" y="928" class="s5_53">4</text>
+<text x="188" y="928" class="sd_53">1</text>
+<text x="203" y="928" class="s5_53">3</text>
+<text x="210" y="928" class="s7_53">x</text>
+<text x="221" y="928" class="sd_53">2</text>
+<text x="236" y="928" class="s7_53">x</text>
+<text x="244" y="922" class="sc_53">2</text>
+<text x="248" y="928" class="s5_53">,</text>
+<text x="283" y="918" class="s7_53">f</text>
+<text x="289" y="918" class="s8_53">s</text>
+<text x="293" y="918" class="s5_53">3</text>
+<text x="304" y="918" class="sd_53">1</text>
+<text x="320" y="918" class="s7_53">h</text>
+<text x="327" y="918" class="s8_53">d</text>
+<text x="336" y="918" class="sd_53">2</text>
+<text x="351" y="918" class="s7_53">f</text>
+<text x="357" y="918" class="s8_53">s</text>
+<text x="362" y="918" class="s5_53">3</text>
+<text x="369" y="918" class="s8_53">d</text>
+<g clip-path="url(#c0_53)">
+<path d="M281.5,923.7h94.7" class="g5_53"/>
+</g>
+<text x="325" y="937" class="s7_53">h</text>
+<text x="109" y="970" class="s6_53">28. </text>
+<text x="135" y="970" class="s7_53">f</text>
+<text x="141" y="970" class="s8_53">s</text>
+<text x="147" y="970" class="s7_53">x</text>
+<text x="153" y="970" class="s8_53">d</text>
+<text x="161" y="970" class="sb_53">-</text>
+<text x="177" y="970" class="s7_53">x</text>
+<text x="185" y="965" class="sc_53">3</text>
+<text x="189" y="970" class="s5_53">,</text>
+<text x="224" y="961" class="s7_53">f</text>
+<text x="230" y="961" class="s8_53">s</text>
+<text x="234" y="961" class="s7_53">a</text>
+<text x="245" y="961" class="sd_53">1</text>
+<text x="261" y="961" class="s7_53">h</text>
+<text x="268" y="961" class="s8_53">d</text>
+<text x="276" y="961" class="sd_53">2</text>
+<text x="292" y="961" class="s7_53">f</text>
+<text x="298" y="961" class="s8_53">s</text>
+<text x="303" y="961" class="s7_53">a</text>
+<text x="310" y="961" class="s8_53">d</text>
+<g clip-path="url(#c1_53)">
+<path d="M222.4,966.5H317" class="g5_53"/>
+</g>
+<text x="265" y="980" class="s7_53">h</text>
+<text x="108" y="1013" dx="0,0,0,.7" class="s6_53">29. </text>
+<text x="135" y="1013" class="s7_53">f</text>
+<text x="141" y="1013" class="s8_53">s</text>
+<text x="147" y="1013" class="s7_53">x</text>
+<text x="153" y="1013" class="s8_53">d</text>
+<text x="161" y="1013" class="sb_53">-</text>
+<text x="179" y="1004" class="s5_53">1</text>
+<g clip-path="url(#c2_53)">
+<path d="M177.8,1009.2h11" class="g5_53"/>
+</g>
+<text x="179" y="1023" class="s7_53">x</text>
+<text x="188" y="1013" class="s5_53">,</text>
+<text x="223" y="1004" class="s7_53">f</text>
+<text x="229" y="1004" class="s8_53">s</text>
+<text x="234" y="1004" class="s7_53">x</text>
+<text x="240" y="1004" class="s8_53">d</text>
+<text x="249" y="1004" class="sd_53">2</text>
+<text x="265" y="1004" class="s7_53">f</text>
+<text x="271" y="1004" class="s8_53">s</text>
+<text x="275" y="1004" class="s7_53">a</text>
+<text x="282" y="1004" class="s8_53">d</text>
+<g clip-path="url(#c3_53)">
+<path d="M221.7,1009.2h68" class="g5_53"/>
+</g>
+<text x="239" y="1023" class="s7_53">x</text>
+<text x="249" y="1023" class="sd_53">2</text>
+<text x="264" y="1023" class="s7_53">a</text>
+<path d="M513.3,141.7H878.5M513.3,338.8H878.5M513.3,464.1H878.5M513.3,719.2H878.5m-365.2,162H878.5" class="g6_53"/>
+<text x="514" y="117" class="s6_53">30. </text>
+<text x="540" y="117" class="s7_53">f</text>
+<text x="546" y="117" class="s8_53">s</text>
+<text x="551" y="117" class="s7_53">x</text>
+<text x="558" y="117" class="s8_53">d</text>
+<text x="566" y="117" class="sb_53">-</text>
+<text x="584" y="108" class="s7_53">x</text>
+<text x="594" y="108" class="sd_53">1</text>
+<text x="610" y="108" class="s5_53">3</text>
+<g clip-path="url(#c4_53)">
+<path d="M582.7,113.2h36.7" class="g5_53"/>
+</g>
+<text x="584" y="127" class="s7_53">x</text>
+<text x="594" y="127" class="sd_53">1</text>
+<text x="610" y="127" class="s5_53">1</text>
+<text x="619" y="117" class="s5_53">,</text>
+<text x="653" y="108" class="s7_53">f</text>
+<text x="660" y="108" class="s8_53">s</text>
+<text x="665" y="108" class="s7_53">x</text>
+<text x="671" y="108" class="s8_53">d</text>
+<text x="680" y="108" class="sd_53">2</text>
+<text x="695" y="108" class="s7_53">f</text>
+<text x="701" y="108" class="s8_53">s</text>
+<text x="706" y="108" class="s5_53">1</text>
+<text x="713" y="108" class="s8_53">d</text>
+<g clip-path="url(#c5_53)">
+<path d="M652.3,113.2h68.1" class="g5_53"/>
+</g>
+<text x="669" y="127" class="s7_53">x</text>
+<text x="679" y="127" class="sd_53">2</text>
+<text x="695" y="127" class="s5_53">1</text>
+<text x="513" y="172" class="sg_53">31–37 </text>
+<text x="555" y="172" class="s5_53">Find the domain of the function.</text>
+<text x="514" y="206" class="s6_53">31. </text>
+<text x="540" y="206" class="s7_53">f</text>
+<text x="546" y="206" class="s8_53">s</text>
+<text x="551" y="206" class="s7_53">x</text>
+<text x="558" y="206" class="s8_53">d</text>
+<text x="566" y="206" class="sb_53">-</text>
+<text x="587" y="196" class="s7_53">x</text>
+<text x="597" y="196" class="sd_53">1</text>
+<text x="612" y="196" class="s5_53">4</text>
+<g clip-path="url(#c6_53)">
+<path d="M582.7,201.8H625" class="g5_53"/>
+</g>
+<text x="584" y="215" class="s7_53">x</text>
+<text x="591" y="210" class="sc_53">2</text>
+<text x="600" y="215" class="sd_53">2</text>
+<text x="615" y="215" class="s5_53">9</text>
+<text x="688" y="206" class="s6_53">32. </text>
+<text x="716" y="206" class="s7_53">f</text>
+<text x="723" y="206" class="s8_53">s</text>
+<text x="728" y="206" class="s7_53">x</text>
+<text x="734" y="206" class="s8_53">d</text>
+<text x="743" y="206" class="sb_53">-</text>
+<text x="769" y="196" class="s5_53">2</text>
+<text x="777" y="196" class="s7_53">x</text>
+<text x="785" y="191" class="sc_53">3</text>
+<text x="793" y="196" class="sd_53">2</text>
+<text x="808" y="196" class="s5_53">5</text>
+<g clip-path="url(#c7_53)">
+<path d="M759.1,201.8h68.1" class="g5_53"/>
+</g>
+<text x="760" y="215" class="s7_53">x</text>
+<text x="768" y="210" class="sc_53">2</text>
+<text x="776" y="215" class="sd_53">1</text>
+<text x="792" y="215" class="s7_53">x</text>
+<text x="802" y="215" class="sd_53">2</text>
+<text x="817" y="215" class="s5_53">6</text>
+<text x="514" y="239" class="s6_53">33. </text>
+<text x="542" y="239" class="s7_53">f</text>
+<text x="548" y="239" class="s8_53">s</text>
+<text x="554" y="239" class="s7_53">t</text>
+<text x="558" y="239" class="s8_53">d</text>
+<text x="567" y="239" class="sb_53">-</text>
+<text x="583" y="240" class="si_53">s</text>
+<text x="585" y="234" class="sj_53">3</text>
+<text x="593" y="239" class="s5_53">2</text>
+<text x="600" y="239" class="s7_53">t</text>
+<text x="608" y="239" class="sd_53">2</text>
+<text x="624" y="239" class="s5_53">1</text>
+<g clip-path="url(#c8_53)">
+<path d="M593.6,227.1h40" class="g5_53"/>
+</g>
+<text x="688" y="239" class="s6_53">34. </text>
+<text x="715" y="239" class="si_53">t</text>
+<text x="721" y="239" class="s8_53">s</text>
+<text x="726" y="239" class="s7_53">t</text>
+<text x="731" y="239" class="s8_53">d</text>
+<text x="739" y="239" class="sb_53">-</text>
+<text x="755" y="240" class="si_53">s</text>
+<text x="765" y="239" class="s5_53">3</text>
+<text x="776" y="239" class="sd_53">2</text>
+<text x="792" y="239" class="s7_53">t</text>
+<path d="M765.8,227.1h32.5" class="g5_53"/>
+<text x="802" y="239" class="sd_53">2</text>
+<text x="817" y="240" class="si_53">s</text>
+<text x="827" y="239" class="s5_53">2</text>
+<text x="838" y="239" class="sd_53">1</text>
+<text x="854" y="239" class="s7_53">t</text>
+<g clip-path="url(#c9_53)">
+<path d="M828.1,227.1h32.6" class="g5_53"/>
+</g>
+<text x="514" y="275" class="sh_53">35. </text>
+<text x="540" y="275" class="s7_53">h</text>
+<text x="547" y="275" class="s8_53">s</text>
+<text x="553" y="275" class="s7_53">x</text>
+<text x="559" y="275" class="s8_53">d</text>
+<text x="567" y="275" class="sb_53">-</text>
+<text x="610" y="265" class="s5_53">1</text>
+<g clip-path="url(#ca_53)">
+<path d="M583.7,270.6h61.4" class="g5_53"/>
+</g>
+<text x="585" y="286" class="si_53">s</text>
+<text x="587" y="280" class="sj_53">4</text>
+<text x="595" y="286" class="s7_53">x</text>
+<text x="603" y="282" class="sc_53">2</text>
+<text x="611" y="286" class="sd_53">2</text>
+<text x="627" y="286" class="s5_53">5</text>
+<text x="634" y="286" class="s7_53">x</text>
+<path d="M595.9,273.4h47.2" class="g5_53"/>
+<text x="688" y="275" class="s6_53">36. </text>
+<text x="716" y="275" class="s7_53">f</text>
+<text x="723" y="275" class="s8_53">s</text>
+<text x="727" y="275" class="s7_53">u</text>
+<text x="734" y="275" class="s8_53">d</text>
+<text x="743" y="275" class="sb_53">-</text>
+<text x="776" y="265" class="s7_53">u</text>
+<text x="787" y="265" class="sd_53">1</text>
+<text x="802" y="265" class="s5_53">1</text>
+<g clip-path="url(#cb_53)">
+<path d="M759.1,270.6h68.2" class="g5_53"/>
+</g>
+<text x="760" y="294" class="s5_53">1</text>
+<text x="771" y="294" class="sd_53">1</text>
+<text x="802" y="284" class="s5_53">1</text>
+<path d="M787.7,289.8h37.5" class="g5_53"/>
+<text x="789" y="303" class="s7_53">u</text>
+<text x="800" y="303" class="sd_53">1</text>
+<text x="816" y="303" class="s5_53">1</text>
+<text x="514" y="319" class="s6_53">37. </text>
+<text x="538" y="319" class="s7_53">F</text>
+<text x="547" y="319" class="s8_53">s</text>
+<text x="553" y="319" class="s7_53">p</text>
+<text x="560" y="319" class="s8_53">d</text>
+<text x="569" y="319" class="sb_53">-</text>
+<text x="584" y="319" class="si_53">s</text>
+<text x="595" y="319" class="s5_53">2</text>
+<text x="606" y="319" class="sd_53">2</text>
+<text x="621" y="322" class="si_53">s</text>
+<text x="632" y="319" class="s7_53">p</text>
+<path d="M632.3,308.9H642" class="g5_53"/>
+<g clip-path="url(#cc_53)">
+<path d="M595.5,306.6h48.6" class="g5_53"/>
+</g>
+<text x="514" y="366" class="s6_53">38. </text>
+<text x="538" y="366" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_53">Find the domain and range and sketch the graph of the </text>
+<text x="538" y="383" class="s5_53">function </text>
+<text x="587" y="383" class="s7_53">h</text>
+<text x="594" y="383" class="s8_53">s</text>
+<text x="600" y="383" class="s7_53">x</text>
+<text x="606" y="383" class="s8_53">d</text>
+<text x="614" y="383" class="sb_53">-</text>
+<text x="630" y="384" class="si_53">s</text>
+<text x="640" y="383" class="s5_53">4</text>
+<text x="651" y="383" class="sd_53">2</text>
+<text x="667" y="383" class="s7_53">x</text>
+<text x="674" y="380" class="sc_53">2 </text>
+<g clip-path="url(#cd_53)">
+<path d="M640.8,371.5h40.5" class="g5_53"/>
+</g>
+<text x="680" y="383" class="s5_53">.</text>
+<text x="513" y="414" class="sg_53">39–40 </text>
+<text x="555" y="414" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_53">Find the domain and sketch the graph of the function.</text>
+<text x="514" y="444" class="s6_53">39. </text>
+<text x="540" y="444" class="s7_53">f</text>
+<text x="546" y="444" class="s8_53">s</text>
+<text x="551" y="444" class="s7_53">x</text>
+<text x="558" y="444" class="s8_53">d</text>
+<text x="566" y="444" class="sb_53">-</text>
+<text x="582" y="444" class="s5_53">1.6</text>
+<text x="599" y="444" class="s7_53">x</text>
+<text x="609" y="444" class="sd_53">2</text>
+<text x="625" y="444" class="s5_53">2.4</text>
+<text x="715" y="444" class="s6_53">40. </text>
+<text x="740" y="444" class="si_53">t</text>
+<text x="746" y="444" class="s8_53">s</text>
+<text x="751" y="444" class="s7_53">t</text>
+<text x="756" y="444" class="s8_53">d</text>
+<text x="764" y="444" class="sb_53">-</text>
+<text x="782" y="434" class="s7_53">t</text>
+<text x="787" y="429" class="sc_53">2</text>
+<text x="796" y="434" class="sd_53">2</text>
+<text x="811" y="434" class="s5_53">1</text>
+<g clip-path="url(#ce_53)">
+<path d="M780.8,440.1H821" class="g5_53"/>
+</g>
+<text x="785" y="454" class="s7_53">t</text>
+<text x="793" y="454" class="sd_53">1</text>
+<text x="808" y="454" class="s5_53">1</text>
+<text x="513" y="495" class="sg_53">41–44 </text>
+<text x="555" y="495" dx="0,0,-.3,0,0,0,0,0,0" class="s5_53">Evaluate </text>
+<text x="608" y="495" class="s7_53">f</text>
+<text x="614" y="495" class="s8_53">s</text>
+<text x="618" y="495" class="sd_53">2</text>
+<text x="630" y="495" class="s5_53">3</text>
+<text x="637" y="495" class="s8_53">d</text>
+<text x="641" y="495" class="s5_53">, </text>
+<text x="650" y="495" class="s7_53">f</text>
+<text x="656" y="495" class="s8_53">s</text>
+<text x="661" y="495" class="s5_53">0</text>
+<text x="668" y="495" class="s8_53">d</text>
+<text x="673" y="495" class="s5_53">, and </text>
+<text x="705" y="495" class="s7_53">f</text>
+<text x="711" y="495" class="s8_53">s</text>
+<text x="716" y="495" class="s5_53">2</text>
+<text x="723" y="495" class="s8_53">d</text>
+<text x="731" y="495" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0" class="s5_53">for the piecewise deIned </text>
+<text x="513" y="511" dx="0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_53">function. Then sketch the graph of the function.</text>
+<text x="514" y="546" class="s6_53">41. </text>
+<text x="542" y="546" class="s7_53">f</text>
+<text x="548" y="546" class="s8_53">s</text>
+<text x="554" y="546" class="s7_53">x</text>
+<text x="560" y="546" class="s8_53">d</text>
+<text x="569" y="546" class="sb_53">-</text>
+<text x="584" y="549" class="sk_53">H</text>
+<text x="594" y="537" class="s7_53">x</text>
+<text x="604" y="537" class="sd_53">1</text>
+<text x="619" y="537" class="s5_53">2</text>
+<text x="594" y="556" class="s5_53">1</text>
+<text x="605" y="556" class="sd_53">2</text>
+<text x="620" y="556" class="s7_53">x</text>
+<text x="640" y="537" class="s5_53">if </text>
+<text x="655" y="537" class="s7_53">x</text>
+<text x="665" y="537" class="sd_53">,</text>
+<text x="681" y="537" class="s5_53">0</text>
+<text x="640" y="556" class="s5_53">if </text>
+<text x="655" y="556" class="s7_53">x</text>
+<text x="665" y="556" class="sd_53">&gt;</text>
+<text x="681" y="556" class="s5_53">0</text>
+<text x="514" y="595" class="s6_53">42. </text>
+<text x="542" y="595" class="s7_53">f</text>
+<text x="548" y="595" class="s8_53">s</text>
+<text x="554" y="595" class="s7_53">x</text>
+<text x="560" y="595" class="s8_53">d</text>
+<text x="569" y="595" class="sb_53">-</text>
+<text x="584" y="598" class="sk_53">H</text>
+<text x="594" y="586" class="s5_53">3</text>
+<text x="605" y="586" class="sd_53">2</text>
+<text x="620" y="580" class="se_53">1</text>
+<path d="M620.9,581.7h4.8" class="g4_53"/>
+<text x="620" y="589" class="se_53">2</text>
+<text x="628" y="586" class="s7_53">x</text>
+<text x="594" y="605" class="s5_53">2</text>
+<text x="601" y="605" class="s7_53">x</text>
+<text x="611" y="605" class="sd_53">2</text>
+<text x="627" y="605" class="s5_53">5</text>
+<text x="648" y="586" class="s5_53">if </text>
+<text x="663" y="586" class="s7_53">x</text>
+<text x="673" y="586" class="sd_53">,</text>
+<text x="689" y="586" class="s5_53">2</text>
+<text x="648" y="605" class="s5_53">if </text>
+<text x="663" y="605" class="s7_53">x</text>
+<text x="673" y="605" class="sd_53">&gt;</text>
+<text x="689" y="605" class="s5_53">2</text>
+<text x="514" y="643" class="s6_53">43. </text>
+<text x="542" y="643" class="s7_53">f</text>
+<text x="549" y="643" class="s8_53">s</text>
+<text x="554" y="643" class="s7_53">x</text>
+<text x="560" y="643" class="s8_53">d</text>
+<text x="569" y="643" class="sb_53">-</text>
+<text x="584" y="645" class="sk_53">H</text>
+<text x="594" y="633" class="s7_53">x</text>
+<text x="604" y="633" class="sd_53">1</text>
+<text x="620" y="633" class="s5_53">1</text>
+<text x="594" y="652" class="s7_53">x</text>
+<text x="601" y="647" class="sc_53">2</text>
+<text x="640" y="633" class="s5_53">if </text>
+<text x="655" y="633" class="s7_53">x</text>
+<text x="666" y="633" dx="0,4.1" class="sd_53">&lt;2</text>
+<text x="693" y="633" class="s5_53">1</text>
+<text x="640" y="652" class="s5_53">if </text>
+<text x="655" y="652" class="s7_53">x</text>
+<text x="666" y="652" dx="0,4.1" class="sd_53">.2</text>
+<text x="693" y="652" class="s5_53">1</text>
+<text x="514" y="692" class="s6_53">44. </text>
+<text x="540" y="692" class="s7_53">f</text>
+<text x="546" y="692" class="s8_53">s</text>
+<text x="552" y="692" class="s7_53">x</text>
+<text x="558" y="692" class="s8_53">d</text>
+<text x="566" y="692" class="sb_53">-</text>
+<text x="582" y="694" class="sk_53">H</text>
+<text x="591" y="682" class="sd_53">2</text>
+<text x="603" y="682" class="s5_53">1</text>
+<text x="591" y="701" class="s5_53">7</text>
+<text x="602" y="701" class="sd_53">2</text>
+<text x="618" y="701" class="s5_53">2</text>
+<text x="626" y="701" class="s7_53">x</text>
+<text x="645" y="682" class="s5_53">if </text>
+<text x="661" y="682" class="s7_53">x</text>
+<text x="671" y="682" class="sd_53">&lt;</text>
+<text x="686" y="682" class="s5_53">1</text>
+<text x="645" y="701" class="s5_53">if </text>
+<text x="661" y="701" class="s7_53">x</text>
+<text x="671" y="701" class="sd_53">.</text>
+<text x="686" y="701" class="s5_53">1</text>
+<text x="513" y="750" class="sg_53">45–50 </text>
+<text x="555" y="750" dx="0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_53">Sketch the graph of the function.</text>
+<text x="514" y="780" class="s6_53">45. </text>
+<text x="540" y="780" class="s7_53">f</text>
+<text x="546" y="780" class="s8_53">s</text>
+<text x="551" y="780" class="s7_53">x</text>
+<text x="558" y="780" class="s8_53">d</text>
+<text x="566" y="780" class="sb_53">-</text>
+<text x="582" y="780" class="s7_53">x</text>
+<text x="592" y="780" class="sd_53">1</text>
+<text transform="matrix(0.63,0,0,1,608,784)" class="sl_53">|</text>
+<text x="614" y="780" class="s7_53">x</text>
+<text transform="matrix(0.63,0,0,1,622,784)" class="sl_53">|</text>
+<text x="715" y="780" class="s6_53">46. </text>
+<text x="742" y="780" class="s7_53">f</text>
+<text x="748" y="780" class="s8_53">s</text>
+<text x="753" y="780" class="s7_53">x</text>
+<text x="759" y="780" class="s8_53">d</text>
+<text x="768" y="780" class="sb_53">-</text>
+<text transform="matrix(0.63,0,0,1,786,784)" class="sl_53">|</text>
+<text x="792" y="780" class="s7_53">x</text>
+<text x="802" y="780" class="sd_53">1</text>
+<text x="818" y="780" class="s5_53">2</text>
+<text transform="matrix(0.63,0,0,1,827,784)" class="sl_53">|</text>
+<text x="514" y="815" class="s6_53">47. </text>
+<text x="538" y="815" class="si_53">t</text>
+<text x="544" y="815" class="s8_53">s</text>
+<text x="549" y="815" class="s7_53">t</text>
+<text x="554" y="815" class="s8_53">d</text>
+<text x="563" y="815" class="sb_53">-</text>
+<text transform="matrix(0.63,0,0,1,581,819)" class="sl_53">|</text>
+<text x="585" y="815" class="s5_53">1</text>
+<text x="596" y="815" class="sd_53">2</text>
+<text x="612" y="815" class="s5_53">3</text>
+<text x="619" y="815" class="s7_53">t</text>
+<text transform="matrix(0.63,0,0,1,625,819)" class="sl_53">|</text>
+<text x="715" y="815" class="s6_53">48. </text>
+<text x="740" y="815" class="s7_53">h</text>
+<text x="747" y="815" class="s8_53">s</text>
+<text x="752" y="815" class="s7_53">t</text>
+<text x="756" y="815" class="s8_53">d</text>
+<text x="765" y="815" class="sb_53">-</text>
+<text transform="matrix(0.63,0,0,1,781,819)" class="sl_53">|</text>
+<text x="787" y="815" class="s7_53">t</text>
+<text transform="matrix(0.63,0,0,1,793,819)" class="sl_53">|</text>
+<text x="801" y="815" class="sd_53">1</text>
+<text transform="matrix(0.63,0,0,1,819,819)" class="sl_53">|</text>
+<text x="825" y="815" class="s7_53">t</text>
+<text x="833" y="815" class="sd_53">1</text>
+<text x="848" y="815" class="s5_53">1</text>
+<text transform="matrix(0.63,0,0,1,855,819)" class="sl_53">|</text>
+<text x="514" y="854" class="s6_53">49. </text>
+<text x="540" y="854" class="s7_53">f</text>
+<text x="546" y="854" class="s8_53">s</text>
+<text x="552" y="854" class="s7_53">x</text>
+<text x="558" y="854" class="s8_53">d</text>
+<text x="566" y="854" class="sb_53">-</text>
+<text x="582" y="856" class="sk_53">H</text>
+<text transform="matrix(0.63,0,0,1,591,847)" class="sl_53">|</text>
+<text x="598" y="844" class="s7_53">x</text>
+<text transform="matrix(0.63,0,0,1,606,847)" class="sl_53">|</text>
+<text x="591" y="863" class="s5_53">1</text>
+<text x="624" y="844" class="s5_53">if </text>
+<text transform="matrix(0.63,0,0,1,639,847)" class="sl_53">|</text>
+<text x="645" y="844" class="s7_53">x</text>
+<text transform="matrix(0.63,0,0,1,653,847)" class="sl_53">|</text>
+<text x="661" y="844" class="sd_53">&lt;</text>
+<text x="677" y="844" class="s5_53">1</text>
+<text x="624" y="863" class="s5_53">if </text>
+<text transform="matrix(0.63,0,0,1,639,867)" class="sl_53">|</text>
+<text x="645" y="863" class="s7_53">x</text>
+<text transform="matrix(0.63,0,0,1,653,867)" class="sl_53">|</text>
+<text x="661" y="863" class="sd_53">.</text>
+<text x="677" y="863" class="s5_53">1</text>
+<text x="715" y="854" class="s6_53">50. </text>
+<text x="740" y="854" class="si_53">t</text>
+<text x="746" y="854" class="s8_53">s</text>
+<text x="751" y="854" class="s7_53">x</text>
+<text x="758" y="854" class="s8_53">d</text>
+<text x="767" y="854" class="sb_53">-</text>
+<text transform="matrix(0.56,0,0,1,782,858)" class="sm_53">|</text>
+<text transform="matrix(0.63,0,0,1,786,857)" class="sl_53">|</text>
+<text x="792" y="854" class="s7_53">x</text>
+<text transform="matrix(0.63,0,0,1,801,857)" class="sl_53">|</text>
+<text x="808" y="854" class="sd_53">2</text>
+<text x="824" y="854" class="s5_53">1</text>
+<text transform="matrix(0.56,0,0,1,831,858)" class="sm_53">|</text>
+<text x="513" y="912" class="sg_53">51–56 </text>
+<text x="555" y="912" dx="0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_53">Find an expression for the function whose graph is the </text>
+<text x="513" y="928" dx="0,0,-.3,-.2,0,0,0,0,0,0,-.2,0" class="s5_53">given curve.</text>
+<text x="514" y="951" class="s6_53">51. </text>
+<text x="538" y="951" dx="0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_53">The line segment joining the points </text>
+<text x="736" y="951" class="s8_53">s</text>
+<text x="740" y="951" class="s5_53">1, </text>
+<text x="754" y="951" class="sd_53">2</text>
+<text x="765" y="951" class="s5_53">3</text>
+<text x="772" y="951" class="s8_53">d</text>
+<text x="780" y="951" class="s5_53">and </text>
+<text x="804" y="951" class="s8_53">s</text>
+<text x="808" y="951" class="s5_53">5, 7</text>
+<text x="829" y="951" class="s8_53">d</text>
+<text x="514" y="974" class="s6_53">52. </text>
+<text x="538" y="974" dx="0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_53">The line segment joining the points </text>
+<text x="736" y="974" class="s8_53">s</text>
+<text x="740" y="974" class="sd_53">2</text>
+<text x="752" y="974" class="s5_53">5, 10</text>
+<text x="779" y="974" class="s8_53">d</text>
+<text x="787" y="974" class="s5_53">and </text>
+<text x="810" y="974" class="s8_53">s</text>
+<text x="815" y="974" class="s5_53">7, </text>
+<text x="829" y="974" class="sd_53">2</text>
+<text x="840" y="974" class="s5_53">10</text>
+<text x="854" y="974" class="s8_53">d</text>
+<text x="514" y="997" class="sh_53">53. </text>
+<text x="538" y="997" class="s5_53">The bottom half of the parabola </text>
+<text x="716" y="997" class="s7_53">x</text>
+<text x="727" y="997" class="sd_53">1</text>
+<text x="742" y="997" class="s8_53">s</text>
+<text x="748" y="997" class="s7_53">y</text>
+<text x="758" y="997" class="sd_53">2</text>
+<text x="774" y="997" class="s5_53">1</text>
+<text x="781" y="997" class="s8_53">d</text>
+<text x="785" y="992" class="sc_53">2</text>
+<text x="794" y="997" class="sb_53">-</text>
+<text x="809" y="997" class="s5_53">0</text>
+<text x="514" y="1020" class="s6_53">54. </text>
+<text x="538" y="1020" class="s5_53">The top half of the circle </text>
+<text x="679" y="1020" class="s7_53">x</text>
+<text x="687" y="1015" class="sc_53">2</text>
+<text x="695" y="1020" class="sd_53">1</text>
+<text x="710" y="1020" class="s8_53">s</text>
+<text x="716" y="1020" class="s7_53">y</text>
+<text x="727" y="1020" class="sd_53">2</text>
+<text x="742" y="1020" class="s5_53">2</text>
+<text x="749" y="1020" class="s8_53">d</text>
+<text x="754" y="1015" class="sc_53">2</text>
+<text x="763" y="1020" class="sb_53">-</text>
+<text x="778" y="1020" class="s5_53">4</text>
+<text x="121" y="1076" class="sn_53">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="sn_53">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: BeaconDingbatsTypeOne_12w;
+	src: url("fonts/BeaconDingbatsTypeOne_12w.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPi-One-Italic_x2;
+	src: url("fonts/MathematicalPi-One-Italic_x2.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

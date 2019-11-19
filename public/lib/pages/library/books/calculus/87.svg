@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 87 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_87"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0_87"><path d="M654.4,225.3V194.1h93.8v31.2Z"/></clipPath>
+<clipPath id="c1_87"><path d="M653,311.4V282.7h96.6v28.7Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_87{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_87{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_87{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s4_87{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s5_87{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s6_87{
+font-size: 13.75px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #231F20;
+}
+.s7_87{
+font-size: 13.75px;
+font-family: BeaconDingbatsTypeOne_1hn;
+fill: #EC008C;
+}
+.s8_87{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s9_87{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sa_87{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.sb_87{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sc_87{
+font-size: 8.25px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sd_87{
+font-size: 8.25px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.se_87{
+font-size: 8.25px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sf_87{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sg_87{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sh_87{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.si_87{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sj_87{
+font-size: 9.17px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sk_87{
+font-size: 9.17px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sl_87{
+font-size: 14.51px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sm_87{
+font-size: 8.25px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sn_87{
+font-size: 15.28px;
+font-family: BeaconDingbatsTypeOne_1hn;
+fill: #231F20;
+}
+.so_87{
+font-size: 12.99px;
+font-family: TECHMath-Mix_1gz;
+fill: #231F20;
+}
+.sp_87{
+font-size: 12.99px;
+font-family: TECHMath-Mix_16e;
+fill: #231F20;
+}
+.sq_87{
+font-size: 12.99px;
+font-family: TECHMath-Mix_1ac;
+fill: #231F20;
+}
+.sr_87{
+font-size: 12.99px;
+font-family: TECHMath-Mix_191;
+fill: #231F20;
+}
+.ss_87{
+font-size: 12.99px;
+font-family: TECHMath-Mix_151;
+fill: #231F20;
+}
+.st_87{
+font-size: 12.99px;
+font-family: TECHMath-Mix_160;
+fill: #231F20;
+}
+.su_87{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sv_87{
+font-size: 13.75px;
+font-family: BeaconDingbatsTypeOne_1hn;
+fill: #231F20;
+}
+.sw_87{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_87{
+fill: #E2F4FC;
+}
+.g1_87{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_87{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.687;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_87{
+fill: #C7EAFA;
+}
+.g4_87{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g5_87{
+fill: #00AEEF;
+}
+.g6_87{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g7_87{
+fill: #231F20;
+}
+.g8_87{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.534;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g9_87{
+fill: #EC008C;
+}
+.ga_87{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_87)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="547" y="64" dx="0,.2,.2,.5,.2,.2,.2" class="s1_87">SECTION</text>
+<text x="599" y="64" class="s2_87">1.5</text>
+<text x="629" y="64" dx="0,.2,0,0,.1,.1,.1,.1,.1,-.3,.1,.1,.3,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,0,.1,.1,.1,.2,.1,.1,.1,.1,.1" class="s3_87">Inverse Functions and Logarithms </text>
+<text x="862" y="64" class="s4_87">55</text>
+<text x="152" y="106" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_87">data from 1950 to 2010 in Table 1 on page 49. Use the </text>
+<text x="152" y="123" class="s5_87">model to estimate the population in 1993 and to predict </text>
+<text x="152" y="140" class="s5_87">the population in the year 2020.</text>
+<text x="127" y="165" class="s6_87">36. </text>
+<text x="152" y="165" dx="0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_87">The table gives the population of the United States, in mil-</text>
+<text x="152" y="181" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.1,.1,.1,.1,0" class="s5_87">lions, for the years 1900–2010. Use a graphing calculator </text>
+<path d="M154.3,206.6h59.6v27.5H154.3Zm59.6,0H304v27.5H213.9Zm90.1,0h4.6v27.5H304Zm4.6,0h59.6v27.5H308.6Zm59.6,0h90.1v27.5H368.2Z" class="g0_87"/>
+<path d="M213.9,233.8V207M304,233.8V207m4.6,26.8V207m59.6,26.8V207M213.9,347.2v-21m90.1,21v-21m4.6,21v-21m59.6,21v-21m0,-73.3V234.5m0,36.7V252.9m0,36.6V271.2M304,252.9V234.5m4.6,18.4V234.5M304,271.2V252.9m4.6,18.3V252.9M304,289.5V271.2m4.6,18.3V271.2M213.9,252.9V234.5m0,36.7V252.9m0,36.6V271.2m0,36.7V289.5M304,307.9V289.5m4.6,18.4V289.5m59.6,18.4V289.5M213.9,326.2V307.9M304,326.2V307.9m4.6,18.3V307.9m59.6,18.3V307.9m-213.9,-55V234.5m0,36.7V252.9m0,36.6V271.2m0,36.7V289.5m304,18.4V289.5m-304,36.7V307.9m304,18.3V307.9m0,-55V234.5m0,36.7V252.9m0,36.6V271.2m-304,76v-21m304,21v-21M153.9,347.6h60m0,0H304m0,0h4.6m0,0h59.6m0,0h90.5M153.9,206.6h60m-59.6,27.2V207m59.6,-.4H304m0,0h4.6m0,0h59.6m0,0h90.5m-.4,27.2V207M153.9,234.1h60m0,0H304m0,0h4.6m0,0h59.6m0,0h90.5" class="g1_87"/>
+<text x="171" y="225" dx="0,-1.4,0,0" class="s5_87">Year</text>
+<text x="229" y="225" class="s5_87">Population</text>
+<text x="325" y="225" dx="0,-1.4,0,0" class="s5_87">Year</text>
+<text x="383" y="225" class="s5_87">Population</text>
+<text x="170" y="248" class="s5_87">1900</text>
+<text x="253" y="248" class="s5_87">76</text>
+<text x="324" y="248" class="s5_87">1960</text>
+<text x="404" y="248" class="s5_87">179</text>
+<text x="170" y="266" class="s5_87">1910</text>
+<text x="253" y="266" class="s5_87">92</text>
+<text x="324" y="266" class="s5_87">1970</text>
+<text x="404" y="266" class="s5_87">203</text>
+<text x="170" y="285" class="s5_87">1920</text>
+<text x="246" y="285" class="s5_87">106</text>
+<text x="324" y="285" class="s5_87">1980</text>
+<text x="404" y="285" class="s5_87">227</text>
+<text x="170" y="303" class="s5_87">1930</text>
+<text x="246" y="303" class="s5_87">123</text>
+<text x="324" y="303" class="s5_87">1990</text>
+<text x="404" y="303" class="s5_87">250</text>
+<text x="170" y="321" class="s5_87">1940</text>
+<text x="246" y="321" class="s5_87">131</text>
+<text x="324" y="321" class="s5_87">2000</text>
+<text x="404" y="321" class="s5_87">281</text>
+<text x="170" y="339" class="s5_87">1950</text>
+<text x="246" y="339" class="s5_87">150</text>
+<text x="324" y="339" class="s5_87">2010</text>
+<text x="404" y="339" class="s5_87">310</text>
+<text x="108" y="166" class="s7_87">;</text>
+<text x="551" y="106" dx="0,.1,.1,.1,.1,.1,-.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,-.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,0,0" class="s5_87">with exponential regression capability to model the US </text>
+<text x="551" y="123" class="s5_87">population since 1900. Use the model to estimate the </text>
+<text x="551" y="140" class="s5_87">population in 1925 and to predict the population in the </text>
+<text x="551" y="157" class="s5_87">year 2020.</text>
+<text x="524" y="181" class="s6_87">37. </text>
+<text x="549" y="181" class="s5_87">±f you graph the function</text>
+<text x="656" y="215" class="s8_87">f</text>
+<text x="662" y="215" class="s9_87">s</text>
+<text x="667" y="215" class="s8_87">x</text>
+<text x="673" y="215" class="s9_87">d</text>
+<text x="682" y="215" class="sa_87">-</text>
+<text x="700" y="205" class="s5_87">1</text>
+<text x="711" y="205" class="sb_87">2</text>
+<text x="726" y="205" class="s8_87">e</text>
+<text x="734" y="200" class="sc_87">1</text>
+<text x="738" y="200" class="sd_87">y</text>
+<text x="742" y="200" class="se_87">x</text>
+<g clip-path="url(#c0_87)">
+<path d="M698.5,211h50" class="g2_87"/>
+</g>
+<text x="700" y="225" class="s5_87">1</text>
+<text x="711" y="225" class="sb_87">1</text>
+<text x="726" y="225" class="s8_87">e</text>
+<text x="734" y="219" class="sc_87">1</text>
+<text x="738" y="219" class="sd_87">y</text>
+<text x="742" y="219" class="se_87">x</text>
+<text x="551" y="245" dx="0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0" class="s5_87">you’ll see that </text>
+<text x="634" y="245" class="s8_87">f</text>
+<text x="643" y="245" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,-.2,0,0,0,0" class="s5_87">appears to be an odd function. Prove it.</text>
+<text x="524" y="270" class="s6_87">38. </text>
+<text x="549" y="270" dx="0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_87">Graph several members of the family of functions</text>
+<text x="654" y="301" class="s8_87">f</text>
+<text x="661" y="301" class="s9_87">s</text>
+<text x="666" y="301" class="s8_87">x</text>
+<text x="672" y="301" class="s9_87">d</text>
+<text x="681" y="301" class="sa_87">-</text>
+<text x="719" y="291" class="s5_87">1</text>
+<g clip-path="url(#c1_87)">
+<path d="M697.1,297.1h52.8" class="g2_87"/>
+</g>
+<text x="698" y="311" class="s5_87">1</text>
+<text x="709" y="311" class="sb_87">1</text>
+<text x="725" y="311" class="s8_87">ae</text>
+<text x="739" y="305" class="se_87">bx</text>
+<text x="551" y="332" class="s5_87">where </text>
+<text x="588" y="332" class="s8_87">a</text>
+<text x="599" y="332" class="sb_87">.</text>
+<text x="615" y="332" dx="0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_87">0. How does the graph change when </text>
+<text x="817" y="332" class="s8_87">b</text>
+<text x="828" y="332" class="s5_87">changes? </text>
+<text x="551" y="348" dx="0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_87">How does it change when </text>
+<text x="696" y="348" class="s8_87">a</text>
+<text x="706" y="348" class="s5_87">changes?</text>
+<text x="505" y="183" class="s7_87">;</text>
+<text x="505" y="272" class="s7_87">;</text>
+<text x="342" y="453" dx="0,-1.2,0,0,0,0,.3,0,.3,0,-.4,-.2,0,0,.3,0,0,0,0,.3,0,0,0,0,.3,0,0,.3,-.2,0,0,0,0,0,0,0,0,0,.3,0,0,.3,0,0,0,0,0,.3,0,.3,0,0,0,0,0,0,0,0,.3,0,0,0,0,0,0,0,.3,0,0,0,0,0,0,0,.3,0,0,0,0,.3,0,0,0,.3,0,0,0" class="sf_87">Table 1 gives data from an experiment in which a bacteria culture started with 100 bac-</text>
+<text x="342" y="471" dx="0,0,0,0,0,0,1.2,0,0,1.2,0,1.2,0,0,0,0,0,0,0,1.2,0,0,0,0,0,0,0,0,1.2,0,0,0,0,0,0,0,1.2,0,0,0,1.2,0,0,0,0,1.2,0,0,1.2,0,0,0,1.2,0,0,0,0,0,0,0,0,1.2,0,0,0,0,0,0,0,0,0,0,1.2,-.2,0,0,1.2,0,0,0,0,0,0,0,0,1.2,0,0" class="sf_87">teria in a limited nutrient medium; the size of the bacteria population was recorded at </text>
+<text x="342" y="489" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_87">hourly intervals. The number of bacteria </text>
+<text x="592" y="489" class="sg_87">N</text>
+<text x="607" y="489" class="sf_87">is a function of the time </text>
+<text x="756" y="489" class="sg_87">t</text>
+<text x="761" y="489" class="sf_87">: </text>
+<text x="769" y="489" class="sg_87">N</text>
+<text x="784" y="489" class="sh_87">-</text>
+<text x="801" y="489" class="sg_87">f</text>
+<text x="808" y="489" class="si_87">s</text>
+<text x="813" y="489" class="sg_87">t</text>
+<text x="817" y="489" class="si_87">d</text>
+<text x="822" y="489" class="sf_87">.</text>
+<text x="360" y="508" dx="0,0,0,0,0,0,0,0,0,1.3,0,-.4,0,-.4,-.2,0,-.6,0,1.3,0,0,0,0,1.3,0,0,0,1.3,0,0,0,0,0,0,0,0,0,1.3,0,0,0,0,0,0,0,1.3,0,0,0,1.3,0,0,0,0,0,1.3,0,0,1.3,0,0,-.4,0,1.3,0,0,0,1.3,0,0,0,0,0,0,0,1.3,0,0,0,0,-.3" class="sf_87">Suppose, however, that the biologist changes her point of view and becomes inter-</text>
+<text x="342" y="526" dx="0,0,0,0,0,0,-.7,0,0,-.7,0,0,0,-.7,0,0,0,0,-.7,0,0,0,0,0,0,0,0,-.7,0,0,0,-.7,0,0,0,-.7,0,0,0,0,0,0,0,0,0,0,-.7,0,0,-.7,0,0,0,0,0,-.7,-.4,0,0,0,0,0,0,-.7,0,-.4,-.2,0,0,0,0,-.7,0,0,-.7,0,0,0,0,0,-.7,-.2,0,0,0,0,0,-.7,0,0,0,-.7,0,0" class="sf_87">ested in the time required for the population to reach various levels. ±n other words, she is </text>
+<text x="342" y="544" dx="0,0,0,0,0,0,0,0,0,-.2,0,0" class="sf_87">thinking of </text>
+<text x="413" y="544" class="sg_87">t</text>
+<text x="421" y="544" dx="0,0,0,-.2,0,-.2,0,0,0,0,0,0,0,0,-.2,0,0" class="sf_87">as a function of </text>
+<text x="519" y="544" class="sg_87">N</text>
+<text x="528" y="544" dx="0,0,-.5,0,0,0,0,-.2,0,0,0,0,0,0,0,0,-.2,0,0,-.2,0,0,0,0,0,0,-.2,0,0,0" class="sf_87">. This function is called the </text>
+<text x="697" y="544" dx="0,0,-.6,0,0,-.2,0,0,-.2,0,0,0,0,0,0,0" class="sg_87">inverse function</text>
+<text x="797" y="544" class="sf_87">of </text>
+<text x="816" y="544" class="sg_87">f</text>
+<text x="822" y="544" dx="0,0,-.2,0,0,0,0,0,0,0" class="sf_87">, denoted </text>
+<text x="342" y="563" class="sf_87">by </text>
+<text x="364" y="563" class="sg_87">f</text>
+<text x="372" y="557" class="sj_87">2</text>
+<text x="379" y="557" class="sk_87">1</text>
+<text x="384" y="563" dx="0,0,1.3,0,0,0,1.3,0,0,0,0,1.3" class="sf_87">, and read “</text>
+<text x="461" y="563" class="sg_87">f</text>
+<text x="472" y="563" dx="0,0,-.6,-.2,0,0,0,0,-1.1,0,1.1,0,0,0,0" class="sf_87">inverse.” Thus </text>
+<text x="566" y="563" class="sg_87">t</text>
+<text x="574" y="563" class="sh_87">-</text>
+<text x="592" y="563" class="sg_87">f</text>
+<text x="599" y="557" class="sj_87">2</text>
+<text x="607" y="557" class="sk_87">1</text>
+<text x="611" y="563" class="si_87">s</text>
+<text x="616" y="563" class="sg_87">N</text>
+<text x="628" y="563" class="si_87">d</text>
+<text x="638" y="563" dx="0,0,0,1.3,0,0,0,1.3,0,0,0,0,1.3,0,0,0,0,0,0,0,0,1.3,0,0,0,1.3,0,0,0,1.3,0,0,0,0,0,0,0,0,0,0" class="sf_87">is the time required for the population </text>
+<text x="342" y="581" dx="0,0,-.4,-.2,0,0,.1,0,0,.1,0,0,0,0,0" class="sf_87">level to reach </text>
+<text x="428" y="581" class="sg_87">N</text>
+<text x="437" y="581" dx="0,0,-.1,0,0,0,.1,-.4,0,0,0,0,0,.1,0,0" class="sf_87">. The values of </text>
+<text x="534" y="581" class="sg_87">f</text>
+<text x="541" y="575" class="sj_87">2</text>
+<text x="549" y="575" class="sk_87">1</text>
+<text x="558" y="581" dx="0,0,0,0,.1,0,0,.1,0,0,0,0,0,.1,0,0,.1,0,0,0,0,0,0,0,-.1,-1.2,0,0,0,0,.1,0,.1,0,0,0,0,.1,0,0,0,0,0,.1,0,0,.1,0,0,0,0,.1,0,0" class="sf_87">can be found by reading Table 1 from right to left or </text>
+<text x="342" y="599" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-1.2,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_87">by consulting Table 2. For instance, </text>
+<text x="565" y="599" class="sg_87">f</text>
+<text x="573" y="593" class="sj_87">2</text>
+<text x="580" y="593" class="sk_87">1</text>
+<text x="585" y="599" class="si_87">s</text>
+<text x="590" y="599" class="sf_87">550</text>
+<text x="613" y="599" class="si_87">d</text>
+<text x="623" y="599" class="sh_87">-</text>
+<text x="640" y="599" class="sf_87">6 because </text>
+<text x="706" y="599" class="sg_87">f</text>
+<text x="712" y="599" class="si_87">s</text>
+<text x="717" y="599" class="sf_87">6</text>
+<text x="725" y="599" class="si_87">d</text>
+<text x="735" y="599" class="sh_87">-</text>
+<text x="752" y="599" class="sf_87">550.</text>
+<path d="M362.1,640h62.6v44.4H362.1Zm62.6,0H581.3v44.4H424.7Z" class="g0_87"/>
+<path d="M424.7,852.4v-21M362.1,703.1V684.7m219.2,18.4V684.7M362.1,721.4V703.1m219.2,18.3V703.1M362.1,739.7V721.4m219.2,18.3V721.4M362.1,758.1V739.7m219.2,18.4V739.7M362.1,776.4V758.1m219.2,18.3V758.1M362.1,794.7V776.4m219.2,18.3V776.4M362.1,813.1V794.7m219.2,18.4V794.7M362.1,831.4V813.1m219.2,18.3V813.1M424.7,684V640.4m0,62.7V684.7m0,36.7V703.1m0,36.6V721.4m0,36.7V739.7m0,36.7V758.1m0,36.6V776.4m0,36.7V794.7m0,36.7V813.1m-62.6,39.3v-21m219.2,21v-21M361.7,852.8h63m0,0h157M361.7,640h63m0,0h157m-220,44.4h63m0,0h157M362.1,684V640.4M581.3,684V640.4" class="g1_87"/>
+<text x="391" y="658" class="s8_87">t</text>
+<text x="373" y="676" dx="0,.3,0,0,.3,.2,-.8" class="s5_87">(hours)</text>
+<text x="435" y="658" class="s8_87">N</text>
+<text x="448" y="658" class="sa_87">-</text>
+<text x="463" y="658" class="s8_87">f</text>
+<text x="469" y="658" class="s9_87">s</text>
+<text x="475" y="658" class="s8_87">t</text>
+<text x="479" y="658" class="s9_87">d</text>
+<text x="447" y="676" class="sa_87">-</text>
+<text x="463" y="676" class="s5_87">population at time </text>
+<text x="566" y="676" class="s8_87">t</text>
+<text x="389" y="698" class="s5_87">0</text>
+<text x="492" y="698" class="s5_87">100</text>
+<text x="389" y="716" class="s5_87">1</text>
+<text x="492" y="716" class="s5_87">168</text>
+<text x="389" y="735" class="s5_87">2</text>
+<text x="492" y="735" class="s5_87">259</text>
+<text x="389" y="753" class="s5_87">3</text>
+<text x="492" y="753" class="s5_87">358</text>
+<text x="389" y="771" class="s5_87">4</text>
+<text x="492" y="771" class="s5_87">445</text>
+<text x="389" y="790" class="s5_87">5</text>
+<text x="492" y="790" class="s5_87">509</text>
+<text x="389" y="808" class="s5_87">6</text>
+<text x="492" y="808" class="s5_87">550</text>
+<text x="389" y="826" class="s5_87">7</text>
+<text x="492" y="826" class="s5_87">573</text>
+<text x="389" y="845" class="s5_87">8</text>
+<text x="492" y="845" class="s5_87">586</text>
+<text x="392" y="632" dx="0,-1,0,0,0,0,0" class="sl_87">Table 1</text>
+<text x="445" y="632" class="s8_87">N</text>
+<text x="458" y="632" class="s5_87">as a function of </text>
+<text x="547" y="632" class="s8_87">t</text>
+<path d="M612.7,640h62.6v44.4H612.7Zm62.6,0H858.6v44.4H675.3Z" class="g0_87"/>
+<path d="M675.3,703.1V684.7m0,36.7V703.1m0,36.6V721.4m0,36.7V739.7m0,36.7V758.1m0,36.6V776.4m0,36.7V794.7m0,36.7V813.1m0,39.3v-21m0,-147.4V640.4m0,-.4H859M675.3,684.4H859m-.4,-.4V640.4M612.7,703.1V684.7m245.9,18.4V684.7M612.7,721.4V703.1m245.9,18.3V703.1M612.7,739.7V721.4m245.9,18.3V721.4M612.7,758.1V739.7m245.9,18.4V739.7M612.7,776.4V758.1m245.9,18.3V758.1M612.7,794.7V776.4m245.9,18.3V776.4M612.7,813.1V794.7m245.9,18.4V794.7M612.7,831.4V813.1m245.9,18.3V813.1M612.7,852.4v-21m245.9,21v-21M612.3,852.8h63m0,0H859M612.3,640h63m-63,44.4h63M612.7,684V640.4" class="g1_87"/>
+<text x="638" y="675" class="sg_87">N</text>
+<text x="684" y="659" class="s8_87">t</text>
+<text x="692" y="659" class="sa_87">-</text>
+<text x="707" y="659" class="s8_87">f</text>
+<text x="714" y="653" class="sm_87">2</text>
+<text x="720" y="653" class="sc_87">1</text>
+<text x="727" y="659" class="s9_87">s</text>
+<text x="731" y="659" class="s8_87">N</text>
+<text x="741" y="659" class="s9_87">d</text>
+<text x="692" y="676" class="sa_87">-</text>
+<text x="707" y="676" class="s5_87">time to reach </text>
+<text x="782" y="676" class="s8_87">N</text>
+<text x="795" y="676" class="s5_87">bacteria</text>
+<text x="633" y="698" class="s5_87">100</text>
+<text x="763" y="698" class="s5_87">0</text>
+<text x="633" y="716" class="s5_87">168</text>
+<text x="763" y="716" class="s5_87">1</text>
+<text x="633" y="735" class="s5_87">259</text>
+<text x="763" y="735" class="s5_87">2</text>
+<text x="633" y="753" class="s5_87">358</text>
+<text x="763" y="753" class="s5_87">3</text>
+<text x="633" y="771" class="s5_87">445</text>
+<text x="763" y="771" class="s5_87">4</text>
+<text x="633" y="790" class="s5_87">509</text>
+<text x="763" y="790" class="s5_87">5</text>
+<text x="633" y="808" class="s5_87">550</text>
+<text x="763" y="808" class="s5_87">6</text>
+<text x="633" y="826" class="s5_87">573</text>
+<text x="763" y="826" class="s5_87">7</text>
+<text x="633" y="845" class="s5_87">586</text>
+<text x="763" y="845" class="s5_87">8</text>
+<text x="655" y="632" dx="0,-1,0,0,0,0,0" class="sl_87">Table 2</text>
+<text x="708" y="632" class="s8_87">t</text>
+<text x="716" y="632" class="s5_87">as a function of </text>
+<text x="804" y="632" class="s8_87">N</text>
+<text x="360" y="879" dx="0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,0,0,0,0,.3,0,0,0,0,0,0,0,.3,0,-.6,-.2,0,0,0,0,0,0,.3,0,0,0,-.8,0,.3,0,0,0,0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,0,0,0,0" class="sf_87">Not all functions possess inverses. Let’s compare the functions </text>
+<text x="752" y="879" class="sg_87">f</text>
+<text x="763" y="879" class="sf_87">and </text>
+<text x="789" y="879" class="sn_87">t</text>
+<text x="800" y="879" dx="0,0,0,0,0,0,.3,0,0,0,-.4,0" class="sf_87">whose arrow </text>
+<text x="342" y="897" dx="0,0,0,0,0,0,0,0,0,-.7,0,0,0,-.7,0,0,-.4,0,0,-.7,0,0,-.7,0,0,0,0,0,0,-.7,0,0,-.7,0,0,0,0,-.7,0,0,0,0" class="sf_87">diagrams are shown in Figure 1. Note that </text>
+<text x="599" y="897" class="sg_87">f</text>
+<text x="608" y="897" dx="0,0,-.4,-.2,0,0,-.7,0,0,-.2,0,0,-.7,0,0,-.7,0,0,0,-.7,0,0,0,0,-.7,-.4,0,0,0,0,-.7,0,0,0,0,0,-.7,0,0,-.2,0,-.7,0,-.2,0" class="sf_87">never takes on the same value twice (any two </text>
+<text x="342" y="915" class="sf_87">inputs in </text>
+<text x="399" y="915" class="sg_87">A</text>
+<text x="413" y="915" dx="0,0,-.3,-.2,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_87">have different outputs), whereas </text>
+<text x="612" y="915" class="sn_87">t</text>
+<text x="623" y="915" dx="0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.1" class="sf_87">does take on the same value twice (both 2 </text>
+<text x="342" y="934" dx="0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sf_87">and 3 have the same output, 4). ±n symbols,</text>
+<text x="574" y="961" class="sn_87">t</text>
+<text x="581" y="961" class="si_87">s</text>
+<text x="586" y="961" class="sf_87">2</text>
+<text x="594" y="961" class="si_87">d</text>
+<text x="604" y="961" class="sh_87">-</text>
+<text x="621" y="961" class="sn_87">t</text>
+<text x="627" y="961" class="si_87">s</text>
+<text x="633" y="961" class="sf_87">3</text>
+<text x="640" y="961" class="si_87">d</text>
+<text x="342" y="993" dx="0,-.3,0,0" class="sf_87">but </text>
+<text x="508" y="993" class="sg_87">f</text>
+<text x="514" y="993" class="si_87">s</text>
+<text x="520" y="993" class="sg_87">x</text>
+<text x="527" y="995" class="sk_87">1</text>
+<text x="534" y="993" class="si_87">d</text>
+<text x="543" y="993" class="sh_87">±</text>
+<text x="561" y="993" class="sg_87">f</text>
+<text x="567" y="993" class="si_87">s</text>
+<text x="573" y="993" class="sg_87">x</text>
+<text x="581" y="995" class="sk_87">2</text>
+<text x="587" y="993" class="si_87">d</text>
+<text x="623" y="993" class="sf_87">whenever </text>
+<text x="687" y="993" class="sg_87">x</text>
+<text x="694" y="995" class="sk_87">1</text>
+<text x="703" y="993" class="sh_87">±</text>
+<text x="721" y="993" class="sg_87">x</text>
+<text x="729" y="995" class="sk_87">2</text>
+<text x="342" y="1025" class="sf_87">Functions that share this property with </text>
+<text x="583" y="1025" class="sg_87">f</text>
+<text x="594" y="1025" class="sf_87">are called </text>
+<text x="656" y="1025" class="sg_87">one-to-one functions</text>
+<text x="782" y="1025" class="sf_87">.</text>
+<path d="M252.6,879.9c0,-30.3,15.3,-55,34.3,-55c19,0,34.4,24.7,34.4,55c0,30.4,-15.4,55,-34.4,55c-19,0,-34.3,-24.6,-34.3,-55Z" class="g3_87"/>
+<path d="M252.6,879.9c0,-30.3,15.3,-55,34.3,-55c19,0,34.4,24.7,34.4,55c0,30.4,-15.4,55,-34.4,55c-19,0,-34.3,-24.6,-34.3,-55Z" class="g4_87"/>
+<path d="M110.5,879.9c0,-30.3,15.4,-55,34.3,-55c19,0,34.4,24.7,34.4,55c0,30.4,-15.4,55,-34.4,55c-18.9,0,-34.3,-24.6,-34.3,-55Z" class="g3_87"/>
+<path d="M110.5,879.9c0,-30.3,15.4,-55,34.3,-55c19,0,34.4,24.7,34.4,55c0,30.4,-15.4,55,-34.4,55c-18.9,0,-34.3,-24.6,-34.3,-55Z" class="g4_87"/>
+<path d="M280.2,846.8c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="g5_87"/>
+<path d="M280.2,846.8c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="g6_87"/>
+<path d="M280.2,881.2c0,-1,.8,-1.8,1.8,-1.8c.9,0,1.7,.8,1.7,1.8c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="g5_87"/>
+<path d="M280.2,881.2c0,-1,.8,-1.8,1.8,-1.8c.9,0,1.7,.8,1.7,1.8c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="g6_87"/>
+<path d="M280.2,915.5c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="g5_87"/>
+<path d="M280.2,915.5c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="g6_87"/>
+<path d="M147.7,846.8c0,-1,.8,-1.7,1.7,-1.7c1,0,1.7,.7,1.7,1.7c0,.9,-.7,1.7,-1.7,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="g5_87"/>
+<path d="M147.7,846.8c0,-1,.8,-1.7,1.7,-1.7c1,0,1.7,.7,1.7,1.7c0,.9,-.7,1.7,-1.7,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="g6_87"/>
+<path d="M147.7,869.7c0,-.9,.8,-1.7,1.7,-1.7c1,0,1.7,.8,1.7,1.7c0,.9,-.7,1.7,-1.7,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="g5_87"/>
+<path d="M147.7,869.7c0,-.9,.8,-1.7,1.7,-1.7c1,0,1.7,.8,1.7,1.7c0,.9,-.7,1.7,-1.7,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="g6_87"/>
+<path d="M147.7,892.6c0,-.9,.8,-1.7,1.7,-1.7c1,0,1.7,.8,1.7,1.7c0,1,-.7,1.7,-1.7,1.7c-.9,0,-1.7,-.7,-1.7,-1.7Z" class="g5_87"/>
+<path d="M147.7,892.6c0,-.9,.8,-1.7,1.7,-1.7c1,0,1.7,.8,1.7,1.7c0,1,-.7,1.7,-1.7,1.7c-.9,0,-1.7,-.7,-1.7,-1.7Z" class="g6_87"/>
+<path d="M147.7,915.5c0,-.9,.8,-1.7,1.7,-1.7c1,0,1.7,.8,1.7,1.7c0,1,-.7,1.8,-1.7,1.8c-.9,0,-1.7,-.8,-1.7,-1.8Z" class="g5_87"/>
+<path d="M147.7,915.5c0,-.9,.8,-1.7,1.7,-1.7c1,0,1.7,.8,1.7,1.7c0,1,-.7,1.8,-1.7,1.8c-.9,0,-1.7,-.8,-1.7,-1.8Z" class="g6_87"/>
+<text x="135" y="850" class="so_87">4</text>
+<text x="135" y="873" class="so_87">3</text>
+<text x="135" y="895" class="sp_87">2</text>
+<text x="137" y="918" class="sq_87">1</text>
+<text x="288" y="850" dx="0,-.1" class="sr_87">10</text>
+<text x="288" y="884" class="so_87">4</text>
+<text x="288" y="918" class="sp_87">2</text>
+<path d="M143.4,945.9h2.5l-.5,-3.4Zm2.8,-5.2l1.3,7.8c.1,.6,.4,.7,.8,.7v.2h-3v-.2c.7,0,1,-.2,.9,-.9l-.2,-1.9h-2.9l-1.1,2.1c-.2,.4,.2,.7,.8,.7v.2h-2.4v-.2c.3,0,.5,0,.8,-.5l4.8,-8Z" class="g7_87"/>
+<path d="M281.9,944.7l1.5,-.1c.8,0,1.7,-.8,1.6,-2c0,-1.1,-.7,-1.3,-.9,-1.3c-.2,-.1,-.4,-.1,-.9,-.1c-.2,.1,-.3,.2,-.4,.5Zm-.9,3.5c-.1,.4,.1,.8,.8,.8c.9,0,1.7,-.3,2.2,-.9c.7,-1.1,.5,-2.5,-.5,-2.9c-.3,-.2,-1.1,-.1,-1.7,-.1Zm2.8,-7.4c2.7,0,3.1,2.4,1.8,3.4c-.5,.4,-.9,.4,-1.6,.6c.7,.3,1.4,.7,1.6,1.3c.8,1.6,-1,3.3,-3.3,3.3h-3.6v-.2c.4,0,.7,0,1,-.9l1.8,-6.5c.2,-.7,-.4,-.8,-.8,-.8v-.2Z" class="g7_87"/>
+<text x="211" y="937" class="ss_87">g</text>
+<path d="M157.8,846.8H270.7" class="g8_87"/>
+<path d="M274.4,846.8l-4.9,1.8l1.2,-1.8L269.5,845Z" class="g9_87"/>
+<path d="M157.8,846.8H270.7" class="ga_87"/>
+<path d="M275.6,846.8l-6.5,2.5l1.6,-2.5l-1.6,-2.5Z" class="g9_87"/>
+<path d="M187.6,945.5h55" class="ga_87"/>
+<path d="M247.6,945.5l-6.5,2.5l1.5,-2.5l-1.5,-2.4Z" class="g9_87"/>
+<path d="M157.8,869.7L270.7,875" class="g8_87"/>
+<path d="M274.4,875.2l-5,1.6l1.3,-1.8l-1.1,-1.8Z" class="g9_87"/>
+<path d="M157.8,892.6l112.9,-5.3" class="g8_87"/>
+<path d="M274.4,887.1l-4.8,2.1l1.1,-1.9l-1.3,-1.8Z" class="g9_87"/>
+<path d="M157.8,915.5H270.7" class="g8_87"/>
+<path d="M274.4,915.5l-4.9,1.9l1.2,-1.9l-1.2,-1.8Z" class="g9_87"/>
+<path d="M157.8,869.7L270.7,875" class="ga_87"/>
+<path d="M275.6,875.3l-6.6,2.1l1.7,-2.4l-1.4,-2.5Z" class="g9_87"/>
+<path d="M157.8,892.6l112.9,-5.3" class="ga_87"/>
+<path d="M275.6,887l-6.3,2.8l1.4,-2.5L269,884.9Z" class="g9_87"/>
+<path d="M157.8,915.5H270.7" class="ga_87"/>
+<path d="M275.6,915.5l-6.5,2.5l1.6,-2.5l-1.6,-2.4Z" class="g9_87"/>
+<path d="M252.6,738.1c0,-30.4,15.3,-55,34.3,-55c19,0,34.4,24.6,34.4,55c0,30.4,-15.4,55,-34.4,55c-19,0,-34.3,-24.6,-34.3,-55Z" class="g3_87"/>
+<path d="M252.6,738.1c0,-30.4,15.3,-55,34.3,-55c19,0,34.4,24.6,34.4,55c0,30.4,-15.4,55,-34.4,55c-19,0,-34.3,-24.6,-34.3,-55Z" class="g4_87"/>
+<path d="M110.5,738.1c0,-30.4,15.4,-55,34.3,-55c19,0,34.4,24.6,34.4,55c0,30.4,-15.4,55,-34.4,55c-18.9,0,-34.3,-24.6,-34.3,-55Z" class="g3_87"/>
+<path d="M110.5,738.1c0,-30.4,15.4,-55,34.3,-55c19,0,34.4,24.6,34.4,55c0,30.4,-15.4,55,-34.4,55c-18.9,0,-34.3,-24.6,-34.3,-55Z" class="g4_87"/>
+<path d="M280.2,704.9c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="g5_87"/>
+<path d="M280.2,704.9c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="g6_87"/>
+<path d="M280.2,727.8c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="g5_87"/>
+<path d="M280.2,727.8c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="g6_87"/>
+<path d="M280.2,750.8c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="g5_87"/>
+<path d="M280.2,750.8c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="g6_87"/>
+<path d="M280.2,773.7c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="g5_87"/>
+<path d="M280.2,773.7c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="g6_87"/>
+<path d="M146.9,704.9c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="g5_87"/>
+<path d="M146.9,704.9c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="g6_87"/>
+<path d="M146.9,727.8c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="g5_87"/>
+<path d="M146.9,727.8c0,-.9,.8,-1.7,1.8,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="g6_87"/>
+<path d="M146.9,750.8c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="g5_87"/>
+<path d="M146.9,750.8c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="g6_87"/>
+<path d="M146.9,773.7c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="g5_87"/>
+<path d="M146.9,773.7c0,-1,.8,-1.7,1.8,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.8,-.8,-1.8,-1.7Z" class="g6_87"/>
+<text x="135" y="708" class="so_87">4</text>
+<text x="135" y="731" class="so_87">3</text>
+<text x="135" y="754" class="sp_87">2</text>
+<text x="137" y="777" class="sq_87">1</text>
+<text x="288" y="708" dx="0,-.1" class="sr_87">10</text>
+<text x="288" y="731" class="st_87">7</text>
+<text x="288" y="754" class="so_87">4</text>
+<text x="288" y="777" class="sp_87">2</text>
+<path d="M143.4,804.1h2.5l-.5,-3.5Zm2.8,-5.3l1.3,7.9c.1,.5,.4,.6,.8,.6v.2h-3v-.2c.7,0,1,-.2,.9,-.9l-.2,-1.9h-2.9l-1.1,2.2c-.2,.4,.2,.6,.8,.6v.2h-2.4v-.2c.3,0,.5,.1,.8,-.4l4.8,-8.1Z" class="g7_87"/>
+<path d="M281.9,802.8l1.5,-.1c.8,0,1.7,-.7,1.6,-1.9c0,-1.2,-.7,-1.3,-.9,-1.4c-.2,0,-.4,0,-.9,0c-.2,0,-.3,.1,-.4,.4Zm-.9,3.6c-.1,.4,.1,.7,.8,.7c.9,0,1.7,-.2,2.2,-.9c.7,-1.1,.5,-2.4,-.5,-2.9c-.3,-.1,-1.1,0,-1.7,-.1Zm2.8,-7.4c2.7,0,3.1,2.4,1.8,3.3c-.5,.4,-.9,.5,-1.6,.7c.7,.2,1.4,.6,1.6,1.2c.8,1.7,-1,3.3,-3.3,3.3h-3.6v-.2c.4,0,.7,0,1,-.8l1.8,-6.6c.2,-.6,-.4,-.7,-.8,-.7V799Z" class="g7_87"/>
+<text x="212" y="795" class="sp_87">f</text>
+<path d="M157.8,704.9H270.7" class="g8_87"/>
+<path d="M274.4,704.9l-4.9,1.9l1.2,-1.9l-1.2,-1.8Z" class="g9_87"/>
+<path d="M157.8,704.9H270.7" class="ga_87"/>
+<path d="M275.6,704.9l-6.5,2.5l1.6,-2.5l-1.6,-2.4Z" class="g9_87"/>
+<path d="M187.6,803.7h55" class="ga_87"/>
+<path d="M247.6,803.7l-6.5,2.4l1.5,-2.4l-1.5,-2.5Z" class="g9_87"/>
+<path d="M157.8,727.8H270.7" class="g8_87"/>
+<path d="M274.4,727.8l-4.9,1.9l1.2,-1.9L269.5,726Z" class="g9_87"/>
+<path d="M157.8,750.8H270.7" class="g8_87"/>
+<path d="M274.4,750.8l-4.9,1.8l1.2,-1.8l-1.2,-1.9Z" class="g9_87"/>
+<path d="M157.8,773.7H270.7" class="g8_87"/>
+<path d="M274.4,773.7l-4.9,1.8l1.2,-1.8l-1.2,-1.9Z" class="g9_87"/>
+<path d="M157.8,727.8H270.7" class="ga_87"/>
+<path d="M275.6,727.8l-6.5,2.5l1.6,-2.5l-1.6,-2.4Z" class="g9_87"/>
+<path d="M157.8,750.8H270.7" class="ga_87"/>
+<path d="M275.6,750.8l-6.5,2.4l1.6,-2.4l-1.6,-2.5Z" class="g9_87"/>
+<path d="M157.8,773.7H270.7" class="ga_87"/>
+<path d="M275.6,773.7l-6.5,2.5l1.6,-2.5l-1.6,-2.5Z" class="g9_87"/>
+<text x="108" y="976" dx="0,.3,.3,.3,.3,.3,.1" class="sl_87">FIGURE </text>
+<text x="161" y="976" class="su_87">1 </text>
+<text x="110" y="993" class="s8_87">f</text>
+<text x="119" y="993" class="s5_87">is one-to-one; </text>
+<text x="199" y="993" class="sv_87">t</text>
+<text x="208" y="993" class="s5_87">is not.</text>
+<image preserveAspectRatio="none" x="107" y="396" width="773" height="34" xlink:href="87/img/1.png"/>
+<text x="121" y="1076" class="sw_87">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="sw_87">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: BeaconDingbatsTypeOne_1hn;
+	src: url("fonts/BeaconDingbatsTypeOne_1hn.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_151;
+	src: url("fonts/TECHMath-Mix_151.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_160;
+	src: url("fonts/TECHMath-Mix_160.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_16e;
+	src: url("fonts/TECHMath-Mix_16e.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_191;
+	src: url("fonts/TECHMath-Mix_191.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1ac;
+	src: url("fonts/TECHMath-Mix_1ac.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1gz;
+	src: url("fonts/TECHMath-Mix_1gz.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

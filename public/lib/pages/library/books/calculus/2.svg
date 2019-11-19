@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 2 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_2"><path d="M0,0H931V1096H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_2{
+font-size: 84.03px;
+font-family: MyriadPro-SemiboldSemiCn_4e;
+fill: #231F20;
+}
+.s2_2{
+font-size: 32.08px;
+font-family: MyriadPro-Semibold_49;
+fill: #818385;
+}
+.s3_2{
+font-size: 27.50px;
+font-family: MyriadPro-Semibold_49;
+fill: #EC008C;
+}
+.s4_2{
+font-size: 36.67px;
+font-family: MyriadPro-Semibold_49;
+fill: #00AEEF;
+}
+.s5_2{
+font-size: 15.28px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s6_2{
+font-size: 10.69px;
+font-family: MyriadPro-Regular-SC700_46;
+fill: #231F20;
+}
+.s7_2{
+font-size: 10.69px;
+font-family: KievitOT-Book_42;
+fill: #231F20;
+}
+.s8_2{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_2{
+fill: #003B57;
+}
+.g1_2{
+fill: #006288;
+}
+.g2_2{
+fill: #008CC2;
+}
+.g3_2{
+fill: #17B9E9;
+}
+.g4_2{
+fill: #6CCFF6;
+}
+.g5_2{
+fill: #ABE0F9;
+}
+.g6_2{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.381;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_2)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<image preserveAspectRatio="none" x="0" y="-20" width="952" height="61" xlink:href="2/img/1.png"/>
+<image preserveAspectRatio="none" x="89" y="796" width="217" height="250" xlink:href="2/img/2.png"/>
+<text x="343" y="194" dx="0,-1.7,-1.7,-1.7,-1.7,-1.7,-1.7,-1.7" class="s1_2">CALCULUS</text>
+<text x="347" y="240" dx="0,1.6,1.6,1.6,1.6,1.3,1.3,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6" class="s2_2">EARLY TRANSCENDENTALS</text>
+<text x="347" y="283" dx="0,1.4,1.4,1.4,1.4,1.4,1.1,1.1,1.4,1.4,1.4,1.4,1.4,1.4" class="s3_2">EIGHTH EDITION</text>
+<text x="342" y="521" dx="0,1.1,1,1.1,1.1,.7,1.5,1.1,1.1,1.4,-.9,1.1,1.3" class="s4_2">JAMES STEWART</text>
+<text x="342" y="550" class="s5_2">M</text>
+<text x="355" y="550" class="s6_2">C</text>
+<text x="362" y="550" dx="0,1.1,1.1,1.1,1.1,1.1,.9,1.2,1.1,1.1,1.1,1.1,1.1,1.1,1.1,1.1,1.1,.2" class="s5_2">MASTER UNIVERSITY </text>
+<text x="342" y="575" dx="0,1.1,1.1,.2" class="s5_2">AND </text>
+<text x="342" y="599" dx="0,1.1,1.1,1.1,1.1,1.1,1.1,1.1,1.1,1.1,.9,1.2,1.1,.9,1.2,1.1,1.1,1.1,1.1,1.1,1.1" class="s5_2">UNIVERSITY OF TORONTO</text>
+<path fill-rule="evenodd" d="M351.7,973.1l6.1,2.1l-.9,4.9l-8.5,-2.9l2.1,-3.6c.3,-.5,.7,-.7,1.2,-.5Z" class="g0_2"/>
+<path fill-rule="evenodd" d="M343.1,988.6l5.3,-4.7l4.1,3.7l-7.4,6.5l-2.3,-4c-.3,-.6,-.2,-1.1,.3,-1.5Z" class="g1_2"/>
+<path fill-rule="evenodd" d="M352.6,1004.7L351.1,997l5.8,-2l2.1,10.7h-5.1c-.7,0,-1.1,-.4,-1.3,-1Z" class="g2_2"/>
+<path fill-rule="evenodd" d="M372.3,1004.3l-8.1,-2.7l1.3,-6.6l11.3,3.9l-2.8,4.8c-.4,.7,-1,.9,-1.7,.6Z" class="g3_2"/>
+<path fill-rule="evenodd" d="M382.4,986.2l-7.1,6.2l-5.5,-4.8l9.8,-8.7l3.1,5.3c.5,.8,.3,1.4,-.3,2Z" class="g4_2"/>
+<path fill-rule="evenodd" d="M371.1,967.3l2,10.2l-7.6,2.6L362.6,966h6.8c1,0,1.5,.4,1.7,1.3Z" class="g5_2"/>
+<path d="M395.2,994.7h1.9v15.4h6.4v1.6h-8.3Z" class="g0_2"/>
+<path d="M413.1,1004.5c0,-1.9,-1,-3.7,-2.9,-3.7c-1.8,0,-3,1.6,-3,3.7Zm-7.9,1c0,-3.7,2,-6.3,5,-6.3c3.1,0,4.9,2.4,4.9,6.3v.4h-8c.1,2.5,1.5,4.5,4.1,4.5c1.2,0,2.2,-.4,3,-.8l.6,1.3c-1,.7,-2.5,1.1,-3.9,1.1c-3.8,0,-5.7,-3,-5.7,-6.5Z" class="g0_2"/>
+<path d="M423.3,1005.8c-1.1,0,-1.8,.1,-2.3,.4c-.7,.4,-1.1,1.1,-1.1,1.9c0,1.4,.9,2.3,2.3,2.3c1.5,0,2.7,-1,3.2,-1.6v-3.1Zm2.2,4.6c-.9,.9,-2.1,1.6,-3.6,1.6c-2.2,0,-3.9,-1.4,-3.9,-3.8c0,-1.6,.8,-2.7,2.1,-3.3c.8,-.4,1.8,-.5,3,-.6l2.3,-.1v-.7c0,-1.9,-1.1,-2.7,-2.6,-2.7c-1.5,0,-2.5,.5,-3.3,1l-.8,-1.4c1.5,-.9,3,-1.2,4.3,-1.2c2.5,0,4.4,1.2,4.4,4.2v4.2c0,2.4,0,3.5,.2,4.1h-1.7Z" class="g0_2"/>
+<path d="M431.9,999.5h1.6l.2,1.6c1.4,-1.5,2.4,-1.9,3.5,-1.9c.4,0,1,.1,1.3,.3l-.7,1.7c-.3,-.1,-.6,-.2,-1.1,-.2c-.8,0,-1.7,.5,-2.9,1.7v9h-1.9Z" class="g0_2"/>
+<path d="M441.2,999.5h1.6l.2,1.6c1.4,-1.1,2.7,-1.9,4.3,-1.9c1.9,0,3.6,1.2,3.6,4.3v8.2H449v-7.6c0,-1.8,-.4,-3.2,-2.2,-3.2c-1.3,0,-2.6,.8,-3.7,1.8v9h-1.9Z" class="g0_2"/>
+<path d="M455.5,999.5h1.9v12.2h-1.9Zm-.4,-4c0,-.7,.6,-1.3,1.3,-1.3c.8,0,1.3,.5,1.3,1.3c0,.7,-.6,1.3,-1.3,1.3c-.7,0,-1.3,-.6,-1.3,-1.3Z" class="g0_2"/>
+<path d="M461.9,999.5h1.6l.2,1.6c1.4,-1.1,2.7,-1.9,4.3,-1.9c1.9,0,3.6,1.2,3.6,4.3v8.2h-1.9v-7.6c0,-1.8,-.4,-3.2,-2.2,-3.2c-1.3,0,-2.6,.8,-3.7,1.8v9h-1.9Z" class="g0_2"/>
+<path d="M483,1003.6c0,-1.6,-1.1,-2.8,-2.7,-2.8c-1.6,0,-2.8,1.1,-2.8,2.8c0,1.7,1,2.9,2.8,2.9c1.5,0,2.7,-1,2.7,-2.9m1.2,10.6c0,-2.2,-3.7,-1.8,-5.9,-2.5c-.7,.4,-1.7,1.1,-1.7,2.3c0,1.5,1.5,2.3,3.7,2.3c2.6,0,3.9,-.9,3.9,-2.1m-9.4,.1c0,-1.2,.8,-2.4,2.3,-3.1c-.5,-.3,-.9,-.9,-.9,-1.5c0,-.6,.3,-1.5,1.3,-2.4c-1.1,-.8,-1.9,-2.1,-1.9,-3.7c0,-2.5,1.9,-4.4,4.5,-4.4c1.1,0,1.8,.3,2.3,.5c.1,.1,.2,.1,.3,0c.6,-.6,1.4,-1,2.5,-1c.3,0,.6,0,.7,0l-.4,1.5c-.3,0,-.5,0,-.7,0c-.4,0,-.9,.1,-1.2,.3c.9,.8,1.4,2,1.4,3.1c0,2.7,-1.9,4.5,-4.7,4.5c-.6,0,-1.2,-.1,-1.6,-.3c-.5,.5,-.7,1,-.7,1.4c0,2.4,8.1,.3,8.1,4.8c0,2.3,-2.3,3.8,-5.9,3.8c-3.3,0,-5.4,-1.2,-5.4,-3.5Z" class="g0_2"/>
+<path d="M406.5,986.6c-1.7,.9,-3.3,1.2,-5,1.2c-5.2,0,-8.4,-3.7,-8.4,-8.8c0,-5.2,3.6,-9.2,8.8,-9.2c1.9,0,3.5,.4,4.4,.9v1.9c-1.3,-.7,-2.6,-1.1,-4.4,-1.1c-4.1,0,-6.7,3.2,-6.7,7.3c0,4.3,2.5,7.3,6.5,7.3c1.7,0,3,-.4,4.2,-1.1Z" class="g0_2"/>
+<path d="M412.5,969.9H421l-.6,1.7h-5.9v6.1h5.8v1.6h-5.8v6.6h6.7v1.7h-8.7Z" class="g0_2"/>
+<path d="M427.7,969.9h1.9l8.2,10.7c1.1,1.5,2,2.7,2.5,3.6h.1c0,-.9,-.1,-1.7,-.1,-3.1V969.9h2v17.7h-1.6l-8.6,-11.2c-1,-1.4,-1.8,-2.5,-2.4,-3.4h-.1c.1,.9,.1,1.7,.1,3.1v11.5h-2Z" class="g0_2"/>
+<path d="M460,980.3h-4.2l-.6,-1.6h6.7v7.8c-1.2,.6,-3.3,1.3,-5.8,1.3c-5.2,0,-8.7,-3.6,-8.7,-8.8c0,-5.4,3.6,-9.2,9.1,-9.2c2.1,0,3.8,.5,4.8,.9v1.9c-1.2,-.6,-2.8,-1.1,-4.7,-1.1c-4.5,0,-7.1,3,-7.1,7.3c0,4.5,2.7,7.3,6.9,7.3c1.4,0,2.7,-.3,3.6,-.7Z" class="g0_2"/>
+<path d="M475.8,981.2l-1.9,-5.1c-.5,-1.6,-.8,-2.4,-1,-3.1c-.2,.7,-.6,1.5,-1.1,3.1l-1.8,5.1Zm-3.6,-11.3h1.4l6.7,17.7h-2.1l-1.8,-4.8h-7.1l-1.7,4.8h-2.1Z" class="g0_2"/>
+<path d="M496.1,980.3h-4.2l-.6,-1.6H498v7.8c-1.1,.6,-3.3,1.3,-5.7,1.3c-5.3,0,-8.8,-3.6,-8.8,-8.8c0,-5.4,3.7,-9.2,9.1,-9.2c2.1,0,3.8,.5,4.9,.9v1.9c-1.3,-.6,-2.8,-1.1,-4.7,-1.1c-4.6,0,-7.2,3,-7.2,7.3c0,4.5,2.7,7.3,6.9,7.3c1.5,0,2.8,-.3,3.6,-.7Z" class="g0_2"/>
+<path d="M503.9,969.9h8.5l-.6,1.7h-5.9v6.1h5.8v1.6h-5.8v6.6h6.7v1.7h-8.7Z" class="g0_2"/>
+<path d="M488.9,1000.3c.2,0,.3,-.1,.3,-.3c0,-.2,-.1,-.3,-.3,-.3h-.2v.6Zm-.7,-.9h.7c.5,0,.8,.2,.8,.6c0,.3,-.2,.5,-.5,.5c.1,.1,.1,.2,.3,.4l.3,.6h-.5l-.4,-.7c-.1,-.1,-.1,-.2,-.2,-.2v.9h-.5Zm2.2,1.1c0,-.9,-.7,-1.5,-1.5,-1.5c-.8,0,-1.4,.6,-1.4,1.5c0,.8,.6,1.4,1.4,1.4c.8,0,1.5,-.6,1.5,-1.4m-3.3,0c0,-1.1,.8,-1.9,1.8,-1.9c1,0,1.9,.8,1.9,1.9c0,1,-.9,1.8,-1.9,1.8c-1,0,-1.8,-.8,-1.8,-1.8Z" class="g0_2"/>
+<path d="M343.7,1026.8H867.8" class="g6_2"/>
+<text x="343" y="1043" dx="0,0,0,0,0,0,0,0,0,0,.2,0,.2,0,0,0,0,0,0,.2,0,.2,0,0,0,0,0,0,.2,0,.2,0,0,0,0,0,0,0,0,0,.2,0,.2,0,0,0,0,0,0,.2,0,0,0,0,0,0,0,.2,0,.2,0,0,0,0,0,0,.2,0,0,0,0,0" class="s7_2">Australia • Brazil • Mexico • Singapore • United Kingdom • United States</text>
+<text x="121" y="1076" class="s8_2">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="s8_2">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: KievitOT-Book_42;
+	src: url("fonts/KievitOT-Book_42.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular-SC700_46;
+	src: url("fonts/MyriadPro-Regular-SC700_46.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-SemiboldSemiCn_4e;
+	src: url("fonts/MyriadPro-SemiboldSemiCn_4e.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

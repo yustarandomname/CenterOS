@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 85 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_85"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0_85"><path d="M535.7,319.7c-5,0,-9.1,-4.1,-9.1,-9.2V218.9c0,-5.1,4.1,-9.2,9.1,-9.2H685.5c5,0,9.1,4.1,9.1,9.2v91.6c0,5.1,-4.1,9.2,-9.1,9.2Z"/></clipPath>
+<clipPath id="c1_85"><path d="M178.8,517.8V487.5h22.6v30.3Z"/></clipPath>
+<clipPath id="c2_85"><path d="M353.7,522V489.3h28V522Z"/></clipPath>
+<clipPath id="c3_85"><path d="M353.7,607.7V574.5h36v33.2Z"/></clipPath>
+<clipPath id="c4_85"><path d="M178.8,653.9V623.4h61.8v30.5Z"/></clipPath>
+<clipPath id="c5_85"><path d="M353.7,658.7v-39h41.9v39Z"/></clipPath>
+<clipPath id="c6_85"><path d="M564.5,962.7v-32h98.4v32Z"/></clipPath>
+<clipPath id="c7_85"><path d="M759.3,962.7V933.9h80.5v28.8Z"/></clipPath>
+<clipPath id="c8_85"><path d="M564.5,991.1V974.9H673.9v16.2Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_85{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_85{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_85{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s4_85{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s5_85{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #EC008C;
+}
+.s6_85{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s7_85{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s8_85{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.s9_85{
+font-size: 9.17px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sa_85{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sb_85{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sc_85{
+font-size: 9.17px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sd_85{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1ew;
+fill: #231F20;
+}
+.se_85{
+font-size: 12.22px;
+font-family: MATH_13_;
+fill: #231F20;
+}
+.sf_85{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1g9;
+fill: #231F20;
+}
+.sg_85{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1hj;
+fill: #231F20;
+}
+.sh_85{
+font-size: 12.99px;
+font-family: ZapfDingbatsITC_my;
+fill: #EC008C;
+}
+.si_85{
+font-size: 14.51px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sj_85{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sk_85{
+font-size: 13.75px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #00AEEF;
+}
+.sl_85{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sm_85{
+font-size: 13.75px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #231F20;
+}
+.sn_85{
+font-size: 8.25px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.so_85{
+font-size: 8.25px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sp_85{
+font-size: 13.75px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #231F20;
+}
+.sq_85{
+font-size: 6.60px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sr_85{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.ss_85{
+font-size: 8.25px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.st_85{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.su_85{
+font-size: 8.25px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sv_85{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sw_85{
+font-size: 15.13px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #231F20;
+}
+.sx_85{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.sy_85{
+font-size: 13.75px;
+font-family: BeaconDingbatsTypeOne_1hn;
+fill: #EC008C;
+}
+.sz_85{
+font-size: 13.75px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.s10_85{
+font-size: 19.25px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s11_85{
+font-size: 9.63px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s12_85{
+font-size: 13.20px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.s13_85{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.s14_85{
+font-size: 5.78px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.s15_85{
+font-size: 8.25px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.s16_85{
+font-size: 13.75px;
+font-family: BeaconDingbatsTypeOne_1hn;
+fill: #231F20;
+}
+.s17_85{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_85{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g1_85{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g2_85{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.534;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g3_85{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.534;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g4_85{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_85{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.687;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_85{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.756;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_85{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.481;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_85)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="607" y="64" dx="0,.2,.2,.5,.2,.2,.2" class="s1_85">SECTION</text>
+<text x="659" y="64" class="s2_85">1.4</text>
+<text x="689" y="64" dx="0,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,-.3,.1,.1,.3,.1,.1,.1,.1,.1" class="s3_85">Exponential Functions </text>
+<text x="862" y="64" class="s4_85">53</text>
+<text x="342" y="107" dx="0,.3,.3,.3,.3,.3,.3,.3,.1" class="s5_85">SOLUTION </text>
+<text x="413" y="107" class="s6_85">±n Figure 18 we graph both the function </text>
+<text x="662" y="107" class="s7_85">y</text>
+<text x="673" y="107" class="s8_85">-</text>
+<text x="690" y="107" class="s7_85">e</text>
+<text x="699" y="101" class="s9_85">x</text>
+<text x="706" y="107" class="s6_85">and the horizontal line </text>
+<text x="342" y="126" class="s7_85">y</text>
+<text x="354" y="126" class="s8_85">-</text>
+<text x="371" y="126" dx="0,0,0,0,0,0,0,0,0,0,0,-.5,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s6_85">1,000,000. We see that these curves intersect when </text>
+<text x="684" y="126" class="s7_85">x</text>
+<text x="696" y="126" class="sa_85">&lt;</text>
+<text x="713" y="126" dx="0,0,0,0,0,0,-.3,0,0,0,0" class="s6_85">13.8. Thus </text>
+<text x="782" y="126" class="s7_85">e</text>
+<text x="790" y="120" class="s9_85">x</text>
+<text x="798" y="126" class="sb_85">.</text>
+<text x="816" y="126" class="s6_85">10</text>
+<text x="832" y="120" class="sc_85">6</text>
+<text x="840" y="126" class="s6_85">when </text>
+<text x="342" y="144" class="s7_85">x</text>
+<text x="353" y="144" class="sb_85">.</text>
+<text x="371" y="144" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0" class="s6_85">13.8. ±t is perhaps surprising that the values of the exponential function have </text>
+<text x="342" y="162" class="s6_85">already surpassed a million when </text>
+<text x="550" y="162" class="s7_85">x</text>
+<text x="560" y="162" class="s6_85">is only 14. </text>
+<g clip-path="url(#c0_85)">
+<path d="M527.1,245.1h168" class="g0_85"/>
+<path d="M686.2,209.4l.2,-1m-1,9.1l.8,-8.1m-1.6,15.5l.8,-7.4m-2.5,20.7l1.7,-13.3m-3.5,24.9l1.8,-11.6m-3.6,21.2l1.8,-9.6m-3.3,18l1.5,-8.4m-3.6,16.3l2.1,-7.9m-3.9,14.5l1.8,-6.6m-5.1,15.7l3.3,-9.1m-5.1,13.1l1.8,-4m-3.6,7.4l1.8,-3.4m-5.1,8.9l3.3,-5.5m-6.8,9.4l3.5,-3.9m-7.1,6.6l3.6,-2.7m-7.2,4.9l3.6,-2.2m-7.1,3.7l3.5,-1.5m-6.9,2.5l3.4,-1m-6.9,2l3.5,-1m-7.1,1.5l3.6,-.5m-6.9,.9l3.3,-.4m-6.9,.7l3.6,-.3m-7.2,.6l3.6,-.3m-7.1,.5l3.5,-.2m-7.1,.2H625m-7.2,.2l3.6,-.2m-6.9,.2h3.3m-6.6,0h3.3m-7.1,0h3.8m-7.4,0h3.6m-6.9,0h3.3m-6.6,0h3.3m-6.9,0h3.6m-7.2,0h3.6m-6.9,0H590m-6.8,0h3.5m-7.1,0h3.6m-7.2,0h3.6m-6.9,0H576m-6.9,0h3.6m-7.1,0h3.5m-7.1,0h3.6m-6.9,0H562m-6.9,0h3.6m-7.2,0h3.6m-7.1,0h3.5m-7.1,0H548m-6.9,0h3.3m-6.9,0h3.6m-9.7,0h6.1" class="g1_85"/>
+</g>
+<path d="M535.7,209.7H685.5c5,0,9.1,4.1,9.1,9.2v91.6c0,5.1,-4.1,9.2,-9.1,9.2H535.7c-5,0,-9.1,-4.1,-9.1,-9.2V218.9c0,-5.1,4.1,-9.2,9.1,-9.2Z" class="g2_85"/>
+<text x="507" y="205" class="sd_85">1.5</text>
+<text x="522" y="205" class="se_85">x</text>
+<text x="536" y="205" dx="0,-.1" class="sf_85">10</text>
+<text x="547" y="205" class="sg_85">^</text>
+<text x="520" y="328" class="sg_85">0</text>
+<text x="699" y="324" dx="0,-.2" class="sg_85">15</text>
+<text x="641" y="279" class="sg_85">y=´</text>
+<text x="569" y="239" dx="0,0,0,0,.7" class="sg_85">y=10^</text>
+<path d="M527.1,304h2m-2,-14.8h2m-2,-14.8h2m-2,-14.5h2m-2,-14.8h2m-2,-14.8h2m-2,-14.8h2m20.4,104V317m22.4,2.5V317m22.5,2.5V317m22.2,2.5V317m22.4,2.5V317m22.4,2.5V317m22.5,2.5V317" class="g3_85"/>
+<text x="868" y="334" class="sh_85">■</text>
+<text x="259" y="332" dx="0,.3,.3,.3,.3,.3,.1" class="si_85">FIGURE </text>
+<text x="311" y="332" class="sj_85">18</text>
+<path d="M126.8,675.8H488.9" class="g4_85"/>
+<text x="128" y="459" class="sk_85">1–4 </text>
+<text x="156" y="459" dx="0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sl_85">Use the Law of Exponents to rewrite and simplify the </text>
+<text x="128" y="476" dx="0,-.2,0,0,0,0,0,0,0,0,0" class="sl_85">expression.</text>
+<text x="134" y="508" class="sm_85">1. </text>
+<text x="154" y="508" class="sl_85">(a) </text>
+<text x="180" y="498" class="sl_85">4</text>
+<text x="188" y="493" class="sn_85">2</text>
+<text x="195" y="493" class="so_85">3</text>
+<g clip-path="url(#c1_85)">
+<path d="M179.1,503.7h22.7" class="g5_85"/>
+</g>
+<text x="181" y="517" class="sl_85">2</text>
+<text x="188" y="512" class="sn_85">2</text>
+<text x="194" y="512" class="so_85">8</text>
+<text x="328" y="508" class="sl_85">(b) </text>
+<text x="364" y="498" class="sl_85">1</text>
+<g clip-path="url(#c2_85)">
+<path d="M354,503.7h28.1" class="g5_85"/>
+</g>
+<text x="355" y="519" class="sp_85">s</text>
+<text x="358" y="513" class="sq_85">3</text>
+<text x="365" y="519" class="sr_85">x</text>
+<text x="373" y="514" class="so_85">4 </text>
+<path d="M366.2,506.5H380" class="g5_85"/>
+<text x="134" y="550" class="sm_85">2. </text>
+<text x="154" y="550" dx="0,0,0,0,5.7" class="sl_85">(a) 8</text>
+<text x="187" y="545" class="so_85">4</text>
+<text x="191" y="545" class="ss_85">y</text>
+<text x="195" y="545" class="so_85">3</text>
+<text x="328" y="550" class="sl_85">(b) </text>
+<text x="354" y="550" class="sr_85">x</text>
+<text x="360" y="550" class="st_85">s</text>
+<text x="365" y="550" class="sl_85">3</text>
+<text x="372" y="550" class="sr_85">x</text>
+<text x="379" y="545" class="so_85">2</text>
+<text x="384" y="550" class="st_85">d</text>
+<text x="389" y="545" class="so_85">3</text>
+<text x="134" y="595" class="sm_85">3. </text>
+<text x="154" y="595" class="sl_85">(a) </text>
+<text x="178" y="595" class="sr_85">b</text>
+<text x="185" y="589" class="so_85">8</text>
+<text x="190" y="595" class="st_85">s</text>
+<text x="195" y="595" class="sl_85">2</text>
+<text x="201" y="595" class="sr_85">b</text>
+<text x="208" y="595" class="st_85">d</text>
+<text x="214" y="589" class="so_85">4</text>
+<text x="328" y="595" class="sl_85">(b) </text>
+<text x="355" y="585" class="st_85">s</text>
+<text x="360" y="585" class="sl_85">6</text>
+<text x="367" y="585" class="sr_85">y</text>
+<text x="374" y="580" class="so_85">3</text>
+<text x="378" y="585" class="st_85">d</text>
+<text x="383" y="580" class="so_85">4</text>
+<g clip-path="url(#c3_85)">
+<path d="M354,590.8h36" class="g5_85"/>
+</g>
+<text x="362" y="604" class="sl_85">2</text>
+<text x="369" y="604" class="sr_85">y</text>
+<text x="377" y="599" class="so_85">5</text>
+<text x="134" y="644" class="sm_85">4. </text>
+<text x="154" y="644" class="sl_85">(a) </text>
+<text x="181" y="634" class="sr_85">x</text>
+<text x="188" y="629" class="so_85">2</text>
+<text x="193" y="629" class="su_85">n</text>
+<text x="201" y="634" class="sv_85">?</text>
+<text x="210" y="634" class="sr_85">x</text>
+<text x="218" y="629" class="so_85">3</text>
+<text x="223" y="629" class="su_85">n</text>
+<text x="227" y="629" class="sn_85">2</text>
+<text x="234" y="629" class="so_85">1</text>
+<g clip-path="url(#c4_85)">
+<path d="M179.5,639.7H241" class="g5_85"/>
+</g>
+<text x="198" y="653" class="sr_85">x</text>
+<text x="205" y="648" class="su_85">n</text>
+<text x="210" y="648" class="sn_85">1</text>
+<text x="217" y="648" class="so_85">2</text>
+<text x="328" y="644" class="sl_85">(b) </text>
+<text transform="matrix(0.91,0,0,1,355,634)" class="sw_85">s</text>
+<text x="366" y="632" class="sr_85">a</text>
+<text x="374" y="635" class="sp_85">s</text>
+<text x="384" y="635" class="sr_85">b</text>
+<path d="M384.9,622.5h9" class="g5_85"/>
+<path d="M366.4,620.1h27.5" class="g6_85"/>
+<g clip-path="url(#c5_85)">
+<path d="M354,640.4h42" class="g5_85"/>
+</g>
+<text x="361" y="656" class="sp_85">s</text>
+<text x="363" y="650" class="sq_85">3</text>
+<text x="371" y="656" dx="0,.7" class="sr_85">ab</text>
+<path d="M371.8,643.3h16.5" class="g5_85"/>
+<text x="134" y="706" class="sm_85">5. </text>
+<text x="152" y="706" class="sl_85">(a) </text>
+<text x="174" y="706" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sl_85">Write an equation that deInes the exponential function </text>
+<text x="174" y="723" class="sl_85">with base </text>
+<text x="230" y="723" class="sr_85">b</text>
+<text x="241" y="723" class="sv_85">.</text>
+<text x="257" y="723" class="sl_85">0.</text>
+<text x="152" y="740" dx="0,0,0,0,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sl_85">(b) What is the domain of this function?</text>
+<text x="152" y="757" dx="0,0,0,0,4.2,0,0" class="sl_85">(c) ±f </text>
+<text x="187" y="757" class="sr_85">b</text>
+<text x="198" y="757" class="sx_85">±</text>
+<text x="214" y="757" class="sl_85">1, what is the range of this function?</text>
+<text x="152" y="773" class="sl_85">(d) </text>
+<text x="174" y="773" dx="0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0" class="sl_85">Sketch the general shape of the graph of the exponential </text>
+<text x="174" y="790" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0" class="sl_85">function for each of the following cases.</text>
+<text x="181" y="807" class="sl_85">(i) </text>
+<text x="204" y="807" class="sr_85">b</text>
+<text x="215" y="807" class="sv_85">.</text>
+<text x="231" y="807" class="sl_85">1</text>
+<text x="177" y="824" class="sl_85">(ii) </text>
+<text x="204" y="824" class="sr_85">b</text>
+<text x="215" y="824" class="sx_85">-</text>
+<text x="231" y="824" class="sl_85">1</text>
+<text x="173" y="841" dx="0,0,0,0,0,0,7.3" class="sl_85">(iii) 0</text>
+<text x="215" y="841" class="sv_85">,</text>
+<text x="231" y="841" class="sr_85">b</text>
+<text x="242" y="841" class="sv_85">,</text>
+<text x="257" y="841" class="sl_85">1</text>
+<text x="134" y="865" class="sm_85">6. </text>
+<text x="152" y="865" dx="0,0,0,0,4.2,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sl_85">(a) How is the number </text>
+<text x="283" y="865" class="sr_85">e</text>
+<text x="292" y="865" class="sl_85">deIned?</text>
+<text x="152" y="882" dx="0,0,0,0,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0" class="sl_85">(b) What is an approximate value for </text>
+<text x="361" y="882" class="sr_85">e</text>
+<text x="367" y="882" class="sl_85">?</text>
+<text x="152" y="899" dx="0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sl_85">(c) What is the natural exponential function?</text>
+<text x="128" y="929" class="sk_85">7–10 </text>
+<text x="163" y="929" dx="0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0" class="sl_85">Graph the given functions on a common screen. How are </text>
+<text x="126" y="946" class="sl_85">these graphs related?</text>
+<text x="134" y="977" class="sm_85">7. </text>
+<text x="152" y="977" class="sr_85">y</text>
+<text x="162" y="977" class="sx_85">-</text>
+<text x="178" y="977" class="sl_85">2</text>
+<text x="185" y="971" class="su_85">x</text>
+<text x="189" y="977" class="sl_85">, </text>
+<text x="206" y="977" class="sr_85">y</text>
+<text x="217" y="977" class="sx_85">-</text>
+<text x="232" y="977" class="sr_85">e</text>
+<text x="240" y="971" class="su_85">x</text>
+<text x="243" y="977" class="sl_85">, </text>
+<text x="261" y="977" class="sr_85">y</text>
+<text x="271" y="977" class="sx_85">-</text>
+<text x="287" y="977" class="sl_85">5</text>
+<text x="294" y="971" class="su_85">x</text>
+<text x="298" y="977" class="sl_85">, </text>
+<text x="316" y="977" class="sr_85">y</text>
+<text x="326" y="977" class="sx_85">-</text>
+<text x="341" y="977" class="sl_85">20</text>
+<text x="357" y="971" class="su_85">x</text>
+<text x="134" y="1007" class="sm_85">8. </text>
+<text x="152" y="1007" class="sr_85">y</text>
+<text x="162" y="1007" class="sx_85">-</text>
+<text x="178" y="1007" class="sr_85">e</text>
+<text x="185" y="1002" class="su_85">x</text>
+<text x="189" y="1007" class="sl_85">, </text>
+<text x="206" y="1007" class="sr_85">y</text>
+<text x="217" y="1007" class="sx_85">-</text>
+<text x="232" y="1007" class="sr_85">e</text>
+<text x="240" y="1002" class="sn_85">2</text>
+<text x="247" y="1002" class="su_85">x</text>
+<text x="250" y="1007" class="sl_85">, </text>
+<text x="268" y="1007" class="sr_85">y</text>
+<text x="278" y="1007" class="sx_85">-</text>
+<text x="294" y="1007" class="sl_85">8</text>
+<text x="301" y="1002" class="su_85">x</text>
+<text x="305" y="1007" class="sl_85">, </text>
+<text x="322" y="1007" class="sr_85">y</text>
+<text x="333" y="1007" class="sx_85">-</text>
+<text x="348" y="1007" class="sl_85">8</text>
+<text x="356" y="1002" class="sn_85">2</text>
+<text x="363" y="1002" class="su_85">x</text>
+<text x="108" y="931" class="sy_85">;</text>
+<path d="M516.4,512H878.5M516.4,681.6H878.5M516.4,1009H878.5" class="g4_85"/>
+<text x="524" y="460" class="sz_85">9. </text>
+<text x="541" y="460" class="sr_85">y</text>
+<text x="552" y="460" class="sx_85">-</text>
+<text x="567" y="460" class="sl_85">3</text>
+<text x="575" y="454" class="su_85">x</text>
+<text x="578" y="460" class="sl_85">, </text>
+<text x="596" y="460" class="sr_85">y</text>
+<text x="606" y="460" class="sx_85">-</text>
+<text x="622" y="460" class="sl_85">10</text>
+<text x="637" y="454" class="su_85">x</text>
+<text x="641" y="460" class="sl_85">, </text>
+<text x="658" y="460" class="sr_85">y</text>
+<text x="668" y="460" class="sx_85">-</text>
+<text transform="matrix(0.71,0,0,1,684,460)" class="s10_85">(</text>
+<text x="690" y="454" class="s11_85">1</text>
+<path d="M690.8,455.9h4.8" class="g7_85"/>
+<text x="690" y="464" class="s11_85">3</text>
+<text transform="matrix(0.71,0,0,1,696,460)" class="s10_85">)</text>
+<text x="701" y="451" class="su_85">x</text>
+<text x="705" y="460" class="sl_85">, </text>
+<text x="722" y="460" class="sr_85">y</text>
+<text x="732" y="460" class="sx_85">-</text>
+<text transform="matrix(0.71,0,0,1,748,460)" class="s10_85">(</text>
+<text x="756" y="454" class="s11_85">1</text>
+<path d="M753.7,455.9h9.6" class="g7_85"/>
+<text x="753" y="464" class="s11_85">10</text>
+<text transform="matrix(0.71,0,0,1,764,460)" class="s10_85">)</text>
+<text x="770" y="451" class="su_85">x</text>
+<text x="517" y="490" class="sm_85">10. </text>
+<text x="541" y="490" class="sr_85">y</text>
+<text x="552" y="490" class="sx_85">-</text>
+<text x="567" y="490" class="sl_85">0.9</text>
+<text x="586" y="485" class="su_85">x</text>
+<text x="590" y="490" class="sl_85">, </text>
+<text x="607" y="490" class="sr_85">y</text>
+<text x="617" y="490" class="sx_85">-</text>
+<text x="633" y="490" class="sl_85">0.6</text>
+<text x="651" y="485" class="su_85">x</text>
+<text x="654" y="490" class="sl_85">, </text>
+<text x="672" y="490" class="sr_85">y</text>
+<text x="682" y="490" class="sx_85">-</text>
+<text x="698" y="490" class="sl_85">0.3</text>
+<text x="716" y="485" class="su_85">x</text>
+<text x="719" y="490" class="sl_85">, </text>
+<text x="737" y="490" class="sr_85">y</text>
+<text x="747" y="490" class="sx_85">-</text>
+<text x="762" y="490" class="sl_85">0.1</text>
+<text x="780" y="485" class="su_85">x</text>
+<text x="517" y="542" class="sk_85">11–16 </text>
+<text x="560" y="542" dx="0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sl_85">Make a rough sketch of the graph of the function. Do not </text>
+<text x="517" y="559" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sl_85">use a calculator. Just use the graphs given in Figures 3 and 13 </text>
+<text x="517" y="576" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sl_85">and, if necessary, the transformations of Section 1.3.</text>
+<text x="517" y="605" class="sm_85">11. </text>
+<text x="541" y="605" class="sr_85">y</text>
+<text x="552" y="605" class="sx_85">-</text>
+<text x="567" y="605" class="sl_85">4</text>
+<text x="575" y="600" class="su_85">x</text>
+<text x="583" y="605" class="sv_85">2</text>
+<text x="598" y="605" class="sl_85">1</text>
+<text x="736" y="605" class="sm_85">12. </text>
+<text x="759" y="605" class="sr_85">y</text>
+<text x="769" y="605" class="sx_85">-</text>
+<text x="785" y="605" class="st_85">s</text>
+<text x="790" y="605" class="sl_85">0.5</text>
+<text x="807" y="605" class="st_85">d</text>
+<text x="812" y="600" class="su_85">x</text>
+<text x="817" y="600" class="sn_85">2</text>
+<text x="824" y="600" class="so_85">1</text>
+<text x="517" y="633" class="sm_85">13. </text>
+<text x="541" y="633" class="sr_85">y</text>
+<text x="552" y="633" class="sx_85">-</text>
+<text x="567" y="633" class="sv_85">2</text>
+<text x="579" y="633" class="sl_85">2</text>
+<text x="586" y="627" class="sn_85">2</text>
+<text x="593" y="627" class="su_85">x</text>
+<text x="736" y="633" class="sm_85">14. </text>
+<text x="759" y="633" class="sr_85">y</text>
+<text x="769" y="633" class="sx_85">-</text>
+<text x="785" y="633" class="sr_85">e</text>
+<text transform="matrix(0.63,0,0,1,793,629)" class="s12_85">|</text>
+<text x="796" y="626" class="su_85">x</text>
+<text transform="matrix(0.63,0,0,1,801,629)" class="s12_85">|</text>
+<text x="517" y="660" class="sz_85">15. </text>
+<text x="541" y="660" class="sr_85">y</text>
+<text x="552" y="660" class="sx_85">-</text>
+<text x="567" y="660" class="sl_85">1</text>
+<text x="578" y="660" class="sv_85">2</text>
+<text x="594" y="654" class="s11_85">1</text>
+<path d="M594.5,656h4.8" class="g7_85"/>
+<text x="594" y="664" class="s11_85">2</text>
+<text x="600" y="660" class="sr_85">e</text>
+<text x="607" y="655" class="sn_85">2</text>
+<text x="613" y="655" class="su_85">x</text>
+<text x="736" y="660" class="sm_85">16. </text>
+<text x="759" y="660" class="sr_85">y</text>
+<text x="769" y="660" class="sx_85">-</text>
+<text x="785" y="660" class="sl_85">2</text>
+<text x="792" y="660" class="st_85">s</text>
+<text x="796" y="660" class="sl_85">1</text>
+<text x="807" y="660" class="sv_85">2</text>
+<text x="823" y="660" class="sr_85">e</text>
+<text x="832" y="655" class="su_85">x</text>
+<text x="837" y="660" class="st_85">d</text>
+<text x="517" y="712" class="sz_85">17. </text>
+<text x="541" y="712" class="sl_85">Starting with the graph of </text>
+<text x="686" y="712" class="sr_85">y</text>
+<text x="696" y="712" class="sx_85">-</text>
+<text x="712" y="712" class="sr_85">e</text>
+<text x="720" y="707" class="su_85">x</text>
+<text x="723" y="712" class="sl_85">, write the equation of the </text>
+<text x="541" y="729" class="sl_85">graph that results from</text>
+<text x="541" y="746" dx="0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,-.1,0,0,0" class="sl_85">(a) shifting 2 units downward.</text>
+<text x="541" y="762" dx="0,0,0,0,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sl_85">(b) shifting 2 units to the right.</text>
+<text x="541" y="779" class="sl_85">(c) </text>
+<text x="564" y="779" class="s13_85">re²ecting about the </text>
+<text x="674" y="779" class="sr_85">x</text>
+<text x="680" y="779" class="s13_85">-axis.</text>
+<text x="541" y="796" dx="0,0,0,0,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s13_85">(d) re²ecting about the </text>
+<text x="674" y="796" class="sr_85">y</text>
+<text x="680" y="796" class="s13_85">-axis.</text>
+<text x="541" y="813" dx="0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s13_85">(e) re²ecting about the </text>
+<text x="674" y="813" class="sr_85">x</text>
+<text x="680" y="813" class="s13_85">-axis and then about the </text>
+<text x="815" y="813" class="sr_85">y</text>
+<text x="821" y="813" class="s13_85">-axis.</text>
+<text x="517" y="837" class="sm_85">18. </text>
+<text x="541" y="837" class="s13_85">Starting with the graph of </text>
+<text x="686" y="837" class="sr_85">y</text>
+<text x="696" y="837" class="sx_85">-</text>
+<text x="712" y="837" class="sr_85">e</text>
+<text x="720" y="832" class="su_85">x</text>
+<text x="723" y="837" class="s13_85">, ±nd the equation of the </text>
+<text x="541" y="854" class="s13_85">graph that results from</text>
+<text x="541" y="871" dx="0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s13_85">(a) re²ecting about the line </text>
+<text x="698" y="871" class="sr_85">y</text>
+<text x="708" y="871" class="sx_85">-</text>
+<text x="724" y="871" class="s13_85">4.</text>
+<text x="541" y="888" dx="0,0,0,0,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s13_85">(b) re²ecting about the line </text>
+<text x="698" y="888" class="sr_85">x</text>
+<text x="708" y="888" class="sx_85">-</text>
+<text x="724" y="888" class="s13_85">2.</text>
+<text x="517" y="920" class="sk_85">19–20 </text>
+<text x="560" y="920" class="s13_85">Find the domain of each function.</text>
+<text x="517" y="952" class="sm_85">19. </text>
+<text x="541" y="952" class="s13_85">(a) </text>
+<text x="566" y="952" class="sr_85">f</text>
+<text x="572" y="952" class="st_85">s</text>
+<text x="577" y="952" class="sr_85">x</text>
+<text x="584" y="952" class="st_85">d</text>
+<text x="592" y="952" class="sx_85">-</text>
+<text x="614" y="943" class="s13_85">1</text>
+<text x="625" y="943" class="sv_85">2</text>
+<text x="641" y="943" class="sr_85">e</text>
+<text x="648" y="937" class="su_85">x</text>
+<text x="653" y="934" class="s14_85">2</text>
+<g clip-path="url(#c6_85)">
+<path d="M608.6,948.4h54.7" class="g5_85"/>
+</g>
+<text x="610" y="962" class="s13_85">1</text>
+<text x="621" y="962" class="sv_85">2</text>
+<text x="636" y="962" class="sr_85">e</text>
+<text x="642" y="956" class="s15_85">1</text>
+<text x="647" y="956" class="sn_85">2</text>
+<text x="654" y="956" class="su_85">x</text>
+<text x="659" y="953" class="s14_85">2</text>
+<text x="736" y="952" class="s13_85">(b) </text>
+<text x="761" y="952" class="sr_85">f</text>
+<text x="767" y="952" class="st_85">s</text>
+<text x="772" y="952" class="sr_85">x</text>
+<text x="778" y="952" class="st_85">d</text>
+<text x="787" y="952" class="sx_85">-</text>
+<text x="805" y="943" class="s13_85">1</text>
+<text x="816" y="943" class="sv_85">1</text>
+<text x="831" y="943" class="sr_85">x</text>
+<g clip-path="url(#c7_85)">
+<path d="M803.4,948.4h36.8" class="g5_85"/>
+</g>
+<text x="809" y="962" class="sr_85">e</text>
+<text x="816" y="956" class="s15_85">cos </text>
+<text x="829" y="956" class="su_85">x</text>
+<text x="517" y="987" class="sm_85">20. </text>
+<text x="541" y="987" class="s13_85">(a) </text>
+<text x="564" y="987" class="s16_85">t</text>
+<text x="571" y="987" class="st_85">s</text>
+<text x="575" y="987" class="sr_85">t</text>
+<text x="579" y="987" class="st_85">d</text>
+<text x="588" y="987" class="sx_85">-</text>
+<text x="604" y="988" class="s16_85">s</text>
+<text x="614" y="987" dx="0,-.8" class="s13_85">10</text>
+<text x="628" y="982" class="su_85">t</text>
+<text x="635" y="987" class="sv_85">2</text>
+<text x="650" y="987" dx="0,-.8,0,0" class="s13_85">100 </text>
+<g clip-path="url(#c8_85)">
+<path d="M614.5,975.2h59.7" class="g5_85"/>
+</g>
+<text x="736" y="987" class="s13_85">(b) </text>
+<text x="759" y="987" class="s16_85">t</text>
+<text x="766" y="987" class="st_85">s</text>
+<text x="770" y="987" class="sr_85">t</text>
+<text x="774" y="987" class="st_85">d</text>
+<text x="783" y="987" class="sx_85">-</text>
+<text x="798" y="987" class="s13_85">sin</text>
+<text x="815" y="987" class="st_85">s</text>
+<text x="820" y="987" class="sr_85">e</text>
+<text x="828" y="982" class="su_85">t</text>
+<text x="834" y="987" class="sv_85">2</text>
+<text x="850" y="987" class="s13_85">1</text>
+<text x="857" y="987" class="st_85">d</text>
+<image preserveAspectRatio="none" x="107" y="398" width="773" height="33" xlink:href="85/img/1.png"/>
+<text x="121" y="1076" class="s17_85">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="s17_85">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: BeaconDingbatsTypeOne_12w;
+	src: url("fonts/BeaconDingbatsTypeOne_12w.woff") format("woff");
+}
+
+@font-face {
+	font-family: BeaconDingbatsTypeOne_1hn;
+	src: url("fonts/BeaconDingbatsTypeOne_1hn.woff") format("woff");
+}
+
+@font-face {
+	font-family: MATH_13_;
+	src: url("fonts/MATH_13_.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1ew;
+	src: url("fonts/TECHMath-Mix_1ew.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1g9;
+	src: url("fonts/TECHMath-Mix_1g9.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1hj;
+	src: url("fonts/TECHMath-Mix_1hj.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_6c;
+	src: url("fonts/TimesLTStd-Roman_6c.woff") format("woff");
+}
+
+@font-face {
+	font-family: ZapfDingbatsITC_my;
+	src: url("fonts/ZapfDingbatsITC_my.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

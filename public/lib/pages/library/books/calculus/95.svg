@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 95 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_95"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0_95"><path d="M647.9,147.8V130.6h95v17.2Z"/></clipPath>
+<clipPath id="c1_95"><path d="M828.2,166.2V149h50.3v17.2Z"/></clipPath>
+<clipPath id="c2_95"><path d="M328.1,350.6V334.8h18.4v15.8Z"/></clipPath>
+<clipPath id="c3_95"><path d="M325.3,402.2V370.1h23.9v32.1Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_95{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_95{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_95{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s4_95{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s5_95{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s6_95{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s7_95{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.s8_95{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.s9_95{
+font-size: 9.17px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sa_95{
+font-size: 9.17px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sb_95{
+font-size: 15.28px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #231F20;
+}
+.sc_95{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sd_95{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.se_95{
+font-size: 13.75px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #231F20;
+}
+.sf_95{
+font-size: 12.22px;
+font-family: TECHMath-Mix_16a;
+fill: #231F20;
+}
+.sg_95{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1k1;
+fill: #231F20;
+}
+.sh_95{
+font-size: 12.22px;
+font-family: TECHMath-Mix_wh;
+fill: #231F20;
+}
+.si_95{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1k7;
+fill: #231F20;
+}
+.sj_95{
+font-size: 12.99px;
+font-family: TECHMath-Mix_1k7;
+fill: #231F20;
+}
+.sk_95{
+font-size: 12.99px;
+font-family: Times-Roman_n6;
+fill: #231F20;
+}
+.sl_95{
+font-size: 14.51px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sm_95{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sn_95{
+font-size: 16.81px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.so_95{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sp_95{
+font-size: 15.28px;
+font-family: MathematicalPi-One-Italic_x2;
+fill: #231F20;
+}
+.sq_95{
+font-size: 9.17px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sr_95{
+font-size: 15.28px;
+font-family: TimesLTStd-Bold_oh;
+fill: #231F20;
+}
+.ss_95{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1kb;
+fill: #231F20;
+}
+.st_95{
+font-size: 9.17px;
+font-family: TECHMath-Mix_1kb;
+fill: #231F20;
+}
+.su_95{
+font-size: 12.99px;
+font-family: TECHMath-Mix_1kb;
+fill: #231F20;
+}
+.sv_95{
+font-size: 10.69px;
+font-family: MathematicalPi-One-Italic_x2;
+fill: #231F20;
+}
+.sw_95{
+font-size: 10.69px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sx_95{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_95{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g1_95{
+fill: #E2F4FC;
+}
+.g2_95{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.687;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_95{
+fill: #231F20;
+}
+.g4_95{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g5_95{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g6_95{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g7_95{
+fill: #CC017A;
+}
+.g8_95{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.458;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g9_95{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.ga_95{
+fill: #00AEEF;
+}
+.gb_95{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.gc_95{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.534;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_95)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="547" y="64" dx="0,.2,.2,.5,.2,.2,.2" class="s1_95">SECTION</text>
+<text x="599" y="64" class="s2_95">1.5</text>
+<text x="629" y="64" dx="0,.2,0,0,.1,.1,.1,.1,.1,-.3,.1,.1,.3,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,0,.1,.1,.1,.2,.1,.1,.1,.1,.1" class="s3_95">Inverse Functions and Logarithms </text>
+<text x="862" y="64" class="s4_95">63</text>
+<text x="360" y="108" dx="0,.1,.1,.1,.1,.1,.1,.1,.1,-.7,0" class="s5_95">Although ln</text>
+<text x="436" y="108" class="s6_95">x</text>
+<text x="446" y="108" dx="0,.1,.1,-.7,.1,.1,-.7,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,-.7,.1,.1,.1,.1,.1,.1,.1,.1,.1,-.7,.1,.1,-.7,.1,.1,-.3,.1,.1" class="s5_95">is an increasing function, it grows </text>
+<text x="655" y="108" dx="0,.1,.1,.1" class="s6_95">very</text>
+<text x="685" y="108" dx="0,.1,.1,-.3,.1,.1,.1,-.7,.1,.1,.1,.1" class="s5_95">slowly when </text>
+<text x="765" y="108" class="s6_95">x</text>
+<text x="777" y="108" class="s7_95">.</text>
+<text x="794" y="108" dx="0,0,.1,-.7,.1,.1,-.7,-.1,.1,.1,.1,.1,-.7,0,0" class="s5_95">1. ±n fact, ln </text>
+<text x="871" y="108" class="s6_95">x</text>
+<text x="342" y="126" dx="0,.1,.1,-.3,.1,.1,1.7,.1,.1,.1,.1,1.7,.1,.1,-.3,.1,.1,.1,1.7,.1,.1,.1,.1,1.7,.1,-.2,.1,1.7,.1,.1,.1,.1,.1,-.3,-.2,.1,1.7,.1,-.3,.1,.1,.1,1.7,.1,.1" class="s5_95">grows more slowly than any positive power of </text>
+<text x="644" y="126" class="s6_95">x</text>
+<text x="651" y="126" dx="0,.1,1.4,-1.1,.1,1.7,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,1.7,.1,.1,.1,.1,1.7,-.1,.1,.1,.1,.1,1.7,.1,.1,1.7,.1,.1,.1,.1,.1,.1,0" class="s5_95">. To illustrate this fact, we compare </text>
+<text x="342" y="144" dx="0,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,-.1,-.3,.1,.1,.1,.1,.1,-.1,.1,.1,-.1,.1,.1,.1,-.1,.1,.1,.1,.1,.1,.1,.1,.1,.1" class="s5_95">approximate values of the functions </text>
+<text x="566" y="144" class="s6_95">y</text>
+<text x="578" y="144" class="s8_95">-</text>
+<text x="595" y="144" class="s5_95">ln</text>
+<text x="611" y="144" class="s6_95">x</text>
+<text x="621" y="144" dx="0,.1,.1,.1" class="s5_95">and </text>
+<text x="648" y="144" class="s6_95">y</text>
+<text x="659" y="144" class="s8_95">-</text>
+<text x="677" y="144" class="s6_95">x</text>
+<text x="685" y="138" class="s9_95">1</text>
+<text x="689" y="138" class="sa_95">y</text>
+<text x="695" y="138" class="s9_95">2</text>
+<text x="704" y="144" class="s8_95">-</text>
+<text x="721" y="145" class="sb_95">s</text>
+<text x="733" y="144" class="s6_95">x</text>
+<g clip-path="url(#c0_95)">
+<path d="M733.3,131h9.9" class="g0_95"/>
+</g>
+<text x="746" y="144" dx="0,.1,.1,-.1,.1,.1,.1,-.1,.1,.1,.1,.1,-.3,.1,.1,.1,.1,-.1,.1,.1,.1,.1,0" class="s5_95">in the following table </text>
+<text x="342" y="163" dx="0,.1,.1,.1,-.6,.1,.1,-.6,.1,.1,.1,.1,.1,-.6,.1,.1,.1,.1,-.6,.1,.1,-.6,.1,.1,.1,.1,.1,.1,.1,-.6,.1,.1,-.6,.1,.1,.1,-.6,.1,.1,.1,-2,-1.6,.1,.1,-.6,.1,.1,.1,-.6,.1,.1,.1,-.6,.1,.1,.1,.1,-.6,.1,.1,.1,.1,.1,.1,.1,.1,.1,-.6,.1,.1,.1,-.6,.1,.1,.1,.1,.1,.1,-.6,.1,.1" class="s5_95">and we graph them in Figures 15 and 16. You can see that initially the graphs of </text>
+<text x="828" y="163" class="s6_95">y</text>
+<text x="840" y="163" class="s8_95">-</text>
+<text x="857" y="163" class="sb_95">s</text>
+<text x="869" y="163" class="s6_95">x</text>
+<g clip-path="url(#c1_95)">
+<path d="M869,149.4h9.9" class="g0_95"/>
+</g>
+<text x="342" y="181" dx="0,.1,.1,.1" class="s5_95">and </text>
+<text x="370" y="181" class="s6_95">y</text>
+<text x="381" y="181" class="s8_95">-</text>
+<text x="398" y="181" class="s5_95">ln</text>
+<text x="413" y="181" class="s6_95">x</text>
+<text x="425" y="181" dx="0,.1,.1,-.3,.1,1.3,.1,.1,1.3,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,1.3,.1,.1,.1,.1,.1,.1,1.3,-.2,.1,.1,1.3,-.3,-.2,.1,.1,.1,.1,.1,.1,.1,.1,1.3,.1,.1,.1,1.3,.1,.1,.1,.1,1.3,.1,.1,.1,.1,.1,.1,.1,.1,1.3,-.1,.1,.1,1.3,.1,.1,.1,.1,.1,.1,.1,.1,0" class="s5_95">grow at comparable rates, but eventually the root function far surpasses </text>
+<text x="342" y="199" dx="0,.1,.1,.1,.1,.1,.1,0,.1,.1,.1,.1,.1,.1" class="s5_95">the logarithm.</text>
+<path d="M312.8,230.6h48.9v44.3H312.8Zm48.9,0h48.9v44.3H361.7Zm48.9,0h48.9v44.3H410.6Zm48.9,0h48.9v44.3H459.5Zm48.9,0h48.9v44.3H508.4Zm48.9,0h48.9v44.3H557.3Zm48.9,0h48.9v44.3H606.2Zm48.9,0h48.8v44.3H655.1Zm48.8,0h48.9v44.3H703.9Zm48.9,0h62.7v44.3H752.8Zm62.7,0h62.6v44.3H815.5Z" class="g1_95"/>
+<path d="M312.8,274.9h48.9v44.3H312.8Zm0,44.3h48.9v44.3H312.8Zm0,44.3h48.9v44.4H312.8Z" class="g1_95"/>
+<path d="M312.4,230.6h49.3m-48.9,44V231m48.9,-.4h48.9m-48.9,44V231m48.9,-.4h48.9m-48.9,44V231m48.9,-.4h48.9m-48.9,44V231m48.9,-.4h48.9m-48.9,44V231m48.9,-.4h48.9m-48.9,44V231m48.9,-.4h48.9m-48.9,44V231m48.9,-.4h48.8m-48.8,44V231m48.8,-.4h48.9m-48.9,44V231m48.9,-.4h62.7m-62.7,44V231m62.7,-.4h63m-63,44V231m62.6,43.6V231M312.4,274.9h49.3m-48.9,44V275.3m48.9,43.6V275.3m48.9,-.4h48.9m-48.9,44V275.3m48.9,-.4h48.9m-48.9,44V275.3m48.9,-.4h48.9m-48.9,44V275.3m48.9,-.4h48.9m-48.9,44V275.3m48.9,-.4h48.9m-48.9,44V275.3m48.9,-.4h48.8m-48.8,44V275.3m48.8,-.4h48.9m-48.9,44V275.3m48.9,-.4h62.7m-62.7,44V275.3m62.7,-.4h63m-63,44V275.3m62.6,43.6V275.3M312.4,319.2h49.3m-48.9,44V319.6m48.9,-.4h48.9m-48.9,44V319.6m48.9,-.4h48.9m-48.9,44V319.6m48.9,-.4h48.9m-48.9,44V319.6m48.9,-.4h48.9m-48.9,44V319.6m48.9,-.4h48.9m-48.9,44V319.6m48.9,-.4h48.9m-48.9,44V319.6m48.9,-.4h48.8m-48.8,44V319.6m48.8,-.4h48.9m-48.9,44V319.6m48.9,-.4h62.7m-62.7,44V319.6m62.7,-.4h63m-63,44V319.6m62.6,43.6V319.6M312.4,363.5h49.3m-48.9,44V363.9m48.9,-.4h48.9m-48.9,44V363.9m48.9,-.4h48.9m-48.9,44V363.9m48.9,-.4h48.9m-48.9,44V363.9m48.9,-.4h48.9m-48.9,44V363.9m48.9,-.4h48.9m-48.9,44V363.9m48.9,-.4h48.9m-48.9,44V363.9m48.9,-.4h48.8m-48.8,44V363.9m48.8,-.4h48.9m-48.9,44V363.9m48.9,-.4h62.7m-62.7,44V363.9m62.7,-.4h63m-63,44V363.9m62.6,43.6V363.9m-565.7,44h49.3m0,0h48.9m0,0h48.9m0,0h48.9m0,0h48.9m0,0h48.9m0,0h48.9m0,0h48.8m0,0h48.9m0,0h62.7m0,0h63M361.7,274.9h48.9" class="g0_95"/>
+<text x="334" y="257" class="sc_95">x</text>
+<text x="382" y="257" class="sd_95">1</text>
+<text x="431" y="257" class="sd_95">2</text>
+<text x="480" y="257" class="sd_95">5</text>
+<text x="525" y="257" class="sd_95">10</text>
+<text x="574" y="257" class="sd_95">50</text>
+<text x="620" y="257" class="sd_95">100</text>
+<text x="669" y="257" class="sd_95">500</text>
+<text x="714" y="257" class="sd_95">1000</text>
+<text x="765" y="257" dx="0,-1.4,0,0,0,0" class="sd_95">10,000</text>
+<text x="824" y="257" dx="0,-1.4,0,0,0,0,0" class="sd_95">100,000</text>
+<text x="327" y="301" class="sd_95">ln</text>
+<text x="341" y="301" class="sc_95">x</text>
+<text x="382" y="301" class="sd_95">0</text>
+<text x="423" y="301" class="sd_95">0.69</text>
+<text x="471" y="301" class="sd_95">1.61</text>
+<text x="520" y="301" class="sd_95">2.30</text>
+<text x="569" y="301" class="sd_95">3.91</text>
+<text x="622" y="301" class="sd_95">4.6</text>
+<text x="670" y="301" class="sd_95">6.2</text>
+<text x="719" y="301" class="sd_95">6.9</text>
+<text x="775" y="301" class="sd_95">9.2</text>
+<text x="834" y="301" class="sd_95">11.5</text>
+<text x="328" y="348" class="se_95">s</text>
+<text x="338" y="347" class="sc_95">x</text>
+<g clip-path="url(#c2_95)">
+<path d="M338.6,335.2h8.2" class="g2_95"/>
+</g>
+<text x="382" y="346" class="sd_95">1</text>
+<text x="423" y="346" class="sd_95">1.41</text>
+<text x="471" y="346" class="sd_95">2.24</text>
+<text x="520" y="346" class="sd_95">3.16</text>
+<text x="569" y="346" class="sd_95">7.07</text>
+<text x="618" y="346" class="sd_95">10.0</text>
+<text x="667" y="346" class="sd_95">22.4</text>
+<text x="716" y="346" class="sd_95">31.6</text>
+<text x="773" y="346" class="sd_95">100</text>
+<text x="836" y="346" class="sd_95">316</text>
+<text x="327" y="379" class="sd_95">ln</text>
+<text x="341" y="379" class="sc_95">x</text>
+<g clip-path="url(#c3_95)">
+<path d="M325.7,384.6h23.9" class="g2_95"/>
+</g>
+<text x="328" y="399" class="se_95">s</text>
+<text x="338" y="398" class="sc_95">x</text>
+<path d="M338.6,386.7h8.2" class="g2_95"/>
+<text x="382" y="386" class="sd_95">0</text>
+<text x="423" y="386" class="sd_95">0.49</text>
+<text x="471" y="386" class="sd_95">0.72</text>
+<text x="520" y="386" class="sd_95">0.73</text>
+<text x="569" y="386" class="sd_95">0.55</text>
+<text x="618" y="386" class="sd_95">0.46</text>
+<text x="667" y="386" class="sd_95">0.28</text>
+<text x="716" y="386" class="sd_95">0.22</text>
+<text x="772" y="386" class="sd_95">0.09</text>
+<text x="834" y="386" class="sd_95">0.04</text>
+<path fill-rule="evenodd" d="M817.7,560.2l-1.6,-2.4l6.5,2.4l-6.5,2.4Z" class="g3_95"/>
+<path fill-rule="evenodd" d="M628.5,449.8l-2.5,1.6l2.5,-6.5l2.4,6.5Z" class="g3_95"/>
+<text x="816" y="572" class="sf_95">x</text>
+<text x="619" y="571" class="sf_95">0</text>
+<text x="617" y="450" class="sg_95">y</text>
+<text x="782" y="576" class="sh_95">1000</text>
+<text x="608" y="494" class="si_95">20</text>
+<path d="M793.5,557.1v6.2M625.4,490h6.1" class="g4_95"/>
+<text x="700" y="464" class="sj_95">y=œ</text>
+<text transform="matrix(1.1,0,0,1,729,464)" class="sj_95">„</text>
+<text x="729" y="464" class="sj_95">x</text>
+<text x="725" y="529" class="sj_95">y=</text>
+<text x="746" y="529" class="sk_95">ln</text>
+<text x="759" y="529" class="sj_95">x</text>
+<path fill-rule="evenodd" d="M543.9,560.2l-1.6,-2.4l6.5,2.4l-6.5,2.4Z" class="g3_95"/>
+<path fill-rule="evenodd" d="M362.8,449.3l-2.4,1.7l2.4,-6.6l2.4,6.6Z" class="g3_95"/>
+<text x="542" y="572" class="si_95">x</text>
+<text x="353" y="572" class="si_95">0</text>
+<text x="352" y="450" class="si_95">y</text>
+<text x="396" y="576" class="si_95">1</text>
+<path d="M359.8,524.6h6.1" class="g4_95"/>
+<text x="350" y="528" class="si_95">1</text>
+<text x="430" y="496" class="sj_95">y=œ</text>
+<text transform="matrix(1.1,0,0,1,460,496)" class="sj_95">„</text>
+<text x="460" y="496" class="sj_95">x</text>
+<text x="461" y="535" class="sj_95">y=</text>
+<text x="482" y="535" class="sk_95">ln</text>
+<text x="495" y="535" class="sj_95">x</text>
+<path d="M822.2,439.2C669.6,487,629.7,523.8,628.3,560.4" class="g5_95"/>
+<path d="M822.2,535.1c0,0,-67.9,1.1,-95.2,1.8c-74.9,3.4,-97.4,1,-97.4,23.3l-.5,33" class="g6_95"/>
+<path d="M548.2,481C410.7,511.3,362.9,533.9,362.9,560.2" class="g5_95"/>
+<path d="M548.2,503.4C437.5,520.5,388,555.6,375.8,593.2" class="g6_95"/>
+<path d="M607.8,560.2H818.2m-189.7,33V449.3M342.2,560.2H544.4m-181.6,33V448.8m35.8,108.3v6.2" class="g4_95"/>
+<text x="342" y="622" dx="0,.3,.3,.3,.3,.3,.1" class="sl_95">FIGURE </text>
+<text x="394" y="622" class="sm_95">15 </text>
+<text x="608" y="622" dx="0,.3,.3,.3,.3,.3" class="sl_95">FIGURE</text>
+<text x="661" y="622" class="sm_95">16</text>
+<path d="M343.8,659c0,0,-1.6,0,-1.6,1.5v9.2c0,0,0,1.5,1.6,1.5h9.1c0,0,1.6,0,1.6,-1.5v-9.2c0,0,0,-1.5,-1.6,-1.5Z" class="g7_95"/>
+<text x="362" y="671" dx="0,.1,-.3,-.2,0,0,0,0,-.7,-.8,0,0,0,0,0,0,0,0,0,0,0,0,0,-.5,0,0,.3,0,0,0,0" class="sn_95">Inverse Trigonometric Functions</text>
+<text x="342" y="694" dx="0,.2,.2,.2,.2,1.3,.2,.2,1.3,.2,.2,.2,1.3,.2,.2,1.3,.2,.2,.2,1.3,.2,.2,.2,1.3,.2,-.5,-.1,.2,.2,.2,.2,1.3,.2,.2,.2,.2,.2,.2,.2,.2,.2,.2,.2,.2,.2,1.3,.2,.2,.2,.2,.2,.2,.2,.2,.2,.2,1.3,.2,.2,1.3,.2,-.2,-.1,.2,1.3,.2,1.3,.2,.2,.2,.2,.2,.2,1.3,.2,.2,-.2,.2,.2,.2,.2,.2,.2,0" class="s5_95">When we try to Ind the inverse trigonometric functions, we have a slight difIculty: </text>
+<text x="342" y="712" dx="0,0,0,0,0,0,0,0,1.3,0,0,0,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,1.3,0,0,0,0,0,0,0,0,0,1.3,0,0,0,1.3,0,0,0,1.3,0,0,0,0,0,0,0,0,0,0,0,1.3,0,0,-.2,0,1.3,0,0,0,-.3,0,1.3,0,-.3,-.2,0,1.3,0,-.6,-.2,0,0,0,0,1.3,0,0,0,0" class="s5_95">Because the trigonometric functions are not one-to-one, they don’t have inverse func-</text>
+<text x="342" y="730" dx="0,0,0,0,0,0,0,1.2,0,0,0,1.5,0,0,-.4,0,0,0,0,0,0,1.5,0,0,1.5,-.2,-.2,0,0,0,0,0,0,1.5,0,0,1.5,0,0,0,0,0,0,0,0,0,0,0,1.5,0,0,0,1.5,0,0,0,0,0,0,0,1.5,0,0,1.5,0,0,0,0,0,1.5,0,0,0,0,0,0,0,0,0,1.5,0,0,1.5,0,0,0,0" class="s5_95">tions. The difIculty is overcome by restricting the domains of these functions so that </text>
+<text x="342" y="749" dx="0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_95">they become one-to-one.</text>
+<text x="359" y="767" dx="0,-1.7,0,0,1.3,0,0,0,1.3,0,0,0,1.3,0,0,0,0,1.3,0,0,0,0,0,0,1.3,0,0,1.3,0,0,0,0,1.3,0,0,0,1.3,0,0,0,0,1.3,0,0,0,0,0,0,0,0" class="s5_95">You can see from Figure 17 that the sine function </text>
+<text x="678" y="767" class="s6_95">y</text>
+<text x="689" y="767" class="s8_95">-</text>
+<text x="707" y="767" class="s5_95">sin </text>
+<text x="729" y="767" class="s6_95">x</text>
+<text x="741" y="767" dx="0,0,0,1.3,0,0,0,1.3,0,0,0,0,0,0,0,0,0,0,1.3,0,0,0,0" class="s5_95">is not one-to-one (use </text>
+<text x="342" y="785" dx="0,0,0,0,.6,0,0,0,0,0,0,0,0,0,0,.5,0,0,0,0,.3,-1.1,0,0,0,0,0,.5,0,0,0,.5,0,0,0,.5,0,0,0,0,0,0,0,0" class="s5_95">the Horizontal Line Test). But the function </text>
+<text x="612" y="785" class="s6_95">f</text>
+<text x="619" y="785" class="so_95">s</text>
+<text x="624" y="785" class="s6_95">x</text>
+<text x="631" y="785" class="so_95">d</text>
+<text x="641" y="785" class="s8_95">-</text>
+<text x="658" y="785" class="s5_95">sin </text>
+<text x="681" y="785" class="s6_95">x</text>
+<text x="687" y="785" class="s5_95">, </text>
+<text x="695" y="785" class="s7_95">2</text>
+<text x="708" y="785" class="sp_95">°</text>
+<text x="718" y="785" class="so_95">y</text>
+<text x="726" y="785" class="s5_95">2</text>
+<text x="738" y="785" class="s7_95">&lt;</text>
+<text x="756" y="785" class="s6_95">x</text>
+<text x="768" y="785" class="s7_95">&lt;</text>
+<text x="785" y="785" class="sp_95">°</text>
+<text x="795" y="785" class="so_95">y</text>
+<text x="803" y="785" class="s5_95">2, </text>
+<text x="819" y="785" class="s6_95">is</text>
+<text x="834" y="785" class="s5_95">one-to-</text>
+<text x="342" y="804" dx="0,0,0,0,.5,0,0,0,0,.5,0,0,0,0,0,0,.5,0,0,0,0,.2,0,0,0,.5,0,-.6,-.2,0,0,0,0,.5,0,0,0,0,0,0,0,0,.5,0,0,.5,0,0,0,0,.5,0,0,0,0,0,0,0,0,0,0,.5,0,0,0,0,.5,0,0,0,0,0,0,0,0" class="s5_95">one (see Figure 18). The inverse function of this restricted sine function </text>
+<text x="792" y="804" class="s6_95">f</text>
+<text x="802" y="804" dx="0,-.2,0,0,0,0,0,.5,0,0,0,.5,0,0" class="s5_95">exists and is </text>
+<text x="342" y="822" dx="0,0,0,0,0,0,0,0,-.3,0,0,-.3,0,0" class="s5_95">denoted by sin</text>
+<text x="431" y="816" class="sq_95">2</text>
+<text x="439" y="816" class="s9_95">1</text>
+<text x="447" y="822" dx="0,0,0,-.3,0,0,0,0,0,0,0,-.3,0,0,-.3,0,0,-.3,0,0,0,0,0,0,-.3,0,0,0" class="s5_95">or arcsin. ±t is called the </text>
+<text x="595" y="822" dx="0,0,-.6,-.2,0,0,0,0,-.3,0,0,0,0,-.3,0,0,0,0,0,0,0" class="sr_95">inverse sine function</text>
+<text x="732" y="822" dx="0,0,0,-.3,0,0,0" class="s5_95">or the </text>
+<text x="770" y="822" dx="0,0,-.3,0,0,0,0,0,-.3,0,0,0,0,0,0,0" class="sr_95">arcsine function</text>
+<text x="874" y="822" class="s5_95">.</text>
+<path d="M735.9,949c29.5,0,57,-54.9,86.4,-54.9M241.6,937.8c20.3,-16.1,40.1,-43.6,60.9,-43.6c29.5,0,57,55,86.4,55c29.5,0,57,-55,86.4,-55c29.5,0,57,55,86.4,55c29.5,0,57,-55,86.4,-55" class="g5_95"/>
+<path d="M239.6,921.7H647.5" class="g4_95"/>
+<path fill-rule="evenodd" d="M647.5,921.7l-1.6,-2.5l6.5,2.5l-6.5,2.4Z" class="g3_95"/>
+<path fill-rule="evenodd" d="M432,868.4l-2.4,1.6l2.4,-6.5l2.5,6.5Z" class="g3_95"/>
+<path d="M345.7,918.6v6.1m172.8,-6.1v6.1" class="g4_95"/>
+<text x="421" y="869" class="sg_95">y</text>
+<text x="436" y="933" class="sg_95">0</text>
+<text x="336" y="938" dx="0,.6" class="ss_95">_π</text>
+<text x="513" y="938" class="ss_95">π</text>
+<text x="647" y="933" class="ss_95">x</text>
+<path d="M478.3,937.1h-5.8" class="g8_95"/>
+<text x="471" y="935" class="st_95">π</text>
+<text x="472" y="945" class="st_95">2</text>
+<path d="M475.3,918.6v6.1" class="g4_95"/>
+<path d="M647.5,903.3H239.6" class="g9_95"/>
+<text x="485" y="887" class="su_95">y=</text>
+<text x="505" y="887" class="sk_95">sin</text>
+<text x="524" y="887" class="su_95">x</text>
+<path d="M690.5,921.6H873.4" class="g4_95"/>
+<path fill-rule="evenodd" d="M873.4,921.6l-1.7,-2.5l6.6,2.5l-6.6,2.4Z" class="g3_95"/>
+<path fill-rule="evenodd" d="M779,868.4l-2.5,1.6l2.5,-6.5l2.4,6.5Z" class="g3_95"/>
+<path d="M735.9,918.5v6.1m86.4,-6.1v6.1" class="g4_95"/>
+<text x="783" y="933" class="ss_95">0</text>
+<text x="768" y="869" class="ss_95">y</text>
+<text x="872" y="933" class="ss_95">x</text>
+<text x="725" y="908" class="ss_95">_</text>
+<path d="M741.6,904.9h-5.9" class="g8_95"/>
+<text x="735" y="902" class="st_95">π</text>
+<text x="736" y="913" class="st_95">2</text>
+<path d="M825.2,935.6h-5.8" class="g8_95"/>
+<text x="818" y="933" class="st_95">π</text>
+<text x="819" y="944" class="st_95">2</text>
+<path d="M734.2,949c0,-.9,.8,-1.7,1.7,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-.9,0,-1.7,-.8,-1.7,-1.8Z" class="ga_95"/>
+<path d="M734.2,949c0,-.9,.8,-1.7,1.7,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.8,-1.7,1.8c-.9,0,-1.7,-.8,-1.7,-1.8Z" class="gb_95"/>
+<path d="M820.4,894.1c0,-1,.8,-1.8,1.7,-1.8c1,0,1.8,.8,1.8,1.8c0,.9,-.8,1.7,-1.8,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="ga_95"/>
+<path d="M820.4,894.1c0,-1,.8,-1.8,1.7,-1.8c1,0,1.8,.8,1.8,1.8c0,.9,-.8,1.7,-1.8,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="gb_95"/>
+<path d="M432,973.2V868.4M779,973.2V868.4" class="g4_95"/>
+<text x="690" y="1005" dx="0,.3,.3,.3,.3,.3,.1" class="sl_95">FIGURE </text>
+<text x="743" y="1005" dx="0,-.8,0" class="sm_95">18 </text>
+<text x="691" y="1022" class="s6_95">y</text>
+<text x="702" y="1022" class="s8_95">-</text>
+<text x="719" y="1022" class="s5_95">sin </text>
+<text x="741" y="1022" class="s6_95">x, </text>
+<text x="755" y="1022" class="s7_95">2</text>
+<text x="768" y="1015" class="sv_95">°</text>
+<path d="M768.6,1017h7.2" class="gc_95"/>
+<text x="769" y="1026" class="sw_95">2</text>
+<text x="780" y="1022" class="s7_95">&lt;</text>
+<text x="797" y="1022" class="s6_95">x</text>
+<text x="809" y="1022" class="s7_95">&lt;</text>
+<text x="826" y="1015" class="sv_95">°</text>
+<path d="M826.7,1017h7.1" class="gc_95"/>
+<text x="827" y="1026" class="sw_95">2</text>
+<text x="240" y="1004" dx="0,.3,.3,.3,.3,.3" class="sl_95">FIGURE</text>
+<text x="292" y="1004" class="sm_95">17</text>
+<text x="121" y="1076" class="sx_95">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="sx_95">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: BeaconDingbatsTypeOne_12w;
+	src: url("fonts/BeaconDingbatsTypeOne_12w.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPi-One-Italic_x2;
+	src: url("fonts/MathematicalPi-One-Italic_x2.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_16a;
+	src: url("fonts/TECHMath-Mix_16a.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1k1;
+	src: url("fonts/TECHMath-Mix_1k1.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1k7;
+	src: url("fonts/TECHMath-Mix_1k7.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1kb;
+	src: url("fonts/TECHMath-Mix_1kb.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_wh;
+	src: url("fonts/TECHMath-Mix_wh.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_n6;
+	src: url("fonts/Times-Roman_n6.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Bold_oh;
+	src: url("fonts/TimesLTStd-Bold_oh.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

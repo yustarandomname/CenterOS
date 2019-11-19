@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 8 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_8"><path d="M0,0H931V1096H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_8{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_8{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s3_8{
+font-size: 16.74px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #231F20;
+}
+.s4_8{
+font-size: 16.04px;
+font-family: MyriadPro-SemiCn_95;
+fill: #231F20;
+}
+.s5_8{
+font-size: 15.28px;
+font-family: MyriadPro-SemiCn_95;
+fill: #231F20;
+}
+.s6_8{
+font-size: 15.28px;
+font-family: MyriadPro-SemiCn_8y;
+fill: #00A54F;
+}
+.s7_8{
+font-size: 16.81px;
+font-family: MyriadPro-SemiboldSemiCn_4e;
+fill: #5B2E91;
+}
+.s8_8{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_8)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="53" y="64" class="s1_8">vi</text>
+<text x="127" y="64" dx="0,0,.1,.1,0,.1,.1,.1" class="s2_8">Contents</text>
+<image preserveAspectRatio="none" x="169" y="94" width="677" height="39" xlink:href="8/img/1.png"/>
+<text x="247" y="160" class="s3_8">8.1</text>
+<text x="292" y="160" dx="0,0,-.2,0,.3,-.2,0,0,0,0" class="s4_8">Arc Length</text>
+<text x="367" y="160" class="s5_8">544</text>
+<text x="308" y="183" dx="0,0,0,0,-.1,-.1,-.2,0,.4,0,.3,-.2,-.2,0,0,0,.2,0,4.6" class="s6_8">Discovery Project •</text>
+<text x="428" y="183" dx="0,0,-.2,0,.3,-.2,0,0,0,0,0,.3,-.2,0,-.1,-.1,0,0,0,4.6,0,0" class="s5_8">Arc Length Contest 550</text>
+<text x="247" y="206" class="s3_8">8.2</text>
+<text x="292" y="206" dx="0,0,-.2,0,0,.3,0,0,.3,0,.3,0,0,.5,0,0,-.1,0,.3,0,0,.3,0,0,-.2,0,0,0,0,0,0,0,4.8,0,0" class="s4_8">Area of a Surface of Revolution 551</text>
+<text x="308" y="228" dx="0,0,0,0,-.1,-.1,-.2,0,.4,0,.3,-.2,-.2,0,0,0,.2,0,4.6" class="s6_8">Discovery Project •</text>
+<text x="428" y="228" dx="0,0,0,0,-.1,0,0,0,0,.3,0,0,.3,0,.3,0,0,0,-.1,0,4.6,0,0" class="s5_8">Rotating on a Slant 557</text>
+<text x="247" y="251" class="s3_8">8.3</text>
+<text x="292" y="251" dx="0,0,0,0,0,0,0,-.1,0,0,0,0,0,.3,-.1,0,.3,-.1,-.2,-.1,0,0,0,0,.3,0,0,0,.3,0,0,-.1,0,0,0,0,0,0,0,0,4.8,0,0" class="s4_8">Applications to Physics and Engineering 558</text>
+<text x="308" y="274" dx="0,0,0,0,-.1,-.1,-.2,0,.4,0,.3,-.2,-.2,0,0,0,.2,0,4.6" class="s6_8">Discovery Project •</text>
+<text x="428" y="274" dx="0,-.2,0,0,0,0,0,0,0,-.1,0,0,.4,0,.3,-.2,0,-.2,0,0,.3,-.2,0,0,0,4.6,0,0" class="s5_8">Complementary Coﬀee Cups 568</text>
+<text x="247" y="297" class="s3_8">8.4</text>
+<text x="292" y="297" dx="0,0,0,0,0,0,0,-.1,0,0,0,0,0,.3,-.1,0,.3,-.1,-.1,0,0,0,0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,0,0,4.9,0,0" class="s4_8">Applications to Economics and Biology 569</text>
+<text x="247" y="320" class="s3_8">8.5</text>
+<text x="292" y="320" dx="0,-.2,-.2,0,0,0,0,0,0,0,.1,0,4.9,0,0" class="s4_8">Probability 573</text>
+<text x="292" y="346" dx="0,0,0,0,0,0,0,4.9,0,0" class="s4_8">Review 581</text>
+<text x="246" y="372" dx="0,-.2,-.2,0,0,0,0,0,0,.3,0,0,0,0,5.2,0,0" class="s7_8">Problems Plus 583</text>
+<image preserveAspectRatio="none" x="169" y="437" width="677" height="38" xlink:href="8/img/2.png"/>
+<text x="247" y="502" class="s3_8">9.1</text>
+<text x="292" y="502" dx="0,.1,0,0,0,0,0,0,0,.3,0,0,0,0,.3,0,0,-.2,0,-.2,0,-.1,0,0,0,0,.3,-.1,0,0,-.1,0,0,0,0,0,4.9,0,0" class="s4_8">Modeling with Diﬀerential Equations 586</text>
+<text x="247" y="525" class="s3_8">9.2</text>
+<text x="292" y="525" dx="0,0,0,-.2,0,.2,0,0,0,0,.3,-.4,0,0,0,0,0,.3,0,0,0,.3,-.1,0,0,0,.4,-1.2,0,.3,.1,0,0,0,0,0,4.9,0,0" class="s4_8">Direction Fields and Euler’s Method 591</text>
+<text x="247" y="548" class="s3_8">9.3</text>
+<text x="292" y="548" dx="0,.1,0,0,0,-.1,0,0,0,0,.3,-.1,0,0,-.1,0,0,0,0,0,4.9,0,0" class="s4_8">Separable Equations 599</text>
+<text x="308" y="571" dx="0,0,0,0,0,0,0,0,.3,-.2,-.2,0,0,0,.2,0,4.6" class="s6_8">Applied Project •</text>
+<text x="417" y="571" dx="0,0,-.1,0,.3,-.7,0,0,0,.3,.1,0,0,0,.3,0,-.3,-.9,0,0,0,.3,0,-.1,0,0,0,0,4.6,0,0" class="s5_8">How Fast Does a Tank Drain? 608</text>
+<text x="308" y="594" dx="0,0,0,0,0,0,0,0,.3,-.2,-.2,0,0,0,.2,0,4.6" class="s6_8">Applied Project •</text>
+<text x="417" y="594" dx="0,-.1,0,0,0,0,.3,0,0,.3,-.7,0,0,-.1,0,-.8,0,.3,.1,0,0,0,0,.3,0,0,.3,0,0,.3,-.2,0,0,0,0,0,.3,.1,-.1,0,0,0,4.6,0,0" class="s5_8">Which Is Faster, Going Up or Coming Down? 609</text>
+<text x="247" y="617" class="s3_8">9.4</text>
+<text x="292" y="617" dx="0,.1,0,0,0,0,0,.3,-.2,0,0,.3,-.4,0,0,0,0,-.1,0,0,0,0,.3,0,-.2,-.1,0,0,0,4.9,0,0" class="s4_8">Models for Population Growth 610</text>
+<text x="247" y="640" class="s3_8">9.5</text>
+<text x="292" y="640" dx="0,0,0,0,0,0,0,.3,-.1,0,0,-.1,0,0,0,0,0,4.9,0,0" class="s4_8">Linear Equations 620</text>
+<text x="247" y="662" class="s3_8">9.6</text>
+<text x="292" y="662" dx="0,-.2,-.2,0,0,-.1,-.1,0,-.1,0,-.2,-.2,0,0,.3,-.1,-.1,0,-.1,0,0,0,4.9,0,0" class="s4_8">Predator-Prey Systems 627</text>
+<text x="292" y="688" dx="0,0,0,0,0,0,0,4.9,0,0" class="s4_8">Review 634</text>
+<text x="246" y="714" dx="0,-.2,-.2,0,0,0,0,0,0,.3,0,0,0,0,5.2,0,0" class="s7_8">Problems Plus 637</text>
+<image preserveAspectRatio="none" x="169" y="781" width="677" height="38" xlink:href="8/img/3.png"/>
+<text x="245" y="846" class="s3_8">10.1</text>
+<text x="296" y="846" dx="0,-.2,0,.4,-.2,0,0,.3,.1,0,0,0,0,0,.3,-.1,0,.3,-.4,0,-.1,0,0,0,0,0,0,0,.3,-.1,0,0,-.1,0,0,0,0,0,4.9,0,0" class="s4_8">Curves Deﬁned by Parametric Equations 640</text>
+<text x="308" y="869" dx="0,0,0,0,0,-.1,-.1,-.1,0,.4,0,.3,-.2,-.2,0,0,0,.2,0,4.6" class="s6_8">Laboratory Project •</text>
+<text x="436" y="869" dx="0,0,0,0,0,0,0,0,.3,0,0,-.2,0,0,0,0,.3,0,-.2,0,0,0,0,.3,0,0,-.2,0,0,0,0,4.6,0,0" class="s5_8">Running Circles Around Circles 648</text>
+<text x="245" y="892" class="s3_8">10.2</text>
+<text x="296" y="892" dx="0,-.1,0,0,0,0,0,0,0,.3,0,0,0,0,.3,-.4,0,-.1,0,0,0,0,0,0,0,.3,-.2,0,.4,-.2,0,0,4.9,0,0" class="s4_8">Calculus with Parametric Curves 649</text>
+<text x="308" y="915" dx="0,0,0,0,0,-.1,-.1,-.1,0,.4,0,.3,-.2,-.2,0,0,0,.2,0,4.7" class="s6_8">Laboratory Project •</text>
+<text x="436" y="915" dx="0,.1,0,0,0,0,0,.3,-.2,0,.4,-.2,0,0,4.6,0,0" class="s5_8">Bézier Curves 657</text>
+<text x="245" y="938" class="s3_8">10.3</text>
+<text x="296" y="938" dx="0,-.4,0,0,0,0,.3,-.2,0,0,-.2,0,0,0,-.1,-.1,0,0,4.9,0,0" class="s4_8">Polar Coordinates 658</text>
+<text x="308" y="961" dx="0,0,0,0,0,-.1,-.1,-.1,0,.4,0,.3,-.2,-.2,0,0,0,.2,0,4.7" class="s6_8">Laboratory Project •</text>
+<text x="436" y="961" dx="0,-.7,0,0,0,0,0,0,0,.3,0,0,.3,-.4,0,0,0,0,.3,-.2,0,.4,-.2,0,0,4.6,0,0" class="s5_8">Families of Polar Curves 668</text>
+<text x="245" y="983" class="s3_8">10.4</text>
+<text x="296" y="983" dx="0,0,-.2,0,0,0,.3,0,0,0,.3,-.2,0,0,0,0,0,0,.3,0,0,.3,-.4,0,0,0,0,.3,-.2,0,0,-.2,0,0,0,-.1,-.1,0,0,4.9,0,0" class="s4_8">Areas and Lengths in Polar Coordinates 669</text>
+<image preserveAspectRatio="none" x="54" y="147" width="175" height="183" xlink:href="8/img/4.png"/>
+<image preserveAspectRatio="none" x="52" y="491" width="177" height="100" xlink:href="8/img/5.png"/>
+<image preserveAspectRatio="none" x="54" y="833" width="175" height="134" xlink:href="8/img/6.png"/>
+<text x="121" y="1076" class="s8_8">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="s8_8">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-SemiCn_8y;
+	src: url("fonts/MyriadPro-SemiCn_8y.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-SemiCn_95;
+	src: url("fonts/MyriadPro-SemiCn_95.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-SemiboldSemiCn_4e;
+	src: url("fonts/MyriadPro-SemiboldSemiCn_4e.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

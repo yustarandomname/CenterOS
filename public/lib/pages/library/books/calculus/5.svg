@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 5 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_5"><path d="M0,0H931V1096H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_5{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_5{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #58595B;
+}
+.s3_5{
+font-size: 24.44px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s4_5{
+font-size: 22.92px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s5_5{
+font-size: 16.74px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #231F20;
+}
+.s6_5{
+font-size: 16.04px;
+font-family: MyriadPro-SemiCn_95;
+fill: #231F20;
+}
+.s7_5{
+font-size: 16.81px;
+font-family: MyriadPro-SemiboldSemiCn_4e;
+fill: #5B2E91;
+}
+.s8_5{
+font-size: 15.28px;
+font-family: MyriadPro-SemiCn_8y;
+fill: #00A54F;
+}
+.s9_5{
+font-size: 15.28px;
+font-family: MyriadPro-SemiCn_95;
+fill: #231F20;
+}
+.sa_5{
+font-size: 45.83px;
+font-family: MyriadPro-SemiboldSemiCn_4e;
+fill: #231F20;
+}
+.sb_5{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_5)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="866" y="1042" class="s1_5">iii</text>
+<image preserveAspectRatio="none" x="0" y="-19" width="954" height="61" xlink:href="5/img/1.png"/>
+<image preserveAspectRatio="none" x="98" y="46" width="865" height="126" style="mix-blend-mode: multiply;" xlink:href="5/img/2.png"/>
+<text x="301" y="217" dx="0,1.1,1.1,1.1,0,.7,1.1,.9" class="s2_5">PREFACE </text>
+<text x="383" y="217" dx="0,.8" class="s2_5">xi</text>
+<text x="301" y="242" dx="0,.6,.9,.6,1.1,1.1,.9,1.2,1.1,1.1,1.1,1.1,1.1,1.1,.9" class="s2_5">TO THE STUDENT </text>
+<text x="445" y="242" dx="0,.8,.8,.8,.8" class="s2_5">xxiii</text>
+<text x="301" y="266" dx="0,1.2,1.1,.5,1.1,1.1,1.1,-.2,.6,1.1,1.1,.9,.8,1.2,.7,1.1,1.1,1.1,1.1,1.1,1.1,1.1,.9,.8,1.2,1.1,1.1,.9,1.2,.6,1.1,1.1,1.1,.9,1.2,1.1,1.2,1.1,1.1,1.1,1.1,1.1,.9,1.2,1.1,1.2,1.1,1.1,1.1,1.1,.9" class="s2_5">CALCULATORS, COMPUTERS, AND OTHER GRAPHING DEVICES </text>
+<text x="776" y="266" dx="0,.8,.8,.8" class="s2_5">xxiv</text>
+<text x="301" y="290" dx="0,1.1,1.1,.7,1.1,1.1,1.1,1.1,1.1,1.1,.9,.6,1.1,1.1,1.1,.9,.9" class="s2_5">DIAGNOSTIC TESTS </text>
+<text x="460" y="290" dx="0,.8,1,.8" class="s2_5">xxvi</text>
+<text x="301" y="329" dx="0,1.2,1.7,.9,1,1.1,1.2,1.2,1.1,1.2,1.7,1.2,1.2,1.7,1,1.2,1.2,1.2,1.2,1.2,1.2" class="s3_5">A Preview of Calculus</text>
+<text x="569" y="327" class="s4_5">1</text>
+<image preserveAspectRatio="none" x="224" y="367" width="677" height="39" xlink:href="5/img/3.png"/>
+<text x="318" y="433" class="s5_5">1.1</text>
+<text x="358" y="433" dx="0,-.4,0,0,0,-.3,-.6,-.1,-.1,0,.3,-.1,0,.3,0,0,0,-.2,0,0,0,-.1,0,.3,0,.3,-.5,0,0,.2,0,0,0,0,4.8,0" class="s6_5">Four Ways to Represent a Function 10</text>
+<text x="318" y="456" class="s5_5">1.2</text>
+<text x="358" y="456" dx="0,.1,-.1,0,0,0,0,-.1,0,0,0,0,0,.3,.1,0,0,0,0,0,0,.3,0,.3,-.1,-.1,0,0,0,0,0,.3,0,0,.3,0,0,0,0,-.1,0,0,0,0,.3,-.5,0,0,.2,0,0,0,0,0,4.8,0" class="s6_5">Mathematical Models: A Catalog of Essential Functions 23</text>
+<text x="318" y="479" class="s5_5">1.3</text>
+<text x="358" y="479" dx="0,0,0,0,.3,-.5,0,0,.2,0,0,0,0,0,.3,0,-.2,0,0,.3,0,0,0,.3,-.5,0,0,.2,0,0,0,0,0,4.9,0" class="s6_5">New Functions from Old Functions 36</text>
+<text x="318" y="501" class="s5_5">1.4</text>
+<text x="358" y="501" dx="0,0,0,0,0,0,0,-.1,0,0,0,0,.3,-.5,0,0,.2,0,0,0,0,0,4.9,0" class="s6_5">Exponential Functions 45</text>
+<text x="318" y="524" class="s5_5">1.5</text>
+<text x="358" y="524" dx="0,.1,-.2,-.2,0,0,0,0,.3,-.5,0,0,.2,0,0,0,0,0,.3,0,0,0,.3,-.2,0,0,0,0,0,0,0,0,0,4.9,0" class="s6_5">Inverse Functions and Logarithms 55</text>
+<text x="358" y="550" dx="0,0,0,0,0,0,0,4.9,0" class="s6_5">Review 68</text>
+<text x="301" y="578" dx="0,-.2,0,0,0,0,0,0,0,0,0,.3,0,0,.3,-.2,-.2,0,0,0,0,0,.3,.1,0,0,0,0,0,0,5.2,0" class="s7_5">Principles of Problem Solving 71</text>
+<image preserveAspectRatio="none" x="224" y="638" width="677" height="38" xlink:href="5/img/4.png"/>
+<text x="318" y="703" class="s5_5">2.1</text>
+<text x="358" y="703" dx="0,-.1,0,0,-.3,-1,0,0,0,0,-.1,0,.3,0,0,0,-.3,-.5,0,0,0,0,0,.1,0,.3,-.2,-.2,0,0,0,0,0,0,4.8,0" class="s6_5">The Tangent and Velocity Problems 78</text>
+<text x="318" y="726" class="s5_5">2.2</text>
+<text x="358" y="726" dx="0,-.1,0,0,.3,0,0,0,0,0,.3,0,0,.3,0,.3,-.5,0,0,.2,0,0,0,0,4.8,0" class="s6_5">The Limit of a Function 83</text>
+<text x="318" y="749" class="s5_5">2.3</text>
+<text x="358" y="749" dx="0,-.1,0,0,0,0,0,-.1,0,0,0,0,.3,0,0,0,0,0,0,.3,-.1,0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,.3,0,-.1,-.1,0,4.8,0" class="s6_5">Calculating Limits Using the Limit Laws 95</text>
+<text x="318" y="772" class="s5_5">2.4</text>
+<text x="358" y="772" dx="0,-.1,0,0,.3,-.2,-.2,0,0,0,0,0,.3,.1,0,0,0,0,0,0,0,0,.3,0,0,.3,0,.3,0,0,0,0,0,4.9,0,0" class="s6_5">The Precise Deﬁnition of a Limit 104</text>
+<text x="318" y="795" class="s5_5">2.5</text>
+<text x="358" y="795" dx="0,-.2,0,-.1,0,0,0,0,0,.1,0,4.9,0,0" class="s6_5">Continuity 114</text>
+<text x="318" y="818" class="s5_5">2.6</text>
+<text x="358" y="818" dx="0,0,0,0,0,0,0,.3,-.1,0,.3,.1,0,0,0,0,.1,.2,0,.3,0,0,0,0,-.1,0,-.1,0,0,0,.3,0,0,0,0,0,-.1,0,-.1,0,0,4.9,0,0" class="s6_5">Limits at Inﬁnity; Horizontal Asymptotes 126</text>
+<text x="318" y="841" class="s5_5">2.7</text>
+<text x="358" y="841" dx="0,.1,0,0,0,-.1,-.1,0,0,-.2,0,0,.3,0,0,0,.3,.2,-.1,-.1,0,0,.3,0,0,.3,0,0,0,0,0,0,4.8,0,0" class="s6_5">Derivatives and Rates of Change 140</text>
+<text x="363" y="864" dx="0,-.3,0,0,0,0,0,0,.3,-.2,-.2,0,0,0,.2,0,4.6" class="s8_5">Writing Project •</text>
+<text x="470" y="864" dx="0,0,0,0,0,0,.3,.1,0,0,0,0,0,0,.3,-.2,0,0,.3,-.3,0,0,0,0,0,0,-.3,-.9,0,0,0,0,-.1,0,0,4.6,0,0" class="s9_5">Early Methods for Finding Tangents 152</text>
+<text x="318" y="887" class="s5_5">2.8</text>
+<text x="358" y="887" dx="0,-.1,0,0,.3,.1,0,0,0,-.1,-.1,0,0,-.2,0,.3,0,0,.3,0,.3,-.5,0,0,.2,0,0,0,0,4.9,0,0" class="s6_5">The Derivative as a Function 152</text>
+<text x="358" y="913" dx="0,0,0,0,0,0,0,4.9,0,0" class="s6_5">Review 165</text>
+<text x="301" y="939" dx="0,-.2,-.2,0,0,0,0,0,0,.3,0,0,0,0,5.2,0,0" class="s7_5">Problems Plus 169</text>
+<image preserveAspectRatio="none" x="107" y="421" width="177" height="177" xlink:href="5/img/5.png"/>
+<image preserveAspectRatio="none" x="107" y="691" width="177" height="140" xlink:href="5/img/6.png"/>
+<text x="161" y="98" dx="0,-.6,0,-.2,-.3,0,-.2,0" class="sa_5">Contents</text>
+<text x="121" y="1076" class="sb_5">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="sb_5">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-SemiCn_8y;
+	src: url("fonts/MyriadPro-SemiCn_8y.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-SemiCn_95;
+	src: url("fonts/MyriadPro-SemiCn_95.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-SemiboldSemiCn_4e;
+	src: url("fonts/MyriadPro-SemiboldSemiCn_4e.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

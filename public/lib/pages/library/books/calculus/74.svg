@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 74 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_74"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0_74"><path d="M419.9,117V97.6H745.8V117Z"/></clipPath>
+<clipPath id="c1_74"><path d="M411.3,410.9V374.3H697.9v36.6Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_74{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_74{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_74{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s4_74{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s5_74{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s6_74{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s7_74{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.s8_74{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.s9_74{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sa_74{
+font-size: 9.63px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sb_74{
+font-size: 12.73px;
+font-family: MATH_1er;
+fill: #231F20;
+}
+.sc_74{
+font-size: 12.73px;
+font-family: TECHMath-Mix_1e9;
+fill: #231F20;
+}
+.sd_74{
+font-size: 11.98px;
+font-family: TECHMath-Mix_160;
+fill: #231F20;
+}
+.se_74{
+font-size: 11.98px;
+font-family: TECHMath-Mix_1bc;
+fill: #231F20;
+}
+.sf_74{
+font-size: 11.98px;
+font-family: TECHMath-Mix_151;
+fill: #231F20;
+}
+.sg_74{
+font-size: 11.98px;
+font-family: TECHMath-Mix_10x;
+fill: #231F20;
+}
+.sh_74{
+font-size: 11.98px;
+font-family: TECHMath-Mix_16e;
+fill: #231F20;
+}
+.si_74{
+font-size: 11.98px;
+font-family: TECHMath-Mix_187;
+fill: #231F20;
+}
+.sj_74{
+font-size: 13.75px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.sk_74{
+font-size: 13.75px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #231F20;
+}
+.sl_74{
+font-size: 19.25px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sm_74{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sn_74{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.so_74{
+font-size: 15.28px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #231F20;
+}
+.sp_74{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sq_74{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sr_74{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.ss_74{
+font-size: 21.39px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.st_74{
+font-size: 16.81px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #231F20;
+}
+.su_74{
+font-size: 12.99px;
+font-family: ZapfDingbatsITC_my;
+fill: #EC008C;
+}
+.sv_74{
+font-size: 16.81px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.sw_74{
+font-size: 17.57px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.sx_74{
+font-size: 9.17px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sy_74{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #EC008C;
+}
+.sz_74{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_74{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.481;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g1_74{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.898;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g2_74{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.898;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g3_74{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.598;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g4_74{
+fill: #231F20;
+}
+.g5_74{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.692;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g6_74{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_74{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.84;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_74)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="53" y="64" class="s1_74">42</text>
+<text x="126" y="64" dx="0,.2,.2,.2,.2,.2,.2,.1" class="s2_74">CHAPTER </text>
+<text x="180" y="64" class="s3_74">1</text>
+<text x="200" y="64" dx="0,-.3,.1,.1,.3,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.2,.1,.1,.1,.1" class="s4_74">Functions and Models</text>
+<text x="485" y="751" class="s5_74">(a) </text>
+<text x="508" y="751" class="s6_74">y</text>
+<text x="518" y="751" class="s7_74">-</text>
+<text x="534" y="751" class="s6_74">f</text>
+<text x="540" y="751" class="s8_74">s</text>
+<text x="545" y="751" class="s6_74">x</text>
+<text x="555" y="751" class="s9_74">2</text>
+<text x="571" y="751" class="s5_74">4</text>
+<text x="578" y="751" class="s8_74">d</text>
+<text x="661" y="751" class="s5_74">(b) </text>
+<text x="684" y="751" class="s6_74">y</text>
+<text x="695" y="751" class="s7_74">-</text>
+<text x="710" y="751" class="s6_74">f</text>
+<text x="716" y="751" class="s8_74">s</text>
+<text x="722" y="751" class="s6_74">x</text>
+<text x="728" y="751" class="s8_74">d</text>
+<text x="736" y="751" class="s9_74">1</text>
+<text x="752" y="751" class="s5_74">3</text>
+<text x="485" y="770" class="s5_74">(c) </text>
+<text x="508" y="770" class="s6_74">y</text>
+<text x="518" y="770" class="s7_74">-</text>
+<text x="534" y="764" class="sa_74">1</text>
+<path d="M534.4,765.8h4.8" class="g0_74"/>
+<text x="534" y="773" class="sa_74">3</text>
+<text x="542" y="770" class="s6_74">f</text>
+<text x="548" y="770" class="s8_74">s</text>
+<text x="553" y="770" class="s6_74">x</text>
+<text x="559" y="770" class="s8_74">d</text>
+<text x="661" y="770" class="s5_74">(d) </text>
+<text x="684" y="770" class="s6_74">y</text>
+<text x="695" y="770" class="s7_74">-</text>
+<text x="710" y="770" class="s9_74">2</text>
+<text x="722" y="770" class="s6_74">f</text>
+<text x="728" y="770" class="s8_74">s</text>
+<text x="733" y="770" class="s6_74">x</text>
+<text x="743" y="770" class="s9_74">1</text>
+<text x="759" y="770" class="s5_74">4</text>
+<text x="766" y="770" class="s8_74">d</text>
+<text x="485" y="789" class="s5_74">(e) </text>
+<text x="508" y="789" class="s6_74">y</text>
+<text x="518" y="789" class="s7_74">-</text>
+<text x="534" y="789" class="s5_74">2</text>
+<text x="542" y="789" class="s6_74">f</text>
+<text x="548" y="789" class="s8_74">s</text>
+<text x="553" y="789" class="s6_74">x</text>
+<text x="564" y="789" class="s9_74">1</text>
+<text x="579" y="789" class="s5_74">6</text>
+<text x="586" y="789" class="s8_74">d</text>
+<text x="649" y="835" class="sb_74">!</text>
+<text x="542" y="834" class="sb_74">@</text>
+<text x="649" y="925" class="sb_74">$</text>
+<text x="578" y="1014" class="sb_74">%</text>
+<text x="721" y="889" class="sb_74">#</text>
+<text x="650" y="886" class="sc_74">f</text>
+<path d="M522.5,911c6.2,-36.8,13.9,-72.1,24.1,-72.1c13.6,0,23,62.3,29.8,107.8m-18,17.8c6.2,18.5,13.9,36.1,24.2,36.1c13.6,0,23,-31.1,29.7,-53.9" class="g1_74"/>
+<path d="M630.3,928.8c6.2,-18.5,13.9,-36,24.1,-36c13.6,0,23,31.2,29.8,53.9" class="g2_74"/>
+<path d="M630.3,940.8c6.2,-6.2,13.9,-12,24.1,-12c13.6,0,23,10.3,29.8,17.9m18,-17.8c6.1,-18.5,13.9,-36.1,24.1,-36.1c13.6,0,23,31.2,29.8,53.9M630.3,875c6.2,-18.5,13.9,-36.1,24.1,-36.1c13.6,0,23,31.2,29.8,53.9" class="g1_74"/>
+<path d="M630.3,1018.6V821" class="g3_74"/>
+<path fill-rule="evenodd" d="M630.3,821l-2.4,1.5l2.4,-6.3l2.4,6.3Z" class="g4_74"/>
+<text x="619" y="822" class="sd_74">y</text>
+<path d="M648.3,943.7v6m-21,15h6m-6,-35.9h6" class="g5_74"/>
+<text x="616" y="896" class="se_74">3</text>
+<text x="608" y="1004" class="sf_74">_</text>
+<text x="616" y="1004" class="se_74">3</text>
+<path d="M774,943.7v6m-17.9,-6v6m-18,-6v6m-18,-6v6m-17.9,-6v6m-18,-6v6m-18,-6v6m-161.7,-6v6m18,-6v6m18,-6v6m17.9,-6v6m18,-6v6m18,-6v6M627.3,838.9h6m-6,18h6m-6,18h6m-6,17.9h6m-6,18h6m-6,89.8h6m-6,-18h6" class="g5_74"/>
+<text x="616" y="842" class="sg_74">6</text>
+<text x="621" y="957" class="sh_74">0</text>
+<path d="M486.6,946.7H792" class="g3_74"/>
+<path fill-rule="evenodd" d="M792,946.7l-1.6,-2.4l6.4,2.4l-6.4,2.4Z" class="g4_74"/>
+<text x="790" y="958" class="si_74">x</text>
+<path d="M612.3,943.7v6" class="g5_74"/>
+<text x="681" y="960" class="se_74">3</text>
+<text x="568" y="960" class="sf_74">_</text>
+<text x="576" y="960" class="se_74">3</text>
+<text x="514" y="960" class="sf_74">_</text>
+<text x="522" y="960" class="sg_74">6</text>
+<text x="735" y="960" class="sg_74">6</text>
+<text x="61" y="749" class="sj_74">1. </text>
+<text x="78" y="749" class="s5_74">Suppose the graph of </text>
+<text x="200" y="749" class="s6_74">f</text>
+<text x="209" y="749" dx="0,0,0,0,0,-.3,-.2,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_74">is given. Write equations for the graphs </text>
+<text x="78" y="766" class="s5_74">that are obtained from the graph of </text>
+<text x="275" y="766" class="s6_74">f</text>
+<text x="284" y="766" dx="0,0,0,0,0,0,0,0,-.3,0,0" class="s5_74">as follows.</text>
+<text x="78" y="783" dx="0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0" class="s5_74">(a) Shift 3 units upward.</text>
+<text x="78" y="799" dx="0,0,0,0,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,-.1,0,0,0" class="s5_74">(b) Shift 3 units downward.</text>
+<text x="78" y="816" dx="0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_74">(c) Shift 3 units to the right.</text>
+<text x="78" y="833" dx="0,0,0,0,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_74">(d) Shift 3 units to the left.</text>
+<text x="78" y="850" dx="0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_74">(e) Re²ect about the </text>
+<text x="198" y="850" class="s6_74">x</text>
+<text x="204" y="850" class="s5_74">-axis.</text>
+<text x="78" y="867" dx="0,0,0,-2.1,0,4.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_74">(f ) Re²ect about the </text>
+<text x="198" y="867" class="s6_74">y</text>
+<text x="204" y="867" class="s5_74">-axis.</text>
+<text x="78" y="883" dx="0,0,0,0,3.5,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0" class="s5_74">(g) Stretch vertically by a factor of 3.</text>
+<text x="78" y="900" dx="0,0,0,0,3.5,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0" class="s5_74">(h) Shrink vertically by a factor of 3.</text>
+<text x="61" y="925" class="sk_74">2. </text>
+<text x="78" y="925" dx="0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_74">Explain how each graph is obtained from the graph of </text>
+<text x="378" y="925" class="s6_74">y</text>
+<text x="389" y="925" class="s7_74">-</text>
+<text x="404" y="925" class="s6_74">f</text>
+<text x="410" y="925" class="s8_74">s</text>
+<text x="416" y="925" class="s6_74">x</text>
+<text x="422" y="925" class="s8_74">d</text>
+<text x="426" y="925" class="s5_74">.</text>
+<text x="78" y="942" class="s5_74">(a) </text>
+<text x="102" y="942" class="s6_74">y</text>
+<text x="112" y="942" class="s7_74">-</text>
+<text x="129" y="942" class="s6_74">f</text>
+<text x="135" y="942" class="s8_74">s</text>
+<text x="140" y="942" class="s6_74">x</text>
+<text x="146" y="942" class="s8_74">d</text>
+<text x="155" y="942" class="s9_74">1</text>
+<text x="171" y="942" class="s5_74">8 </text>
+<text x="255" y="942" class="s5_74">(b) </text>
+<text x="278" y="942" class="s6_74">y</text>
+<text x="288" y="942" class="s7_74">-</text>
+<text x="304" y="942" class="s6_74">f</text>
+<text x="310" y="942" class="s8_74">s</text>
+<text x="315" y="942" class="s6_74">x</text>
+<text x="325" y="942" class="s9_74">1</text>
+<text x="341" y="942" class="s5_74">8</text>
+<text x="348" y="942" class="s8_74">d</text>
+<text x="78" y="961" class="s5_74">(c) </text>
+<text x="102" y="961" class="s6_74">y</text>
+<text x="112" y="961" class="s7_74">-</text>
+<text x="127" y="961" class="s5_74">8</text>
+<text x="136" y="961" class="s6_74">f</text>
+<text x="142" y="961" class="s8_74">s</text>
+<text x="147" y="961" class="s6_74">x</text>
+<text x="153" y="961" class="s8_74">d</text>
+<text x="255" y="961" class="s5_74">(d) </text>
+<text x="278" y="961" class="s6_74">y</text>
+<text x="288" y="961" class="s7_74">-</text>
+<text x="305" y="961" class="s6_74">f</text>
+<text x="311" y="961" class="s8_74">s</text>
+<text x="316" y="961" class="s5_74">8</text>
+<text x="324" y="961" class="s6_74">x</text>
+<text x="330" y="961" class="s8_74">d</text>
+<text x="78" y="980" class="s5_74">(e) </text>
+<text x="102" y="980" class="s6_74">y</text>
+<text x="112" y="980" class="s7_74">-</text>
+<text x="127" y="980" class="s9_74">2</text>
+<text x="139" y="980" class="s6_74">f</text>
+<text x="145" y="980" class="s8_74">s</text>
+<text x="150" y="980" class="s6_74">x</text>
+<text x="156" y="980" class="s8_74">d</text>
+<text x="165" y="980" class="s9_74">2</text>
+<text x="181" y="980" class="s5_74">1 </text>
+<text x="255" y="980" dx="0,0,1.4,0" class="s5_74">(f) </text>
+<text x="278" y="980" class="s6_74">y</text>
+<text x="288" y="980" class="s7_74">-</text>
+<text x="304" y="980" class="s5_74">8</text>
+<text x="312" y="980" class="s6_74">f</text>
+<text transform="matrix(0.71,0,0,1,319,980)" class="sl_74">s</text>
+<text x="325" y="974" class="sa_74">1</text>
+<path d="M324.3,975.7h6.3" class="g0_74"/>
+<text x="324" y="983" class="sa_74">8</text>
+<text x="332" y="980" class="s6_74">x</text>
+<text transform="matrix(0.71,0,0,1,338,980)" class="sl_74">d</text>
+<text x="61" y="1004" class="sk_74">3. </text>
+<text x="78" y="1004" class="s5_74">The graph of </text>
+<text x="153" y="1004" class="s6_74">y</text>
+<text x="163" y="1004" class="s7_74">-</text>
+<text x="179" y="1004" class="s6_74">f</text>
+<text x="185" y="1004" class="s8_74">s</text>
+<text x="190" y="1004" class="s6_74">x</text>
+<text x="196" y="1004" class="s8_74">d</text>
+<text x="204" y="1004" dx="0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_74">is given. Match each equation with its </text>
+<text x="78" y="1021" dx="0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_74">graph and give reasons for your choices.</text>
+<text x="287" y="113" class="sm_74">(d) </text>
+<text x="419" y="113" class="sn_74">s</text>
+<text x="426" y="113" class="so_74">t</text>
+<text x="437" y="117" class="sp_74">8</text>
+<text x="447" y="113" class="so_74">t</text>
+<text x="454" y="113" class="sn_74">ds</text>
+<text x="464" y="113" class="sq_74">x</text>
+<text x="471" y="113" class="sn_74">d</text>
+<text x="481" y="113" class="sr_74">-</text>
+<text x="498" y="113" class="so_74">t</text>
+<text x="505" y="113" class="sn_74">s</text>
+<text x="511" y="113" class="so_74">t</text>
+<text x="518" y="113" class="sn_74">s</text>
+<text x="524" y="113" class="sq_74">x</text>
+<text x="531" y="113" class="sn_74">dd</text>
+<text x="545" y="113" class="sr_74">-</text>
+<text x="563" y="113" class="so_74">t</text>
+<text transform="matrix(0.71,0,0,1,570,113)" class="ss_74">(</text>
+<text x="575" y="113" class="so_74">s</text>
+<text x="587" y="113" class="sm_74">2</text>
+<text x="599" y="113" class="sp_74">2</text>
+<text x="616" y="113" class="sq_74">x</text>
+<path d="M587.4,99.5h38.7" class="g6_74"/>
+<text transform="matrix(0.71,0,0,1,627,113)" class="ss_74">)</text>
+<text x="637" y="113" class="sr_74">-</text>
+<text transform="matrix(0.91,0,0,1,654,113)" class="st_74">s</text>
+<text x="666" y="113" class="sm_74">2</text>
+<text x="678" y="113" class="sp_74">2</text>
+<text x="695" y="114" class="so_74">s</text>
+<text x="707" y="113" class="sm_74">2</text>
+<text x="719" y="113" class="sp_74">2</text>
+<text x="736" y="113" class="sq_74">x</text>
+<g clip-path="url(#c0_74)">
+<path d="M707.6,100.3h38.6" class="g6_74"/>
+<path d="M666.5,98h79.7" class="g7_74"/>
+</g>
+<text x="287" y="148" dx="0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sm_74">This expression is deIned when both 2</text>
+<text x="530" y="148" class="sp_74">2</text>
+<text x="547" y="148" class="sq_74">x</text>
+<text x="558" y="148" class="sp_74">&gt;</text>
+<text x="575" y="148" class="sm_74">0 and 2</text>
+<text x="625" y="148" class="sp_74">2</text>
+<text x="642" y="148" class="so_74">s</text>
+<text x="654" y="148" class="sm_74">2</text>
+<text x="666" y="148" class="sp_74">2</text>
+<text x="683" y="148" class="sq_74">x</text>
+<path d="M654.5,134.7h38.6" class="g6_74"/>
+<text x="697" y="148" class="sp_74">&gt;</text>
+<text x="714" y="148" dx="0,0,0,-.3,0,0,0,0,0,0,0,0" class="sm_74">0. The Irst </text>
+<text x="287" y="166" class="sm_74">inequality means </text>
+<text x="395" y="166" class="sq_74">x</text>
+<text x="406" y="166" class="sp_74">&lt;</text>
+<text x="424" y="166" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,-.4,0,0,0,0,0,0,0,0" class="sm_74">2, and the second is equivalent to </text>
+<text x="630" y="167" class="so_74">s</text>
+<text x="641" y="166" class="sm_74">2</text>
+<text x="653" y="166" class="sp_74">2</text>
+<text x="671" y="166" class="sq_74">x</text>
+<path d="M642,153h38.7" class="g6_74"/>
+<text x="684" y="166" class="sp_74">&lt;</text>
+<text x="702" y="166" class="sm_74">2, or 2</text>
+<text x="746" y="166" class="sp_74">2</text>
+<text x="763" y="166" class="sq_74">x</text>
+<text x="774" y="166" class="sp_74">&lt;</text>
+<text x="792" y="166" class="sm_74">4, or </text>
+<text x="287" y="185" class="sq_74">x</text>
+<text x="298" y="185" dx="0,4.6" class="sp_74">&gt;2</text>
+<text x="328" y="185" dx="0,0,0,-.3,0,0,0,0" class="sm_74">2. Thus </text>
+<text x="378" y="185" class="sp_74">2</text>
+<text x="391" y="185" class="sm_74">2</text>
+<text x="403" y="185" class="sp_74">&lt;</text>
+<text x="421" y="185" class="sq_74">x</text>
+<text x="432" y="185" class="sp_74">&lt;</text>
+<text x="449" y="185" class="sm_74">2, so the domain of </text>
+<text x="571" y="185" class="so_74">t</text>
+<text x="582" y="189" class="sp_74">8</text>
+<text x="592" y="185" class="so_74">t</text>
+<text x="602" y="185" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0" class="sm_74">is the closed interval </text>
+<text x="732" y="185" class="sn_74">f</text>
+<text x="737" y="185" class="sp_74">2</text>
+<text x="749" y="185" class="sm_74">2, 2</text>
+<text x="772" y="185" class="sn_74">g</text>
+<text x="777" y="185" class="sm_74">. </text>
+<text x="813" y="185" class="su_74">■</text>
+<text x="305" y="223" dx="0,-.1,-.1,1.9,-.1,-.1,1.9,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,1.9,-.1,-.1,1.9,-.1,-.1,-.2,-.1,1.9,-.1,-.1,-.1,1.9,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,1.9,-.1,-.1,1.9,-.1,-.1,-.1,-.1,-.1,1.9,-.1,-.1,1.9,-.1,-.1,-.1,-.1,1.9,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,1.9,-.3,-.1,-.1,1.9,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,1.9,-.1,-.1,0" class="sm_74">±t is possible to take the composition of three or more functions. For instance, the </text>
+<text x="287" y="241" dx="0,-.1,-.1,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sm_74">composite function </text>
+<text x="410" y="241" class="sq_74">f</text>
+<text x="419" y="246" class="sp_74">8</text>
+<text x="429" y="241" class="so_74">t</text>
+<text x="440" y="246" class="sp_74">8</text>
+<text x="450" y="241" class="sq_74">h</text>
+<text x="461" y="241" class="sm_74">is found by Irst applying </text>
+<text x="618" y="241" class="sq_74">h</text>
+<text x="626" y="241" class="sm_74">, then </text>
+<text x="664" y="241" class="so_74">t</text>
+<text x="670" y="241" class="sm_74">, and then </text>
+<text x="736" y="241" class="sq_74">f</text>
+<text x="747" y="241" dx="0,0,0,0,0,0,0,0,-.4,0,0" class="sm_74">as follows:</text>
+<text x="475" y="273" class="sn_74">s</text>
+<text x="483" y="273" class="sq_74">f</text>
+<text x="492" y="278" class="sp_74">8</text>
+<text x="501" y="273" class="so_74">t</text>
+<text x="513" y="278" class="sp_74">8</text>
+<text x="522" y="273" class="sq_74">h</text>
+<text x="530" y="273" class="sn_74">ds</text>
+<text x="541" y="273" class="sq_74">x</text>
+<text x="548" y="273" class="sn_74">d</text>
+<text x="557" y="273" class="sr_74">-</text>
+<text x="575" y="273" class="sq_74">f</text>
+<text x="581" y="273" class="sn_74">s</text>
+<text x="588" y="273" class="so_74">t</text>
+<text x="594" y="273" class="sn_74">s</text>
+<text x="599" y="273" class="sq_74">h</text>
+<text x="607" y="273" class="sn_74">s</text>
+<text x="613" y="273" class="sq_74">x</text>
+<text x="620" y="273" class="sn_74">ddd</text>
+<text x="287" y="311" dx="0,.3,.3,.3,.3,.3,.3,.2" class="sv_74">EXAMPLE </text>
+<text x="358" y="311" class="sw_74">8</text>
+<text x="375" y="311" class="sm_74">Find </text>
+<text x="409" y="311" class="sq_74">f</text>
+<text x="418" y="316" class="sp_74">8</text>
+<text x="428" y="311" class="so_74">t</text>
+<text x="439" y="316" class="sp_74">8</text>
+<text x="448" y="311" class="sq_74">h</text>
+<text x="460" y="311" class="sm_74">if </text>
+<text x="475" y="311" class="sq_74">f</text>
+<text x="482" y="311" class="sn_74">s</text>
+<text x="488" y="311" class="sq_74">x</text>
+<text x="494" y="311" class="sn_74">d</text>
+<text x="504" y="311" class="sr_74">-</text>
+<text x="521" y="311" class="sq_74">x</text>
+<text x="528" y="311" dx="0,-1.6" class="sn_74">ys</text>
+<text x="540" y="311" class="sq_74">x</text>
+<text x="551" y="311" class="sp_74">1</text>
+<text x="569" y="311" class="sm_74">1</text>
+<text x="576" y="311" class="sn_74">d</text>
+<text x="581" y="311" class="sm_74">, </text>
+<text x="589" y="311" class="so_74">t</text>
+<text x="596" y="311" class="sn_74">s</text>
+<text x="601" y="311" class="sq_74">x</text>
+<text x="608" y="311" class="sn_74">d</text>
+<text x="618" y="311" class="sr_74">-</text>
+<text x="635" y="311" class="sq_74">x</text>
+<text x="643" y="305" class="sx_74">10</text>
+<text x="653" y="311" class="sm_74">, and </text>
+<text x="686" y="311" class="sq_74">h</text>
+<text x="694" y="311" class="sn_74">s</text>
+<text x="700" y="311" class="sq_74">x</text>
+<text x="706" y="311" class="sn_74">d</text>
+<text x="716" y="311" class="sr_74">-</text>
+<text x="733" y="311" class="sq_74">x</text>
+<text x="745" y="311" class="sp_74">1</text>
+<text x="762" y="311" class="sm_74">3.</text>
+<text x="287" y="339" dx="0,.3,.3,.3,.3,.3,.3,.3" class="sy_74">SOLUTION</text>
+<text x="412" y="354" class="sn_74">s</text>
+<text x="420" y="354" class="sq_74">f</text>
+<text x="428" y="359" class="sp_74">8</text>
+<text x="438" y="354" class="so_74">t</text>
+<text x="449" y="359" class="sp_74">8</text>
+<text x="459" y="354" class="sq_74">h</text>
+<text x="467" y="354" class="sn_74">ds</text>
+<text x="478" y="354" class="sq_74">x</text>
+<text x="484" y="354" class="sn_74">d</text>
+<text x="494" y="354" class="sr_74">-</text>
+<text x="511" y="354" class="sq_74">f</text>
+<text x="518" y="354" class="sn_74">s</text>
+<text x="524" y="354" class="so_74">t</text>
+<text x="531" y="354" class="sn_74">s</text>
+<text x="536" y="354" class="sq_74">h</text>
+<text x="544" y="354" class="sn_74">s</text>
+<text x="550" y="354" class="sq_74">x</text>
+<text x="556" y="354" class="sn_74">ddd</text>
+<text x="576" y="354" class="sr_74">-</text>
+<text x="594" y="354" class="sq_74">f</text>
+<text x="600" y="354" class="sn_74">s</text>
+<text x="607" y="354" class="so_74">t</text>
+<text x="613" y="354" class="sn_74">s</text>
+<text x="619" y="354" class="sq_74">x</text>
+<text x="630" y="354" class="sp_74">1</text>
+<text x="648" y="354" class="sm_74">3</text>
+<text x="655" y="354" class="sn_74">dd</text>
+<text x="493" y="397" class="sr_74">-</text>
+<text x="511" y="397" class="sq_74">f</text>
+<text x="517" y="397" class="sn_74">ss</text>
+<text x="528" y="397" class="sq_74">x</text>
+<text x="539" y="397" class="sp_74">1</text>
+<text x="557" y="397" class="sm_74">3</text>
+<text x="564" y="397" class="sn_74">d</text>
+<text x="569" y="391" class="sx_74">10</text>
+<text x="580" y="397" class="sn_74">d</text>
+<text x="590" y="397" class="sr_74">-</text>
+<text x="624" y="386" class="sn_74">s</text>
+<text x="630" y="386" class="sq_74">x</text>
+<text x="641" y="386" class="sp_74">1</text>
+<text x="658" y="386" class="sm_74">3</text>
+<text x="666" y="386" class="sn_74">d</text>
+<text x="671" y="380" class="sx_74">10</text>
+<g clip-path="url(#c1_74)">
+<path d="M607.9,392.4h90.4" class="g6_74"/>
+</g>
+<text x="609" y="408" class="sn_74">s</text>
+<text x="615" y="408" class="sq_74">x</text>
+<text x="626" y="408" class="sp_74">1</text>
+<text x="644" y="408" class="sm_74">3</text>
+<text x="651" y="408" class="sn_74">d</text>
+<text x="656" y="401" class="sx_74">10</text>
+<text x="670" y="408" class="sp_74">1</text>
+<text x="688" y="408" class="sm_74">1</text>
+<text x="813" y="397" class="su_74">■</text>
+<text x="305" y="444" dx="0,0,0,.6,-.2,0,0,.6,0,0,.6,0,-.3,-.2,0,.6,0,0,0,0,.6,0,0,0,0,0,0,0,0,0,0,0,.6,0,0,.6,-.3,0,0,0,0,.6,0,0,0,0,0,0,0,0,0,0,0,.6,0,0,0,0,0,0,0,0,0,.6,0,0,0,0,.6,0,0,0,0,0,0,0,.6,0,0,0,0,0" class="sm_74">So far we have used composition to build complicated functions from simpler ones. </text>
+<text x="287" y="463" dx="0,0,0,0,1.3,0,0,1.3,0,0,0,0,0,0,0,0,1.3,0,0,1.3,0,0,1.3,0,0,0,0,0,1.3,0,0,0,0,0,0,1.3,0,0,1.3,0,0,1.3,0,0,0,0,1.3,0,0" class="sm_74">But in calculus it is often useful to be able to </text>
+<text x="578" y="463" class="sq_74">decompose</text>
+<text x="651" y="463" dx="0,0,1.3,0,0,0,0,0,0,0,0,0,0,0,1.3,0,0,0,0,0,0,0,0,1.3,0,0,0,0" class="sm_74">a complicated function into </text>
+<text x="287" y="481" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,-.2,0,0,0,0,0,0" class="sm_74">simpler ones, as in the following example.</text>
+<text x="287" y="516" dx="0,0,0,0,0,0,0,-.2" class="sv_74">EXAMPLE </text>
+<text x="355" y="516" class="sw_74">9</text>
+<text x="372" y="516" dx="0,-.2,-.6,-.5,-.2,-.2" class="sm_74">Given </text>
+<text x="410" y="516" class="sq_74">F</text>
+<text x="420" y="516" class="sn_74">s</text>
+<text x="426" y="516" class="sq_74">x</text>
+<text x="432" y="516" class="sn_74">d</text>
+<text x="442" y="516" class="sr_74">-</text>
+<text x="459" y="516" class="sm_74">cos</text>
+<text x="480" y="510" class="sx_74">2</text>
+<text x="484" y="516" class="sn_74">s</text>
+<text x="490" y="516" class="sq_74">x</text>
+<text x="501" y="516" class="sp_74">1</text>
+<text x="519" y="516" class="sm_74">9</text>
+<text x="526" y="516" class="sn_74">d</text>
+<text x="531" y="516" dx="0,-.2,-.6,-.2,-.2,-.2,-.6,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2" class="sm_74">, Ind functions </text>
+<text x="624" y="516" class="sq_74">f</text>
+<text x="631" y="516" dx="0,-.2" class="sm_74">, </text>
+<text x="637" y="516" class="so_74">t</text>
+<text x="644" y="516" dx="0,-.2,-.6,-.2,-.2,-.2" class="sm_74">, and </text>
+<text x="675" y="516" class="sq_74">h</text>
+<text x="686" y="516" dx="0,-.2,-.2,-.2,-.2,-.6,-.2,-.2,-.2,-.2" class="sm_74">such that </text>
+<text x="741" y="516" class="sq_74">F</text>
+<text x="755" y="516" class="sr_74">-</text>
+<text x="772" y="516" class="sq_74">f</text>
+<text x="781" y="521" class="sp_74">8</text>
+<text x="791" y="516" class="so_74">t</text>
+<text x="802" y="521" class="sp_74">8</text>
+<text x="812" y="516" class="sq_74">h</text>
+<text x="819" y="516" class="sm_74">.</text>
+<text x="287" y="544" dx="0,.3,.3,.3,.3,.3,.3,.3,.1" class="sy_74">SOLUTION </text>
+<text x="358" y="544" class="sm_74">Since </text>
+<text x="396" y="544" class="sq_74">F</text>
+<text x="405" y="544" class="sn_74">s</text>
+<text x="411" y="544" class="sq_74">x</text>
+<text x="418" y="544" class="sn_74">d</text>
+<text x="428" y="544" class="sr_74">-</text>
+<text x="445" y="544" class="sn_74">f</text>
+<text x="450" y="544" class="sm_74">cos</text>
+<text x="470" y="544" class="sn_74">s</text>
+<text x="476" y="544" class="sq_74">x</text>
+<text x="488" y="544" class="sp_74">1</text>
+<text x="505" y="544" class="sm_74">9</text>
+<text x="513" y="544" class="sn_74">dg</text>
+<text x="523" y="537" class="sx_74">2</text>
+<text x="528" y="544" class="sm_74">, the formula for </text>
+<text x="632" y="544" class="sq_74">F</text>
+<text x="646" y="544" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0" class="sm_74">says: First add 9, then take </text>
+<text x="287" y="562" class="sm_74">the cosine of the result, and Inally square. So we let</text>
+<text x="398" y="591" class="sq_74">h</text>
+<text x="406" y="591" class="sn_74">s</text>
+<text x="412" y="591" class="sq_74">x</text>
+<text x="418" y="591" class="sn_74">d</text>
+<text x="428" y="591" class="sr_74">-</text>
+<text x="445" y="591" class="sq_74">x</text>
+<text x="457" y="591" class="sp_74">1</text>
+<text x="474" y="591" class="sm_74">9 </text>
+<text x="527" y="591" class="so_74">t</text>
+<text x="534" y="591" class="sn_74">s</text>
+<text x="540" y="591" class="sq_74">x</text>
+<text x="547" y="591" class="sn_74">d</text>
+<text x="556" y="591" class="sr_74">-</text>
+<text x="574" y="591" class="sm_74">cos</text>
+<text x="598" y="591" class="sq_74">x</text>
+<text x="653" y="591" class="sq_74">f</text>
+<text x="659" y="591" class="sn_74">s</text>
+<text x="665" y="591" class="sq_74">x</text>
+<text x="672" y="591" class="sn_74">d</text>
+<text x="681" y="591" class="sr_74">-</text>
+<text x="699" y="591" class="sq_74">x</text>
+<text x="707" y="585" class="sx_74">2</text>
+<text x="287" y="620" class="sm_74">Then </text>
+<text x="382" y="620" class="sn_74">s</text>
+<text x="390" y="620" class="sq_74">f</text>
+<text x="399" y="625" class="sp_74">8</text>
+<text x="408" y="620" class="so_74">t</text>
+<text x="420" y="625" class="sp_74">8</text>
+<text x="429" y="620" class="sq_74">h</text>
+<text x="437" y="620" class="sn_74">ds</text>
+<text x="448" y="620" class="sq_74">x</text>
+<text x="455" y="620" class="sn_74">d</text>
+<text x="464" y="620" class="sr_74">-</text>
+<text x="481" y="620" class="sq_74">f</text>
+<text x="488" y="620" class="sn_74">s</text>
+<text x="495" y="620" class="so_74">t</text>
+<text x="501" y="620" class="sn_74">s</text>
+<text x="506" y="620" class="sq_74">h</text>
+<text x="514" y="620" class="sn_74">s</text>
+<text x="520" y="620" class="sq_74">x</text>
+<text x="527" y="620" class="sn_74">ddd</text>
+<text x="546" y="620" class="sr_74">-</text>
+<text x="564" y="620" class="sq_74">f</text>
+<text x="570" y="620" class="sn_74">s</text>
+<text x="577" y="620" class="so_74">t</text>
+<text x="583" y="620" class="sn_74">s</text>
+<text x="589" y="620" class="sq_74">x</text>
+<text x="601" y="620" class="sp_74">1</text>
+<text x="618" y="620" class="sm_74">9</text>
+<text x="626" y="620" class="sn_74">dd</text>
+<text x="640" y="620" class="sr_74">-</text>
+<text x="658" y="620" class="sq_74">f</text>
+<text x="664" y="620" class="sn_74">s</text>
+<text x="669" y="620" class="sm_74">cos</text>
+<text x="689" y="620" class="sn_74">s</text>
+<text x="695" y="620" class="sq_74">x</text>
+<text x="707" y="620" class="sp_74">1</text>
+<text x="724" y="620" class="sm_74">9</text>
+<text x="732" y="620" class="sn_74">dd</text>
+<text x="464" y="651" class="sr_74">-</text>
+<text x="481" y="651" class="sn_74">f</text>
+<text x="486" y="651" class="sm_74">cos</text>
+<text x="507" y="651" class="sn_74">s</text>
+<text x="512" y="651" class="sq_74">x</text>
+<text x="524" y="651" class="sp_74">1</text>
+<text x="541" y="651" class="sm_74">9</text>
+<text x="549" y="651" class="sn_74">dg</text>
+<text x="560" y="644" class="sx_74">2</text>
+<text x="569" y="651" class="sr_74">-</text>
+<text x="586" y="651" class="sq_74">F</text>
+<text x="595" y="651" class="sn_74">s</text>
+<text x="601" y="651" class="sq_74">x</text>
+<text x="608" y="651" class="sn_74">d</text>
+<text x="813" y="651" class="su_74">■</text>
+<image preserveAspectRatio="none" x="52" y="691" width="773" height="34" xlink:href="74/img/1.png"/>
+<text x="121" y="1076" class="sz_74">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="sz_74">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: BeaconDingbatsTypeOne_12w;
+	src: url("fonts/BeaconDingbatsTypeOne_12w.woff") format("woff");
+}
+
+@font-face {
+	font-family: MATH_1er;
+	src: url("fonts/MATH_1er.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_10x;
+	src: url("fonts/TECHMath-Mix_10x.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_151;
+	src: url("fonts/TECHMath-Mix_151.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_160;
+	src: url("fonts/TECHMath-Mix_160.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_16e;
+	src: url("fonts/TECHMath-Mix_16e.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_187;
+	src: url("fonts/TECHMath-Mix_187.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1bc;
+	src: url("fonts/TECHMath-Mix_1bc.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1e9;
+	src: url("fonts/TECHMath-Mix_1e9.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+@font-face {
+	font-family: ZapfDingbatsITC_my;
+	src: url("fonts/ZapfDingbatsITC_my.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

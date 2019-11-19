@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 17 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_17"><path d="M0,0H931V1096H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_17{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s2_17{
+font-size: 15.28px;
+font-family: MyriadPro-SemiboldSemiCn_4e;
+fill: #231F20;
+}
+.s3_17{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.s4_17{
+font-size: 16.81px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s5_17{
+font-size: 7.64px;
+font-family: ZapfDingbatsITC_my;
+fill: #00AEEF;
+}
+.s6_17{
+font-size: 15.28px;
+font-family: Times-Roman_n6;
+fill: #231F20;
+}
+.s7_17{
+font-size: 14.51px;
+font-family: MyriadPro-Semibold_49;
+fill: #00AEEF;
+}
+.s8_17{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_17{
+fill: #CC017A;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_17)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="781" y="64" dx="0,-.1,0,.1,.1,.1,0,.1" class="s1_17">Preface </text>
+<text x="864" y="64" dx="0,.3" class="s2_17">xv</text>
+<text x="361" y="109" dx="0,0,0,0,1.1,0,0,0,0,1.1,0,0,0,0,0,0,0,0,1.1,0,0,0,-.4,-.2,0,0,0,1.1,0,0,0,0,0,1.1,0,0,0,1.1,0,0,0,0,0,0,0,0,0,0,0,-.4,-.2,0,1.1,-.2,-.2,0,0,0,0,0,0,0,1.1,0,0,0,0,0,0,0,0,1.1,0,0,0,0,0,0,0" class="s3_17">TEC also includes Homework Hints for representative exercises (usually odd-num-</text>
+<text x="342" y="128" dx="0,0,0,0,0,0,0,2,0,0,2,-.4,-.2,0,0,0,2,0,0,0,0,0,0,0,2,0,0,2,0,0,0,2,0,-.2,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,2,-.2,-.2,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0" class="s3_17">bered) in every section of the text, indicated by printing the exercise number in red. </text>
+<text x="342" y="146" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,-.4,-.2,0" class="s3_17">These hints are usually presented in the form of questions and try to imitate an effective </text>
+<text x="342" y="164" dx="0,0,0,0,0,0,0,0,0,-.6,0,0,0,0,0,0,0,0,0,-.6,0,0,-.6,0,0,0,0,0,0,0,0,0,0,0,-.6,0,0,-.6,0,-.6,0,0,0,0,0,0,-.6,0,0,0,0,-.8,0,-.9,0,0,-.2,0,-.6,0,0,0,-.6,0,0,0,0,0,0,0,0,0,0,0,-.6,0,0,-.6,0,0,-.6,0,0,0,-.6,0,0,-.6,0,-.4,-.2,0,0,0" class="s3_17">teaching assistant by functioning as a silent tutor. They are constructed so as not to reveal </text>
+<text x="342" y="183" dx="0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s3_17">any more of the actual solution than is minimally necessary to make further progress.</text>
+<path d="M344.3,212.1c0,0,-1.5,0,-1.5,1.6v9.1c0,0,0,1.6,1.5,1.6h9.2c0,0,1.5,0,1.5,-1.6v-9.1c0,0,0,-1.6,-1.5,-1.6Z" class="g0_17"/>
+<text x="362" y="224" dx="0,0,-.1,-.1,-.1,0,-.2,.1,0,0,-.4,0,-.2,.1,-.1,-.1,-.1,0" class="s4_17">Enhanced WebAssign</text>
+<text x="342" y="247" dx="0,-1.1,0,0,0,0,0,0,0,0,0,.5,0,0,.5,0,-.3,0,0,0,0,.5,0,0,.5,0,0,0,0,0,0,.5,0,0,.5,0,0,0,.5,-.2,0,0,.5,0,0,0,-.4,-.2,0,0,0,.5,0,0,.5,0,0,0,0,0,0,0,0,.5,0,0,.5,0,0,0,0,0,0,0,0,0,.5,0,0,0,0,0,0,0" class="s3_17">Technology is having an impact on the way homework is assigned to students, particu-</text>
+<text x="342" y="265" dx="0,0,0,0,0,0,1.4,0,0,1.4,0,0,-.3,0,0,1.4,0,0,0,0,0,0,0,0,1.1,0,0,0,1.4,0,0,0,1.4,0,0,1.4,0,0,0,0,0,0,1.4,0,0,0,-.4,-.2,0,0,0,1.4,0,0,1.4,0,0,-.4,0,0,0,0,1.4,0,0,0,1.4,0,0,0,1.4,0,0,0,0,0,0,1.4,0,0,0,0,0,0,0" class="s3_17">larly in large classes. The use of online homework is growing and its appeal depends </text>
+<text x="342" y="283" dx="0,0,0,.3,0,0,0,0,.3,0,0,.3,0,0,0,0,.3,0,0,0,0,0,0,0,.3,0,0,0,0,0,0,0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,0,0,0,0,0,-1,0,-.1,-.6,0,0,0,.3,0,0,0,.3,0,0,0,0,0,0,.3,0,0,0,0,0,0,0,.3,0,0,.3,0,-.3,-.2,0,.3,0,0,0,0" class="s3_17">on ease of use, grading precision, and reliability. With the Eighth Edition we have been </text>
+<text x="342" y="302" dx="0,-.2,0,0,0,0,0,0,.8,0,0,0,0,.8,0,0,0,.8,0,0,0,0,0,0,0,0,.8,0,0,0,0,0,0,0,0,0,.8,0,0,0,.4,-1.2,0,0,0,0,0,0,0,0,.8,0,0,.8,0,-.4,-.2,0,0,0,0,.8,0,0,.8,0,0,0,0,0,0,.8,0,0,0,-.4,-.2,0,0,0" class="s3_17">working with the calculus community and WebAssign to develop an online homework </text>
+<text x="342" y="320" dx="0,0,0,0,0,0,0,0,.4,0,0,.4,0,0,.4,0,0,0,.4,0,0,.4,0,0,0,.4,-.2,-.2,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,.4,0,0,0,-.4,-.2,0,0,0,0" class="s3_17">system. Up to 70% of the exercises in each section are assignable as online homework, </text>
+<text x="342" y="338" class="s3_17">including free response, multiple choice, and multi-part formats. </text>
+<text x="361" y="357" dx="0,0,0,0,.5,0,0,0,0,0,0,.5,0,0,0,0,.5,0,0,0,0,0,0,0,0,-.4,0,0,0,-.4,-.2,0,.5,0,0,0,0,0,0,0,0,0,.5,0,0,.5,0,0,0,0,0,.5,0,0,0,0,0,0,0,0,.5,0,0,0,.5,0,0,0,0,0,0,.5,0,0,.5,0,0,0,0,0,0,0" class="s3_17">The system also includes Active Examples, in which students are guided in step-by-</text>
+<text x="342" y="375" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s3_17">step tutorials through text examples, with links to the textbook and to video solutions.</text>
+<path d="M344.3,404.6c0,0,-1.5,0,-1.5,1.6v9.1c0,0,0,1.6,1.5,1.6h9.2c0,0,1.5,0,1.5,-1.6v-9.1c0,0,0,-1.6,-1.5,-1.6Z" class="g0_17"/>
+<text x="362" y="416" dx="0,-.4,0,-.1,-.1,-.1,-.2" class="s4_17">Website</text>
+<text x="342" y="439" dx="0,-.9,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s3_17">Visit CengageBrain.com or stewartcalculus.com for these additional materials:</text>
+<text x="342" y="466" class="s5_17">●</text>
+<text x="361" y="467" dx="0,0,0,0,-.4,-.2,0,0,0,.4,0,0,0,0" class="s6_17">Homework Hints</text>
+<text x="342" y="490" class="s5_17">●</text>
+<text x="361" y="491" dx="0,0,0,0,0,0,0,0,.4,0,-.4,0,0,-.4" class="s6_17">Algebra Review</text>
+<text x="342" y="515" class="s5_17">●</text>
+<text x="361" y="516" dx="0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0,0,0,0,.4,-1.2,0,0,0,.4,0" class="s6_17">Lies My Calculator and Computer Told Me</text>
+<text x="342" y="539" class="s5_17">●</text>
+<text x="361" y="540" dx="0,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,.4,0,0,0,0,0,.4,0,0,.4,0,0,0,.4,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0" class="s6_17">History of Mathematics, with links to the better historical websites</text>
+<text x="342" y="564" class="s5_17">●</text>
+<text x="361" y="565" dx="0,0,0,0,0,0,0,0,0,0,0,.4,-1.2,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,.4,-.2,-.2,0,0,0,0,0,0,.4,0,0,0,0,0,0,.4,-.2,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,.4,-.2,0,0,0,0,0,0,0,.4,0,0,0,.4,0,0,0" class="s6_17">Additional Topics (complete with exercise sets): Fourier Series, Formulas for the </text>
+<text x="361" y="583" dx="0,0,0,0,0,0,0,0,0,0,.4,-1.1,0,0,0,.4,0,0,.4,-1.2,0,0,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,.4,0,-.2,0" class="s6_17">Remainder Term in Taylor Series, Rotation of Axes</text>
+<text x="342" y="607" class="s5_17">●</text>
+<text x="361" y="607" dx="0,0,0,0,0,-.4,-.2,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,.4,-.2,-.2,0,0,0,0,0,0,0,.4,0,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,.4,0,0,-.4,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,0,0" class="s6_17">Archived Problems (Drill exercises that appeared in previous editions, together with </text>
+<text x="361" y="626" dx="0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,0" class="s6_17">their solutions)</text>
+<text x="342" y="649" class="s5_17">●</text>
+<text x="361" y="650" dx="0,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,.4,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,0,0,.4,0,0,0,0,0,.4,0,0,0,0,0,0,0,0" class="s6_17">Challenge Problems (some from the Problems Plus sections from prior editions)</text>
+<text x="342" y="674" class="s5_17">●</text>
+<text x="361" y="675" dx="0,0,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,.4,-1.2,0,0,.4,0,0,0,0,0,0,0,0" class="s6_17">Links, for particular topics, to outside Web resources</text>
+<text x="342" y="698" class="s5_17">●</text>
+<text x="361" y="699" dx="0,0,0,0,0,0,0,0,0,.4,-.9,0,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,0,0,.4,-1.2,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,0,0" class="s6_17">Selected Visuals and Modules from Tools for Enriching Calculus (TEC)</text>
+<image preserveAspectRatio="none" x="106" y="745" width="774" height="38" xlink:href="17/img/1.png"/>
+<text x="342" y="809" dx="0,0,0,0,-.2,0,0,0,0,-.2,0,0,0,0,0,0,-.2,0,0,0,0,-.2,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,-.2,0,0,-.2,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0" class="s6_17">The book begins with four diagnostic tests, in Basic Algebra, Analytic Geometry, Func-</text>
+<text x="342" y="827" dx="0,0,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0,0,0,0,0,0,0,0" class="s6_17">tions, and Trigonometry.</text>
+<text x="342" y="863" dx="0,0,0,0,0,.4,0,0,.4,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,.4,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0" class="s6_17">This is an overview of the subject and includes a list of questions to motivate the study </text>
+<text x="342" y="881" dx="0,0,0,.4,0,0,0,0,0,0,0,0" class="s6_17">of calculus.</text>
+<text x="342" y="916" dx="0,0,0,0,0,.7,0,0,0,.7,0,0,0,0,0,0,0,0,0,0,.7,0,0,0,0,0,0,0,0,.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.7,0,0,.7,0,0,0,0,0,0,0,0,0,.7,0,0,0,.7,0,0,0,0,0,0,0,0,0,.7,0,0,0,0,0,0,0,.7,0,0,0,0,0,0" class="s6_17">From the beginning, multiple representations of functions are stressed: verbal, numeri-</text>
+<text x="342" y="934" dx="0,0,0,0,0,.2,0,0,0,0,0,0,0,.2,0,0,0,.2,0,0,0,0,0,0,0,0,0,0,.2,0,.2,0,0,0,0,0,0,0,0,0,0,.1,0,0,.2,0,0,0,0,0,0,0,0,0,0,0,0,.1,0,0,0,0,0,0,.2,0,0,0,0,0,.1,0,0,.2,0,.2,0,0,0,0,0,0,.2,0,0,.2,0,0,0" class="s6_17">cal, visual, and algebraic. A discussion of mathematical models leads to a review of the </text>
+<text x="342" y="953" dx="0,0,0,0,0,0,0,0,0,2.3,0,0,0,0,0,0,0,0,0,0,2.3,0,0,0,0,0,0,0,0,0,2.3,0,0,0,0,0,0,0,0,0,0,0,2.3,0,0,0,2.3,0,0,0,0,0,0,0,0,0,0,0,2.3,0,0,0,0,0,0,0,0,0,0,2.3,0,0,0,0,2.3,0,0,0,0,0,2.3,0,0,0,0" class="s6_17">standard functions, including exponential and logarithmic functions, from these four </text>
+<text x="342" y="971" dx="0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0" class="s6_17">points of view.</text>
+<text x="342" y="1006" dx="0,0,0,0,1.7,0,0,0,0,0,0,0,0,1.7,0,0,1.7,0,0,0,0,0,0,1.7,0,0,1.7,0,0,0,0,0,0,0,0,0,1.7,0,0,1.7,0,1.7,0,0,0,0,0,1.7,0,0,0,0,0,0,0,0,0,0,1.7,0,0,1.7,0,0,0,1.7,0,0,0,0,0,0,0,1.7,0,0,0,1.7,0,0,0,0,0,0,0,0" class="s6_17">The material on limits is motivated by a prior discussion of the tangent and velocity </text>
+<text x="342" y="1025" dx="0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,-.4,0,0,0,-.4,0,0,0,0,0,0,0,-.4,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,-.4,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0" class="s6_17">problems. Limits are treated from descriptive, graphical, numerical, and algebraic points </text>
+<text x="342" y="1043" dx="0,0,0,.2,0,0,0,0,0,.2,0,0,0,0,0,0,0,.2,0,0,0,0,.2,0,0,.2,0,0,0,.2,0,0,0,0,0,0,0,.2,0,0,0,0,0,0,0,0,0,.2,0,0,.2,0,.2,0,0,0,0,0,0,.2,0,0,.2,0,0,.2,0,0,0,0,0,0,0,0,.2,0,0,0,0,0,0,0,0,.2,0,0,0,0,0,0,0,0" class="s6_17">of view. Section 2.4, on the precise deﬁnition of a limit, is an optional section. Sections </text>
+<text x="221" y="808" dx="0,.1,0,0,.1,.1,0,.1,0,0,0,0,-.9,.1,.1,.2" class="s7_17">Diagnostic Tests</text>
+<text x="189" y="861" dx="0,0,0,0,.1,-.1,.1,0,0,0,0,.1,0,0,.1,0,.1,0,0,0,0" class="s7_17">A Preview of Calculus</text>
+<text x="170" y="915" class="s7_17">1</text>
+<text x="185" y="915" dx="0,-.3,0,.1,.3,0,0,.1,0,0,0,0,.1,0,0,.1,.1,.1,.1,0" class="s7_17">Functions and Models</text>
+<text x="169" y="1005" dx="0,0,4.3,0,0,0,0,.2,0,0,0,.1,0,0,.1,.1,0,.1,0,0,0,.1,-.1,.1" class="s7_17">2 Limits and Derivatives</text>
+<text x="121" y="1076" class="s8_17">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="s8_17">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-SemiboldSemiCn_4e;
+	src: url("fonts/MyriadPro-SemiboldSemiCn_4e.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_n6;
+	src: url("fonts/Times-Roman_n6.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_6c;
+	src: url("fonts/TimesLTStd-Roman_6c.woff") format("woff");
+}
+
+@font-face {
+	font-family: ZapfDingbatsITC_my;
+	src: url("fonts/ZapfDingbatsITC_my.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

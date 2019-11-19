@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 45 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_45"><path d="M0,0H931V1096H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_45{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_45{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_45{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s4_45{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s5_45{
+font-size: 15.28px;
+font-family: TimesLTStd-Bold_oh;
+fill: #231F20;
+}
+.s6_45{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_-s;
+fill: #231F20;
+}
+.s7_45{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s8_45{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.s9_45{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.sa_45{
+font-size: 15.28px;
+font-family: MathematicalPi-One-Italic_x2;
+fill: #231F20;
+}
+.sb_45{
+font-size: 9.17px;
+font-family: TimesLTStd-Roman_-s;
+fill: #231F20;
+}
+.sc_45{
+font-size: 24.44px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sd_45{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.se_45{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sf_45{
+font-size: 9.17px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sg_45{
+font-size: 12.22px;
+font-family: TECHMath-Mix_13x;
+fill: #231F20;
+}
+.sh_45{
+font-size: 12.22px;
+font-family: MATH_13_;
+fill: #231F20;
+}
+.si_45{
+font-size: 12.22px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sj_45{
+font-size: 14.51px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sk_45{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sl_45{
+font-size: 13.75px;
+font-family: CenturyOldStyle-Italic__q;
+fill: #231F20;
+}
+.sm_45{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sn_45{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.so_45{
+font-size: 12.38px;
+font-family: CenturyOldStyle-Italic__q;
+fill: #231F20;
+}
+.sp_45{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sq_45{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sr_45{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_45{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g1_45{
+fill: #231F20;
+}
+.g2_45{
+fill: #00AEEF;
+}
+.g3_45{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g4_45{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g5_45{
+fill: #E2F4FC;
+}
+.g6_45{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_45)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="544" y="64" dx="0,.2,.2,.5,.2,.2,.2" class="s1_45">SECTION</text>
+<text x="596" y="64" class="s2_45">1.1</text>
+<text x="626" y="64" dx="0,-.3,.1,.1,.1,-.3,-.3,0,0,.1,.1,0,.1,.1,.2,.1,.1,0,.1,.1,.1,.1,.1,.1,.1,.1,-.3,.1,.1,.3,.1,.1,.1,.1" class="s3_45">Four Ways to Represent a Function </text>
+<text x="862" y="64" class="s4_45">13</text>
+<text x="342" y="107" class="s5_45">A.</text>
+<text x="368" y="107" dx="0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0" class="s6_45">The most useful representation of the area of a circle as a function of its radius is </text>
+<text x="368" y="126" dx="0,0,0,0,0,0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,0,0,0,0,.3,0,0,0,0,0,0,0" class="s6_45">proBaBly the algeBraic formula </text>
+<text x="562" y="126" class="s7_45">A</text>
+<text x="572" y="126" class="s8_45">s</text>
+<text x="577" y="126" class="s7_45">r</text>
+<text x="583" y="126" class="s8_45">d</text>
+<text x="592" y="126" class="s9_45">-</text>
+<text x="610" y="126" class="sa_45">°</text>
+<text x="620" y="126" class="s7_45">r</text>
+<text x="628" y="120" class="sb_45">2</text>
+<text x="633" y="126" dx="0,0,.3,0,0,0,0,0,0,.3,0,0,.3,0,0,.3,0,0,0,0,0,0,0,0,.3,0,0,.3,0,0,0,0,0,0,0,.3,0,.3,0,0,0,0,0" class="s6_45">, though it is possiBle to compile a taBle </text>
+<text x="368" y="144" dx="0,0,0,.1,-.4,0,0,0,0,0,.1,0,0,.1,0,0,.1,0,-.2,0,0,0,0,.1,0,.1,0,0,0,0,0,.1,0,0,0,0,0,.1,0,.1,0,0,0,0,0,0,0,0,0,0,.1,0,0,0,0,0,0,0,.1,0,.1,0,0,0,0,0,0,.1,0,0,0,.1,0,0,.1,0,-.3,-.2,0,.1,0,.1,0,0,0,0" class="s6_45">of values or to sketch a graph (half a paraBola). ³ecause a circle has to have a posi-</text>
+<text x="368" y="162" dx="0,0,-.4,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s6_45">tive radius, the domain is </text>
+<text x="525" y="162" class="s8_45">h</text>
+<text x="530" y="162" class="s7_45">r</text>
+<text transform="matrix(0.63,0,0,1,541,166)" class="sc_45">|</text>
+<text x="551" y="162" class="s7_45">r</text>
+<text x="561" y="162" class="sd_45">.</text>
+<text x="579" y="162" class="s6_45">0</text>
+<text x="586" y="162" class="s8_45">j</text>
+<text x="596" y="162" class="s9_45">-</text>
+<text x="613" y="162" class="s8_45">s</text>
+<text x="618" y="162" class="s6_45">0,</text>
+<text x="633" y="162" class="sd_45">`</text>
+<text x="643" y="162" class="s8_45">d</text>
+<text x="648" y="162" class="s6_45">, and the range is also </text>
+<text x="784" y="162" class="s8_45">s</text>
+<text x="789" y="162" class="s6_45">0,</text>
+<text x="804" y="162" class="sd_45">`</text>
+<text x="814" y="162" class="s8_45">d</text>
+<text x="819" y="162" class="s6_45">.</text>
+<text x="342" y="184" class="s5_45">B.</text>
+<text x="368" y="184" dx="0,-1.2,0,-.1,0,0,0,-.1,0,-.4,-.2,0,0,-.1,0,-.1,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,-.1,0,0,0,-.1,0,0,0,0,0,0,0,0,-.1,0,0,-.1,-.2,0,0,0,0,0" class="s6_45">We are given a description of the function in words: </text>
+<text x="687" y="184" class="s7_45">P</text>
+<text x="697" y="184" class="s8_45">s</text>
+<text x="702" y="184" class="s7_45">t</text>
+<text x="706" y="184" class="s8_45">d</text>
+<text x="715" y="184" dx="0,0,0,-.1,0,0,0,-.1,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,-.1,0,0" class="s6_45">is the human population of </text>
+<text x="368" y="202" dx="0,0,0,0,.2,-.2,0,0,0,0,.2,0,0,.2,0,0,0,0" class="s6_45">the world at time </text>
+<text x="476" y="202" class="s7_45">t</text>
+<text x="481" y="202" dx="0,0,.2,0,0,0,-.8,0,.2,0,0,0,0,0,0,0" class="s6_45">. Let’s measure </text>
+<text x="578" y="202" class="s7_45">t</text>
+<text x="587" y="202" dx="0,0,0,.2,0,0,0,0" class="s6_45">so that </text>
+<text x="631" y="202" class="s7_45">t</text>
+<text x="640" y="202" class="s9_45">-</text>
+<text x="657" y="202" dx="0,0,.2,0,0,0,0,0,0,0,0,0,0,0,.2,0,0,.2,0,0,0,.2,0,0,0,0,.2,0,0,0,0,0,0,0,0,0" class="s6_45">0 corresponds to the year 1900. The </text>
+<text x="368" y="221" dx="0,0,0,0,0,0,-.8,0,0,-.8,-.4,0,0,0,0,0,-.8,0,0,-.8,-.2,0,0,0,0,-.8,0,0,0,0,0,0,0,0,0,0,-.8,0,0,-.2,0,0,0,0,0,-.8,0,-.8,0,0,-.6,-.2,0,0,0,0,0,0,-.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.8,0,0,-.8,0,0,0,0,-.8,0,0,0,0" class="s6_45">taBle of values of world population provides a convenient representation of this func-</text>
+<text x="368" y="239" dx="0,0,0,0,0,0,.6,0,0,.6,0,0,.6,0,0,0,0,.6,0,0,0,0,0,.6,-.4,0,0,0,0,0,0,.6,0,0,.6,0,0,0,.6,0,0,0,.6,0,0,0,0,0,.6,0,0,0,0,0,0,0,.6,0" class="s6_45">tion. ²f we plot these values, we get the graph (called a </text>
+<text x="713" y="239" dx="0,0,0,0,0,0,0,0,.6,0,0,0,0" class="s7_45">scatter plot)</text>
+<text x="792" y="239" dx="0,0,0,.6,0,0,0,0,0,0,.6,0,0,.6,0,0" class="s6_45">in Figure 9. ²t </text>
+<text x="368" y="257" dx="0,0,0,0,-.6,0,0,-.6,0,-.6,0,0,0,0,0,0,-.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.7,0,0,0,-.6,0,0,0,0,0,-.6,0,0,0,-.4,0,0,-.6,0,0,-.6,0,0,-.6,0,0,0,0,0,0,-.6,0,0,0,-.6,0,0,0,-.6,0,0,0,0,-.6,0,0,-.6,0,0,0,0,0,-1.1,0,0,0,0" class="s6_45">too is a useful representation; the graph allows us to aBsorB all the data at once. What </text>
+<text x="368" y="276" dx="0,0,0,0,0,0,.5,0,.5,0,0,0,0,0,0,0,0,.5,0,0,.5,0,0,0,0,0,0,0,.5,0,0,-.8,0,.5,0,0,0,0,0,0,0,0,0,0,.5,0,0,.5,0,-.4,0,0,0,0,.5,0,0,.5,-.2,0,0,0,0,0,0,0,.5,0,0,0,0,0,0,0,.5,0,0,0,0,.5,0,-.4,-.2,0,0" class="s6_45">aBout a formula? Of course, it’s impossiBle to devise an explicit formula that gives </text>
+<text x="368" y="294" dx="0,0,0,0,-.4,-.2,0,0,0,0,-.4,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0" class="s6_45">the exact human population </text>
+<text x="539" y="294" class="s7_45">P</text>
+<text x="548" y="294" class="s8_45">s</text>
+<text x="553" y="294" class="s7_45">t</text>
+<text x="558" y="294" class="s8_45">d</text>
+<text x="566" y="294" dx="0,0,0,-.4,0,-.2,0,-.4,0,0,0,0" class="s6_45">at any time </text>
+<text x="636" y="294" class="s7_45">t</text>
+<text x="641" y="294" dx="0,0,-.4,0,0,0,-.4,0,0,-.4,0,0,-.4,0,0,0,0,0,0,0,0,-.4,0,0,-.4,0,0,0,-.4,0,0,-.4,-.2,0,0,0,0,0,0,0,0,0" class="s6_45">. ³ut it is possiBle to Ind an expression </text>
+<text x="368" y="312" dx="0,0,0,0,1.2,0,1.2,0,0,0,0,0,0,0,0,1.2,0,0,0,0" class="s6_45">for a function that </text>
+<text x="486" y="312" dx="0,0,0,0,-.7,0,0,0,0,0,0,0" class="s7_45">approximates</text>
+<text x="574" y="312" class="s7_45">P</text>
+<text x="583" y="312" class="s8_45">s</text>
+<text x="588" y="312" class="s7_45">t</text>
+<text x="593" y="312" class="s8_45">d</text>
+<text x="598" y="312" dx="0,0,1.2,0,0,1.2,-.2,0,0,0,0,1.2,0,0,0,0,0,1.2,0,0,0,0,0,0,0,1.2,-.2,0,0,0,0,0,0,0,0,1.2,0,0,1.2,0,0,0,0,0,0,0" class="s6_45">. ²n fact, using methods explained in Section </text>
+<text x="368" y="331" class="s6_45">1.2, we oBtain the approximation</text>
+<text x="477" y="363" class="s7_45">P</text>
+<text x="486" y="363" class="s8_45">s</text>
+<text x="491" y="363" class="s7_45">t</text>
+<text x="495" y="363" dx="0,4.6" class="s8_45">d&lt;</text>
+<text x="522" y="363" class="s7_45">f</text>
+<text x="529" y="363" class="s8_45">s</text>
+<text x="534" y="363" class="s7_45">t</text>
+<text x="538" y="363" class="s8_45">d</text>
+<text x="548" y="363" class="s9_45">-</text>
+<text x="565" y="363" class="s8_45">s</text>
+<text x="570" y="363" class="s6_45">1.43653</text>
+<text x="624" y="363" class="sd_45">3</text>
+<text x="641" y="363" class="s6_45">10</text>
+<text x="658" y="357" class="sb_45">9</text>
+<text x="664" y="363" class="s8_45">d</text>
+<text x="672" y="363" class="se_45">∙ </text>
+<text x="680" y="363" class="s8_45">s</text>
+<text x="685" y="363" class="se_45">1.01395</text>
+<text x="735" y="363" class="s8_45">d</text>
+<text x="741" y="357" class="sf_45">t</text>
+<text x="368" y="396" dx="0,0,0,0,0,0,0,.2,0,0,.2,0,0,-.4,0,0,.2,0,0,0,0,.2,0,0,.2,0,0,.2,0,.2,0,0,0,0,0,0,0,0,0,0,.2,0,0,0,0,.2,0,0,0,-1.1,0,-.1,0,0,0,.2,0,0,0,0,0,0,0,0" class="se_45">Figure 10 shows that it is a reasonably good “It.” The function </text>
+<text x="760" y="396" class="s7_45">f</text>
+<text x="770" y="396" dx="0,0,0,.2,0,0,0,0,0,0,.2,0" class="se_45">is called a </text>
+<text x="836" y="396" class="s7_45">mathe-</text>
+<text x="368" y="415" class="s7_45">matical</text>
+<text x="417" y="415" class="s7_45">model</text>
+<text x="458" y="415" dx="0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,-.4,0,0,-.4,0,0,0,0,-.4,0,0,-.4,0,0,0,0,0,-.4,-.2,0,0,0,0,0,-.4,0,0,-.4,0,0,-.4,0,-.4,0,0,0,0,0,0,0,0,-.4,0,0,0,0,-.4,0,0,-.4,-.2,0,0,0,0,0,0,0" class="se_45">for population growth. ±n other words, it is a function with an explicit </text>
+<text x="368" y="433" dx="0,0,0,0,0,0,0,0,-.3,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,-.3,0,0,0,-.3,0,0,0,0,-.3,0,0,-.3,0,0,0,-.3,0,-.4,-.2,0,0,-.3,0,0,0,0,0,0,0,0,0,-.8,-1.2,0,-.3,0,0,0,0,-.3,0,0,0,0,-.3,0,-.4,0,-.4,-.2,0,-.6,0" class="se_45">formula that approximates the behavior of our given function. We will see, however, </text>
+<text x="368" y="451" dx="0,0,0,0,0,.6,0,0,0,.6,0,0,0,0,0,.6,0,0,.6,0,0,0,0,0,0,0,0,.6,0,0,0,.6,0,0,.6,0,0,0,0,0,0,0,.6,0,0,.6,0,.6,0,0,0,0,0,.6,0,0,.6,-.4,0,0,0,0,0,0,.6,0,0,.6,-.2,0,0,0,0,0,0,0,.6,0,0,0,0,0,0,0,.6,0,0" class="se_45">that the ideas of calculus can be applied to a table of values; an explicit formula is </text>
+<text x="368" y="470" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0" class="se_45">not necessary. </text>
+<path d="M114.1,686.3H468.6" class="g0_45"/>
+<path fill-rule="evenodd" d="M466.1,686.3l-1.6,-2.5l6.5,2.5l-6.5,2.4Z" class="g1_45"/>
+<path fill-rule="evenodd" d="M159,496.8l-2.4,1.7l2.4,-6.6l2.4,6.6Z" class="g1_45"/>
+<path d="M155.9,539.6h6.2m-6.2,-24.4h6.2" class="g0_45"/>
+<path d="M157.9,645.8c0,-.6,.5,-1.1,1.1,-1.1c.6,0,1.1,.5,1.1,1.1c0,.6,-.5,1.2,-1.1,1.2c-.6,0,-1.1,-.6,-1.1,-1.2Z" class="g2_45"/>
+<path d="M157.9,645.8c0,-.6,.5,-1.1,1.1,-1.1c.6,0,1.1,.5,1.1,1.1c0,.6,-.5,1.2,-1.1,1.2c-.6,0,-1.1,-.6,-1.1,-1.2Z" class="g3_45"/>
+<text x="117" y="567" class="sg_45">5</text>
+<text x="123" y="567" class="sh_45">x</text>
+<text x="137" y="567" dx="0,-.1,.7" class="sg_45">10'</text>
+<text x="516" y="567" class="sg_45">5</text>
+<text x="523" y="567" class="sh_45">x</text>
+<text x="536" y="567" dx="0,-.1,.7" class="sg_45">10'</text>
+<text x="147" y="498" class="sg_45">P</text>
+<text x="466" y="698" class="sg_45">t</text>
+<path d="M180.8,643.9c0,-.7,.5,-1.2,1.1,-1.2c.7,0,1.2,.5,1.2,1.2c0,.6,-.5,1.1,-1.2,1.1c-.6,0,-1.1,-.5,-1.1,-1.1Z" class="g2_45"/>
+<path d="M180.8,643.9c0,-.7,.5,-1.2,1.1,-1.2c.7,0,1.2,.5,1.2,1.2c0,.6,-.5,1.1,-1.2,1.1c-.6,0,-1.1,-.5,-1.1,-1.1Z" class="g3_45"/>
+<path d="M203.7,641.4c0,-.6,.5,-1.1,1.1,-1.1c.7,0,1.2,.5,1.2,1.1c0,.6,-.5,1.2,-1.2,1.2c-.6,0,-1.1,-.6,-1.1,-1.2Z" class="g2_45"/>
+<path d="M203.7,641.4c0,-.6,.5,-1.1,1.1,-1.1c.7,0,1.2,.5,1.2,1.1c0,.6,-.5,1.2,-1.2,1.2c-.6,0,-1.1,-.6,-1.1,-1.2Z" class="g3_45"/>
+<path d="M226.6,635.9c0,-.7,.5,-1.2,1.1,-1.2c.7,0,1.2,.5,1.2,1.2c0,.6,-.5,1.1,-1.2,1.1c-.6,0,-1.1,-.5,-1.1,-1.1Z" class="g2_45"/>
+<path d="M226.6,635.9c0,-.7,.5,-1.2,1.1,-1.2c.7,0,1.2,.5,1.2,1.2c0,.6,-.5,1.1,-1.2,1.1c-.6,0,-1.1,-.5,-1.1,-1.1Z" class="g3_45"/>
+<path d="M249.5,630.3c0,-.6,.5,-1.1,1.2,-1.1c.6,0,1.1,.5,1.1,1.1c0,.7,-.5,1.2,-1.1,1.2c-.7,0,-1.2,-.5,-1.2,-1.2Z" class="g2_45"/>
+<path d="M249.5,630.3c0,-.6,.5,-1.1,1.2,-1.1c.6,0,1.1,.5,1.1,1.1c0,.7,-.5,1.2,-1.1,1.2c-.7,0,-1.2,-.5,-1.2,-1.2Z" class="g3_45"/>
+<path d="M272.4,624.8c0,-.6,.6,-1.1,1.2,-1.1c.6,0,1.1,.5,1.1,1.1c0,.7,-.5,1.2,-1.1,1.2c-.6,0,-1.2,-.5,-1.2,-1.2Z" class="g2_45"/>
+<path d="M272.4,624.8c0,-.6,.6,-1.1,1.2,-1.1c.6,0,1.1,.5,1.1,1.1c0,.7,-.5,1.2,-1.1,1.2c-.6,0,-1.2,-.5,-1.2,-1.2Z" class="g3_45"/>
+<path d="M295.3,612.8c0,-.6,.6,-1.2,1.2,-1.2c.6,0,1.1,.6,1.1,1.2c0,.6,-.5,1.1,-1.1,1.1c-.6,0,-1.2,-.5,-1.2,-1.1Z" class="g2_45"/>
+<path d="M295.3,612.8c0,-.6,.6,-1.2,1.2,-1.2c.6,0,1.1,.6,1.1,1.2c0,.6,-.5,1.1,-1.1,1.1c-.6,0,-1.2,-.5,-1.2,-1.1Z" class="g3_45"/>
+<path d="M318.3,596.2c0,-.6,.5,-1.1,1.1,-1.1c.7,0,1.2,.5,1.2,1.1c0,.7,-.5,1.2,-1.2,1.2c-.6,0,-1.1,-.5,-1.1,-1.2Z" class="g2_45"/>
+<path d="M318.3,596.2c0,-.6,.5,-1.1,1.1,-1.1c.7,0,1.2,.5,1.2,1.1c0,.7,-.5,1.2,-1.2,1.2c-.6,0,-1.1,-.5,-1.1,-1.2Z" class="g3_45"/>
+<path d="M341.2,578c0,-.6,.5,-1.1,1.1,-1.1c.7,0,1.2,.5,1.2,1.1c0,.6,-.5,1.2,-1.2,1.2c-.6,0,-1.1,-.6,-1.1,-1.2Z" class="g2_45"/>
+<path d="M341.2,578c0,-.6,.5,-1.1,1.1,-1.1c.7,0,1.2,.5,1.2,1.1c0,.6,-.5,1.2,-1.2,1.2c-.6,0,-1.1,-.6,-1.1,-1.2Z" class="g3_45"/>
+<path d="M364.1,557.5c0,-.6,.5,-1.1,1.1,-1.1c.7,0,1.2,.5,1.2,1.1c0,.7,-.5,1.2,-1.2,1.2c-.6,0,-1.1,-.5,-1.1,-1.2Z" class="g2_45"/>
+<path d="M364.1,557.5c0,-.6,.5,-1.1,1.1,-1.1c.7,0,1.2,.5,1.2,1.1c0,.7,-.5,1.2,-1.2,1.2c-.6,0,-1.1,-.5,-1.1,-1.2Z" class="g3_45"/>
+<path d="M387,537.9c0,-.6,.5,-1.1,1.2,-1.1c.6,0,1.1,.5,1.1,1.1c0,.6,-.5,1.1,-1.1,1.1c-.7,0,-1.2,-.5,-1.2,-1.1Z" class="g2_45"/>
+<path d="M387,537.9c0,-.6,.5,-1.1,1.2,-1.1c.6,0,1.1,.5,1.1,1.1c0,.6,-.5,1.1,-1.1,1.1c-.7,0,-1.2,-.5,-1.2,-1.1Z" class="g3_45"/>
+<path d="M409.9,518.3c0,-.6,.6,-1.1,1.2,-1.1c.6,0,1.1,.5,1.1,1.1c0,.7,-.5,1.2,-1.1,1.2c-.6,0,-1.2,-.5,-1.2,-1.2Z" class="g2_45"/>
+<path d="M409.9,518.3c0,-.6,.6,-1.1,1.2,-1.1c.6,0,1.1,.5,1.1,1.1c0,.7,-.5,1.2,-1.1,1.2c-.6,0,-1.2,-.5,-1.2,-1.2Z" class="g3_45"/>
+<text x="197" y="701" class="sg_45">20</text>
+<path d="M204.8,683.2v6.1" class="g0_45"/>
+<text x="244" y="701" class="sg_45">40</text>
+<path d="M250.7,683.2v6.1" class="g0_45"/>
+<text x="289" y="701" class="sg_45">60</text>
+<path d="M296.5,683.2v6.1" class="g0_45"/>
+<text x="335" y="701" class="sg_45">80</text>
+<path d="M342.3,683.2v6.1m45.9,-6.1v6.1M434,683.2v6.1" class="g0_45"/>
+<text x="378" y="701" dx="0,.2,.7,0,16.5,0,0" class="sg_45">100 120</text>
+<text x="600" y="701" class="sg_45">20</text>
+<text x="646" y="701" class="sg_45">40</text>
+<text x="691" y="701" class="sg_45">60</text>
+<text x="654" y="720" dx="0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="si_45">Years since 1900</text>
+<text x="249" y="720" dx="0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="si_45">Years since 1900</text>
+<text x="737" y="701" dx="0,0,0,18.3,.2,.7,0,16.5,0,0" class="sg_45">80 100 120</text>
+<path d="M155.9,661.8h6.2m-6.2,-24.4h6.2m-6.2,-24.5h6.2m-6.2,-24.4h6.2m-6.2,-24.4h6.2M518.4,686.3H872.9" class="g0_45"/>
+<path fill-rule="evenodd" d="M867.9,686.3l-1.6,-2.5l6.5,2.5l-6.5,2.4Z" class="g1_45"/>
+<path fill-rule="evenodd" d="M560.8,501.4l-2.4,1.6l2.4,-6.5l2.4,6.5Z" class="g1_45"/>
+<path d="M557.7,539.6h6.2m-6.2,-24.4h6.2" class="g0_45"/>
+<path d="M559.7,645.8c0,-.6,.5,-1.1,1.1,-1.1c.6,0,1.1,.5,1.1,1.1c0,.6,-.5,1.2,-1.1,1.2c-.6,0,-1.1,-.6,-1.1,-1.2Z" class="g2_45"/>
+<path d="M559.7,645.8c0,-.6,.5,-1.1,1.1,-1.1c.6,0,1.1,.5,1.1,1.1c0,.6,-.5,1.2,-1.1,1.2c-.6,0,-1.1,-.6,-1.1,-1.2Z" class="g3_45"/>
+<text x="549" y="503" class="sg_45">P</text>
+<text x="868" y="698" class="sg_45">t</text>
+<path d="M582.6,643.9c0,-.7,.5,-1.2,1.1,-1.2c.7,0,1.2,.5,1.2,1.2c0,.6,-.5,1.1,-1.2,1.1c-.6,0,-1.1,-.5,-1.1,-1.1Z" class="g2_45"/>
+<path d="M582.6,643.9c0,-.7,.5,-1.2,1.1,-1.2c.7,0,1.2,.5,1.2,1.2c0,.6,-.5,1.1,-1.2,1.1c-.6,0,-1.1,-.5,-1.1,-1.1Z" class="g3_45"/>
+<path d="M605.5,641.4c0,-.6,.5,-1.1,1.1,-1.1c.7,0,1.2,.5,1.2,1.1c0,.6,-.5,1.2,-1.2,1.2c-.6,0,-1.1,-.6,-1.1,-1.2Z" class="g2_45"/>
+<path d="M605.5,641.4c0,-.6,.5,-1.1,1.1,-1.1c.7,0,1.2,.5,1.2,1.1c0,.6,-.5,1.2,-1.2,1.2c-.6,0,-1.1,-.6,-1.1,-1.2Z" class="g3_45"/>
+<path d="M628.4,635.9c0,-.7,.5,-1.2,1.2,-1.2c.6,0,1.1,.5,1.1,1.2c0,.6,-.5,1.1,-1.1,1.1c-.7,0,-1.2,-.5,-1.2,-1.1Z" class="g2_45"/>
+<path d="M628.4,635.9c0,-.7,.5,-1.2,1.2,-1.2c.6,0,1.1,.5,1.1,1.2c0,.6,-.5,1.1,-1.1,1.1c-.7,0,-1.2,-.5,-1.2,-1.1Z" class="g3_45"/>
+<path d="M651.3,630.3c0,-.6,.5,-1.1,1.2,-1.1c.6,0,1.1,.5,1.1,1.1c0,.7,-.5,1.2,-1.1,1.2c-.7,0,-1.2,-.5,-1.2,-1.2Z" class="g2_45"/>
+<path d="M651.3,630.3c0,-.6,.5,-1.1,1.2,-1.1c.6,0,1.1,.5,1.1,1.1c0,.7,-.5,1.2,-1.1,1.2c-.7,0,-1.2,-.5,-1.2,-1.2Z" class="g3_45"/>
+<path d="M674.2,624.8c0,-.6,.6,-1.1,1.2,-1.1c.6,0,1.1,.5,1.1,1.1c0,.7,-.5,1.2,-1.1,1.2c-.6,0,-1.2,-.5,-1.2,-1.2Z" class="g2_45"/>
+<path d="M674.2,624.8c0,-.6,.6,-1.1,1.2,-1.1c.6,0,1.1,.5,1.1,1.1c0,.7,-.5,1.2,-1.1,1.2c-.6,0,-1.2,-.5,-1.2,-1.2Z" class="g3_45"/>
+<path d="M697.2,612.8c0,-.6,.5,-1.2,1.1,-1.2c.6,0,1.1,.6,1.1,1.2c0,.6,-.5,1.1,-1.1,1.1c-.6,0,-1.1,-.5,-1.1,-1.1Z" class="g2_45"/>
+<path d="M697.2,612.8c0,-.6,.5,-1.2,1.1,-1.2c.6,0,1.1,.6,1.1,1.2c0,.6,-.5,1.1,-1.1,1.1c-.6,0,-1.1,-.5,-1.1,-1.1Z" class="g3_45"/>
+<path d="M720.1,596.2c0,-.6,.5,-1.1,1.1,-1.1c.7,0,1.2,.5,1.2,1.1c0,.7,-.5,1.2,-1.2,1.2c-.6,0,-1.1,-.5,-1.1,-1.2Z" class="g2_45"/>
+<path d="M720.1,596.2c0,-.6,.5,-1.1,1.1,-1.1c.7,0,1.2,.5,1.2,1.1c0,.7,-.5,1.2,-1.2,1.2c-.6,0,-1.1,-.5,-1.1,-1.2Z" class="g3_45"/>
+<path d="M743,578c0,-.6,.5,-1.1,1.1,-1.1c.7,0,1.2,.5,1.2,1.1c0,.6,-.5,1.2,-1.2,1.2c-.6,0,-1.1,-.6,-1.1,-1.2Z" class="g2_45"/>
+<path d="M743,578c0,-.6,.5,-1.1,1.1,-1.1c.7,0,1.2,.5,1.2,1.1c0,.6,-.5,1.2,-1.2,1.2c-.6,0,-1.1,-.6,-1.1,-1.2Z" class="g3_45"/>
+<path d="M765.9,557.5c0,-.6,.5,-1.1,1.2,-1.1c.6,0,1.1,.5,1.1,1.1c0,.7,-.5,1.2,-1.1,1.2c-.7,0,-1.2,-.5,-1.2,-1.2Z" class="g2_45"/>
+<path d="M765.9,557.5c0,-.6,.5,-1.1,1.2,-1.1c.6,0,1.1,.5,1.1,1.1c0,.7,-.5,1.2,-1.1,1.2c-.7,0,-1.2,-.5,-1.2,-1.2Z" class="g3_45"/>
+<path d="M788.8,537.9c0,-.6,.5,-1.1,1.2,-1.1c.6,0,1.1,.5,1.1,1.1c0,.6,-.5,1.1,-1.1,1.1c-.7,0,-1.2,-.5,-1.2,-1.1Z" class="g2_45"/>
+<path d="M788.8,537.9c0,-.6,.5,-1.1,1.2,-1.1c.6,0,1.1,.5,1.1,1.1c0,.6,-.5,1.1,-1.1,1.1c-.7,0,-1.2,-.5,-1.2,-1.1Z" class="g3_45"/>
+<path d="M811.7,518.3c0,-.6,.6,-1.1,1.2,-1.1c.6,0,1.1,.5,1.1,1.1c0,.7,-.5,1.2,-1.1,1.2c-.6,0,-1.2,-.5,-1.2,-1.2Z" class="g2_45"/>
+<path d="M811.7,518.3c0,-.6,.6,-1.1,1.2,-1.1c.6,0,1.1,.5,1.1,1.1c0,.7,-.5,1.2,-1.1,1.2c-.6,0,-1.2,-.5,-1.2,-1.2Z" class="g3_45"/>
+<path d="M606.6,683.2v6.1m45.9,-6.1v6.1m45.8,-6.1v6.1m45.8,-6.1v6.1M790,683.2v6.1m45.8,-6.1v6.1M557.7,661.8h6.2m-6.2,-24.4h6.2m-6.2,-24.5h6.2m-6.2,-24.4h6.2m-6.2,-24.4h6.2" class="g0_45"/>
+<path d="M561.4,651.6c33.5,-7,176.7,-40.1,261.6,-135.4" class="g4_45"/>
+<path d="M159,704.6V495.3M560.8,709.2V499.9" class="g0_45"/>
+<text x="149" y="698" class="sg_45">0</text>
+<text x="551" y="698" class="sg_45">0</text>
+<text x="111" y="748" dx="0,.3,.3,.3,.3,.3,.1" class="sj_45">FIGURE </text>
+<text x="164" y="748" class="sk_45">9</text>
+<text x="515" y="748" dx="0,.3,.3,.3,.3,.3,.1" class="sj_45">FIGURE </text>
+<text x="568" y="748" class="sk_45">10</text>
+<text x="386" y="780" dx="0,0,0,0,-.4,0,0,0,0,0,0,0,0" class="se_45">The function </text>
+<text x="468" y="780" class="s7_45">P</text>
+<text x="480" y="780" dx="0,0,0,-.4,0,0,0,0,0,0,0,-.4,0,0,-.4,0,0,0,-.4,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,-.4,0,0,0,0,0,-.4,0,0,0,0,-.4,-.2,0,0,-.4,0,0,-.4,0,0,0,0,0,0,0,-.4,0,0,-.4,0,0,0,0,0" class="se_45">is typical of the functions that arise whenever we attempt to apply </text>
+<text x="368" y="798" dx="0,0,0,0,0,0,0,0,0,.1,0,0,.1,0,0,0,.1,0,0,0,0,.1,-.2,0,0,0,0,0,-.4,-1.2,0,.1,0,0,0,0,0,.1,0,0,0,0,.1,0,.1,-.2,0,0,0,0,0,.1,0,0,0,0,0,0,0,0,0,0,0,.1,0,0,.1,0,.1,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,.1,0,0" class="se_45">calculus to the real world. We start with a verbal description of a function. Then we </text>
+<text x="368" y="816" dx="0,0,0,0,.4,0,0,.4,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,0,0,.4,0,.4,0,0,0,0,0,.4,0,0,.4,-.4,0,0,0,0,0,.4,0,0,.4,0,0,0,.4,0,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,0,0,.4,0,0,0,0,0,0,0,0,0,0" class="se_45">may be able to construct a table of values of the function, perhaps from instrument </text>
+<text x="368" y="835" dx="0,0,0,0,0,0,0,0,0,-.4,0,0,-.4,0,-.4,0,0,0,0,0,0,0,0,0,-.4,-.2,0,0,0,0,0,0,0,0,0,0,-.4,0,-.2,0,0,-.4,0,0,0,0,0,0,-.4,0,0,-.4,0,0,0,-.3,0,-.4,0,-.3,-.2,0,-.4,0,0,0,0,0,0,0,0,-.4,0,0,-.4,0,0,0,0,0,0" class="se_45">readings in a scientiIc experiment. Even though we don’t have complete knowledge </text>
+<text x="368" y="853" dx="0,0,0,.1,0,0,0,.1,-.4,0,0,0,0,0,.1,0,0,.1,0,0,0,.1,0,0,0,0,0,0,0,0,0,.1,0,0,.1,0,0,0,0,.1,0,0,0,.1,0,0,0,0,0,0,0,0,0,0,.1,0,0,0,.1,0,0,0,0,.1,0,0,0,0,.1,0,0,.1,0,0,.1,0,0,0,0,0,.1,0,0,0,0,0,0,0,0" class="se_45">of the values of the function, we will see throughout the book that it is still possible </text>
+<text x="368" y="871" class="se_45">to perform the operations of calculus on such a function.</text>
+<text x="342" y="893" dx="0,-.1" class="s5_45">C.</text>
+<text x="368" y="893" dx="0,-.1,-.2,-.1,-.1,-.1,-.7,-.1,-.1,-.1,-.7,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.7,-.1,-.1,-.7,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.7,-.1,-.1,-.7,-.2,-.1,-.1,-.1,-.1,-.1,-.7,-.1,-.1,-.1" class="se_45">Again the function is described in words: Let </text>
+<text x="639" y="893" class="s7_45">C</text>
+<text x="649" y="893" class="s8_45">s</text>
+<text x="654" y="893" class="sl_45">w</text>
+<text x="663" y="893" class="s8_45">d</text>
+<text x="671" y="893" dx="0,-.1,-.1,-.7,-.1,-.1,-.1,-.7,-.1,-.1,-.1,-.1,-.7,-.1,-.1,-.7,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.7,-.1,-.7,-.1,-.1,-.4,-.1,-.1,-.7,-.1,-.7,-.3,-.1" class="se_45">be the cost of mailing a large enve-</text>
+<text x="368" y="911" dx="0,-.1,-.1,-.1,-.1,-.4,-.1,-.1,-.1,-.1,-.4,-.1,-.1,-.1,-.1,-.1,-.1" class="se_45">lope with weight </text>
+<text x="472" y="911" class="sl_45">w</text>
+<text x="482" y="911" dx="0,-.1,-.6,-.1,-.1,-.1,-.4,-.1,-.1,-.1,-.1,-.4,-.1,-.1,-.1,-.1,-.4,-.1,-.1,-.1,-.4,-.1,-.1,-.4,-.1,-.1,-.1,-.1,-.1,-.1,-.4,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.4,-.1,-.1,-.1,-.1,-.4,-.1,-.1,-.4,-.1,-.1,-.4,-.1,-.1,-.1,-.1,-.4,-.1,-.1,-.4,-.1,-.1,-.4,-.1,-.1,-.1,-.1,-.5,-.1,-.1,0" class="se_45">. The rule that the US Postal Service used as of 2015 is as follows: </text>
+<text x="368" y="929" dx="0,-.1,-.1,-.1,.5,-.1,-.1,-.1,-.1,.5,-.1,-.1,.5,-.1,-.1,.5,-.1,-.1,-.1,-.1,-.1,.5,-.1,-.1,-.1,.5,-.1,-.1,.5,-.1,-.1,.5,-.1,.5,-.1,-.1,-.1,.5,-.1,-.1,-.1,-.1,.5,-.1,-.1,.5,-.1,-.1,-.1,-.1,-.1,.5,-.1,-.1,-.1,.5,-.1,-.1,-.1,-.1,.5,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,.5,-.1,-.1,-.1,-.1,-.1,.5,-.1,-.1,-.1,.5,-.1,-.1,-.1,-.1,0" class="se_45">The cost is 98 cents for up to 1 oz, plus 21 cents for each additional ounce (or less) </text>
+<text x="368" y="948" dx="0,-.1,-.1,.9,-.1,-.1,.9,-.1,-.1,.9,-.1,-.1,-.1,.6,-.1,-.1,-.1,.9,-.1,-.1,-.1,-.1,-.1,.9,-.1,-.1,.9,-.5,-.1,-.1,-.1,-.1,-.1,.9,-.1,-.1,-.5,-.1,-.1,.9,-.1,-.1,.9,-.1,-.1,-.1,.9,-.1,-.1,-.4,-.1,-.1,-.1,.9,-.1,-.1,.9,-.1,-.1,-.1,.9,-.1,-.1,-.1,-.1,.9,-.1,-.1,-.7,-.3,-.1,-.1,-.1,-.1,-.1,-.1,.9,-.1,-.1,-.1,-.1,-.1" class="se_45">up to 13 oz. The table of values shown in the margin is the most convenient repre-</text>
+<text x="368" y="966" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,.4,-.1,-.1,-.1,.4,-.1,-.1,-.1,-.1,.4,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,.4,-.1,-.1,-.1,-.1,-.1,-.1,.4,-.1,-.1,.4,-.1,-.1,.4,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,.4,-.1,-.1,.4,-.1,-.2,-.1,-.1,-.1,-.1,.4,-.1,.4,-.1,-.1,-.1,-.1,-.1,.4,-.1,-.1,-.1,-.1,.4,-.1,-.1,-.1,-.1,-.1,-.1,-.1,.4,-.1,-.1,-.1" class="se_45">sentation for this function, though it is possible to sketch a graph (see Example 10).</text>
+<text x="342" y="987" dx="0,-.3" class="s5_45">D.</text>
+<text x="368" y="987" dx="0,0,0,0,-.1,0,0,0,0,0,-.1,0,0,-.4,0,0,-.1,0,0,-.1,0,0,0,0,0,0,-.1,0,-.1,0,0,-.1,0,0,0,-.1,0,0,0,0,-.1,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,-.1,0,0,0,-.1,-.2,0,0,0,0,0,0,0,-.1,0,0,0,0,0" class="se_45">The graph shown in Figure 1 is the most natural representation of the vertical accel-</text>
+<text x="368" y="1006" dx="0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0" class="se_45">eration function </text>
+<text x="473" y="1006" class="s7_45">a</text>
+<text x="480" y="1006" class="s8_45">s</text>
+<text x="485" y="1006" class="s7_45">t</text>
+<text x="490" y="1006" class="s8_45">d</text>
+<text x="495" y="1006" dx="0,0,2,0,0,-.8,0,2,0,0,0,0,2,0,0,0,0,2,0,2,0,0,0,0,0,2,0,0,2,-.4,0,0,0,0,0,2,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,2,0,0" class="se_45">. ±t’s true that a table of values could be compiled, and it is </text>
+<text x="368" y="1024" dx="0,-.4,-.2,0,0,-.3,0,0,0,0,0,0,0,0,-.3,0,0,-.3,0,-.4,0,0,0,0,-.3,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,-.3,0,0,0,-.3,-.4,-.2,0,0,0,0,0,0,0,0,-.3,0,-.3,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,-.3,0,0" class="se_45">even possible to devise an approximate formula. But everything a geologist needs to </text>
+<path d="M108.5,175.9H209.3v62.6H108.5Zm100.8,0H309.8v62.6H209.3Z" class="g5_45"/>
+<path d="M209.3,238.1V176.2m0,81V238.9m0,36.6V257.2m0,36.7V275.5m0,36.7V293.9m0,36.6V312.2m0,36.7V330.5m0,36.7V348.9m0,36.6V367.2m0,36.7V385.5m0,36.7V403.9m0,36.6V422.2m0,39.4V440.5M108.1,175.9H209.3m0,0H310.2M108.1,238.5H209.3m0,0H310.2m-201.7,-.4V176.2m201.3,61.9V176.2m-201.3,81V238.9m201.3,18.3V238.9M108.5,275.5V257.2m201.3,18.3V257.2M108.5,293.9V275.5m201.3,18.4V275.5M108.5,312.2V293.9m201.3,18.3V293.9M108.5,330.5V312.2m201.3,18.3V312.2M108.5,348.9V330.5m201.3,18.4V330.5M108.5,367.2V348.9m201.3,18.3V348.9M108.5,385.5V367.2m201.3,18.3V367.2M108.5,403.9V385.5m201.3,18.4V385.5M108.5,422.2V403.9m201.3,18.3V403.9M108.5,440.5V422.2m201.3,18.3V422.2M108.5,461.6V440.5m201.3,21.1V440.5M108.1,461.9H209.3m0,0H310.2" class="g6_45"/>
+<text x="156" y="195" class="sm_45">t</text>
+<text x="142" y="211" class="sn_45">(years</text>
+<text x="126" y="228" class="sn_45">since 1900)</text>
+<text x="229" y="211" class="sn_45">Population </text>
+<text x="232" y="228" class="sn_45">(millions)</text>
+<text x="159" y="252" class="sn_45">0</text>
+<text x="245" y="252" class="sn_45">1650</text>
+<text x="152" y="271" class="sn_45">10</text>
+<text x="245" y="271" class="sn_45">1750</text>
+<text x="152" y="289" class="sn_45">20</text>
+<text x="245" y="289" class="sn_45">1860</text>
+<text x="152" y="307" class="sn_45">30</text>
+<text x="245" y="307" class="sn_45">2070</text>
+<text x="152" y="326" class="sn_45">40</text>
+<text x="245" y="326" class="sn_45">2300</text>
+<text x="152" y="344" class="sn_45">50</text>
+<text x="245" y="344" class="sn_45">2560</text>
+<text x="152" y="362" class="sn_45">60</text>
+<text x="245" y="362" class="sn_45">3040</text>
+<text x="152" y="381" class="sn_45">70</text>
+<text x="245" y="381" class="sn_45">3710</text>
+<text x="152" y="399" class="sn_45">80</text>
+<text x="245" y="399" class="sn_45">4450</text>
+<text x="152" y="417" class="sn_45">90</text>
+<text x="245" y="417" class="sn_45">5280</text>
+<text x="145" y="436" class="sn_45">100</text>
+<text x="245" y="436" class="sn_45">6080</text>
+<text x="145" y="454" class="sn_45">110</text>
+<text x="245" y="454" class="sn_45">6870</text>
+<text x="108" y="824" class="sn_45">A function deIned by a table of </text>
+<text x="108" y="841" dx="0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sn_45">values is called a </text>
+<text x="205" y="841" dx="0,0,0,-.3,0,0,0" class="sm_45">tabular</text>
+<text x="248" y="841" class="sn_45">function.</text>
+<path d="M107.7,858.8H207v27.5H107.7Zm99.3,0h99.3v27.5H207Z" class="g5_45"/>
+<path d="M207,885.9V859.2m0,48.8V886.7m0,41.2V908m0,39.8V927.9m0,39.7V947.8m0,39.7V967.6m-99.3,30.8V987.5m0,38.3v-16.5m-.4,16.8H207m-99.3,-16.8V998.4m99.3,27.7h99.7m-.4,-27.7V987.5m0,21.8V998.4m-99.3,0V987.5m0,21.8V998.4m0,27.4v-16.5m99.3,16.5v-16.5M107.7,908V886.7M306.3,908V886.7M107.7,927.9V908m198.6,19.9V908M107.7,947.8V927.9m198.6,19.9V927.9M107.7,967.6V947.8m198.6,19.8V947.8M107.7,987.5V967.6m198.6,19.9V967.6M107.3,858.8H207m-99.3,27.1V859.2m99.3,-.4h99.7m-.4,27.1V859.2m-199,27.1H207m0,0h99.7" class="g6_45"/>
+<text x="127" y="877" class="so_45">w</text>
+<text x="139" y="877" dx="0,-.1,0,0,0,0,0,0" class="sn_45">(ounces)</text>
+<text x="218" y="877" class="sm_45">C</text>
+<text x="227" y="877" class="sp_45">s</text>
+<text x="232" y="877" class="so_45">w</text>
+<text x="240" y="877" class="sp_45">d</text>
+<text x="248" y="877" class="sn_45">(dollars)</text>
+<text x="126" y="902" class="sn_45">0</text>
+<text x="137" y="902" class="sq_45">,</text>
+<text x="153" y="902" class="so_45">w</text>
+<text x="165" y="902" class="sq_45">&lt;</text>
+<text x="181" y="902" class="sn_45">1</text>
+<text x="246" y="902" class="sn_45">0.98</text>
+<text x="126" y="922" class="sn_45">1</text>
+<text x="137" y="922" class="sq_45">,</text>
+<text x="153" y="922" class="so_45">w</text>
+<text x="165" y="922" class="sq_45">&lt;</text>
+<text x="181" y="922" class="sn_45">2</text>
+<text x="246" y="922" class="sn_45">1.19</text>
+<text x="126" y="942" class="sn_45">2</text>
+<text x="137" y="942" class="sq_45">,</text>
+<text x="153" y="942" class="so_45">w</text>
+<text x="165" y="942" class="sq_45">&lt;</text>
+<text x="181" y="942" class="sn_45">3</text>
+<text x="246" y="942" class="sn_45">1.40</text>
+<text x="126" y="962" class="sn_45">3</text>
+<text x="137" y="962" class="sq_45">,</text>
+<text x="153" y="962" class="so_45">w</text>
+<text x="165" y="962" class="sq_45">&lt;</text>
+<text x="181" y="962" class="sn_45">4</text>
+<text x="246" y="962" class="sn_45">1.61</text>
+<text x="126" y="982" class="sn_45">4</text>
+<text x="137" y="982" class="sq_45">,</text>
+<text x="153" y="982" class="so_45">w</text>
+<text x="165" y="982" class="sq_45">&lt;</text>
+<text x="181" y="982" class="sn_45">5</text>
+<text x="246" y="982" class="sn_45">1.82</text>
+<text x="152" y="996" class="sn_45">∙</text>
+<text x="253" y="996" class="sn_45">∙</text>
+<text x="152" y="1007" class="sn_45">∙</text>
+<text x="253" y="1007" class="sn_45">∙</text>
+<text x="152" y="1018" class="sn_45">∙</text>
+<text x="253" y="1018" class="sn_45">∙</text>
+<text x="121" y="1076" class="sr_45">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="sr_45">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: CenturyOldStyle-Italic__q;
+	src: url("fonts/CenturyOldStyle-Italic__q.woff") format("woff");
+}
+
+@font-face {
+	font-family: MATH_13_;
+	src: url("fonts/MATH_13_.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPi-One-Italic_x2;
+	src: url("fonts/MathematicalPi-One-Italic_x2.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_13x;
+	src: url("fonts/TECHMath-Mix_13x.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Bold_oh;
+	src: url("fonts/TimesLTStd-Bold_oh.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_-s;
+	src: url("fonts/TimesLTStd-Roman_-s.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

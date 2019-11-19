@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 35 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_35"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0_35"><path d="M549.6,261V227.8H672.7V261Z"/></clipPath>
+<clipPath id="c1_35"><path d="M537.9,513.1V479.8H684.4v33.3Z"/></clipPath>
+<clipPath id="c2_35"><path d="M108.5,754.6V97.6H319.3v657Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_35{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_-s;
+fill: #231F20;
+}
+.s2_35{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s3_35{
+font-size: 9.17px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s4_35{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #00AEEF;
+}
+.s5_35{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.s6_35{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.s7_35{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.s8_35{
+font-size: 9.93px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s9_35{
+font-size: 9.93px;
+font-family: UniversalChemicalPi-T_-_;
+fill: #231F20;
+}
+.sa_35{
+font-size: 16.81px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.sb_35{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sc_35{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.sd_35{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_-s;
+fill: #231F20;
+}
+.se_35{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sf_35{
+font-size: 12.22px;
+font-family: TECHMath-Mix__f;
+fill: #231F20;
+}
+.sg_35{
+font-size: 12.99px;
+font-family: TECHMath-Mix__f;
+fill: #231F20;
+}
+.sh_35{
+font-size: 14.51px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.si_35{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sj_35{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.sk_35{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.sl_35{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_35{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 1.145;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g1_35{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_35{
+fill: #CC017A;
+}
+.g3_35{
+fill: #E2F4FC;
+}
+.g4_35{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g5_35{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g6_35{
+fill: #231F20;
+}
+.g7_35{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g8_35{
+fill: none;
+stroke: #66C18C;
+stroke-width: 0.534;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g9_35{
+fill: #66C18C;
+}
+.ga_35{
+fill: none;
+stroke: #66C18C;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.gb_35{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.gc_35{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.gd_35{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+stroke-dasharray: 10,4;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_35)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="342" y="107" dx="0,0,0,0,0,0,0,0,-.6,0,0,-.6,-.2,0,0,-.6,0,-.4,0,-.6,0,0,0,-.6,0,0,0,-.6,0,0,0,0,0,-.6,0,0,-.6,0,0,-.6,0,0,-.6,0,-.6,0,0,0,0,-.6,0,0,0,0,-.6,0,0,0,0,0,0,0,-.6,0,0,0,-.6,0,0,0,-.2,0,-.6,0,0" class="s1_35">±hapter 2. For now you can think of it as a line that touches the curve at </text>
+<text x="775" y="107" class="s2_35">P</text>
+<text x="787" y="107" dx="0,0,0,-.6,0,0,-.6,0,0,0,0,0,0,-.6,0,0,0" class="s1_35">as in Figure 5.) </text>
+<text x="342" y="126" dx="0,0,0,0,0,0,-.7,0,0,-.7,0,0,-.4,0,-.7,0,0,0,0,-.7,0,0,0,-.7,0,0,0,0,0" class="s1_35">Since we know that the point </text>
+<text x="519" y="126" class="s2_35">P</text>
+<text x="532" y="126" dx="0,0,0,0,0,-.7,0,0,-.7,0,0,0,-.7,0,0,0,0,0,0,0,-.7,0,0,0,0,0,-.7,0,0,-.7,0,0,0,-.7,0,0,0,-.7,0,0,0,-.7,0,0,0,0,0,0,0,0,-.7,0,0" class="s1_35">lies on the tangent line, we can Ind the equation of </text>
+<text x="840" y="126" class="s2_35">t</text>
+<text x="848" y="126" dx="0,0,0,-.7,0,0" class="s1_35">if we </text>
+<text x="342" y="144" dx="0,0,0,-.4,0,.4,0,0,0,.4,0,0,0,0,0" class="s1_35">know its slope </text>
+<text x="435" y="144" class="s2_35">m</text>
+<text x="446" y="144" dx="0,0,.1,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,.4,0,0,.4,0,0,0,0,.4,0,-.2,0,.4,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0,0,.4,0,0,0,.4,0,0" class="s1_35">. The proBlem is that we need two points to compute the slope and we </text>
+<text x="342" y="162" dx="0,0,0,-.4,0,.3,0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,0" class="s1_35">know only one point, </text>
+<text x="476" y="162" class="s2_35">P</text>
+<text x="486" y="162" dx="0,0,.3,0,0" class="s1_35">, on </text>
+<text x="513" y="162" class="s2_35">t</text>
+<text x="518" y="162" dx="0,0,0,-1.2,0,.3,0,0,0,.3,0,0,0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,0,0,.3,0,0,.3,0,0,0,0,.3,0,0,0,.3,0,0,.3,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s1_35">. To get around the proBlem we Irst Ind an approximation </text>
+<text x="342" y="181" class="s1_35">to </text>
+<text x="358" y="181" class="s2_35">m</text>
+<text x="372" y="181" dx="0,0,0,.1,0,0,0,0,0,0,.1,0,.1,0,0,0,0,0,0,.1,0,0,0,0,0" class="s1_35">By taking a nearBy point </text>
+<text x="525" y="181" class="s2_35">Q</text>
+<text x="540" y="181" dx="0,0,0,.1,0,0,0,.1,0,0,0,-.2,0,.1,0,0,0,.1,0,0,0,0,0,0,0,0,0,.1,0,0,0,.1,0,0,0,0,0" class="s1_35">on the curve and computing the slope </text>
+<text x="773" y="181" class="s2_35">m</text>
+<text x="784" y="183" class="s3_35">PQ</text>
+<text x="801" y="181" dx="0,0,0,.1,0,0,0,.1,0,0,0,0,0,0" class="s1_35">of the secant </text>
+<text x="342" y="199" class="s1_35">line </text>
+<text x="369" y="199" class="s2_35">PQ</text>
+<text x="389" y="199" class="s1_35">. From Figure 6 we see that</text>
+<text x="365" y="249" class="s4_35">1</text>
+<path d="M362.7,236.1c0,0,-1.6,0,-1.6,1.6v14.1c0,0,0,1.5,1.6,1.5h14.1c0,0,1.5,0,1.5,-1.5V237.7c0,0,0,-1.6,-1.5,-1.6H362.7Z" class="g0_35"/>
+<text x="549" y="250" class="s2_35">m</text>
+<text x="560" y="251" class="s3_35">PQ</text>
+<text x="577" y="250" class="s5_35">-</text>
+<text x="600" y="239" class="s2_35">f</text>
+<text x="607" y="239" class="s6_35">s</text>
+<text x="612" y="239" class="s2_35">x</text>
+<text x="619" y="239" class="s6_35">d</text>
+<text x="628" y="239" class="s7_35">2</text>
+<text x="646" y="239" class="s2_35">f</text>
+<text x="652" y="239" class="s6_35">s</text>
+<text x="657" y="239" class="s2_35">a</text>
+<text x="665" y="239" class="s6_35">d</text>
+<g clip-path="url(#c0_35)">
+<path d="M595.1,245.1h78" class="g1_35"/>
+</g>
+<text x="615" y="260" class="s2_35">x</text>
+<text x="626" y="260" class="s7_35">2</text>
+<text x="644" y="260" class="s2_35">a</text>
+<text x="360" y="300" dx="0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s1_35">Now imagine that </text>
+<text x="473" y="300" class="s2_35">Q</text>
+<text x="488" y="300" dx="0,0,-.2,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,-.4,-.2,0,0,0" class="s1_35">moves along the curve toward </text>
+<text x="675" y="300" class="s2_35">P</text>
+<text x="688" y="300" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.3,-1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s1_35">as in Figure 7. You can see that </text>
+<text x="342" y="318" dx="0,0,0,0,-.7,0,0,0,0,0,0,-.7,0,0,0,0,-.7,0,0,0,0,0,0,0,-.7,0,0,0,-.7,0,0,0,0,0,0,0,0,0,0,-.7,0,0,0,-.7,0,0,0,0,0,0,0,-.7,0,0,0,0,-.7,0,0,-.7,0,0,0,-.7,0,0,0,0,0,0,0,0,-.7,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,-.7,0,0,0,0,0" class="s1_35">the secant line rotates and approaches the tangent line as its limiting position. This means </text>
+<text x="342" y="337" class="s1_35">that the slope </text>
+<text x="427" y="337" class="s2_35">m</text>
+<text x="438" y="338" class="s3_35">PQ</text>
+<text x="454" y="337" class="s1_35">of the secant line Becomes closer and closer to the slope </text>
+<text x="800" y="337" class="s2_35">m</text>
+<text x="815" y="337" class="s1_35">of the tan-</text>
+<text x="342" y="355" dx="0,0,0,0,0,0,0,0,0,0,0,-.5,-1.2,0,0,0,0,0,0" class="s1_35">gent line. We write</text>
+<text x="566" y="382" class="s2_35">m</text>
+<text x="582" y="382" class="s5_35">-</text>
+<text x="602" y="382" dx="0,0,0,-1.5" class="s1_35">lim </text>
+<text x="599" y="392" class="s8_35">Q</text>
+<text x="608" y="392" class="s9_35">l</text>
+<text x="618" y="392" class="s8_35">P</text>
+<text x="630" y="382" class="s2_35">m</text>
+<text x="642" y="384" class="s3_35">PQ</text>
+<text x="342" y="433" dx="0,0,0,0,1.6,0,0,1.6,0,0,0,1.6,0,0,0,0" class="s1_35">and we say that </text>
+<text x="447" y="433" class="s2_35">m</text>
+<text x="463" y="433" dx="0,0,0,1.6,0,0,0,1.6,0,0,0,0,0,1.6,0,0" class="s1_35">is the limit of </text>
+<text x="555" y="433" class="s2_35">m</text>
+<text x="567" y="435" class="s3_35">PQ</text>
+<text x="584" y="433" class="s1_35">as </text>
+<text x="602" y="433" class="s2_35">Q</text>
+<text x="619" y="433" class="s1_35">approaches </text>
+<text x="693" y="433" class="s2_35">P</text>
+<text x="708" y="433" dx="0,0,0,0,0,0,1.6,0,0,0,1.6,0,0,0,-.2,0,0,1.6,0,0,0,0,0,0,0" class="s1_35">along the curve. ³ecause </text>
+<text x="871" y="433" class="s2_35">x</text>
+<text x="342" y="451" class="s1_35">approaches </text>
+<text x="414" y="451" class="s2_35">a</text>
+<text x="426" y="451" class="s1_35">as </text>
+<text x="442" y="451" class="s2_35">Q</text>
+<text x="457" y="451" class="s1_35">approaches </text>
+<text x="530" y="451" class="s2_35">P</text>
+<text x="539" y="451" class="s1_35">, we could also use Equation 1 to write</text>
+<text x="365" y="501" class="s4_35">2</text>
+<path d="M362.7,488.2c0,0,-1.6,0,-1.6,1.6v14.1c0,0,0,1.5,1.6,1.5h14.1c0,0,1.5,0,1.5,-1.5V489.8c0,0,0,-1.6,-1.5,-1.6H362.7Z" class="g0_35"/>
+<text x="537" y="502" class="s2_35">m</text>
+<text x="553" y="502" class="s5_35">-</text>
+<text x="573" y="502" dx="0,0,0,-2.2" class="s1_35">lim </text>
+<text x="571" y="511" class="s8_35">x</text>
+<text x="577" y="511" class="s9_35">l</text>
+<text x="589" y="511" class="s8_35">a</text>
+<text x="610" y="491" class="s2_35">f</text>
+<text x="618" y="491" class="s6_35">s</text>
+<text x="623" y="491" class="s2_35">x</text>
+<text x="630" y="491" class="s6_35">d</text>
+<text x="639" y="491" class="s7_35">2</text>
+<text x="657" y="491" class="s2_35">f</text>
+<text x="664" y="491" class="s6_35">s</text>
+<text x="669" y="491" class="s2_35">a</text>
+<text x="677" y="491" class="s6_35">d</text>
+<g clip-path="url(#c1_35)">
+<path d="M599.1,497.2h85.7" class="g1_35"/>
+</g>
+<text x="623" y="512" class="s2_35">x</text>
+<text x="634" y="512" class="s7_35">2</text>
+<text x="652" y="512" class="s2_35">a</text>
+<text x="342" y="554" dx="0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s1_35">SpeciIc examples of this procedure will Be given in ±hapter 2.</text>
+<text x="360" y="572" dx="0,0,0,0,-.3,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,-.3,0,0,0,-.3,0,-.4,-.2,0,0,-.3,0,0,0,0,-.3,0,0,-.3,0,0,0,-.3,0,0,0,0,0,0,-.3,0,0,-.3,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0" class="s1_35">The tangent proBlem has given rise to the Branch of calculus called </text>
+<text x="769" y="572" dx="0,0,0,-.3,0,0,-.6,0,0,0,0,0,0,-.3,0,0,0,0,0,0" class="s2_35">differential calcu- </text>
+<text x="342" y="590" class="s2_35">lus,</text>
+<text x="367" y="590" dx="0,0,0,0,0,0,-.1,-.2,0,0,-.1,0,0,0,-.1,0,-.6,-.2,0,0,0,0,0,-.1,0,0,0,0,0,-.1,0,0,0,0,-.1,0,0,0,0,-.1,0,0,0,0,-.1,0,0,0,0,0,-.1,0,0,0,0,0,-.1,0,0,0,-.2,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,-.4,0,0,0,-.1,0,0,0,-.1" class="s1_35">which was not invented until more than 2000 years after integral calculus. The main </text>
+<text x="342" y="609" dx="0,0,0,0,0,0,3.5,0,0,0,0,0,0,3.5,0,0,-.4,0,0,0,0,0,0,0,0,0,3.5,0,0,0,0,0,0,0,0,3.5,0,0,0,3.5,0,0,0,3.5,0,0,3.5,0,0,0,3.5,0,0,0,0,0,0,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,3.5,0,0,0,0,0,0,3.5,0,0,-.3" class="s1_35">ideas Behind differential calculus are due to the French mathematician Pierre Fer-</text>
+<text x="342" y="627" dx="0,0,0,0,3.9,0,0,0,0,0,0,0,0,0,0,0,3.9,0,0,0,3.9,0,0,0,0,3.9,0,-.4,-.2,0,0,0,0,0,0,3.9,0,0,3.9,0,0,0,3.9,0,0,0,0,0,0,0,3.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.9,0,0,0,0,3.4,-1.2,0,0,0,0,0" class="s1_35">mat (1601–1665) and were developed By the English mathematicians John Wallis </text>
+<text x="342" y="645" dx="0,0,0,0,0,1.2,0,0,0,0,0,0,0,.5,0,0,0,0,0,.5,0,0,0,0,-.4,0,.5,0,0,0,0,1.2,0,0,0,0,0,0,0,.5,0,0,0,.5,0,0,0,0,0,.5,0,-.4,0,0,0,0,.5,0,0,0,0,0,0,0,0,0,0,0,.5,0,0,0,.5,0,0,0,.5,0,0,-.4" class="s1_35">(1616–1703), ²saac ³arrow (1630–1677), and ²saac Newton (1642–1727) and the Ger-</text>
+<text x="342" y="664" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2,0,0,0,0,0,0" class="s1_35">man mathematician Gottfried LeiBniz (1646–1716).</text>
+<text x="360" y="682" dx="0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s1_35">The two Branches of calculus and their chief proBlems, the area proBlem and the tan-</text>
+<text x="342" y="700" dx="0,0,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,.4,0,0,.4,0,0,.4,-.2,0,0,0,.4,0,0,-.4,0,0,0,0,0,0,0,.4,-.3,0,0,.4,0,0,.4,0,0,0,0,0,.4,0,0,0,.4,0,0,0,0,.4,0,0,0,0,0,.4,0,0,.4,0,.4,-.2,0,0,0,.4,0,0,0,0,0,.4,0,0,0" class="s1_35">gent proBlem, appear to Be very different, But it turns out that there is a very close con-</text>
+<text x="342" y="719" dx="0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,0,0,0,.1,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,0,.4,0,0,0,.4,0,0,0,0,.4,0,0,0,0,0,0,0,.4,0,0,0,.4,0,-.6,-.2,0,0,0,0,.4,0,0,0,0,0,0,0,0" class="s1_35">nection Between them. The tangent proBlem and the area proBlem are inverse proBlems </text>
+<text x="342" y="737" class="s1_35">in a sense that will Be descriBed in ±hapter 5.</text>
+<path d="M343.8,772.6c0,0,-1.6,0,-1.6,1.5v9.2c0,0,0,1.5,1.6,1.5h9.1c0,0,1.6,0,1.6,-1.5v-9.2c0,0,0,-1.5,-1.6,-1.5Z" class="g2_35"/>
+<text x="361" y="784" dx="0,-.6,0,0,0,0,0,.1" class="sa_35">Velocity</text>
+<text x="342" y="807" dx="0,0,0,0,0,.4,0,0,.4,0,0,0,0,.4,0,0,.4,0,0,0,.4,0,0,0,0,0,0,0,0,0,0,0,.4,0,0,.4,0,.4,0,0,0,.4,0,0,0,.4,0,0,0,0,.4,0,0,0,0,.4,0,0,0,.4,0,0,0,.4,0,0,.4,0,0,-.3,-.2,0,0,0,0,0,.4,0,0,.4,0,0,.4,0" class="s1_35">When we look at the speedometer of a car and read that the car is traveling at 48 mi</text>
+<text x="859" y="807" class="s6_35">y</text>
+<text x="867" y="807" class="s1_35">h, </text>
+<text x="342" y="826" dx="0,0,0,0,0,-.5,0,0,0,0,-.5,0,0,0,0,-.5,0,0,0,0,0,0,0,0,0,0,0,-.5,0,0,0,0,0,0,0,0,-.5,0,0,-.5,0,0,0,-.9,-1.2,0,-.5,0,0,-.4,0,-.5,0,0,0,0,-.5,0,0,-.5,0,0,0,-.5,-.2,0,0,0,0,0,0,0,-.5,0,0,0,0,0,0,0,-.5,0,0,0,0,0,0,0,0,0" class="s1_35">what does that information indicate to us? We know that if the velocity remains constant, </text>
+<text x="342" y="844" dx="0,0,0,0,0,-.1,0,0,0,0,0,-.1,0,0,-.1,0,0,0,0,-.1,0,0,-.1,0,0,0,0,-.1,0,-.3,-.2,0,-.1,0,0,-.3,-.2,0,0,0,0,-.1,0,0,-.1,0,0,0,-.1,0,0,0,-.1,0,0,-.1,0,0,0,-.1,-.2,0,0,0,0,0,0,0,-.1,0,0,-.1,0,0,0,-.1,0,0,0,-.1,-.4,0,0,0,0,0,0,-.1,0,0,0,0" class="s1_35">then after an hour we will have traveled 48 mi. ³ut if the velocity of the car varies, what </text>
+<text x="342" y="862" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s1_35">does it mean to say that the velocity at a given instant is 48 mi</text>
+<text x="721" y="862" class="s6_35">y</text>
+<text x="729" y="862" class="s1_35">h?</text>
+<text x="360" y="881" dx="0,0,0,-.3,0,0,0,0,0,-.3,0,0,-.3,0,0,0,0,0,0,0,-.3,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,-.3,0,0,0,-.8,0,-.3,-.2,0,0,0,0,0,0,-.3,0,0,0,-.3,0,0,0,0,0,0,-.3,0,0,-.3,0,-.3,0,0,0,-.3,0,0,0,0,-.3,0,0,-.3,-.2,0,0,0,-.3,0,0,0,0,0,-.3,0" class="s1_35">²n order to analyze this question, let’s examine the motion of a car that travels along a </text>
+<text x="342" y="899" dx="0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,-.2,0,0,0,-.2,0,0,0,0,0,0,-.2,0,0,0,0,-.2,0,0,-.2,0,0,0,-.2,0,0,0,0,0,0,0,-.2,0,0,0,-.2,0,0,0,0,0,0,0,0,-.2,0,0,-.3,-.2,0,0,0,0,-.2,0,0,-.2,0,0,0,-.2,0,0,0,-.2,0,0,0,-.2,0,0,0,0,0,-.2,0,-.1" class="s1_35">straight road and assume that we can measure the distance traveled By the car (in feet) at </text>
+<text x="342" y="917" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0" class="s1_35">l-second intervals as in the following chart:</text>
+<path d="M400.4,944.1H537.5v34.4H400.4Zm0,34.4H537.5v35H400.4Z" class="g3_35"/>
+<path d="M400,944.1H537.5m0,0h46.7m0,0h42.2m0,0h44.9m0,0h50.4m0,0h47.7m0,0h51.3M400,978.5H537.5m0,0h46.7m0,0h42.2m0,0h44.9m0,0h50.4m0,0h47.7m0,0h51.3m-420.7,35H537.5m0,0h46.7m0,0h42.2m0,0h44.9m0,0h50.4m0,0h47.7m0,0h51.3M400.4,978.1V944.5m137.1,33.6V944.5m46.7,33.6V944.5m42.2,33.6V944.5m44.9,33.6V944.5m50.4,33.6V944.5m47.7,33.6V944.5m51,33.6V944.5m-420,68.6V978.9m137.1,34.2V978.9m46.7,34.2V978.9m42.2,34.2V978.9m44.9,34.2V978.9m50.4,34.2V978.9m47.7,34.2V978.9m51,34.2V978.9" class="g1_35"/>
+<text x="412" y="966" class="sb_35">t</text>
+<text x="420" y="966" class="sc_35">-</text>
+<text x="436" y="966" class="sd_35">Time elapsed </text>
+<text x="512" y="966" class="se_35">s</text>
+<text x="517" y="966" class="sd_35">s</text>
+<text x="522" y="966" class="se_35">d</text>
+<text x="557" y="965" class="sd_35">0</text>
+<text x="601" y="965" class="sd_35">1</text>
+<text x="645" y="965" class="sd_35">2</text>
+<text x="693" y="965" class="sd_35">3</text>
+<text x="742" y="965" class="sd_35">4</text>
+<text x="791" y="965" class="sd_35">5</text>
+<text x="412" y="1001" class="sb_35">d</text>
+<text x="423" y="1001" class="sc_35">-</text>
+<text x="439" y="1001" class="sd_35">Distance </text>
+<text x="490" y="1001" class="se_35">s</text>
+<text x="495" y="1001" class="sd_35">ft</text>
+<text x="503" y="1001" class="se_35">d</text>
+<text x="557" y="1000" class="sd_35">0</text>
+<text x="601" y="1000" class="sd_35">2</text>
+<text x="645" y="1000" class="sd_35">9</text>
+<text x="689" y="1000" class="sd_35">24</text>
+<text x="738" y="1000" class="sd_35">42</text>
+<text x="788" y="1000" class="sd_35">71</text>
+<path d="M155.9,228.1L238.5,114.4" class="g4_35"/>
+<text x="121" y="256" class="sf_35">0</text>
+<text x="121" y="107" class="sf_35">y</text>
+<path d="M130.5,271.8V106" class="g5_35"/>
+<path fill-rule="evenodd" d="M130.5,106l-2.5,1.7l2.5,-6.6l2.4,6.6Z" class="g6_35"/>
+<text x="312" y="257" class="sf_35">x</text>
+<path d="M109.4,245.1H314.3" class="g5_35"/>
+<path fill-rule="evenodd" d="M314.3,245.1l-1.6,-2.5l6.5,2.5l-6.5,2.4Z" class="g6_35"/>
+<text x="174" y="184" class="sg_35">P</text>
+<text x="264" y="150" class="sg_35">y=ƒ</text>
+<text x="221" y="122" class="sg_35">t</text>
+<path d="M277,597.4L109.4,714.9M300.7,612.6l-192.1,89" class="g7_35"/>
+<path d="M254.5,612.8c-4,-3.5,-9,-6.5,-14.2,-7.9" class="g8_35"/>
+<path d="M237.1,604.1l4.7,-.5l-1.5,1.3l.6,1.9Z" class="g9_35"/>
+<path d="M264.7,628.3c-1.6,-4.9,-3.9,-9,-7.3,-12.7" class="g8_35"/>
+<path d="M255.2,613.1l4.1,2.2l-1.9,.3l-.5,1.9Z" class="g9_35"/>
+<path d="M236.8,604.1c-1.9,-.3,-4.6,-.5,-6.6,-.5c-9,0,-16.1,3.5,-21.6,6.9" class="g8_35"/>
+<path d="M205.8,612.2l2.8,-3.7v2l1.8,.8Z" class="g9_35"/>
+<path d="M243.8,596.9l-134.4,136" class="g7_35"/>
+<text x="155" y="673" class="sg_35">P</text>
+<text x="250" y="649" class="sg_35">Q</text>
+<text x="198" y="605" class="sg_35">t</text>
+<path d="M213.4,598L149.1,703.7" class="g4_35"/>
+<path fill-rule="evenodd" d="M129.7,588.8l-2.4,1.6l2.4,-6.5l2.5,6.5Z" class="g6_35"/>
+<text x="120" y="740" class="sf_35">0</text>
+<text x="311" y="738" class="sf_35">x</text>
+<path fill-rule="evenodd" d="M313.5,727.8l-1.6,-2.4l6.5,2.4l-6.5,2.5Z" class="g6_35"/>
+<text x="120" y="590" class="sf_35">y</text>
+<text x="120" y="354" class="sf_35">y</text>
+<path fill-rule="evenodd" d="M130.6,352.4l-2.4,1.6l2.4,-6.5L133,354Z" class="g6_35"/>
+<path d="M188.5,430.1h54.1V398.7" class="ga_35"/>
+<path d="M124.6,466.9L288,372.4" class="g7_35"/>
+<text x="121" y="504" class="sf_35">0</text>
+<text x="312" y="503" class="sf_35">x</text>
+<path d="M109.5,491.5H314.4" class="g5_35"/>
+<g clip-path="url(#c2_35)">
+<path fill-rule="evenodd" d="M314.4,491.5L312.8,489l6.5,2.5l-6.5,2.4Z" class="g6_35"/>
+</g>
+<path d="M155.8,474.5L239.2,360.8" class="g4_35"/>
+<text x="187" y="503" class="sf_35">a</text>
+<text x="240" y="503" class="sf_35">x</text>
+<text x="255" y="420" class="sg_35">ƒ-f(a)</text>
+<text x="137" y="424" dx="0,1.3,1.3,0,0,0,0,0,0,-.8" class="sg_35">P{a, f(a)}</text>
+<text x="203" y="447" class="sg_35">x-a</text>
+<text x="223" y="368" class="sg_35">t</text>
+<text x="262" y="400" dx="0,.8,1.3,0,0,0,0" class="sg_35">Q{x, ƒ}</text>
+<path d="M166.8,220.6c11.8,-24.9,47,-92.6,98.3,-59.7" class="gb_35"/>
+<path d="M187,183.2c0,-1,.7,-1.7,1.7,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.7,-.8,-1.7,-1.7Z" class="g6_35"/>
+<path d="M187,183.2c0,-1,.7,-1.7,1.7,-1.7c.9,0,1.7,.7,1.7,1.7c0,.9,-.8,1.7,-1.7,1.7c-1,0,-1.7,-.8,-1.7,-1.7Z" class="gc_35"/>
+<path d="M188.5,491.3V430.1m54.1,61.2V430.1" class="gd_35"/>
+<path d="M167,467c11.7,-24.9,46.9,-92.6,98.2,-59.7" class="gb_35"/>
+<path d="M240.9,398.7c0,-.9,.7,-1.7,1.7,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.7,-.7,-1.7,-1.7Z" class="g6_35"/>
+<path d="M240.9,398.7c0,-.9,.7,-1.7,1.7,-1.7c.9,0,1.7,.8,1.7,1.7c0,1,-.8,1.7,-1.7,1.7c-1,0,-1.7,-.7,-1.7,-1.7Z" class="gc_35"/>
+<path d="M186.8,430.1c0,-1,.8,-1.8,1.7,-1.8c1,0,1.7,.8,1.7,1.8c0,.9,-.7,1.7,-1.7,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="g6_35"/>
+<path d="M186.8,430.1c0,-1,.8,-1.8,1.7,-1.8c1,0,1.7,.8,1.7,1.8c0,.9,-.7,1.7,-1.7,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="gc_35"/>
+<path d="M241.5,433.7c0,1.3,-1.2,1.7,-2.5,1.8H218.9c-1.3,.1,-2.4,0,-2.5,1.2c0,-1.2,-1.1,-1.1,-2.5,-1.2H193.4c-1.4,-.1,-2.6,-.5,-2.6,-1.8m56.1,-32.8c1.2,0,1.7,1.1,1.7,2.5v9.4c.1,1.3,0,2.4,1.2,2.5c-1.2,0,-1.1,1.1,-1.2,2.5v9.8c0,1.4,-.5,2.6,-1.8,2.6m-116.2,88V352.4m-.9,402.2V588.8m-21.1,139H313.5" class="g5_35"/>
+<path d="M154.9,697.3c11.6,-24.5,46,-91.1,95.6,-61.4" class="gb_35"/>
+<path d="M207.7,631.7c0,-.9,.8,-1.7,1.7,-1.7c1,0,1.8,.8,1.8,1.7c0,1,-.8,1.7,-1.8,1.7c-.9,0,-1.7,-.7,-1.7,-1.7Z" class="g6_35"/>
+<path d="M207.7,631.7c0,-.9,.8,-1.7,1.7,-1.7c1,0,1.8,.8,1.8,1.7c0,1,-.8,1.7,-1.8,1.7c-.9,0,-1.7,-.7,-1.7,-1.7Z" class="gc_35"/>
+<path d="M165.2,674.7c0,-1,.8,-1.7,1.7,-1.7c1,0,1.7,.7,1.7,1.7c0,.9,-.7,1.7,-1.7,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="g6_35"/>
+<path d="M165.2,674.7c0,-1,.8,-1.7,1.7,-1.7c1,0,1.7,.7,1.7,1.7c0,.9,-.7,1.7,-1.7,1.7c-.9,0,-1.7,-.8,-1.7,-1.7Z" class="gc_35"/>
+<path d="M230.9,629c0,-.9,.8,-1.7,1.7,-1.7c1,0,1.7,.8,1.7,1.7c0,1,-.7,1.8,-1.7,1.8c-.9,0,-1.7,-.8,-1.7,-1.8Z" class="g6_35"/>
+<path d="M230.9,629c0,-.9,.8,-1.7,1.7,-1.7c1,0,1.7,.8,1.7,1.7c0,1,-.7,1.8,-1.7,1.8c-.9,0,-1.7,-.8,-1.7,-1.8Z" class="gc_35"/>
+<path d="M248.8,635.9c0,-1,.8,-1.7,1.7,-1.7c1,0,1.8,.7,1.8,1.7c0,1,-.8,1.7,-1.8,1.7c-.9,0,-1.7,-.7,-1.7,-1.7Z" class="g6_35"/>
+<path d="M248.8,635.9c0,-1,.8,-1.7,1.7,-1.7c1,0,1.8,.7,1.8,1.7c0,1,-.8,1.7,-1.8,1.7c-.9,0,-1.7,-.7,-1.7,-1.7Z" class="gc_35"/>
+<text x="108" y="298" dx="0,.3,.3,.3,.3,.3,.1" class="sh_35">FIGURE </text>
+<text x="161" y="298" class="si_35">5</text>
+<text x="108" y="315" class="sd_35">The tangent line at </text>
+<text x="214" y="315" class="sb_35">P</text>
+<text x="108" y="545" dx="0,.3,.3,.3,.3,.3,.1" class="sh_35">FIGURE </text>
+<text x="161" y="545" class="si_35">6</text>
+<text x="108" y="561" class="sd_35">The secant line at </text>
+<text x="208" y="561" class="sb_35">PQ</text>
+<text x="108" y="782" dx="0,.3,.3,.3,.3,.3,.1" class="sh_35">FIGURE </text>
+<text x="161" y="782" class="si_35">7</text>
+<text x="108" y="799" class="sd_35">Secant lines approaching the </text>
+<text x="108" y="816" class="sd_35">tangent line</text>
+<text x="666" y="64" dx="0,.1,.1,.2,.2,.3,.2,.2,.3,.1,.1,.2,.1,.1,.3,.2,-.2,.2,.2,-.2,.2" class="sj_35">A PREVIEW OF CALCULUS</text>
+<text x="870" y="64" class="sk_35">3</text>
+<text x="121" y="1076" class="sl_35">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="sl_35">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix__f;
+	src: url("fonts/TECHMath-Mix__f.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_-s;
+	src: url("fonts/TimesLTStd-Roman_-s.woff") format("woff");
+}
+
+@font-face {
+	font-family: UniversalChemicalPi-T_-_;
+	src: url("fonts/UniversalChemicalPi-T_-_.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

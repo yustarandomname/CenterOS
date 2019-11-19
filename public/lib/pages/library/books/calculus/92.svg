@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 92 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_92"><path d="M0,0H931V1096H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_92{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_92{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_92{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s4_92{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s5_92{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s6_92{
+font-size: 9.17px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s7_92{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.s8_92{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.s9_92{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-6_13j;
+fill: #231F20;
+}
+.sa_92{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.sb_92{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sc_92{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.sd_92{
+font-size: 12.24px;
+font-family: TECHMath-Mix_16e;
+fill: #231F20;
+}
+.se_92{
+font-size: 12.24px;
+font-family: TECHMath-Mix_1ic;
+fill: #231F20;
+}
+.sf_92{
+font-size: 12.24px;
+font-family: TECHMath-Mix_16a;
+fill: #231F20;
+}
+.sg_92{
+font-size: 12.24px;
+font-family: TECHMath-Mix_-x;
+fill: #231F20;
+}
+.sh_92{
+font-size: 13.77px;
+font-family: TECHMath-Mix_1bc;
+fill: #231F20;
+}
+.si_92{
+font-size: 13.77px;
+font-family: Times-Roman_n6;
+fill: #231F20;
+}
+.sj_92{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #00AEEF;
+}
+.sk_92{
+font-size: 15.28px;
+font-family: TimesLTStd-Bold_oh;
+fill: #231F20;
+}
+.sl_92{
+font-size: 47.36px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sm_92{
+font-size: 16.81px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.sn_92{
+font-size: 17.57px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.so_92{
+font-size: 9.17px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.sp_92{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #EC008C;
+}
+.sq_92{
+font-size: 12.99px;
+font-family: ZapfDingbatsITC_my;
+fill: #EC008C;
+}
+.sr_92{
+font-size: 16.81px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.ss_92{
+font-size: 14.51px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.st_92{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.su_92{
+font-size: 12.22px;
+font-family: TECHMath-Mix_16e;
+fill: #231F20;
+}
+.sv_92{
+font-size: 12.99px;
+font-family: TECHMath-Mix_1jl;
+fill: #231F20;
+}
+.sw_92{
+font-size: 12.99px;
+font-family: TECHMath-Mix_1jr;
+fill: #231F20;
+}
+.sx_92{
+font-size: 12.99px;
+font-family: Times-Roman_n6;
+fill: #231F20;
+}
+.sy_92{
+font-size: 8.78px;
+font-family: TECHMath-Mix_1jr;
+fill: #231F20;
+}
+.sz_92{
+font-size: 12.22px;
+font-family: TECHMath-Mix_1jr;
+fill: #231F20;
+}
+.s10_92{
+font-size: 14.51px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #231F20;
+}
+.s11_92{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.s12_92{
+font-size: 12.22px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.s13_92{
+font-size: 12.22px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s14_92{
+font-size: 7.33px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.s15_92{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_92{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.765;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g1_92{
+fill: none;
+stroke: #66C18C;
+stroke-width: 0.918;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g2_92{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.765;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g3_92{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.612;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g4_92{
+fill: #231F20;
+}
+.g5_92{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.765;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g6_92{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.381;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g7_92{
+fill: #FFFFFF;
+}
+.g8_92{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g9_92{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.ga_92{
+fill: #CC017A;
+}
+.gb_92{
+fill: none;
+stroke: #66C18C;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.gc_92{
+fill: none;
+stroke: #EC008C;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.gd_92{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.ge_92{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_92)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="53" y="64" class="s1_92">60</text>
+<text x="126" y="64" dx="0,.2,.2,.2,.2,.2,.2,.1" class="s2_92">CHAPTER </text>
+<text x="180" y="64" class="s3_92">1</text>
+<text x="200" y="64" dx="0,-.3,.1,.1,.3,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.2,.1,.1,.1,.1" class="s4_92">Functions and Models</text>
+<text x="305" y="109" dx="0,0,0,0,.3,0,0,-.1,0,0,0,0,0,0,0,0,.3,0,0,0,0,0,0,0,0,.3,0,0" class="s5_92">The logarithmic function log</text>
+<text x="483" y="110" class="s6_92">b</text>
+<text x="491" y="109" dx="0,0,0,0,.3,0,0,0,0,0,0" class="s5_92">has domain </text>
+<text x="566" y="109" class="s7_92">s</text>
+<text x="571" y="109" class="s5_92">0, </text>
+<text x="586" y="109" class="s8_92">`</text>
+<text x="596" y="109" class="s7_92">d</text>
+<text x="605" y="109" dx="0,0,0,0,.3,0,0,0,0,0" class="s5_92">and range </text>
+<text x="670" y="109" class="s9_92">R</text>
+<text x="681" y="109" dx="0,0,.3,0,0,0,.3,0,0,0,0,0,.3,0,0,.3,0,0,0,.3,0,0,0,0,0" class="sa_92">. Its graph is the re²ec-</text>
+<text x="287" y="127" class="sa_92">tion of the graph of </text>
+<text x="409" y="127" class="sb_92">y</text>
+<text x="420" y="127" class="sc_92">-</text>
+<text x="438" y="127" class="sb_92">b</text>
+<text x="447" y="121" class="s6_92">x</text>
+<text x="455" y="127" class="sa_92">about the line </text>
+<text x="542" y="127" class="sb_92">y</text>
+<text x="554" y="127" class="sc_92">-</text>
+<text x="571" y="127" class="sb_92">x</text>
+<text x="578" y="127" class="sa_92">.</text>
+<text x="305" y="145" dx="0,-.2,-.2,-.2,-.2,-.2,-.2,-.6,-.2,-.2,-.6,-.2,-.2,-.5,-.2,-.2,-.6,-.2,-.2,-.2,-.6,-.2,-.2,-.2,-.2,-.6,-.2,-.2,-.2,-.2,-.2" class="sa_92">Figure 11 shows the case where </text>
+<text x="496" y="145" class="sb_92">b</text>
+<text x="508" y="145" class="s8_92">.</text>
+<text x="525" y="145" dx="0,-.2,-.2,-.6,-.2,-.2,-.2,-.2,-.6,-.2,-.2,-.2,-.2,-.6,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.6,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.6,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.2,-.6,-.2,-.5,-.4,0" class="sa_92">1. (The most important logarithmic functions have </text>
+<text x="287" y="164" class="sa_92">base </text>
+<text x="320" y="164" class="sb_92">b</text>
+<text x="332" y="164" class="s8_92">.</text>
+<text x="350" y="164" dx="0,0,0,0,2,0,0,0,2.3,-.2,0,0,0,2.3,0,0,0,0" class="sa_92">1.) The fact that </text>
+<text x="460" y="164" class="sb_92">y</text>
+<text x="472" y="164" class="sc_92">-</text>
+<text x="489" y="164" class="sb_92">b</text>
+<text x="498" y="158" class="s6_92">x</text>
+<text x="508" y="164" dx="0,0,0,2.3,0,2.3,-.2,0,0,0,2.3,0,0,0,0,0,0,0,2.3,0,0,0,0,0,0,0,0,0,0,2.3,0,0,0,0,0,0,0,0,2.3,0,0,0" class="sa_92">is a very rapidly increasing function for </text>
+<text x="770" y="164" class="sb_92">x</text>
+<text x="782" y="164" class="s8_92">.</text>
+<text x="799" y="164" dx="0,0,2.3,0,0" class="sa_92">0 is </text>
+<text x="287" y="182" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0" class="sa_92">re²ected in the fact that </text>
+<text x="435" y="182" class="sb_92">y</text>
+<text x="446" y="182" class="sc_92">-</text>
+<text x="464" y="182" class="sa_92">log</text>
+<text x="484" y="184" class="s6_92">b</text>
+<text x="491" y="182" class="sb_92">x</text>
+<text x="502" y="182" dx="0,0,0,0,0,0,-.2,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sa_92">is a very slowly increasing function for </text>
+<text x="744" y="182" class="sb_92">x</text>
+<text x="756" y="182" class="s8_92">.</text>
+<text x="773" y="182" class="sa_92">1.</text>
+<text x="305" y="200" dx="0,0,0,0,0,0,0,-.8,0,0,-.8,0,0,-.4,0,0,-.8,0,0,0,-.8,0,0,0,0,0,0,-.8,0,0" class="sa_92">Figure 12 shows the graphs of </text>
+<text x="489" y="200" class="sb_92">y</text>
+<text x="500" y="200" class="sc_92">-</text>
+<text x="518" y="200" class="sa_92">log</text>
+<text x="538" y="202" class="s6_92">b</text>
+<text x="545" y="200" class="sb_92">x</text>
+<text x="555" y="200" dx="0,0,0,0,0,-.8,-.4,0,0,0,0,0,0,-.8,-.4,0,0,0,0,0,-.8,0,0,-.8,0,0,0,-.8,0,0,0,0" class="sa_92">with various values of the base </text>
+<text x="745" y="200" class="sb_92">b</text>
+<text x="757" y="200" class="s8_92">.</text>
+<text x="775" y="200" dx="0,0,0,-.8,0,0,0,0,0" class="sa_92">1. Since </text>
+<text x="287" y="219" class="sa_92">log</text>
+<text x="307" y="220" class="s6_92">b</text>
+<text x="314" y="219" class="sa_92">1</text>
+<text x="326" y="219" class="sc_92">-</text>
+<text x="343" y="219" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sa_92">0, the graphs of all logarithmic functions pass through the point </text>
+<text x="735" y="219" class="s7_92">s</text>
+<text x="740" y="219" class="sa_92">1, 0</text>
+<text x="763" y="219" class="s7_92">d</text>
+<text x="768" y="219" class="sa_92">.</text>
+<path d="M657.2,302.6c-134.9,21.9,-183,27.5,-183,130.9" class="g0_92"/>
+<path d="M657.2,253C514.1,294.3,487.5,361.1,480.2,433.6" class="g1_92"/>
+<path d="M657.2,285.5C514.9,312.9,481,345.1,475.4,433.8" class="g2_92"/>
+<path d="M448.7,340H657.2" class="g3_92"/>
+<path fill-rule="evenodd" d="M657.2,340l-1.7,-2.5L662,340l-6.5,2.4Z" class="g4_92"/>
+<path d="M472.1,433.5V250" class="g3_92"/>
+<path fill-rule="evenodd" d="M472.1,250l-2.5,1.7l2.5,-6.6l2.4,6.6Z" class="g4_92"/>
+<path d="M469,302h6.1" class="g3_92"/>
+<text x="461" y="351" class="sd_92">0</text>
+<text x="461" y="250" class="se_92">y</text>
+<text x="460" y="305" class="sf_92">1</text>
+<text x="655" y="350" class="sg_92">x</text>
+<text x="509" y="356" class="sf_92">1</text>
+<path d="M511.4,336.9V343" class="g3_92"/>
+<path d="M657.2,315.3c-30.5,2.1,-62.7,4.8,-98.5,12.1C481.9,342.9,473.3,354,473.3,433.5" class="g5_92"/>
+<path d="M607.7,373l-6.3,-48.4" class="g6_92"/>
+<path d="M601,321.3l2.2,4.1l-1.8,-.8l-1.5,1.2Z" class="g4_92"/>
+<path d="M547.1,355.2l-4.1,-26" class="g6_92"/>
+<path d="M542.5,325.9l2.4,4.1l-1.9,-.8l-1.4,1.3Z" class="g4_92"/>
+<path d="M536,287.8L554.7,310" class="g6_92"/>
+<path d="M556.8,312.6l-4,-2.3l1.9,-.3l.6,-1.8Z" class="g4_92"/>
+<path d="M578.9,264.1l8.8,10.4" class="g6_92"/>
+<path d="M589.9,277.1l-4.1,-2.3l1.9,-.3l.6,-1.8Z" class="g4_92"/>
+<text x="483" y="285" class="sh_92">y=</text>
+<text x="505" y="285" class="si_92">log</text>
+<text x="523" y="285" class="sh_92">£ x</text>
+<text x="527" y="260" class="sh_92">y=</text>
+<text x="549" y="260" class="si_92">log</text>
+<text x="567" y="260" class="sh_92">™ x</text>
+<text x="543" y="365" class="sh_92">y=</text>
+<text x="565" y="365" class="si_92">log</text>
+<text x="583" y="365" class="sh_92">∞ x</text>
+<text x="603" y="383" class="sh_92">y=</text>
+<text x="625" y="383" class="si_92">log</text>
+<text x="643" y="383" class="sh_92">¡¸ x</text>
+<text x="305" y="456" dx="0,0,0,0,2.7,0,0,0,0,-.4,0,0,0,0,2.7,0,0,0,0,0,0,0,0,0,0,2.7,0,0,2.7,0,0,-.1,0,0,0,0,0,0,0,0,2.7,0,0,0,0,0,0,0,0,0,2.7,0,0,0,0,-.4,0,2.7,0,0,0,0,2.7,0,0,0,2.7,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sa_92">The following properties of logarithmic functions follow from the corresponding </text>
+<text x="287" y="475" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sa_92">properties of exponential functions given in Section 1.4.</text>
+<path d="M290.7,495.3c0,0,-3.1,0,-3.1,3V659.8c0,0,0,3,3.1,3H820.1c0,0,3,0,3,-3V498.3c0,0,0,-3,-3,-3Z" class="g7_92"/>
+<text x="306" y="517" dx="0,0,0,0,0,.3,0,0,.3,0,0,0,0,0,0,0,0,0,0" class="sj_92">Laws of Logarithms </text>
+<text x="446" y="517" class="sa_92">If </text>
+<text x="461" y="517" class="sb_92">x</text>
+<text x="472" y="517" class="sa_92">and </text>
+<text x="499" y="517" class="sb_92">y</text>
+<text x="510" y="517" dx="0,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,0,0,0,0,0,0,.4,0,0,0" class="sa_92">are positive numbers, then</text>
+<text x="307" y="549" class="sk_92">1. </text>
+<text x="325" y="549" class="sa_92">log</text>
+<text x="345" y="551" class="s6_92">b</text>
+<text x="351" y="549" class="s7_92">s</text>
+<text x="356" y="549" dx="0,.7" class="sb_92">xy</text>
+<text x="371" y="549" class="s7_92">d</text>
+<text x="380" y="549" class="sc_92">-</text>
+<text x="398" y="549" class="sa_92">log</text>
+<text x="418" y="551" class="s6_92">b</text>
+<text x="425" y="549" class="sb_92">x</text>
+<text x="437" y="549" class="s8_92">1</text>
+<text x="454" y="549" class="sa_92">log</text>
+<text x="474" y="551" class="s6_92">b</text>
+<text x="482" y="549" class="sb_92">y</text>
+<text x="307" y="594" class="sk_92">2. </text>
+<text x="325" y="594" class="sa_92">log</text>
+<text x="345" y="595" class="s6_92">b</text>
+<text x="350" y="596" class="sl_92">S</text>
+<text x="363" y="583" class="sb_92">x</text>
+<path d="M361.2,589.2h12.1" class="g8_92"/>
+<text x="363" y="604" class="sb_92">y</text>
+<text x="372" y="596" class="sl_92">D</text>
+<text x="388" y="594" class="sc_92">-</text>
+<text x="405" y="594" class="sa_92">log</text>
+<text x="425" y="595" class="s6_92">b</text>
+<text x="433" y="594" class="sb_92">x</text>
+<text x="444" y="594" class="s8_92">2</text>
+<text x="461" y="594" class="sa_92">log</text>
+<text x="482" y="595" class="s6_92">b</text>
+<text x="489" y="594" class="sb_92">y</text>
+<text x="307" y="635" class="sk_92">3. </text>
+<text x="325" y="635" class="sa_92">log</text>
+<text x="345" y="637" class="s6_92">b</text>
+<text x="351" y="635" class="s7_92">s</text>
+<text x="356" y="635" class="sb_92">x</text>
+<text x="365" y="629" class="s6_92">r</text>
+<text x="370" y="635" class="s7_92">d</text>
+<text x="379" y="635" class="sc_92">-</text>
+<text x="397" y="635" class="sb_92">r</text>
+<text x="406" y="635" class="sa_92">log</text>
+<text x="426" y="637" class="s6_92">b</text>
+<text x="434" y="635" class="sb_92">x</text>
+<text x="471" y="635" class="sa_92">(where </text>
+<text x="517" y="635" class="sb_92">r</text>
+<text x="527" y="635" dx="0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sa_92">is any real number)</text>
+<path d="M290.7,495.3c0,0,-3.1,0,-3.1,3V659.8c0,0,0,3,3.1,3H820.1c0,0,3,0,3,-3V498.3c0,0,0,-3,-3,-3H290.7Z" class="g9_92"/>
+<text x="287" y="695" dx="0,.3,.3,.3,.3,.3,.3,.2" class="sm_92">EXAMPLE </text>
+<text x="358" y="695" class="sn_92">6</text>
+<text x="375" y="695" dx="0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,-.4,-.4,0,0,0,0,0,0,0,0,0" class="sa_92">Use the laws of logarithms to evaluate log</text>
+<text x="632" y="696" class="so_92">2</text>
+<text x="639" y="695" class="sa_92">80</text>
+<text x="659" y="695" class="s8_92">2</text>
+<text x="676" y="695" class="sa_92">log</text>
+<text x="696" y="696" class="so_92">2</text>
+<text x="703" y="695" class="sa_92">5.</text>
+<text x="287" y="722" dx="0,.3,.3,.3,.3,.3,.3,.3,.1" class="sp_92">SOLUTION </text>
+<text x="358" y="722" dx="0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,-.3,-.2" class="sa_92">Using Law 2, we have</text>
+<text x="415" y="768" class="sa_92">log</text>
+<text x="435" y="770" class="so_92">2</text>
+<text x="442" y="768" class="sa_92">80</text>
+<text x="462" y="768" class="s8_92">2</text>
+<text x="479" y="768" class="sa_92">log</text>
+<text x="499" y="770" class="so_92">2</text>
+<text x="506" y="768" class="sa_92">5</text>
+<text x="518" y="768" class="sc_92">-</text>
+<text x="536" y="768" class="sa_92">log</text>
+<text x="556" y="770" class="so_92">2</text>
+<text x="560" y="771" class="sl_92">S</text>
+<text x="573" y="757" class="sa_92">80</text>
+<path d="M571.8,763.7h19.8" class="g8_92"/>
+<text x="577" y="779" class="sa_92">5</text>
+<text x="591" y="771" class="sl_92">D</text>
+<text x="606" y="768" class="sc_92">-</text>
+<text x="623" y="768" class="sa_92">log</text>
+<text x="643" y="770" class="so_92">2</text>
+<text x="650" y="768" class="sa_92">16</text>
+<text x="670" y="768" class="sc_92">-</text>
+<text x="687" y="768" class="sa_92">4</text>
+<text x="287" y="806" class="sa_92">because 2</text>
+<text x="347" y="800" class="so_92">4</text>
+<text x="356" y="806" class="sc_92">-</text>
+<text x="374" y="806" class="sa_92">16. </text>
+<text x="813" y="806" class="sq_92">■</text>
+<path d="M288.8,842c0,0,-1.6,0,-1.6,1.5v9.2c0,0,0,1.5,1.6,1.5h9.1c0,0,1.6,0,1.6,-1.5v-9.2c0,0,0,-1.5,-1.6,-1.5Z" class="ga_92"/>
+<text x="307" y="854" dx="0,0,-.1,0,0,-.2,0,0,0,-.2,0,0,0,0,0,0,0,0" class="sr_92">Natural Logarithms</text>
+<text x="287" y="877" class="sa_92">Of all possible bases </text>
+<text x="416" y="877" class="sb_92">b</text>
+<text x="428" y="877" dx="0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.6,-.2,0,0,0,0,0,0" class="sa_92">for logarithms, we will see in Chapter 3 that the most convenient </text>
+<text x="287" y="895" dx="0,0,0,0,0,0,0,.4,0,0,.4,0,.4,0,0,0,0,.4,0,0,.4,0,0,0,.4,0,0,0,0,0,0" class="sa_92">choice of a base is the number </text>
+<text x="478" y="895" class="sb_92">e</text>
+<text x="485" y="895" dx="0,0,.4,0,0,0,0,0,.4,-.2,0,0,.4,0,0,0,0,0,0,.4,0,0,.4,0,0,0,0,0,0,0,.4,0,0,0,0,.1,0,0,0,.4,0,0,-.1,0,0,0,0,0,0,.4,0,0,0,0" class="sa_92">, which was de±ned in Section 1.4. The logarithm with </text>
+<text x="287" y="913" class="sa_92">base </text>
+<text x="318" y="913" class="sb_92">e</text>
+<text x="328" y="913" class="sa_92">is called the </text>
+<text x="405" y="913" class="sk_92">natural logarithm</text>
+<text x="526" y="913" class="sa_92">and has a special notation:</text>
+<text x="516" y="959" class="sa_92">log</text>
+<text x="536" y="961" class="s6_92">e</text>
+<text x="543" y="959" class="sb_92">x</text>
+<text x="554" y="959" class="sc_92">-</text>
+<text x="571" y="959" class="sa_92">ln</text>
+<text x="587" y="959" class="sb_92">x</text>
+<path d="M473.2,934c0,0,-3,0,-3,3.1v34.3c0,0,0,3.1,3,3.1H637.5c0,0,3,0,3,-3.1V937.1c0,0,0,-3.1,-3,-3.1H473.2Z" class="g9_92"/>
+<text x="305" y="1003" class="sa_92">If we put </text>
+<text x="364" y="1003" class="sb_92">b</text>
+<text x="376" y="1003" class="sc_92">-</text>
+<text x="394" y="1003" class="sb_92">e</text>
+<text x="404" y="1003" class="sa_92">and replace log</text>
+<text x="498" y="1005" class="s6_92">e</text>
+<text x="506" y="1003" class="sa_92">with “ln” in (6) and</text>
+<text x="630" y="1003" class="sa_92">(7), then the de±ning properties </text>
+<text x="287" y="1022" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sa_92">of the natural logarithm function become</text>
+<text x="53" y="305" dx="0,.3,.3,.3,.3,.3,.1" class="ss_92">FIGURE </text>
+<text x="106" y="305" class="st_92">11</text>
+<text x="132" y="230" class="su_92">0</text>
+<path d="M68.8,278.3L240.6,106.4" class="gb_92"/>
+<text x="199" y="114" class="sv_92">y=x</text>
+<text x="53" y="193" dx="0,0,0,1,0,0" class="sw_92">y=b®, </text>
+<text x="95" y="193" class="sw_92">b&gt;1</text>
+<text x="145" y="260" class="sw_92">y=</text>
+<text x="166" y="260" class="sx_92">log</text>
+<text x="183" y="263" class="sy_92">b</text>
+<text x="191" y="260" class="sw_92">x, </text>
+<text x="207" y="260" class="sw_92">b&gt;1</text>
+<path d="M134.9,278.9c5,-54.4,34.4,-95.2,111.9,-116" class="gc_92"/>
+<path d="M54.1,215.4c64.4,-3.6,110.6,-36.5,130,-108.6" class="gd_92"/>
+<path d="M53.5,219H246.1" class="ge_92"/>
+<path fill-rule="evenodd" d="M246.1,219l-1.6,-2.5L251,219l-6.5,2.4Z" class="g4_92"/>
+<path d="M128.2,279.4v-173" class="ge_92"/>
+<path fill-rule="evenodd" d="M128.2,106.4l-2.4,1.6l2.4,-6.5l2.5,6.5Z" class="g4_92"/>
+<text x="117" y="107" class="sz_92">y</text>
+<text x="244" y="231" class="sz_92">x</text>
+<text x="204" y="431" dx="0,.3,.3,.3,.3,.3,.1" class="ss_92">FIGURE </text>
+<text x="256" y="431" class="st_92">12</text>
+<text x="53" y="870" dx="0,0,0,0,-.1,0,0,0,0,0,-.1,0,0,0,-.1,0,0,0,0,0,0,0,0" class="s10_92">Notation for Logarithms</text>
+<text x="53" y="887" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.3,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,0" class="s11_92">Most textbooks in calculus and the </text>
+<text x="53" y="904" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,0" class="s11_92">sciences, as well as calculators, </text>
+<text x="53" y="921" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1" class="s11_92">use the notation </text>
+<text x="142" y="921" class="s12_92">ln</text>
+<text x="155" y="921" class="s13_92">x</text>
+<text x="164" y="921" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,0" class="s11_92">for the natural </text>
+<text x="53" y="938" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1" class="s11_92">logarithm and </text>
+<text x="132" y="938" class="s12_92">log</text>
+<text x="151" y="938" class="s13_92">x</text>
+<text x="160" y="938" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,0" class="s11_92">for the “common </text>
+<text x="53" y="954" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-1,-.1" class="s11_92">logarithm,” </text>
+<text x="118" y="954" class="s12_92">log</text>
+<text x="133" y="956" dx="0,.1" class="s14_92">10</text>
+<text x="143" y="954" class="s13_92">x</text>
+<text x="148" y="954" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.4,-.1,-.1,-.1,-.1,0" class="s11_92">. In the more advanced </text>
+<text x="53" y="971" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,0" class="s11_92">mathematical and scienti±c literature </text>
+<text x="53" y="988" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.4,-.1,-.4,-.3,-.1,-.6,0" class="s11_92">and in computer languages, however, </text>
+<text x="53" y="1005" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1" class="s11_92">the notation </text>
+<text x="121" y="1005" class="s12_92">log</text>
+<text x="140" y="1005" class="s13_92">x</text>
+<text x="148" y="1005" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,0" class="s11_92">usually denotes the </text>
+<text x="53" y="1022" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1" class="s11_92">natural logarithm.</text>
+<text x="121" y="1076" class="s15_92">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="s15_92">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-6_13j;
+	src: url("fonts/MathematicalPiLTStd-6_13j.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_-x;
+	src: url("fonts/TECHMath-Mix_-x.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_16a;
+	src: url("fonts/TECHMath-Mix_16a.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_16e;
+	src: url("fonts/TECHMath-Mix_16e.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1bc;
+	src: url("fonts/TECHMath-Mix_1bc.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1ic;
+	src: url("fonts/TECHMath-Mix_1ic.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1jl;
+	src: url("fonts/TECHMath-Mix_1jl.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_1jr;
+	src: url("fonts/TECHMath-Mix_1jr.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_n6;
+	src: url("fonts/Times-Roman_n6.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Bold_oh;
+	src: url("fonts/TimesLTStd-Bold_oh.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_6c;
+	src: url("fonts/TimesLTStd-Roman_6c.woff") format("woff");
+}
+
+@font-face {
+	font-family: ZapfDingbatsITC_my;
+	src: url("fonts/ZapfDingbatsITC_my.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

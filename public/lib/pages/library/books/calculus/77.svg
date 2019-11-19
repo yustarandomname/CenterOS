@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 77 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_77"><path d="M0,0H931V1096H0Z"/></clipPath>
+<clipPath id="c0_77"><path d="M579.6,1026.1v-32h61.6v32Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_77{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_77{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_77{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s4_77{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s5_77{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s6_77{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s7_77{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.s8_77{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.s9_77{
+font-size: 13.75px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #231F20;
+}
+.sa_77{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sb_77{
+font-size: 13.75px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #231F20;
+}
+.sc_77{
+font-size: 13.75px;
+font-family: TimesLTStd-Bold_oh;
+fill: #231F20;
+}
+.sd_77{
+font-size: 42.63px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.se_77{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sf_77{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sg_77{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sh_77{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.si_77{
+font-size: 9.17px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.sj_77{
+font-size: 15.28px;
+font-family: BeaconDingbatsTypeOne_12w;
+fill: #231F20;
+}
+.sk_77{
+font-size: 9.17px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sl_77{
+font-size: 15.28px;
+font-family: TimesLTStd-Bold_oh;
+fill: #231F20;
+}
+.sm_77{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sn_77{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #00AEEF;
+}
+.so_77{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_143;
+fill: #00AEEF;
+}
+.sp_77{
+font-size: 9.17px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sq_77{
+font-size: 8.25px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sr_77{
+font-size: 13.75px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.ss_77{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_77{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g1_77{
+fill: #00AEEF;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_77)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="607" y="64" dx="0,.2,.2,.5,.2,.2,.2" class="s1_77">SECTION</text>
+<text x="659" y="64" class="s2_77">1.4</text>
+<text x="689" y="64" dx="0,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,-.3,.1,.1,.3,.1,.1,.1,.1,.1" class="s3_77">Exponential Functions </text>
+<text x="862" y="64" class="s4_77">45</text>
+<text x="108" y="866" dx="0,0,0,-.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">±n Appendix G we present an alterna-</text>
+<text x="108" y="883" dx="0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">tive approach to the exponential and </text>
+<text x="108" y="900" dx="0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0" class="s5_77">logarithmic functions using integral </text>
+<text x="108" y="916" class="s5_77">calculus.</text>
+<text x="156" y="106" class="s5_77">as a function of </text>
+<text x="245" y="106" class="s6_77">d</text>
+<text x="252" y="106" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0" class="s5_77">, the distance the ship has traveled since </text>
+<text x="156" y="123" class="s5_77">noon; that is, Ind </text>
+<text x="258" y="123" class="s6_77">f</text>
+<text x="267" y="123" class="s5_77">so that </text>
+<text x="307" y="123" class="s6_77">s</text>
+<text x="316" y="123" class="s7_77">-</text>
+<text x="332" y="123" class="s6_77">f</text>
+<text x="338" y="123" class="s8_77">s</text>
+<text x="342" y="123" class="s6_77">d</text>
+<text x="350" y="123" class="s8_77">d</text>
+<text x="355" y="123" class="s5_77">.</text>
+<text x="133" y="140" class="s5_77">(b) </text>
+<text x="156" y="140" class="s5_77">Express </text>
+<text x="203" y="140" class="s6_77">d</text>
+<text x="214" y="140" class="s5_77">as a function of </text>
+<text x="302" y="140" class="s6_77">t</text>
+<text x="306" y="140" class="s5_77">, the time elapsed since noon; </text>
+<text x="156" y="157" class="s5_77">that is, Ind </text>
+<text x="221" y="157" class="s9_77">t</text>
+<text x="231" y="157" class="s5_77">so that </text>
+<text x="270" y="157" class="s6_77">d</text>
+<text x="281" y="157" class="s7_77">-</text>
+<text x="297" y="157" class="s9_77">t</text>
+<text x="304" y="157" class="s8_77">s</text>
+<text x="309" y="157" class="s6_77">t</text>
+<text x="313" y="157" class="s8_77">d</text>
+<text x="318" y="157" class="s5_77">.</text>
+<text x="133" y="174" class="s5_77">(c) </text>
+<text x="156" y="174" class="s5_77">Find </text>
+<text x="187" y="174" class="s6_77">f</text>
+<text x="195" y="178" class="sa_77">8</text>
+<text x="203" y="174" class="s9_77">t</text>
+<text x="209" y="174" dx="0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">. What does this function represent?</text>
+<text x="109" y="198" class="sb_77">58. </text>
+<text x="133" y="198" class="s5_77">An airplane is ²ying at a speed of 350 mi</text>
+<text x="360" y="198" class="s8_77">y</text>
+<text x="366" y="198" dx="0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">h at an altitude of </text>
+<text x="133" y="215" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">one mile and passes directly over a radar station at time </text>
+<text x="442" y="215" class="s6_77">t</text>
+<text x="450" y="215" class="s7_77">-</text>
+<text x="465" y="215" class="s5_77">0.</text>
+<text x="133" y="232" class="s5_77">(a) </text>
+<text x="156" y="232" class="s5_77">Express the horizontal distance </text>
+<text x="331" y="232" class="s6_77">d</text>
+<text x="342" y="232" class="s5_77">(in miles) that the plane </text>
+<text x="156" y="249" dx="0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">has ²own as a function of </text>
+<text x="301" y="249" class="s6_77">t</text>
+<text x="305" y="249" class="s5_77">.</text>
+<text x="133" y="265" class="s5_77">(b) </text>
+<text x="156" y="265" class="s5_77">Express the distance </text>
+<text x="272" y="265" class="s6_77">s</text>
+<text x="281" y="265" class="s5_77">between the plane and the radar </text>
+<text x="156" y="282" class="s5_77">station as a function of </text>
+<text x="285" y="282" class="s6_77">d</text>
+<text x="292" y="282" class="s5_77">.</text>
+<text x="133" y="299" dx="0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0" class="s5_77">(c) Use composition to express </text>
+<text x="311" y="299" class="s6_77">s</text>
+<text x="320" y="299" class="s5_77">as a function of </text>
+<text x="408" y="299" class="s6_77">t</text>
+<text x="412" y="299" class="s5_77">.</text>
+<text x="109" y="323" class="sb_77">59. </text>
+<text x="133" y="323" class="s5_77">The </text>
+<text x="158" y="323" dx="0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="sc_77">Heaviside function</text>
+<text x="271" y="323" class="s6_77">H</text>
+<text x="285" y="323" class="s5_77">is deIned by</text>
+<text x="235" y="359" class="s6_77">H</text>
+<text x="245" y="359" class="s8_77">s</text>
+<text x="249" y="359" class="s6_77">t</text>
+<text x="253" y="359" class="s8_77">d</text>
+<text x="262" y="359" class="s7_77">-</text>
+<text x="278" y="361" class="sd_77">H</text>
+<text x="287" y="349" class="s5_77">0</text>
+<text x="287" y="368" class="s5_77">1</text>
+<text x="308" y="349" class="s5_77">if </text>
+<text x="322" y="349" class="s6_77">t</text>
+<text x="330" y="349" class="sa_77">,</text>
+<text x="346" y="349" class="s5_77">0</text>
+<text x="308" y="368" class="s5_77">if </text>
+<text x="322" y="368" class="s6_77">t</text>
+<text x="330" y="368" class="sa_77">&gt;</text>
+<text x="346" y="368" class="s5_77">0</text>
+<text x="133" y="397" class="s5_77">±t is used in the study of electric circuits to represent the </text>
+<text x="133" y="414" dx="0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">sudden surge of electric current, or voltage, when a switch is </text>
+<text x="133" y="430" class="s5_77">instantaneously turned on.</text>
+<text x="133" y="447" dx="0,0,0,0,4.2,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">(a) Sketch the graph of the Heaviside function.</text>
+<text x="133" y="464" class="s5_77">(b) </text>
+<text x="156" y="464" dx="0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0" class="s5_77">Sketch the graph of the voltage </text>
+<text x="331" y="464" class="s6_77">V</text>
+<text x="340" y="464" class="s8_77">s</text>
+<text x="344" y="464" class="s6_77">t</text>
+<text x="348" y="464" class="s8_77">d</text>
+<text x="356" y="464" class="s5_77">in a circuit if the </text>
+<text x="156" y="481" class="s5_77">switch is turned on at time </text>
+<text x="305" y="481" class="s6_77">t</text>
+<text x="313" y="481" class="s7_77">-</text>
+<text x="329" y="481" dx="0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0" class="s5_77">0 and 120 volts are </text>
+<text x="156" y="498" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">applied instantaneously to the circuit. Write a formula </text>
+<text x="156" y="514" class="s5_77">for </text>
+<text x="176" y="514" class="s6_77">V</text>
+<text x="185" y="514" class="s8_77">s</text>
+<text x="189" y="514" class="s6_77">t</text>
+<text x="193" y="514" class="s8_77">d</text>
+<text x="201" y="514" class="s5_77">in terms of </text>
+<text x="264" y="514" class="s6_77">H</text>
+<text x="274" y="514" class="s8_77">s</text>
+<text x="279" y="514" class="s6_77">t</text>
+<text x="283" y="514" class="s8_77">d</text>
+<text x="287" y="514" class="s5_77">.</text>
+<text x="133" y="531" class="s5_77">(c) </text>
+<text x="156" y="531" dx="0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0" class="s5_77">Sketch the graph of the voltage </text>
+<text x="331" y="531" class="s6_77">V</text>
+<text x="340" y="531" class="s8_77">s</text>
+<text x="344" y="531" class="s6_77">t</text>
+<text x="348" y="531" class="s8_77">d</text>
+<text x="356" y="531" class="s5_77">in a circuit if the </text>
+<text x="156" y="548" class="s5_77">switch is turned on at time </text>
+<text x="305" y="548" class="s6_77">t</text>
+<text x="313" y="548" class="s7_77">-</text>
+<text x="329" y="548" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0" class="s5_77">5 seconds and 240 volts </text>
+<text x="156" y="565" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">are applied instantaneously to the circuit. Write a formula </text>
+<text x="156" y="582" class="s5_77">for </text>
+<text x="176" y="582" class="s6_77">V</text>
+<text x="185" y="582" class="s8_77">s</text>
+<text x="189" y="582" class="s6_77">t</text>
+<text x="193" y="582" class="s8_77">d</text>
+<text x="201" y="582" class="s5_77">in terms of </text>
+<text x="264" y="582" class="s6_77">H</text>
+<text x="274" y="582" class="s8_77">s</text>
+<text x="279" y="582" class="s6_77">t</text>
+<text x="283" y="582" class="s8_77">d</text>
+<text x="287" y="582" class="s5_77">. (Note that starting at </text>
+<text x="411" y="582" class="s6_77">t</text>
+<text x="419" y="582" class="s7_77">-</text>
+<text x="435" y="582" class="s5_77">5 </text>
+<text x="156" y="598" class="s5_77">corresponds to a translation.)</text>
+<text x="109" y="623" class="sb_77">60. </text>
+<text x="133" y="623" dx="0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">The Heaviside function deIned in Exercise 59 can also </text>
+<text x="133" y="640" class="s5_77">be used to deIne the </text>
+<text x="250" y="640" class="sc_77">ramp function</text>
+<text x="338" y="640" class="s6_77">y</text>
+<text x="348" y="640" class="s7_77">-</text>
+<text x="364" y="640" dx="0,0,.8" class="s6_77">ctH</text>
+<text x="384" y="640" class="s8_77">s</text>
+<text x="389" y="640" class="s6_77">t</text>
+<text x="393" y="640" class="s8_77">d</text>
+<text x="397" y="640" class="s5_77">, which </text>
+<text x="342" y="752" dx="0,0,0,0,.7,0,0,0,0,0,0,0,0" class="se_77">The function </text>
+<text x="428" y="752" class="sf_77">f</text>
+<text x="434" y="752" class="sg_77">s</text>
+<text x="440" y="752" class="sf_77">x</text>
+<text x="447" y="752" class="sg_77">d</text>
+<text x="457" y="752" class="sh_77">-</text>
+<text x="474" y="752" class="se_77">2</text>
+<text x="482" y="746" class="si_77">x</text>
+<text x="491" y="752" dx="0,0,0,.7,0,0,0,0,0,0,.7,0,0" class="se_77">is called an </text>
+<text x="566" y="752" dx="0,-.3,0,0,0,0,0,0,0,0,0,0,.7,0,0,0,0,0,0,0" class="sf_77">exponential function</text>
+<text x="696" y="752" dx="0,0,0,0,0,0,0,0,.7,0,0,0,.7,-.4,0,0,0,0,0,0,0,0" class="se_77">because the variable, </text>
+<text x="829" y="752" class="sf_77">x</text>
+<text x="836" y="752" dx="0,0,.7,0,0,.7,0,0,0" class="se_77">, is the </text>
+<text x="342" y="770" dx="0,-.2,0,0,0,0,0,0,0,0,1.7,0,0,1.7,0,0,0,0,0,0,1.7,0,0,0,1.7,0,0,1.7,0,0,0,0,0,0,0,0,1.7,0,0,0,0,1.7,0,0,0,1.7,0,-.4,0,0,0,1.7,0,0,0,0,0,0,0,0" class="se_77">exponent. ±t should not be confused with the power function </text>
+<text x="731" y="770" class="sj_77">t</text>
+<text x="737" y="770" class="sg_77">s</text>
+<text x="743" y="770" class="sf_77">x</text>
+<text x="750" y="770" class="sg_77">d</text>
+<text x="759" y="770" class="sh_77">-</text>
+<text x="777" y="770" class="sf_77">x</text>
+<text x="785" y="764" class="sk_77">2</text>
+<text x="790" y="770" dx="0,0,1.7,0,0,1.7,0,0,0,0,0,1.7,0,0,0" class="se_77">, in which the </text>
+<text x="342" y="789" dx="0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="se_77">variable is the base.</text>
+<text x="360" y="807" class="se_77">±n general, an </text>
+<text x="447" y="807" class="sl_77">exponential function</text>
+<text x="585" y="807" class="se_77">is a function of the form</text>
+<text x="581" y="839" class="sf_77">f</text>
+<text x="588" y="839" class="sg_77">s</text>
+<text x="594" y="839" class="sf_77">x</text>
+<text x="600" y="839" class="sg_77">d</text>
+<text x="610" y="839" class="sh_77">-</text>
+<text x="627" y="839" class="sf_77">b</text>
+<text x="637" y="833" class="si_77">x</text>
+<text x="342" y="866" class="se_77">where </text>
+<text x="383" y="866" class="sf_77">b</text>
+<text x="394" y="866" dx="0,0,0,0,0,0,0,0,0,0,0,-.4,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="se_77">is a positive constant. Let’s recall what this means.</text>
+<text x="360" y="885" class="se_77">±f </text>
+<text x="374" y="885" class="sf_77">x</text>
+<text x="386" y="885" class="sh_77">-</text>
+<text x="403" y="885" class="sf_77">n</text>
+<text x="411" y="885" dx="0,0,0,0,0,0,0,0,0,0,-.4,-.2,0,0,0,0,0,-.2,0,0,-.6,0,0,0,0,0" class="se_77">, a positive integer, then</text>
+<text x="550" y="915" class="sf_77">b</text>
+<text x="559" y="909" class="si_77">n</text>
+<text x="568" y="915" class="sh_77">-</text>
+<text x="585" y="915" class="sf_77">b</text>
+<text x="598" y="915" class="sm_77">?</text>
+<text x="607" y="915" class="sf_77">b</text>
+<text x="619" y="915" class="sm_77">?</text>
+<text x="630" y="915" dx="0,3.1,3.1" class="se_77">∙∙∙</text>
+<text x="653" y="915" class="sm_77">?</text>
+<text x="662" y="915" class="sf_77">b</text>
+<text x="601" y="952" class="sn_77">n</text>
+<text x="612" y="952" dx="0,-.1,0,0,0,0,0" class="so_77">factors</text>
+<text x="342" y="978" class="se_77">±f </text>
+<text x="356" y="978" class="sf_77">x</text>
+<text x="367" y="978" class="sh_77">-</text>
+<text x="385" y="978" dx="0,0,0,1.5,0,0,0,0" class="se_77">0, then </text>
+<text x="433" y="978" class="sf_77">b</text>
+<text x="442" y="972" class="sk_77">0</text>
+<text x="451" y="978" class="sh_77">-</text>
+<text x="469" y="978" class="se_77">1, and if </text>
+<text x="523" y="978" class="sf_77">x</text>
+<text x="535" y="978" class="sh_77">-</text>
+<text x="552" y="978" class="sm_77">2</text>
+<text x="565" y="978" class="sf_77">n</text>
+<text x="572" y="978" class="se_77">, where </text>
+<text x="621" y="978" class="sf_77">n</text>
+<text x="633" y="978" dx="0,0,0,0,0,0,0,0,0,0,0,-.4,-.2,0,0,0,0,0,-.2,0,0,-.6,0,0,0,0,0" class="se_77">is a positive integer, then</text>
+<text x="579" y="1015" class="sf_77">b</text>
+<text x="588" y="1009" class="sp_77">2</text>
+<text x="596" y="1009" class="si_77">n</text>
+<text x="605" y="1015" class="sh_77">-</text>
+<text x="628" y="1004" class="se_77">1</text>
+<g clip-path="url(#c0_77)">
+<path d="M623.2,1010.2h18.3" class="g0_77"/>
+</g>
+<text x="625" y="1025" class="sf_77">b</text>
+<text x="634" y="1019" class="si_77">n</text>
+<path d="M628.4,930.6h-.2c-.6,-1.4,-3.2,-2,-4.6,-2h-34c-2.1,0,-5.1,-1.5,-5.1,-2.9h-.6c.3,2.9,3.5,4.1,6.7,4.1h33.1c1.2,0,3.7,.6,4,2.2H629c.4,-1.6,2.8,-2.2,4.1,-2.2h33.1c3.2,0,6.3,-1.2,6.6,-4.1h-.5c-.1,1.4,-3,2.9,-5.2,2.9H633.2c-1.5,0,-4.1,.6,-4.7,2Z" class="g1_77"/>
+<text x="527" y="106" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">represents a gradual increase in voltage or current in a circuit.</text>
+<text x="527" y="123" dx="0,0,0,0,4.2,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">(a) Sketch the graph of the ramp function </text>
+<text x="762" y="123" class="s6_77">y</text>
+<text x="773" y="123" class="s7_77">-</text>
+<text x="788" y="123" dx="0,.8" class="s6_77">tH</text>
+<text x="803" y="123" class="s8_77">s</text>
+<text x="807" y="123" class="s6_77">t</text>
+<text x="811" y="123" class="s8_77">d</text>
+<text x="816" y="123" class="s5_77">.</text>
+<text x="527" y="140" class="s5_77">(b) </text>
+<text x="550" y="140" dx="0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0" class="s5_77">Sketch the graph of the voltage </text>
+<text x="725" y="140" class="s6_77">V</text>
+<text x="734" y="140" class="s8_77">s</text>
+<text x="739" y="140" class="s6_77">t</text>
+<text x="742" y="140" class="s8_77">d</text>
+<text x="750" y="140" class="s5_77">in a circuit if the </text>
+<text x="550" y="157" class="s5_77">switch is turned on at time </text>
+<text x="699" y="157" class="s6_77">t</text>
+<text x="707" y="157" class="s7_77">-</text>
+<text x="723" y="157" dx="0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">0 and the voltage is gradu-</text>
+<text x="550" y="174" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,-.2,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0" class="s5_77">ally increased to 120 volts over a 60-second time interval. </text>
+<text x="550" y="190" class="s5_77">Write a formula for </text>
+<text x="661" y="190" class="s6_77">V</text>
+<text x="670" y="190" class="s8_77">s</text>
+<text x="675" y="190" class="s6_77">t</text>
+<text x="679" y="190" class="s8_77">d</text>
+<text x="687" y="190" class="s5_77">in terms of </text>
+<text x="750" y="190" class="s6_77">H</text>
+<text x="760" y="190" class="s8_77">s</text>
+<text x="764" y="190" class="s6_77">t</text>
+<text x="768" y="190" class="s8_77">d</text>
+<text x="776" y="190" class="s5_77">for </text>
+<text x="796" y="190" class="s6_77">t</text>
+<text x="804" y="190" class="sa_77">&lt;</text>
+<text x="819" y="190" class="s5_77">60.</text>
+<text x="527" y="207" class="s5_77">(c) </text>
+<text x="550" y="207" dx="0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0" class="s5_77">Sketch the graph of the voltage </text>
+<text x="725" y="207" class="s6_77">V</text>
+<text x="734" y="207" class="s8_77">s</text>
+<text x="739" y="207" class="s6_77">t</text>
+<text x="742" y="207" class="s8_77">d</text>
+<text x="750" y="207" class="s5_77">in a circuit if the </text>
+<text x="550" y="224" class="s5_77">switch is turned on at time </text>
+<text x="699" y="224" class="s6_77">t</text>
+<text x="707" y="224" class="s7_77">-</text>
+<text x="723" y="224" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0" class="s5_77">7 seconds and the voltage </text>
+<text x="550" y="241" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,0,-.2,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">is gradually increased to 100 volts over a period of 25 sec-</text>
+<text x="550" y="258" dx="0,0,0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">onds. Write a formula for </text>
+<text x="693" y="258" class="s6_77">V</text>
+<text x="703" y="258" class="s8_77">s</text>
+<text x="707" y="258" class="s6_77">t</text>
+<text x="711" y="258" class="s8_77">d</text>
+<text x="719" y="258" class="s5_77">in terms of </text>
+<text x="782" y="258" class="s6_77">H</text>
+<text x="792" y="258" class="s8_77">s</text>
+<text x="797" y="258" class="s6_77">t</text>
+<text x="801" y="258" class="s8_77">d</text>
+<text x="809" y="258" class="s5_77">for </text>
+<text x="828" y="258" class="s6_77">t</text>
+<text x="836" y="258" class="sa_77">&lt;</text>
+<text x="852" y="258" class="s5_77">32.</text>
+<text x="503" y="282" class="sb_77">61. </text>
+<text x="527" y="282" class="s5_77">Let </text>
+<text x="551" y="282" class="s6_77">f</text>
+<text x="560" y="282" class="s5_77">and </text>
+<text x="584" y="282" class="s9_77">t</text>
+<text x="593" y="282" class="s5_77">be linear functions with equations </text>
+<text x="785" y="282" class="s6_77">f</text>
+<text x="791" y="282" class="s8_77">s</text>
+<text x="796" y="282" class="s6_77">x</text>
+<text x="802" y="282" class="s8_77">d</text>
+<text x="811" y="282" class="s7_77">-</text>
+<text x="826" y="282" class="s6_77">m</text>
+<text x="836" y="284" class="sq_77">1</text>
+<text x="841" y="282" class="s6_77">x</text>
+<text x="851" y="282" class="sa_77">1</text>
+<text x="867" y="282" class="s6_77">b</text>
+<text x="874" y="284" class="sq_77">1</text>
+<text x="527" y="299" class="s5_77">and </text>
+<text x="551" y="299" class="s9_77">t</text>
+<text x="557" y="299" class="s8_77">s</text>
+<text x="563" y="299" class="s6_77">x</text>
+<text x="569" y="299" class="s8_77">d</text>
+<text x="578" y="299" class="s7_77">-</text>
+<text x="593" y="299" class="s6_77">m</text>
+<text x="604" y="300" class="sq_77">2</text>
+<text x="610" y="299" class="s6_77">x</text>
+<text x="620" y="299" class="sa_77">1</text>
+<text x="635" y="299" class="s6_77">b</text>
+<text x="643" y="300" class="sq_77">2</text>
+<text x="647" y="299" class="s5_77">. ±s </text>
+<text x="669" y="299" class="s6_77">f</text>
+<text x="677" y="303" class="sa_77">8</text>
+<text x="686" y="299" class="s9_77">t</text>
+<text x="695" y="299" class="s5_77">also a linear function? ±f so, </text>
+<text x="527" y="316" class="s5_77">what is the slope of its graph?</text>
+<text x="503" y="340" class="sb_77">62. </text>
+<text x="527" y="340" dx="0,0,0,0,0,0,0,0,0,-.6,-.2,0,0,0" class="s5_77">±f you invest </text>
+<text x="600" y="340" class="s6_77">x</text>
+<text x="609" y="340" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.9,0" class="s5_77">dollars at 4% interest compounded annually, </text>
+<text x="527" y="357" class="s5_77">then the amount </text>
+<text x="620" y="357" class="s6_77">A</text>
+<text x="628" y="357" class="s8_77">s</text>
+<text x="634" y="357" class="s6_77">x</text>
+<text x="640" y="357" class="s8_77">d</text>
+<text x="648" y="357" dx="0,0,0,0,0,0,0,0,0,-.5,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">of the investment after one year is </text>
+<text x="528" y="374" class="s6_77">A</text>
+<text x="536" y="374" class="s8_77">s</text>
+<text x="542" y="374" class="s6_77">x</text>
+<text x="548" y="374" class="s8_77">d</text>
+<text x="557" y="374" class="s7_77">-</text>
+<text x="572" y="374" class="s5_77">1.04</text>
+<text x="597" y="374" class="s6_77">x</text>
+<text x="603" y="374" class="s5_77">. Find </text>
+<text x="639" y="374" class="s6_77">A</text>
+<text x="652" y="378" class="sa_77">8</text>
+<text x="660" y="374" class="s6_77">A</text>
+<text x="669" y="374" class="s5_77">, </text>
+<text x="676" y="374" class="s6_77">A</text>
+<text x="689" y="378" class="sa_77">8</text>
+<text x="698" y="374" class="s6_77">A</text>
+<text x="710" y="378" class="sa_77">8</text>
+<text x="719" y="374" class="s6_77">A</text>
+<text x="727" y="374" class="s5_77">, and </text>
+<text x="758" y="374" class="s6_77">A</text>
+<text x="771" y="378" class="sa_77">8</text>
+<text x="779" y="374" class="s6_77">A</text>
+<text x="792" y="378" class="sa_77">8</text>
+<text x="801" y="374" class="s6_77">A</text>
+<text x="813" y="378" class="sa_77">8</text>
+<text x="822" y="374" class="s6_77">A</text>
+<text x="830" y="374" dx="0,0,-.4,0,0,0,0" class="s5_77">. What </text>
+<text x="527" y="391" class="s5_77">do these compositions represent? Find a formula for the com-</text>
+<text x="527" y="407" class="s5_77">position of </text>
+<text x="590" y="407" class="s6_77">n</text>
+<text x="600" y="407" class="s5_77">copies of </text>
+<text x="654" y="407" class="s6_77">A</text>
+<text x="663" y="407" class="s5_77">.</text>
+<text x="503" y="432" class="sb_77">63. </text>
+<text x="530" y="432" class="s5_77">(a) </text>
+<text x="550" y="432" class="s5_77">±f </text>
+<text x="563" y="432" class="s9_77">t</text>
+<text x="569" y="432" class="s8_77">s</text>
+<text x="574" y="432" class="s6_77">x</text>
+<text x="580" y="432" class="s8_77">d</text>
+<text x="589" y="432" class="s7_77">-</text>
+<text x="605" y="432" class="s5_77">2</text>
+<text x="612" y="432" class="s6_77">x</text>
+<text x="622" y="432" class="sa_77">1</text>
+<text x="638" y="432" class="s5_77">1 and </text>
+<text x="672" y="432" class="s6_77">h</text>
+<text x="678" y="432" class="s8_77">s</text>
+<text x="684" y="432" class="s6_77">x</text>
+<text x="690" y="432" class="s8_77">d</text>
+<text x="699" y="432" class="s7_77">-</text>
+<text x="714" y="432" class="s5_77">4</text>
+<text x="722" y="432" class="s6_77">x</text>
+<text x="729" y="426" class="sq_77">2</text>
+<text x="738" y="432" class="sa_77">1</text>
+<text x="753" y="432" class="s5_77">4</text>
+<text x="761" y="432" class="s6_77">x</text>
+<text x="771" y="432" class="sa_77">1</text>
+<text x="786" y="432" class="s5_77">7, Ind a func-</text>
+<text x="550" y="449" class="s5_77">tion </text>
+<text x="577" y="449" class="s6_77">f</text>
+<text x="586" y="449" class="s5_77">such that </text>
+<text x="641" y="449" class="s6_77">f</text>
+<text x="649" y="453" class="sa_77">8</text>
+<text x="657" y="449" class="s9_77">t</text>
+<text x="668" y="449" class="s7_77">-</text>
+<text x="683" y="449" class="s6_77">h</text>
+<text x="690" y="449" class="s5_77">. (Think about what operations </text>
+<text x="550" y="465" dx="0,0,0,0,0,-.1,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">you would have to perform on the formula for </text>
+<text x="807" y="465" class="s9_77">t</text>
+<text x="816" y="465" class="s5_77">to end up </text>
+<text x="550" y="482" class="s5_77">with the formula for </text>
+<text x="665" y="482" class="s6_77">h</text>
+<text x="672" y="482" class="s5_77">.)</text>
+<text x="527" y="499" class="s5_77">(b) </text>
+<text x="550" y="499" class="s5_77">±f </text>
+<text x="565" y="499" class="s6_77">f</text>
+<text x="571" y="499" class="s8_77">s</text>
+<text x="576" y="499" class="s6_77">x</text>
+<text x="582" y="499" class="s8_77">d</text>
+<text x="591" y="499" class="s7_77">-</text>
+<text x="607" y="499" class="s5_77">3</text>
+<text x="613" y="499" class="s6_77">x</text>
+<text x="624" y="499" class="sa_77">1</text>
+<text x="639" y="499" class="s5_77">5 and </text>
+<text x="673" y="499" class="s6_77">h</text>
+<text x="680" y="499" class="s8_77">s</text>
+<text x="685" y="499" class="s6_77">x</text>
+<text x="691" y="499" class="s8_77">d</text>
+<text x="700" y="499" class="s7_77">-</text>
+<text x="715" y="499" class="s5_77">3</text>
+<text x="722" y="499" class="s6_77">x</text>
+<text x="730" y="494" class="sq_77">2</text>
+<text x="738" y="499" class="sa_77">1</text>
+<text x="754" y="499" class="s5_77">3</text>
+<text x="760" y="499" class="s6_77">x</text>
+<text x="771" y="499" class="sa_77">1</text>
+<text x="786" y="499" class="s5_77">2, Ind a func-</text>
+<text x="550" y="516" class="s5_77">tion </text>
+<text x="575" y="516" class="s9_77">t</text>
+<text x="585" y="516" class="s5_77">such that </text>
+<text x="639" y="516" class="s6_77">f</text>
+<text x="647" y="520" class="sa_77">8</text>
+<text x="656" y="516" class="s9_77">t</text>
+<text x="666" y="516" class="s7_77">-</text>
+<text x="682" y="516" class="s6_77">h</text>
+<text x="688" y="516" class="s5_77">.</text>
+<text x="503" y="540" class="sb_77">64. </text>
+<text x="527" y="540" class="s5_77">±f </text>
+<text x="542" y="540" class="s6_77">f</text>
+<text x="548" y="540" class="s8_77">s</text>
+<text x="553" y="540" class="s6_77">x</text>
+<text x="559" y="540" class="s8_77">d</text>
+<text x="568" y="540" class="s7_77">-</text>
+<text x="584" y="540" class="s6_77">x</text>
+<text x="594" y="540" class="sa_77">1</text>
+<text x="609" y="540" class="s5_77">4 and </text>
+<text x="643" y="540" class="s6_77">h</text>
+<text x="650" y="540" class="s8_77">s</text>
+<text x="655" y="540" class="s6_77">x</text>
+<text x="661" y="540" class="s8_77">d</text>
+<text x="670" y="540" class="s7_77">-</text>
+<text x="686" y="540" class="s5_77">4</text>
+<text x="693" y="540" class="s6_77">x</text>
+<text x="703" y="540" class="sa_77">2</text>
+<text x="719" y="540" class="s5_77">1, Ind a function </text>
+<text x="816" y="540" class="s9_77">t</text>
+<text x="826" y="540" class="s5_77">such </text>
+<text x="527" y="557" class="s5_77">that </text>
+<text x="552" y="557" class="s9_77">t</text>
+<text x="562" y="561" class="sa_77">8</text>
+<text x="570" y="557" class="s6_77">f</text>
+<text x="578" y="557" class="s7_77">-</text>
+<text x="594" y="557" class="s6_77">h</text>
+<text x="601" y="557" class="s5_77">.</text>
+<text x="503" y="582" class="sr_77">65. </text>
+<text x="527" y="582" class="s5_77">Suppose </text>
+<text x="577" y="582" class="s9_77">t</text>
+<text x="587" y="582" dx="0,0,0,0,0,0,0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">is an even function and let </text>
+<text x="735" y="582" class="s6_77">h</text>
+<text x="745" y="582" class="s7_77">-</text>
+<text x="761" y="582" class="s6_77">f</text>
+<text x="769" y="586" class="sa_77">8</text>
+<text x="778" y="582" class="s9_77">t</text>
+<text x="784" y="582" class="s5_77">. ±s </text>
+<text x="804" y="582" class="s6_77">h</text>
+<text x="814" y="582" dx="0,0,-.1,-.1,0,0,0,0,0,0" class="s5_77">always an </text>
+<text x="527" y="598" dx="0,-.3,-.2,0,0,0,0,0,0,0,0,0,0,0" class="s5_77">even function?</text>
+<text x="503" y="623" class="sb_77">66. </text>
+<text x="527" y="623" class="s5_77">Suppose </text>
+<text x="577" y="623" class="s9_77">t</text>
+<text x="587" y="623" class="s5_77">is an odd function and let </text>
+<text x="730" y="623" class="s6_77">h</text>
+<text x="741" y="623" class="s7_77">-</text>
+<text x="756" y="623" class="s6_77">f</text>
+<text x="764" y="627" class="sa_77">8</text>
+<text x="773" y="623" class="s9_77">t</text>
+<text x="779" y="623" class="s5_77">. ±s </text>
+<text x="799" y="623" class="s6_77">h</text>
+<text x="809" y="623" dx="0,0,-.1,-.1,0,0,0,0,0,0" class="s5_77">always an </text>
+<text x="527" y="640" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0" class="s5_77">odd function? What if </text>
+<text x="653" y="640" class="s6_77">f</text>
+<text x="662" y="640" dx="0,0,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0" class="s5_77">is odd? What if </text>
+<text x="752" y="640" class="s6_77">f</text>
+<text x="761" y="640" dx="0,0,0,0,-.3,-.2,0,0" class="s5_77">is even?</text>
+<image preserveAspectRatio="none" x="107" y="692" width="773" height="36" xlink:href="77/img/1.png"/>
+<text x="121" y="1076" class="ss_77">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="ss_77">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: BeaconDingbatsTypeOne_12w;
+	src: url("fonts/BeaconDingbatsTypeOne_12w.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Bold_oh;
+	src: url("fonts/TimesLTStd-Bold_oh.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 56 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_56"><path d="M0,0H931V1096H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_56{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_56{
+font-size: 12.22px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s3_56{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s4_56{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s5_56{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.s6_56{
+font-size: 16.81px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s7_56{
+font-size: 15.28px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s8_56{
+font-size: 15.28px;
+font-family: TimesLTStd-Bold_oh;
+fill: #231F20;
+}
+.s9_56{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.sa_56{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sb_56{
+font-size: 15.28px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sc_56{
+font-size: 12.22px;
+font-family: TECHMath-Mix_16a;
+fill: #231F20;
+}
+.sd_56{
+font-size: 12.22px;
+font-family: TECHMath-Mix_160;
+fill: #231F20;
+}
+.se_56{
+font-size: 12.22px;
+font-family: TECHMath-Mix_13x;
+fill: #231F20;
+}
+.sf_56{
+font-size: 12.99px;
+font-family: TECHMath-Mix_18x;
+fill: #231F20;
+}
+.sg_56{
+font-size: 12.22px;
+font-family: TECHMath-Mix_18x;
+fill: #231F20;
+}
+.sh_56{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.si_56{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-3_ry;
+fill: #231F20;
+}
+.sj_56{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-5_vb;
+fill: #231F20;
+}
+.sk_56{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_143;
+fill: #231F20;
+}
+.sl_56{
+font-size: 13.75px;
+font-family: MathematicalPiLTStd-1_rr;
+fill: #231F20;
+}
+.sm_56{
+font-size: 16.81px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.sn_56{
+font-size: 17.57px;
+font-family: MyriadPro-BoldSemiCn_90;
+fill: #EC008C;
+}
+.so_56{
+font-size: 13.75px;
+font-family: MyriadPro-Semibold_49;
+fill: #EC008C;
+}
+.sp_56{
+font-size: 14.51px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sq_56{
+font-size: 15.28px;
+font-family: MyriadPro-Bold_74;
+fill: #231F20;
+}
+.sr_56{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+.g0_56{
+fill: #CC017A;
+}
+.g1_56{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.916;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 3;
+}
+.g2_56{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g3_56{
+fill: #231F20;
+}
+.g4_56{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.534;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g5_56{
+fill: #E2F4FC;
+}
+.g6_56{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_56)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="53" y="64" class="s1_56">24</text>
+<text x="126" y="64" dx="0,.2,.2,.2,.2,.2,.2,.1" class="s2_56">CHAPTER </text>
+<text x="180" y="64" class="s3_56">1</text>
+<text x="200" y="64" dx="0,-.3,.1,.1,.3,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,.2,.1,.1,.1,.1" class="s4_56">Functions and Models</text>
+<text x="287" y="107" dx="0,0,0,0,0,0,0,0,0,-.5,0,0,0,0,0,0,0,0,0,0,0,0,-.5,-.3,0,0,-.5,0,0,-.5,0,0,0,0,0,0,0,0,-.5,0,0,0,0,0,0,-.5,0,0,-.5,0,0,-.2,0,0,0,0,-.5,-.4,0,0,0,0,0,0,0,-.5,0,0,0,0,0,0,0,0,0,0,0,0,-.5,0,0,-.5,0,0,-.5,0,0,0,0,-.3" class="s5_56">ematical calculations but is accurate enough to provide valuable conclusions. ±t is impor-</text>
+<text x="287" y="126" dx="0,0,0,0,0,.6,0,0,.6,0,0,0,0,0,0,0,.6,0,0,0,.6,0,0,0,0,0,0,0,0,0,0,0,.6,0,0,.6,0,0,0,.6,0,0,0,0,0,0,.6,0,0,.6,0,0,0,.6,0,0,0,0,.6,0,0,0,0,0,0,.6,0,0,0,0,0,0,.6,0,0,0,.6,0,0,0,.6,0,0,0,0,.6,0,0,-1" class="s5_56">tant to realize the limitations of the model. ±n the end, Mother Nature has the Inal say.</text>
+<text x="305" y="144" dx="0,0,0,0,0,0,.9,0,0,0,.9,0,0,-.2,0,.9,0,0,-.4,0,0,0,0,0,0,.9,0,0,0,0,0,.9,0,0,.9,0,0,0,0,0,0,0,0,0,.9,0,0,0,0,.9,0,0,0,.9,0,0,.9,0,0,0,0,.9,0,0,.9,0,0,0,0,0,.9,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_56">There are many different types of functions that can be used to model relationships </text>
+<text x="287" y="162" dx="0,0,0,0,0,0,-.2,0,0,-.1,0,0,-.1,0,0,0,-.1,0,0,0,0,-.1,-.2,0,0,0,0,0,-.1,0,0,-.1,0,0,0,0,-.1,0,0,0,0,-.4,0,0,0,-.1,0,0,-.1,0,0,0,0,0,0,0,-.1,0,0,0,-.1,0,0,0,-.3,0,0,0,0,-.1,0,0,0,-.1,0,0,0,0,0,0,-.1,0,0,-.1,0,0,0,0,0" class="s5_56">observed in the real world. ±n what follows, we discuss the behavior and graphs of these </text>
+<text x="287" y="181" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.4,-.2,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_56">functions and give examples of situations appropriately modeled by such functions.</text>
+<path d="M288.8,207.3c0,0,-1.6,0,-1.6,1.5V218c0,0,0,1.5,1.6,1.5h9.1c0,0,1.6,0,1.6,-1.5v-9.2c0,0,0,-1.5,-1.6,-1.5Z" class="g0_56"/>
+<text x="307" y="219" dx="0,0,0,0,0,0,0,0,.1,0,0,0,0" class="s6_56">Linear Models</text>
+<text x="287" y="242" dx="0,0,0,0,0,.3,0,0,.3,0,0,0,.3,0,0,0,0" class="s5_56">When we say that </text>
+<text x="401" y="242" class="s7_56">y</text>
+<text x="412" y="242" dx="0,0,0,.3,0" class="s5_56">is a </text>
+<text x="437" y="242" dx="0,0,0,0,0,0,0,.3,0,0,0,0,0,0,0" class="s8_56">linear function</text>
+<text x="538" y="242" class="s5_56">of </text>
+<text x="555" y="242" class="s7_56">x</text>
+<text x="562" y="242" dx="0,0,.3,0,0,.3,0,0,0,0,.3,0,0,0,0,.3,0,0,0,.3,0,0,0,0,0,.3,0,0,.3,0,0,0,.3,0,0,0,0,0,0,0,0,.3,0,0" class="s5_56">, we mean that the graph of the function is </text>
+<text x="287" y="260" dx="0,0,-.2,0,0,0,0,0,-.2,0,0,-.2,0,0,-.2,0,0,0,-.2,0,0,0,-.2,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,-.2,0,0,-.2,0,0,0,-.2,0,0,0,0,0,0,0,0,-.2,0,0,-.2,0,-.2,0,0,0,0,-.2,0,0,-.2,0,0,0,0,0,-.2,0,-.2,0,0,0,0,0,0,0" class="s5_56">a line, so we can use the slope-intercept form of the equation of a line to write a formula </text>
+<text x="287" y="279" class="s5_56">for the function as</text>
+<text x="494" y="297" class="s7_56">y</text>
+<text x="505" y="297" class="s9_56">-</text>
+<text x="522" y="297" class="s7_56">f</text>
+<text x="529" y="297" class="sa_56">s</text>
+<text x="535" y="297" class="s7_56">x</text>
+<text x="541" y="297" class="sa_56">d</text>
+<text x="551" y="297" class="s9_56">-</text>
+<text x="568" y="297" dx="0,.8" class="s7_56">mx</text>
+<text x="592" y="297" class="sb_56">1</text>
+<text x="609" y="297" class="s7_56">b</text>
+<text x="287" y="326" class="s5_56">where </text>
+<text x="328" y="326" class="s7_56">m</text>
+<text x="343" y="326" class="s5_56">is the slope of the line and </text>
+<text x="507" y="326" class="s7_56">b</text>
+<text x="518" y="326" class="s5_56">is the </text>
+<text x="555" y="326" class="s7_56">y</text>
+<text x="562" y="326" class="s5_56">-intercept.</text>
+<text x="305" y="344" dx="0,0,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.3,0,0,0,0,0,0,0,1.3,0,0,1.3,0,0,0,0,0,0,1.3,0,0,0,0,0,0,0,0,0,1.3,0,0,1.3,0,0,0,0,1.3,0,0,-.2,0,1.3,0,0,-.4,0,1.3,0,0,1.3,0,1.3,0,0,0,0,0,0,0,0,1.3,0,0,0,0,0,1.3,-.2,0,0" class="s5_56">A characteristic feature of linear functions is that they grow at a constant rate. For </text>
+<text x="287" y="363" dx="0,0,0,0,0,0,0,0,0,0,1.5,0,0,0,0,0,0,1.5,0,1.5,0,0,-.4,0,0,1.5,0,1.5,0,0,0,0,0,1.5,0,0,1.5,0,0,0,1.5,0,0,0,0,0,0,1.5,0,0,0,0,0,0,0,0" class="s5_56">instance, Figure 2 shows a graph of the linear function </text>
+<text x="640" y="363" class="s7_56">f</text>
+<text x="647" y="363" class="sa_56">s</text>
+<text x="653" y="363" class="s7_56">x</text>
+<text x="659" y="363" class="sa_56">d</text>
+<text x="669" y="363" class="s9_56">-</text>
+<text x="686" y="363" class="s5_56">3</text>
+<text x="694" y="363" class="s7_56">x</text>
+<text x="705" y="363" class="sb_56">2</text>
+<text x="723" y="363" dx="0,0,1.5,0,0,0,1.5,0,1.5,0,0,0,0,0,1.5,0,0" class="s5_56">2 and a table of </text>
+<text x="287" y="381" dx="0,0,0,0,0,0,0,.8,-.4,0,0,0,0,0,0,.8,0,0,0,0,0,0,.8,0,0,0,0,.8,0,0,0,0,-.4,-.2,0,0" class="s5_56">sample values. Notice that whenever </text>
+<text x="518" y="381" class="s7_56">x</text>
+<text x="530" y="381" dx="0,0,0,0,0,0,0,0,0,0,.8,0,0,.8,0,0,0,0,.8,0,0,0,.8,-.4,0,0,0,0,.8,0,0" class="s5_56">increases by 0.1, the value of </text>
+<text x="718" y="381" class="s7_56">f</text>
+<text x="725" y="381" class="sa_56">s</text>
+<text x="731" y="381" class="s7_56">x</text>
+<text x="737" y="381" class="sa_56">d</text>
+<text x="747" y="381" dx="0,0,0,0,0,0,0,0,0,0,.8,0,0" class="s5_56">increases by </text>
+<text x="287" y="399" dx="0,0,0,0,0,.5,0,0" class="s5_56">0.3. So </text>
+<text x="337" y="399" class="s7_56">f</text>
+<text x="343" y="399" class="sa_56">s</text>
+<text x="349" y="399" class="s7_56">x</text>
+<text x="356" y="399" class="sa_56">d</text>
+<text x="365" y="399" dx="0,0,0,0,0,0,0,0,0,0,.5,0,0,0,0,0,.5,0,0,0,0,0,.5,0,0,.5,-.2,0,0,0,.5,0,0" class="s5_56">increases three times as fast as </text>
+<text x="558" y="399" class="s7_56">x</text>
+<text x="565" y="399" dx="0,0,.2,0,0,0,0,.5,0,0,0,.5,0,0,0,0,0,.5,0,0,.5,0,0,0,.5,0,0,0,0,0" class="s5_56">. Thus the slope of the graph </text>
+<text x="747" y="399" class="s7_56">y</text>
+<text x="758" y="399" class="s9_56">-</text>
+<text x="775" y="399" class="s5_56">3</text>
+<text x="783" y="399" class="s7_56">x</text>
+<text x="794" y="399" class="sb_56">2</text>
+<text x="812" y="399" class="s5_56">2, </text>
+<text x="287" y="418" class="s5_56">namely 3, can be interpreted as the rate of change of </text>
+<text x="611" y="418" class="s7_56">y</text>
+<text x="621" y="418" class="s5_56">with respect to </text>
+<text x="715" y="418" class="s7_56">x</text>
+<text x="722" y="418" class="s5_56">.</text>
+<text x="487" y="540" class="sc_56">x</text>
+<text x="377" y="443" class="sd_56">y</text>
+<text x="378" y="540" class="se_56">0</text>
+<text x="423" y="485" class="sf_56">y=3x-2</text>
+<text x="368" y="567" dx="0,.2" class="sg_56">_2</text>
+<text x="403" y="543" class="sg_56">1</text>
+<path d="M374.3,606.5l55,-165" class="g1_56"/>
+<path d="M287.2,528.6H488.9" class="g2_56"/>
+<path fill-rule="evenodd" d="M488.9,528.6l-1.6,-2.4l6.5,2.4l-6.5,2.5Z" class="g3_56"/>
+<path d="M388.1,606.5v-165" class="g2_56"/>
+<path fill-rule="evenodd" d="M388.1,441.5l-2.5,1.7l2.5,-6.6l2.4,6.6Z" class="g3_56"/>
+<path d="M406.4,525.6v6.1" class="g4_56"/>
+<path d="M558,454.9h65.7v27.5H558Zm65.7,0H732.2v27.5H623.7Z" class="g5_56"/>
+<path d="M732.2,500.7V482.8m0,36.2V500.7m0,36.7V519m0,36.7V537.4m0,36.6V555.7m0,39.4V574M623.7,595.4H732.6M557.7,454.9h66M558,482V455.3m65.7,-.4H732.6M623.7,482V455.3M732.2,482V455.3M623.7,482.4H732.6m-174.9,0h66M558,500.7V482.8m65.7,17.9V482.8M558,519V500.7M623.7,519V500.7M558,537.4V519m65.7,18.4V519M558,555.7V537.4m65.7,18.3V537.4M558,574V555.7M623.7,574V555.7m-66,39.7h66M558,595.1V574m65.7,21.1V574" class="g6_56"/>
+<text x="588" y="473" class="sh_56">x</text>
+<text x="637" y="473" class="sh_56">f</text>
+<text x="644" y="473" class="si_56">s</text>
+<text x="650" y="473" class="sh_56">x</text>
+<text x="656" y="473" class="si_56">d</text>
+<text x="664" y="473" class="sj_56">-</text>
+<text x="680" y="473" class="sk_56">3</text>
+<text x="687" y="473" class="sh_56">x</text>
+<text x="697" y="473" class="sl_56">2</text>
+<text x="713" y="473" class="sk_56">2</text>
+<text x="582" y="496" class="sk_56">1.0</text>
+<text x="669" y="496" class="sk_56">1.0</text>
+<text x="582" y="514" class="sk_56">1.1</text>
+<text x="669" y="514" class="sk_56">1.3</text>
+<text x="582" y="532" class="sk_56">1.2</text>
+<text x="669" y="532" class="sk_56">1.6</text>
+<text x="582" y="551" class="sk_56">1.3</text>
+<text x="669" y="551" class="sk_56">1.9</text>
+<text x="582" y="569" class="sk_56">1.4</text>
+<text x="669" y="569" class="sk_56">2.2</text>
+<text x="582" y="587" class="sk_56">1.5</text>
+<text x="669" y="587" class="sk_56">2.5</text>
+<text x="287" y="646" dx="0,.3,.3,.3,.3,.3,.3,.2" class="sm_56">EXAMPLE </text>
+<text x="358" y="646" class="sn_56">1</text>
+<text x="287" y="665" dx="0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,-.2,-.2,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_56">(a) As dry air moves upward, it expands and cools. ±f the ground temperature is 20°C </text>
+<text x="287" y="683" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_56">and the temperature at a height of 1 km is 10°C, express the temperature </text>
+<text x="733" y="683" class="s7_56">T</text>
+<text x="746" y="683" class="s5_56">(in °C) as a </text>
+<text x="287" y="701" class="s5_56">function of the height </text>
+<text x="423" y="701" class="s7_56">h</text>
+<text x="434" y="701" class="s5_56">(in kilometers), assuming that a linear model is appropriate.</text>
+<text x="287" y="720" dx="0,0,0,0,3.8,0,0,-.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_56">(b) Draw the graph of the function in part (a). What does the slope represent?</text>
+<text x="287" y="738" dx="0,0,0,0,3.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_56">(c) What is the temperature at a height of 2.5 km?</text>
+<text x="287" y="766" dx="0,.3,.3,.3,.3,.3,.3,.3" class="so_56">SOLUTION</text>
+<text x="287" y="784" dx="0,0,0,0,3.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_56">(a) Because we are assuming that </text>
+<text x="498" y="784" class="s7_56">T</text>
+<text x="512" y="784" class="s5_56">is a linear function of </text>
+<text x="646" y="784" class="s7_56">h</text>
+<text x="654" y="784" class="s5_56">, we can write</text>
+<text x="515" y="815" class="s7_56">T</text>
+<text x="528" y="815" class="s9_56">-</text>
+<text x="546" y="815" dx="0,.8" class="s7_56">mh</text>
+<text x="570" y="815" class="sb_56">1</text>
+<text x="587" y="815" class="s7_56">b</text>
+<text x="287" y="845" dx="0,-1.2,0,0,0,0,0,0,0,-.4,-.2,0,0,0,0,0,0,0" class="s5_56">We are given that </text>
+<text x="397" y="845" class="s7_56">T</text>
+<text x="410" y="845" class="s9_56">-</text>
+<text x="427" y="845" class="s5_56">20 when </text>
+<text x="483" y="845" class="s7_56">h</text>
+<text x="495" y="845" class="s9_56">-</text>
+<text x="513" y="845" class="s5_56">0, so </text>
+<text x="490" y="876" class="s5_56">20</text>
+<text x="510" y="876" class="s9_56">-</text>
+<text x="527" y="876" class="s7_56">m</text>
+<text x="543" y="876" class="sb_56">?</text>
+<text x="553" y="876" class="s5_56">0</text>
+<text x="565" y="876" class="sb_56">1</text>
+<text x="582" y="876" class="s7_56">b</text>
+<text x="594" y="876" class="s9_56">-</text>
+<text x="612" y="876" class="s7_56">b</text>
+<text x="287" y="908" dx="0,0,0,0,0,0,0,0,0,0,-.2,0,0,0,0,0,0,0,0,0" class="s5_56">±n other words, the </text>
+<text x="406" y="908" class="s7_56">y</text>
+<text x="413" y="908" class="s5_56">-intercept is </text>
+<text x="489" y="908" class="s7_56">b</text>
+<text x="502" y="908" class="s9_56">-</text>
+<text x="519" y="908" class="s5_56">20.</text>
+<text x="305" y="926" dx="0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,-.4,-.2,0,0,0,0,0,0,0" class="s5_56">We are also given that </text>
+<text x="444" y="926" class="s7_56">T</text>
+<text x="457" y="926" class="s9_56">-</text>
+<text x="474" y="926" class="s5_56">10 when </text>
+<text x="530" y="926" class="s7_56">h</text>
+<text x="542" y="926" class="s9_56">-</text>
+<text x="560" y="926" class="s5_56">1, so</text>
+<text x="501" y="957" class="s5_56">10</text>
+<text x="521" y="957" class="s9_56">-</text>
+<text x="538" y="957" class="s7_56">m</text>
+<text x="554" y="957" class="sb_56">?</text>
+<text x="564" y="957" class="s5_56">1</text>
+<text x="576" y="957" class="sb_56">1</text>
+<text x="593" y="957" class="s5_56">20</text>
+<text x="287" y="987" dx="0,0,0,0,-.9,0,0,0,0,0,-.9,0,0,-.9,0,0,0,-.9,0,0,0,0,-.9,0,0,-.9,0,0,0,0,0,0,0,0,0" class="s5_56">The slope of the line is therefore </text>
+<text x="483" y="987" class="s7_56">m</text>
+<text x="498" y="987" class="s9_56">-</text>
+<text x="516" y="987" class="s5_56">10</text>
+<text x="536" y="987" class="sb_56">2</text>
+<text x="553" y="987" class="s5_56">20</text>
+<text x="573" y="987" class="s9_56">-</text>
+<text x="590" y="987" class="sb_56">2</text>
+<text x="603" y="987" dx="0,0,0,-.9,0,0,0,-.9,0,0,0,-.9,0,0,0,0,0,0,0,0,-.9,0,0,0,0,0,0,-.9,0,0,0,0,0,0,0,0,-.9,0" class="s5_56">10 and the required linear function is</text>
+<text x="503" y="1015" class="s7_56">T</text>
+<text x="516" y="1015" class="s9_56">-</text>
+<text x="534" y="1015" class="sb_56">2</text>
+<text x="546" y="1015" class="s5_56">10</text>
+<text x="562" y="1015" class="s7_56">h</text>
+<text x="574" y="1015" class="sb_56">1</text>
+<text x="591" y="1015" class="s5_56">20</text>
+<text x="53" y="242" class="sk_56">The coordinate geometry of lines is </text>
+<text x="53" y="259" dx="0,0,-.3,0,0,-.3,0,0,0,0,0,0,-.8,0,0,0,0,0,0,0,0,0,0" class="sk_56">reviewed in Appendix B.</text>
+<text x="212" y="605" dx="0,.3,.3,.3,.3,.3,.1" class="sp_56">FIGURE </text>
+<text x="265" y="605" class="sq_56">2</text>
+<text x="121" y="1076" class="sr_56">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="sr_56">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MathematicalPiLTStd-1_rr;
+	src: url("fonts/MathematicalPiLTStd-1_rr.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-3_ry;
+	src: url("fonts/MathematicalPiLTStd-3_ry.woff") format("woff");
+}
+
+@font-face {
+	font-family: MathematicalPiLTStd-5_vb;
+	src: url("fonts/MathematicalPiLTStd-5_vb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-BoldSemiCn_90;
+	src: url("fonts/MyriadPro-BoldSemiCn_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Bold_74;
+	src: url("fonts/MyriadPro-Bold_74.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_13x;
+	src: url("fonts/TECHMath-Mix_13x.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_160;
+	src: url("fonts/TECHMath-Mix_160.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_16a;
+	src: url("fonts/TECHMath-Mix_16a.woff") format("woff");
+}
+
+@font-face {
+	font-family: TECHMath-Mix_18x;
+	src: url("fonts/TECHMath-Mix_18x.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Bold_oh;
+	src: url("fonts/TimesLTStd-Bold_oh.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_143;
+	src: url("fonts/TimesLTStd-Roman_143.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

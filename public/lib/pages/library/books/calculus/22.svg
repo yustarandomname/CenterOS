@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 22 -->
+<svg x="0" y="0" width="931" height="1096" viewBox="0 0 931 1096" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_22"><path d="M0,0H931V1096H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_22{
+font-size: 15.28px;
+font-family: MyriadPro-Semibold_49;
+fill: #231F20;
+}
+.s2_22{
+font-size: 12.22px;
+font-family: MyriadPro-Regular_4i;
+fill: #231F20;
+}
+.s3_22{
+font-size: 13.75px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.s4_22{
+font-size: 13.75px;
+font-family: TimesLTStd-Italic_o3;
+fill: #231F20;
+}
+.s5_22{
+font-size: 15.28px;
+font-family: TimesLTStd-Roman_6c;
+fill: #231F20;
+}
+.s6_22{
+font-size: 7.64px;
+font-family: Times-Roman_4n;
+fill: #000000;
+}
+
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_22)">
+<path d="M0,0
+L0,1096
+L931,1096
+L931,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<text x="53" y="64" class="s1_22">xx</text>
+<text x="127" y="64" dx="0,-.1,0,.1,.1,.1,0" class="s2_22">Preface</text>
+<text x="53" y="106" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0" class="s3_22">Joseph Stamp²i, </text>
+<text x="147" y="106" class="s4_22">Indiana University</text>
+<text x="53" y="123" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-.2,-.9,0" class="s3_22">Kristin Stoley, </text>
+<text x="136" y="123" class="s4_22">Blinn College</text>
+<text x="53" y="140" dx="0,0,0,0,0,0,-.2,-1.1,-.3,-.3,0,-.1,0,0,0,0" class="s3_22">M. B. Tavakoli, </text>
+<text x="142" y="140" class="s4_22">Chaffey College</text>
+<text x="53" y="157" dx="0,0,0,0,0,0,0,0,0,0,-.2,-1.1,0,0,0,0" class="s3_22">Magdalena Toda, </text>
+<text x="152" y="157" class="s4_22">Texas Tech University</text>
+<text x="53" y="174" dx="0,0,0,0,0,-.2,-.5,0,0,0,0,0,0,0,0" class="s3_22">Ruth Trygstad, </text>
+<text x="139" y="174" class="s4_22">Salt Lake Community College</text>
+<text x="53" y="190" dx="0,-.2,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0" class="s3_22">Paul Xavier Uhlig, </text>
+<text x="160" y="190" dx="0,0,0,0,0,0,0,0,0,-.6,0,0,0,0,0,0,0,-.1,0,0,0,-.8,0,0,0,0,0,-.2,0,0,0,0,0,0" class="s4_22">St. Mary’s University, San Antonio</text>
+<text x="53" y="207" dx="0,0,0,0,0,-.7,-1.5,0,0,0,0,0,-.1,-.9,0" class="s3_22">Stan Ver Nooy, </text>
+<text x="139" y="207" class="s4_22">University of Oregon</text>
+<text x="53" y="224" dx="0,0,0,0,0,0,0,-.7,-1.5,0,0,0,0,0,0" class="s3_22">Andrei Verona, </text>
+<text x="140" y="224" class="s4_22">California State University–Los Angeles</text>
+<text x="53" y="241" dx="0,0,0,0,0,0,-.7,-1.8,0,0,0,0,0,0,0" class="s3_22">Klaus Volpert, </text>
+<text x="135" y="241" class="s4_22">Villanova University</text>
+<text x="53" y="258" dx="0,0,0,0,0,0,0,0,0,0,0,-.4,-1.1,0,0,-.1,0,-.6,0" class="s3_22">Russell C. Walker, </text>
+<text x="158" y="258" class="s4_22">Carnegie Mellon University</text>
+<text x="53" y="274" dx="0,-.6,0,0,0,0,0,0,0,0,0,-.4,-1.1,0,0,0,0,0,0" class="s3_22">William L. Walton, </text>
+<text x="162" y="274" class="s4_22">McCallie School</text>
+<text x="448" y="106" dx="0,0,0,0,0,0,0,0,-.4,-1.1,0,0,0,0" class="s3_22">Peiyong Wang, </text>
+<text x="534" y="106" class="s4_22">Wayne State University</text>
+<text x="448" y="123" dx="0,0,0,0,0,-.4,-1.1,0,0,0,0,-.6,0" class="s3_22">Jack Weiner, </text>
+<text x="521" y="123" class="s4_22">University of Guelph</text>
+<text x="448" y="140" dx="0,0,0,0,0,-.4,-1.1,0,0,0,0,0,0,0,0,0" class="s3_22">Alan Weinstein, </text>
+<text x="539" y="140" class="s4_22">University of California, Berkeley</text>
+<text x="448" y="157" dx="0,0,0,0,0,0,0,0,0,-.4,-1.3,0,-.4,-.5,0,0,0,0,0,0" class="s3_22">Theodore W. Wilcox, </text>
+<text x="568" y="157" class="s4_22">Rochester Institute of Technology</text>
+<text x="448" y="174" dx="0,0,0,-.3,-.2,0,0,-.4,-.5,0,0,0,0,0,0,0" class="s3_22">Steven Willard, </text>
+<text x="536" y="174" class="s4_22">University of Alberta</text>
+<text x="448" y="190" dx="0,0,0,0,0,0,0,-.4,-.5,0,0,0,0,0,0" class="s3_22">Robert Wilson, </text>
+<text x="534" y="190" class="s4_22">University of Wisconsin–Madison</text>
+<text x="448" y="207" dx="0,0,0,0,0,0,0,-.4,-1.1,0,0,0,0,0,0,0" class="s3_22">Jerome Wolbert, </text>
+<text x="541" y="207" class="s4_22">University of Michigan–Ann Arbor </text>
+<text x="448" y="224" dx="0,0,0,0,0,0,0,0,0,0,-.4,-1.1,0,0,0,0,0,0,0" class="s3_22">Dennis H. Wortman, </text>
+<text x="564" y="224" class="s4_22">University of Massachusetts, Boston</text>
+<text x="448" y="241" dx="0,0,0,0,0,-.4,0,0,0,0,0,0,0" class="s3_22">Mary Wright, </text>
+<text x="526" y="241" class="s4_22">Southern Illinois University–Carbondale</text>
+<text x="448" y="258" dx="0,-.2,0,0,0,0,0,0,-.4,0,0,0,0,0,0,0" class="s3_22">Paul M. Wright, </text>
+<text x="540" y="258" class="s4_22">Austin Community College</text>
+<text x="448" y="274" dx="0,0,0,0,0,-.4,-.7,0,0" class="s3_22">Xian Wu, </text>
+<text x="503" y="274" class="s4_22">University of South Carolina</text>
+<text x="315" y="326" dx="0,-.1,-.1,-.7,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.7,-.1,-.7,-.1,-.1,-.1,-.1,-.1,-.7,-.1,-.1,-.1,-.1,-.7,-.1,-.1,-.7,-.1,-.1,-.1,-.1,-.1,-.7,-.1,-.1,-.7,-.1,-.1,-.7,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.7,-.1,-.1,-.1,-.1,-.1,-.7,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.7,-.1,-.1,-.1,-.1,-.1,-.7,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.7,-.1,-.1,-.1,0" class="s5_22">In addition, I would like to thank R. B. Burckel, Bruce Colletti, David Behrman, John </text>
+<text x="287" y="344" dx="0,0,0,0,0,0,0,0,.7,0,0,0,0,.7,0,0,0,0,0,0,0,0,.7,0,0,0,0,.7,0,0,0,0,0,0,0,0,.7,0,0,0,.7,0,0,0,0,0,0,0,.7,0,0,0,0,0,.7,0,0,0,0,0,.7,0,0,0,0,0,0,0,.7,0,0,0,0,0,0,0,0,0,0,0" class="s5_22">Dersch, Gove Ef±nger, Bill Emerson, Dan Kalman, Quyan Khan, Alfonso Gracia-Saz, </text>
+<text x="287" y="362" dx="0,-.1,-.1,-.1,-.1,-.1,-.8,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.9,-.1,-.1,-.1,-.1,-.9,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.9,-.1,-.1,-.1,-.1,-.1,-.1,-.9,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.8,-.1,-.1,-.1,-.1,-.1,-.8,-.1,-.1,-.1,-.1,-.1,-.1,-.9,-.1,-.1,-.1,-.1,-.1,-.1,-.8,-.1,-.1,-.1,-.1,-.1,-.1,-.9,-.1,-.1,-.1,-.8,-.1,-.1,-.1,-.8,-.1,-.1,-.1,-.1,-.1,.5" class="s5_22">Allan MacIsaac, Tami Martin, Monica Nitsche, Lamia Raffo, Norton Starr, and Jim Trefz- </text>
+<text x="287" y="381" dx="0,0,0,0,-.1,0,0,0,-.1,0,0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,-.1,0,0,-.1,0,0,0,0,0,-.1,0,0,0,-.1,0,0,0,0,0,0,-.1,0,0,0,0,-.1,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,-.1,0,0,-.1,0,0,0,-.1,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0" class="s5_22">ger for their suggestions; Al Shenk and Dennis Zill for permission to use exercises from </text>
+<text x="287" y="399" dx="0,0,0,0,0,0,.9,0,0,0,0,0,0,0,0,.9,0,0,0,0,0,0,.9,0,0,0,0,0,.9,0,0,0,.9,0,0,0,0,0,0,0,0,0,0,.9,0,0,.9,0,0,0,.9,0,0,0,0,0,0,0,.9,0,0,0,0,0,0,0,0,0,.9,0,0,0,0,0,0,.9,0,0,0,0,0,0,0,0" class="s5_22">their calculus texts; COMAP for permission to use project material; George Bergman, </text>
+<text x="287" y="417" dx="0,.1,.1,.1,.1,.1,1.2,.1,.1,.1,.1,.1,.1,.1,.1,.1,1.2,.1,.1,.1,1.2,.1,.1,.1,.1,.1,.1,1.2,.1,.1,.1,.1,.1,.1,1.2,.1,.1,.1,.1,.1,.1,.1,1.2,.1,.1,.1,.1,.1,.1,.1,1.2,.1,.1,.1,.1,1.2,.1,.1,.1,.1,.1,1.2,.1,.1,.1,.1,.1,.1,.1,1.2,.1,.1,.1,1.2,.1,.1,.1,.1,.1" class="s5_22">David Bleecker, Dan Clegg, Victor Kaftal, Anthony Lam, Jamie Lawson, Ira Rosen-</text>
+<text x="287" y="436" dx="0,0,0,0,0,0,0,-.3,0,0,0,0,-.3,0,0,0,0,0,0,-.3,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,-.3,0,0,0,-.3,0,0,0,0,0,-.3,0,0,0,0,0,0,-.3,0,0,0,-.3,0,0,0,0,0,-.3,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,-.3,0,0,0,0,0,0,0" class="s5_22">holtz, Paul Sally, Lowell Smylie, and Larry Wallen for ideas for exercises; Dan Drucker </text>
+<text x="287" y="454" dx="0,0,0,0,.8,0,0,0,.8,0,0,0,0,0,0,.8,0,0,0,0,0,.8,0,0,0,0,0,0,0,0,.8,0,0,0,0,0,0,.8,0,0,0,0,0,0,0,0,0,.8,0,0,0,.8,0,0,0,0,0,0,0,.8,0,0,0,0,.8,0,0,0,0,0,.8,0,0,0,0,.8,0,0,0,0,0,0,0" class="s5_22">for the roller derby project; Thomas Banchoff, Tom Farmer, Fred Gass, John Ramsay, </text>
+<text x="287" y="472" dx="0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0" class="s5_22">Larry Riddle, Philip Straf±n, and Klaus Volpert for ideas for projects; Dan Anderson, </text>
+<text x="287" y="491" dx="0,.1,.1,.1,1,.1,.1,.1,.1,.1,.1,1,.1,.1,.1,.1,1,.1,.1,.1,.1,.1,1,.1,.1,.1,1,.1,.1,.1,.1,.1,.1,.1,.1,1,.1,.1,.1,1,.1,.1,.1,.1,.1,.1,.1,1,.1,.1,.1,.1,.1,1,.1,.1,.1,1,.1,.1,.1,.1,.1,.1,.1,1,.1,.1,.1,1,.1,.1,.1,1,.1,.1,.1,.1,.1,.1,.1,.1,0" class="s5_22">Dan Clegg, Jeff Cole, Dan Drucker, and Barbara Frank for solving the new exercises </text>
+<text x="287" y="509" dx="0,0,0,0,-.4,0,0,0,0,0,0,0,0,0,0,-.4,0,0,0,0,-.4,0,0,-.4,0,0,0,0,0,0,0,-.4,0,0,0,0,0,-.4,0,0,0,0,-.4,0,0,0,0,0,0,0,0,-.4,0,0,0,-.4,0,0,0,0,-.4,0,0,0,0,0,0,0,-.4,0,0,0,-.4,0,0,0,0,0,0,0,0,-.4,0,0" class="s5_22">and suggesting ways to improve them; Marv Riedesel and Mary Johnson for accuracy in </text>
+<text x="287" y="527" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.5,0,0,0,0,-.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.5,0,0,0,0,0,0,-.5,0,0,0,0,0,0,0,-.5,0,0,0,0,-.5,0,0,0,0,0,0,0,0,-.5,0,0,0,-.5,0,0,0,0,0,0,-.5,0,0,0,0,0,0" class="s5_22">proofreading; Andy Bulman-Fleming, Lothar Redlin, Gina Sanders, and Saleem Watson </text>
+<text x="287" y="546" dx="0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0" class="s5_22">for additional proofreading; and Jeff Cole and Dan Clegg for their careful preparation </text>
+<text x="287" y="564" class="s5_22">and proofreading of the answer manuscript. </text>
+<text x="315" y="582" dx="0,0,0,-.6,0,0,0,0,0,0,0,0,0,-.6,0,-.6,0,0,0,0,0,-.6,0,0,0,0,0,-.6,0,0,0,-.6,0,0,0,0,-.6,0,0,0,0,0,0,0,0,0,0,0,-.6,0,0,-.6,0,0,0,0,-.6,0,0,0,0,0,0,0,0,0,-.6,0,0,-.6,0,0,0,0,0,0,0,0,-.6,0,0,0,0,0,0" class="s5_22">In addition, I thank those who have contributed to past editions: Ed Barbeau, George </text>
+<text x="287" y="601" dx="0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,-.3,0,0,0,0,0,0,0,-.3,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-.3,0,0,0,-.3,0,0,0,0,0,0,0,-.3,0,0,0,0,0,-.3,0,0,0,0,0,0,0,-.3,0,0,0,-.3,0,0,0,0,0" class="s5_22">Bergman, Fred Brauer, Andy Bulman-Fleming, Bob Burton, David Cusick, Tom DiCic-</text>
+<text x="287" y="619" dx="0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0" class="s5_22">cio, Garret Etgen, Chris Fisher, Leon Gerber, Stuart Goldenberg, Arnold Good, Gene </text>
+<text x="287" y="637" dx="0,.1,.1,.1,.1,.1,.1,1.5,.1,.1,.1,.1,.1,.1,1.5,.1,.1,.1,.1,.1,.1,.1,1.5,.1,.1,1.5,.1,.1,1.5,.1,.1,.1,.1,1.5,.1,.1,.1,.1,.1,.1,.1,1.5,.1,.1,.1,.1,.1,.1,.1,.1,1.5,.1,.1,.1,.1,.1,1.5,.1,.1,.1,.1,.1,.1,.1,.1,1.5,.1,.1,.1,.1,.1,1.5,.1,.1,.1,.1,.1,.1,.1,0" class="s5_22">Hecht, Harvey Keynes, E. L. Koh, Zdislav Kovarik, Kevin Kreider, Emile LeBlanc, </text>
+<text x="287" y="656" class="s5_22">David Leep, Gerald Leibowitz, Larry Peterson, Mary Pugh, Lothar Redlin, Carl Riehm, </text>
+<text x="287" y="674" dx="0,.1,.1,.1,.1,1.3,.1,.1,.1,.1,.1,.1,.1,.1,.1,1.3,.1,.1,.1,.1,.1,1.3,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,1.3,.1,.1,.1,.1,.1,1.3,.1,.1,.1,.1,.1,1.3,.1,.1,.1,.1,1.3,.1,.1,.1,.1,.1,1.3,.1,.1,.1,1.3,.1,.1,.1,.1,.1,.1,.1,1.3,.1,.1,.1,.1,.1,1.3,.1,.1,.1,.1,.1,0" class="s5_22">John Ringland, Peter Rosenthal, Dusty Sabo, Doug Shaw, Dan Silver, Simon Smith, </text>
+<text x="287" y="692" class="s5_22">Saleem Watson, Alan Weinstein, and Gail Wolkowicz. </text>
+<text x="315" y="711" class="s5_22">I also thank Kathi Townes, Stephanie Kuhns, Kristina Elliott, and Kira Abdallah of </text>
+<text x="287" y="729" dx="0,.2,.2,.2,.2,.2,.2,.2,.2,2.3,.2,.2,.2,2.3,.2,.2,.2,.2,.2,2.3,.2,.2,.2,.2,.2,.2,.2,.2,.2,.2,2.3,.2,.2,.2,.2,.2,.2,.2,.2,2.3,.2,.2,.2,2.3,.2,.2,.2,2.3,.2,.2,.2,.2,.2,.2,.2,.2,.2,2.3,.2,.2,.2,.2,.2,.2,.2,2.3,.2,.2,.2,.2,.2,.2,.2,.2,2.3,.2,.2,.2,.2,.2,0" class="s5_22">TECHarts for their production services and the following Cengage Learning staff: </text>
+<text x="287" y="747" dx="0,.1,.1,.1,.1,.1,.1,.1,1.6,.1,.1,.1,.1,.1,.1,.1,.1,.1,.1,1.6,.1,.1,.1,.1,.1,.1,.1,1.6,.1,.1,.1,.1,.1,.1,.1,1.6,.1,.1,.1,.1,.1,.1,.1,.1,1.6,.1,.1,.1,.1,.1,1.6,.1,.1,.1,.1,.1,.1,1.6,.1,.1,.1,.1,.1,.1,1.6,.1,.1,.1,.1,.1,.1,.1,1.6,.1,.1,.1,.1,.1,.1,.1,.1,.1,0" class="s5_22">Cheryll Linthicum, content project manager; Stacy Green, senior content developer; </text>
+<text x="287" y="766" dx="0,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,.7,-.1,-.1,-.1,-.1,-.1,-.1,.7,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,.7,-.1,-.1,-.1,-.1,-.1,-.1,-.1,.7,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,.7,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,.7,-.1,-.1,-.1,-.1,-.1,-.1,.7,-.1,-.1,-.1,-.1,-.1,-.1,-.1,.7,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,-.1,.7,-.1,-.1,-.1,0" class="s5_22">Samantha Lugtu, associate content developer; Stephanie Kreuz, product assistant; Lynh </text>
+<text x="287" y="784" dx="0,-.1,-.1,-.1,-.1,0,-.6,0,0,0,0,0,-.6,0,0,0,0,0,0,0,0,0,0,-.6,0,0,0,0,-.6,0,0,0,0,0,0,-.6,0,0,0,0,0,0,0,0,0,-.6,0,0,0,0,0,0,0,0,-.6,0,0,0,-.6,0,0,0,0,0,0,-.6,0,0,0,0,0,-.6,0,0,0,-.6,0,0,0,0,0,0,0,0,0" class="s5_22">Pham, media developer; Ryan Ahern, marketing manager; and Vernon Boes, art director. </text>
+<text x="287" y="802" class="s5_22">They have all done an outstanding job.</text>
+<text x="315" y="821" dx="0,0,-.6,0,0,0,0,-.6,0,0,0,0,-.6,0,0,0,0,-.6,0,0,0,0,0,0,0,0,0,-.6,0,0,-.6,0,0,0,0,-.6,0,0,0,0,0,0,-.6,0,0,0,0,-.6,0,0,0,0,-.6,0,0,-.6,0,0,0,-.6,0,0,0,0,-.6,0,0,0,0,0,0,0,0,0,0,0,-.6,0,0,0,0,0,0,0" class="s5_22">I have been very fortunate to have worked with some of the best mathematics editors </text>
+<text x="287" y="839" dx="0,0,0,.7,0,0,0,.7,0,0,0,0,0,0,0,0,.7,0,0,0,0,.7,0,0,0,.7,0,0,0,0,.7,0,0,0,0,0,.7,0,0,0,0,0,0,0,0,.7,0,0,0,.7,0,0,0,0,0,0,.7,0,0,0,0,0,.7,0,0,0,0,0,0,0,0,0,.7,0,0,0,0,0,.7,0,0,0,0,0,0" class="s5_22">in the business over the past three decades: Ron Munro, Harry Campbell, Craig Barth, </text>
+<text x="287" y="857" dx="0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,-.3,0,0,0,0,-.3,0,0,0,0,0,0,0,-.3,0,0,0,-.3,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,-.3,0,0,0,0,0,0,0,0,0,-.3,0,0,0,-.3,0,0,0,0,0,0,0,0,-.3,0,0,0,-.3,0,0,0,-.3,0,0,0,0" class="s5_22">Jeremy Hayhurst, Gary Ostedt, Bob Pirtle, Richard Stratton, Liz Covello, and now Neha </text>
+<text x="287" y="876" class="s5_22">Taleja. All of them have contributed greatly to the success of this book.</text>
+<text x="725" y="912" class="s5_22">³´µ¶· ·¸¶¹´º¸</text>
+<text x="121" y="1076" class="s6_22">Copyright 2016 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).</text>
+<text x="106" y="1087" class="s6_22">Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.</text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MyriadPro-Regular_4i;
+	src: url("fonts/MyriadPro-Regular_4i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Semibold_49;
+	src: url("fonts/MyriadPro-Semibold_49.woff") format("woff");
+}
+
+@font-face {
+	font-family: Times-Roman_4n;
+	src: url("fonts/Times-Roman_4n.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Italic_o3;
+	src: url("fonts/TimesLTStd-Italic_o3.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesLTStd-Roman_6c;
+	src: url("fonts/TimesLTStd-Roman_6c.woff") format("woff");
+}
+
+]]></style>
+
+</svg>
