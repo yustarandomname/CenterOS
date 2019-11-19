@@ -91,7 +91,7 @@ a {
 .suggestion {
 	display: flex;
 	padding: .5rem;
-	border-bottom: 1px solid lightgrey;
+	/* border-bottom: 1px solid lightgrey; */
 	background: transparent;
 	transition: .3s background;
 }
@@ -108,6 +108,7 @@ a {
 /* workspace */
 .workplace {
 	width: 40rem;
+	max-width: 90vw;
 	margin: 0 auto;
 }
 
