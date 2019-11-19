@@ -1,14 +1,49 @@
 var val = [];
 
 let installed = [
-	{ name: 'go', pageSrc: 'main/goCommand.js', commandSrc: () => goCommands },
-	{ name: 'files', pageSrc: 'files/command.js', commandSrc: () => fileCommands }
+	{ name: 'Go', icon: 'i-compare', opened: false, pageSrc: 'main/goCommand.js', commandSrc: () => goCommands },
+	{ name: 'Files', icon: 'i-file', opened: true, pageSrc: 'files/command.js', commandSrc: () => fileCommands },
+	{ name: 'Library', icon: 'i-book', opened: true, pageSrc: 'library/command.js', commandSrc: () => fileCommands }
 ];
 
-function openApp(app) {
-	console.log(`app: ${app} is opened`);
+function openApp(page) {
+	//const page = $('.suggestion.active').attr('appname');
+	const pageurl = `/lib/pages/${page}/${page}.html`;
+
+	if ($(`.app[appid=${page}]`).length) {
+		console.log(`${page} is already open`);
+	} else {
+		$.ajax({
+			url: pageurl,
+			success: function(data) {
+				let obj = $('<div>', { class: 'app', appid: page }).append(data);
+				$('.workplace').append(obj);
+				console.log('data', data);
+			}
+		});
+	}
 }
 
+function initHint() {
+	installed.forEach((obj, index) => {
+		let suggestion = $('<div>', { class: 'suggestion', appname: obj.name.toLowerCase() })
+			.append($('<i>', { class: `suggestionIcon ${obj.icon}` })) //icon
+			.append($('<div>', { class: 'suggestionName', text: obj.name }));
+
+		if (index == 0) {
+			suggestion.addClass('active');
+		}
+
+		if (obj.opened) {
+			suggestion.attr('action', 'openApp');
+			suggestion.append($('<i>', { class: `suggestionIcon i-open` }));
+		}
+
+		$('.searchSuggestions').append(suggestion);
+	});
+}
+
+// not in use
 function placeHint(task, lastArg, src) {
 	switch (task) {
 		case 'func':
@@ -29,6 +64,7 @@ function placeHint(task, lastArg, src) {
 	}
 }
 
+// not in use
 function suggestField() {
 	$('.searchresults').children().remove(); // reset values in searchresults
 	//hide('.searchError');
@@ -64,8 +100,6 @@ function suggestField() {
 		});
 	}
 
-	// TODO: set limitation to hint size
-
 	// print suggestions
 	$('.resultitem').eq(0).addClass('active');
 
@@ -76,6 +110,7 @@ function suggestField() {
 	}
 }
 
+// not in use
 function appendSuggestion(suggestion) {
 	let text = $('.searchfield').val();
 	let lastIndex = text.lastIndexOf(' ');
@@ -84,16 +119,37 @@ function appendSuggestion(suggestion) {
 	$('.searchfield').val(fullText);
 }
 
-//   if ($('.active').hasClass('resultFunction')){ // active is a funtion
-//     let val = $('.resultFunction.active').text();
-//     val = (val.slice(-1) == ' ')? val.slice(0, -1).split(' ') : val.split(' '); //remove space if val has space at end
-//     val.forEach(opp => {src = (src[opp])?src[opp] : src;}) //if function doesn't make sense, tries to make sense of command
+// EXECUTE
+function exicuteFunction() {
+	const base = $('.suggestion.active');
 
-//     src.func();
-//     $('.searchfield').val('');
-//     $('.searchresults').children().remove();
+	switch (base.attr('action')) {
+		case 'openApp':
+			openApp(base.attr('appname'));
+			break;
+		default:
+			displaySearchError('');
+			break;
+	}
+}
 
-$('.searchbar').keydown(function(e) {
+//HANDLE ERRORS
+function displaySearchError(error) {
+	// set error color
+	$('.searchBar').addClass('searchError');
+
+	//remove error color after certain time
+	setTimeout(() => {
+		$('.searchBar').removeClass('searchError');
+	}, 2000);
+
+	// if there is an error message
+	if (error != '') {
+	}
+}
+
+// KEYBOARD ACTIONS
+$('.searchBar').keydown(function(e) {
 	switch (e.which) {
 		case 9: //tab
 			e.preventDefault();
@@ -105,21 +161,16 @@ $('.searchbar').keydown(function(e) {
 			break;
 		case 38: //up
 			e.preventDefault();
-			for (let i = 0; i < $('.resultitem').length; i++) {
-				if ($('.resultitem').eq(i).hasClass('active')) {
-					$('.resultitem').eq(i - 1).addClass('active').siblings().removeClass('active');
-					break;
-				}
-			}
+			currentIndex = $('.suggestion.active').index() | 0;
+			$('.suggestion').removeClass('active');
+			$('.suggestion').eq(currentIndex - 1).addClass('active');
 			break;
-		case 40:
+		case 40: // down
 			e.preventDefault();
-			for (let i = 0; i < $('.resultitem').length; i++) {
-				if ($('.resultitem').eq(i).hasClass('active')) {
-					$('.resultitem').eq(i + 1).addClass('active').siblings().removeClass('active');
-					break;
-				}
-			}
+			currentIndex = $('.suggestion.active').index() | 0;
+			currentSize = $('.suggestion').length;
+			$('.suggestion').removeClass('active');
+			$('.suggestion').eq((currentIndex + 1) % currentSize).addClass('active');
 			break;
 	}
 });
@@ -136,3 +187,10 @@ $(document).on('click', '.resultitem', function() {
 		suggestField();
 	}
 });
+
+$(document).on('click', '.i-open', function() {
+	const app = $(this).parents('.suggestion').attr('appname');
+	openApp(app);
+});
+
+initHint();

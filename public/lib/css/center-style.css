@@ -16,6 +16,8 @@ body {
 	font-family: 'Roboto', sans-serif;
 	height: 300vh;
 	transition: 2s background .5s;
+	background: radial-gradient(circle, grey 1px, rgba(0, 0, 0, 0) 1px);
+	background-size: calc(2.5vw + 1rem) calc(2.5vw + 1rem);
 }
 
 .hide {
@@ -29,17 +31,14 @@ a {
 	cursor: pointer;
 }
 .active {
-	background: lightgrey !important;
-}
-.active:hover {
-	/* background: lightgrey !important; */
+	box-shadow: 0px 0px 5px 0px lightgrey !important;
 }
 
-/* searchbar */
 .homescreen {
 	width: 100vw;
 }
 
+/* searchbar */
 .searchBox {
 	width: 40rem;
 	max-width: 90vw;
@@ -48,11 +47,13 @@ a {
 
 .searchBar {
 	height: 2.5rem;
-	border-radius: 1.1rem;
+	border-radius: .6rem;
 	border: 2px solid lightgrey;
 	box-sizing: border-box;
 	display: flex;
 	padding: .25rem;
+	transition: .3s border-color;
+	background: #ffffffcc;
 }
 
 .searchField {
@@ -62,6 +63,7 @@ a {
 	outline: none;
 	border: none;
 	font-size: 1rem;
+	background: none;
 }
 
 .searchIcon {
@@ -71,11 +73,19 @@ a {
 	border-radius: 50%;
 }
 
+.searchError {
+	border-color: rgb(192, 106, 106);
+}
+
 /* SUGGESTIONS */
 .searchSuggestions {
-	box-sizing: border-box;
-	margin: .5rem 1rem;
 	cursor: pointer;
+	border-radius: 0.6rem;
+	border: 2px solid lightgrey;
+	box-sizing: border-box;
+	padding: .5rem;
+	background: #ffffffbd;
+	margin-top: .5rem;
 }
 
 .suggestion {
@@ -83,11 +93,11 @@ a {
 	padding: .5rem;
 	border-bottom: 1px solid lightgrey;
 	background: transparent;
-	transition: .5s background;
+	transition: .3s background;
 }
 
 .suggestion:hover {
-	background: lightgrey;
+	box-shadow: 0px 0px 5px 0px lightgrey;
 }
 
 .suggestionName {
@@ -95,19 +105,10 @@ a {
 	margin: 0 .5rem;
 }
 
-.searchError {
-	position: absolute;
-	color: red;
-	right: 2rem;
-}
-
 /* workspace */
-.workspace {
-	width: 90vw;
-	margin: 0 5vw;
-	min-height: 1rem;
-	border-radius: 1rem;
-	overflow: hidden;
+.workplace {
+	width: 40rem;
+	margin: 0 auto;
 }
 
 /* inlineForm */
@@ -154,4 +155,12 @@ a {
 	justify-content: flex-end;
 	color: #a1cea1;
 	cursor: pointer;
+}
+
+.grid-full {
+	border-radius: 0.6rem;
+	border: 2px solid lightgrey;
+	box-sizing: border-box;
+	padding: .5rem;
+	background: #ffffffcc;
 }
