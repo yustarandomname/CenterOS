@@ -2,32 +2,60 @@
 	<div class="roundButton mdi mdi-dots-horizontal alEdit"></div>
 </div>
 
-<div class="grid grid-full">
-	<div class='subTitle'>Get more books in the store</div>
-	<a href='/store#books'>visit the store</a>
-</div>
+<div class="grid grid-full lib-bookdisplay"></div>
 
-<object data="lib/pages/library/books/calculus/10.svg" type="image/svg+xml">
+<!-- <object data="lib/pages/library/books/calculus/10.svg" type="image/svg+xml">
     <img src="lib/pages/library/books/calculus/thumbnails/1.jpg" />
-</object>
+</object> -->
 
 <div class='grid grid-image-small' id='lib-books'></div>
 
-<style type="text/css" media="screen">
-.grid-image-small>.gridItem {
-    min-height: 3rem !important;
+<div class="book-container">
+    <div class="book-content">
+       <object class='book-single' type="image/svg+xml"></object>
+       <object class='book-dual' type="image/svg+xml"></object>
+   </div>
+</div>
+
+<style>
+
+.lib-book{
+    cursor: pointer;
+    border-radius: 0.6rem;
+    border: 2px solid lightgrey;
+    box-sizing: border-box;
+    background: #ffffffbd;
+    margin: .5rem;
+    width: 10rem;
+    max-width: calc(25% - 1rem);
+    height: 10rem;
+    position: relative;
     overflow: hidden;
 }
-.gridItem>.image{
-	height: 100%;
-    width: 2.5rem;
-    position: absolute;
-    left: 0;
-    top: 0;
-    background-size: cover !important;
-}
-.gridItem>.remove{position: absolute;right: 0;top:0}
-.gridItem>.info{width: calc(100% - 4rem);margin-left: 2.5rem;}
 
+.lib-bookImage{
+    background: url(/lib/pages/library/books/calculus/thumbnails/1.jpg);
+    height: 10rem;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.lib-bookTitle{
+    position: absolute;
+    bottom: 0;
+    padding: .3rem;
+    text-align: center;
+    width: calc(100% - .6rem);
+    background: #ffffffcc;
+}
+
+.book-content{
+    display: flex;
+    max-height: 100vh;
+}
+
+.book-content > object {
+    width:50%; 
+}
 </style>
-<!-- 88 -->

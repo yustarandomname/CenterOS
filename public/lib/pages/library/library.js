@@ -1,33 +1,26 @@
-const bookRef = db.collection('users').doc(localStorage.centerosUser).collection("books")
-// 		.where("type", "==", "schoolbook");
-		
-bookRef.get().then(books =>{
-	books.forEach(doc =>{
-		const data = doc.data()
-		const title = data.name.title + "<div class='subText'>"+data.name.subtitle+"</div>";
-		
-		obj = $('<div>',{class:'alCover gridItem clickable','data-id':doc.id})
-		.append($('<div>',{class:'image',style:"background:url("+data.thumbnail+")"}))
-		.append($('<div>',{class:'info',html:title}))
-		.append($('<div>',{class:'remove hide mdi mdi-close roundButton'}))
-		
-		$('#lib-books').append(obj)
-	})
-})
+const bookRef = db
+	.collection('users')
+	.doc(localStorage.centerosUser)
+	.collection('books')
+	.where('type', '==', 'schoolbook');
 
+bookRef.get().then((books) => {
+	books.forEach((doc) => {
+		const data = doc.data();
 
-$(document).on('click', '.alCover>*:not(.remove)',function(e){
-  	bookId = $(this).parents('.alCover').attr('data-id');  	
-  	xhr(bookId,'book viewer','bookviewer')//id, title, url
-	localStorage.setItem('bookid',bookId)
-	$('.workplace').children().hide()
-})
+		const obj = $('<div>', { class: 'lib-book', 'data-id': doc.id, lastpage: data.lastPage, link: data.link })
+			.append($('<div>', { class: 'lib-bookImage', style: `url(${data.thumbnail})` }))
+			.append($('<div>', { class: 'lib-bookTitle', text: data.name.title }));
 
-$('.alEdit').click(function(){
-	$('.alCover>.remove').toggleClass('hide');
-})
+		$('.lib-bookdisplay').append(obj);
+	});
+});
 
-$('.alRemove').click(function(){//TODO improve remove
-	let id = $(this).parents('.alCover').attr('bookid');
-	$('.removeBook').val(id);
-})
+$(document).on('click', '.lib-book', function() {
+	hide('.lib-bookdisplay');
+	const lastpage = parseInt($(this).attr('lastpage'));
+	const link = $(this).attr('link');
+
+	$('.book-single').attr('data', link + lastpage + '.svg');
+	$('.book-dual').attr('data', link + (lastpage + 1) + '.svg');
+});

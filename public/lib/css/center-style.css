@@ -77,6 +77,20 @@ a {
 	border-color: rgb(192, 106, 106);
 }
 
+/* BREADCRUMBS */
+.breadcrumbContainer {
+	display: flex;
+}
+
+.breadcrumb {
+	padding-bottom: .2rem;
+	padding-right: 0.2rem;
+	border-bottom: 1px solid transparent;
+	margin-bottom: .3rem;
+	cursor: pointer;
+	color: grey;
+}
+
 /* SUGGESTIONS */
 .searchSuggestions {
 	cursor: pointer;
@@ -86,6 +100,19 @@ a {
 	padding: .5rem;
 	background: #ffffffbd;
 	margin-top: .5rem;
+}
+
+.breadcrumb:hover {
+	border-bottom: 1px solid;
+}
+
+.breadcrumb:after {
+	content: '/';
+	margin-left: .1rem;
+}
+
+.breadcrumb:last-child {
+	color: black;
 }
 
 .suggestion {
@@ -107,8 +134,7 @@ a {
 
 /* workspace */
 .workplace {
-	width: 40rem;
-	max-width: 90vw;
+	width: 90vw;
 	margin: 0 auto;
 }
 
@@ -158,10 +184,13 @@ a {
 	cursor: pointer;
 }
 
+/* GRID */
 .grid-full {
 	border-radius: 0.6rem;
 	border: 2px solid lightgrey;
 	box-sizing: border-box;
 	padding: .5rem;
 	background: #ffffffcc;
+	max-width: 40rem;
+	margin: 0 auto;
 }

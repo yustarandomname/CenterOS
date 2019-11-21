@@ -9,17 +9,26 @@ let installed = [
 function openApp(page) {
 	console.log(page);
 	//const page = $('.suggestion.active').attr('appname');
-	const pageurl = `/lib/pages/${page}/${page}.html?v=` + Math.random(); //when production is ready remove no cashing
+	const link = `/lib/pages/${page}/${page}`;
+	const pageurl = link + '.html?v=' + Math.random(); //when production is ready remove no cashing
+	const scrtipurl = link + '.js?v=' + Math.random();
 
 	if ($(`.app[appid=${page}]`).length) {
 		console.log(`${page} is already open`);
 	} else {
+		$('.breadcrumbContainer').append($('<div>', { class: 'breadcrumb', text: page }));
+
 		$.ajax({
 			url: pageurl,
 			success: function(data) {
 				let obj = $('<div>', { class: 'app', appid: page }).append(data);
 				$('.workplace').append(obj);
-				console.log('data', data);
+			}
+		});
+
+		$.getScript(scrtipurl, (_data, status) => {
+			if (status == 'success') {
+				console.log('succesfully run ', _data);
 			}
 		});
 	}
