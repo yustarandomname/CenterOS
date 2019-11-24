@@ -46,14 +46,16 @@ a {
 }
 
 .searchBar {
-	height: 2.5rem;
+	height: 3rem;
 	border-radius: .6rem;
-	border: 2px solid lightgrey;
 	box-sizing: border-box;
 	display: flex;
-	padding: .25rem;
-	transition: .3s border-color;
-	background: #ffffffcc;
+	transition: .3s box-shadow;
+	border-radius: 0.6rem;
+	box-shadow: 0.1rem 0.1rem 1rem rgba(0, 0, 0, .1);
+	padding: 0.75rem;
+	background: #ffffffbd;
+	margin-bottom: 1rem;
 }
 
 .searchField {
@@ -80,6 +82,7 @@ a {
 /* BREADCRUMBS */
 .breadcrumbContainer {
 	display: flex;
+	margin-bottom: .5rem;
 }
 
 .breadcrumb {
@@ -95,11 +98,14 @@ a {
 .searchSuggestions {
 	cursor: pointer;
 	border-radius: 0.6rem;
-	border: 2px solid lightgrey;
+	box-shadow: 0.1rem 0.1rem 1rem rgba(0, 0, 0, .1);
 	box-sizing: border-box;
-	padding: .5rem;
+	padding: 0.75rem;
 	background: #ffffffbd;
-	margin-top: .5rem;
+}
+
+.searchSuggestions:empty {
+	display: none;
 }
 
 .breadcrumb:hover {

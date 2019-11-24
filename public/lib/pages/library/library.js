@@ -1,8 +1,4 @@
-const bookRef = db
-	.collection('users')
-	.doc(localStorage.centerosUser)
-	.collection('books')
-	.where('type', '==', 'schoolbook');
+const bookRef = db.collection('users').doc(getuid()).collection('books').where('type', '==', 'schoolbook');
 
 bookRef.get().then((books) => {
 	books.forEach((doc) => {
