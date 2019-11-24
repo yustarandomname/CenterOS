@@ -1,4 +1,4 @@
-fileCommands = {
+appCommands = {
 	saveSource: 'users/' + 'tf7MLQVgQUg6sHcMq995tKcRVlv1' + '/files',
 	saveFormat: {
 		blocks: 0,
@@ -11,10 +11,11 @@ fileCommands = {
 	//edit : { func : () => console.log('to be implemented')},
 
 	create: {
+		icon: 'i-community',
 		note: {
 			func: {
 				hint: 'Inline form',
-				icon: '📄',
+				icon: 'i-file',
 				execute: () => {
 					let content = [
 						{ type: 'input', placeholder: 'Title' },
@@ -27,7 +28,7 @@ fileCommands = {
 		presentation: {
 			func: {
 				hint: 'Inline form',
-				icon: 'inlineForm',
+				icon: 'i-centeros',
 				execute: () => {
 					let content = [
 						{ type: 'input', placeholder: 'Title' },
@@ -40,7 +41,7 @@ fileCommands = {
 		pdf: {
 			func: {
 				hint: 'Inline form',
-				icon: 'inlineForm',
+				icon: 'i-centeros',
 				execute: () => {
 					let content = [
 						{ type: 'input', placeholder: 'Title' },
@@ -52,17 +53,11 @@ fileCommands = {
 		},
 		func: {
 			hint: 'Inline form',
-			icon: '📄',
+			icon: 'i-centeros',
 			execute: () => {
 				let content = [ { type: 'input', placeholder: 'Title' }, { type: 'input', placeholder: 'Type' } ];
 				createInlineForm('Create note', content, { Title: 'title', Type: 'type' });
 			}
 		}
-	},
-
-	func: {
-		hint: 'Open app',
-		icon: '⤅',
-		execute: () => openApp('file')
 	}
 };

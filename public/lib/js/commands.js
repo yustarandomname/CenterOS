@@ -1,4 +1,7 @@
-var val = [];
+let crumbs = [];
+let commandSrc;
+let commands;
+let appIcon;
 
 let installed = [
 	{ name: 'Go', icon: 'i-compare', opened: false, pageSrc: 'main/goCommand.js', commandSrc: () => goCommands },
@@ -6,35 +9,73 @@ let installed = [
 	{ name: 'Library', icon: 'i-book', opened: true, pageSrc: 'library/command.js', commandSrc: () => fileCommands }
 ];
 
-function openApp(page) {
-	console.log(page);
-	//const page = $('.suggestion.active').attr('appname');
+function openApp() {
+	const pageCap = $('.suggestion.active>.suggestionName').text();
+	let obj;
+	installed.forEach((item) => {
+		if (item.name == pageCap) obj = item;
+	});
+
+	const page = pageCap.toLowerCase();
 	const link = `/lib/pages/${page}/${page}`;
 	const pageurl = link + '.html?v=' + Math.random(); //when production is ready remove no cashing
 	const scrtipurl = link + '.js?v=' + Math.random();
 
-	if ($(`.app[appid=${page}]`).length) {
-		console.log(`${page} is already open`);
-	} else {
-		$('.breadcrumbContainer').append($('<div>', { class: 'breadcrumb', text: page }));
-
-		$.ajax({
-			url: pageurl,
-			success: function(data) {
-				let obj = $('<div>', { class: 'app', appid: page }).append(data);
-				$('.workplace').append(obj);
+	return new Promise((resolve) => {
+		if ($(`.app[appid=${page}]`).length) {
+			console.log('page is already opened');
+			//if page is already opened
+			show(`.app[appid=${page}]`);
+			resolve('Resolve');
+		} else {
+			if (obj.opened) {
+				// if command is a page => open html / js
+				$.ajax({
+					url: pageurl,
+					success: function(data) {
+						let obj = $('<div>', { class: 'app', appid: page }).append(data);
+						$('.workplace').append(obj);
+					}
+				});
+				$.getScript(scrtipurl);
 			}
-		});
 
-		$.getScript(scrtipurl, (_data, status) => {
-			if (status == 'success') {
-				console.log('succesfully run ', _data);
+			if (obj.pageSrc) {
+				// if page has commands page => load commands page / set var commands to commands of app
+				$.getScript('/lib/pages/' + obj.pageSrc, (data, status) => {
+					if (status == 'success') commands = appCommands;
+					resolve('Resolve');
+				});
 			}
-		});
+		}
+	});
+}
+
+// Hints / Suggestion
+function getHint(item) {
+	let suggestion = $('<div>', { class: 'suggestion' });
+	if (commandSrc[item].icon) suggestion.append($('<i>', { class: 'suggestionIcon ' + commandSrc[item].icon }));
+
+	switch (item) {
+		case 'hint':
+		case 'icon':
+		case 'saveFormat':
+		case 'saveSource':
+			break;
+		case 'func':
+			let func = commandSrc.func;
+			suggestion.append($('<div>', { class: 'suggestionName', text: func.hint }));
+			return suggestion;
+			break;
+		default:
+			suggestion.append($('<div>', { class: 'suggestionName', text: item }));
+			return suggestion;
+			break;
 	}
 }
 
 function initHint() {
+	$('.searchSuggestions>div').remove();
 	installed.forEach((obj, index) => {
 		let suggestion = $('<div>', { class: 'suggestion', appname: obj.name.toLowerCase() })
 			.append($('<i>', { class: `suggestionIcon ${obj.icon}` })) //icon
@@ -53,93 +94,85 @@ function initHint() {
 	});
 }
 
-// not in use
-function placeHint(task, lastArg, src) {
-	switch (task) {
-		case 'func':
-			obj = $('<div>', { class: 'resultitem resultFunction', text: src.func.icon + ' ' + task });
-			$('.searchresults').prepend(obj);
-			break;
-		case 'saveFormat':
-		case 'saveSource':
-			break;
-		default:
-			obj = $('<div>', { class: 'resultitem', text: task });
-			if (!lastArg || task.match(lastArg)) {
-				$('.searchresults').prepend(obj);
-			} else {
-				$('.searchresults').append(obj);
-			}
-			break;
-	}
-}
+function iterateHint() {
+	$('.searchSuggestions>div').remove();
+	if (crumbs.length > 0) {
+		// if there is a crumb in crumbs[]
 
-// not in use
-function suggestField() {
-	$('.searchresults').children().remove(); // reset values in searchresults
-	//hide('.searchError');
+		commandSrc = commands;
+		for (i = 1; i < crumbs.length; i++) {
+			commandSrc = commandSrc[crumbs[i]];
+		}
 
-	let val = $('.searchfield').val();
-	let splitval = val.split(' ');
-	let lastArg = splitval[splitval.length - 1];
-
-	if (splitval.length == 1) {
-		// if there is 0 / 1 argument
-		installed.forEach((item) => placeHint(item.name, lastArg, null));
-	} else {
-		// if there is at least 1 argument
-		installed.forEach((obj) => {
-			if (splitval[0] == obj.name) {
-				let url = '/lib/pages/' + obj.pageSrc;
-				$.getScript(url, (_data, status) => {
-					if (status == 'success') {
-						let commands = obj.commandSrc();
-						let src = commands;
-
-						for (i = 1; i < splitval[i] - 1; i++) {
-							src = src[i];
-						}
-
-						Object.keys(commands).forEach((item) => {
-							placeHint(item, lastArg, src);
-							console.log(item, lastArg);
-						});
-					}
-				});
+		Object.keys(commandSrc).forEach((item, index) => {
+			if (getHint(item)) {
+				$('.searchSuggestions').append(getHint(item));
 			}
 		});
-	}
 
-	// print suggestions
-	$('.resultitem').eq(0).addClass('active');
-
-	if (splitval[0]) {
-		$('.searchresults').removeClass('hide');
+		$('.suggestion').first().addClass('.active');
 	} else {
-		$('.searchresults').addClass('hide');
+		initHint();
 	}
 }
 
-// not in use
-function appendSuggestion(suggestion) {
-	let text = $('.searchfield').val();
-	let lastIndex = text.lastIndexOf(' ');
-	let fullText = text.substring(0, lastIndex) + (text.split(' ').length > 1 ? ' ' : '') + suggestion + ' ';
+function sortHints() {
+	$('.suggestion').each((index) => {
+		console.log($(this).attr('appname'));
+		// let count = 0;
+		// const searchStr = $('.searchField').val();
+		// const hintStr = item.text();
 
-	$('.searchfield').val(fullText);
+		// for (i = 0; i < searchStr.length; i++) {
+		// 	if (hintStr.match(new RegExp(searchStr[i], 'g'))) count++;
+		// }
+
+		// console.log(hintStr + ' - match count ' + count);
+	});
 }
+
+// BREADCRUMBS
+function setBreadcrumb(addCrumb) {
+	$('div.breadcrumb').remove();
+
+	//if there is a crumb to be added => add it to crumb[]
+	if (addCrumb) crumbs.push(addCrumb);
+
+	// display all crumbs
+	crumbs.forEach((crumb) => {
+		let obj = $('<div>', { class: 'breadcrumb', text: crumb });
+		$('.breadcrumbContainer').append(obj);
+	});
+}
+
+$(document).on('click', '.breadcrumb', function() {
+	crumbs.length = $(this).index();
+	setBreadcrumb();
+	iterateHint();
+});
 
 // EXECUTE
-function exicuteFunction() {
+async function executeSuggestion() {
+	console.log('execute suggestion');
+
 	const base = $('.suggestion.active');
 
-	switch (base.attr('action')) {
-		case 'openApp':
-			openApp(base.attr('appname'));
-			break;
-		default:
-			displaySearchError('');
-			break;
+	setBreadcrumb(base.text());
+
+	//if base has a certain action => execute set function
+	if (base.attr('action')) {
+		var result;
+		switch (base.attr('action')) {
+			case 'openApp':
+				result = await openApp(base.attr('appname'));
+				iterateHint();
+				break;
+			case 'function':
+				//todo: what to do with a function is fired
+				break;
+		}
+	} else {
+		iterateHint();
 	}
 }
 
@@ -162,12 +195,9 @@ function displaySearchError(error) {
 $('.searchBar').keydown(function(e) {
 	switch (e.which) {
 		case 9: //tab
-			e.preventDefault();
-			appendSuggestion($('.resultitem.active').text());
-			break;
 		case 13: //enter
 			e.preventDefault();
-			exicuteFunction();
+			executeSuggestion();
 			break;
 		case 38: //up
 			e.preventDefault();
@@ -185,9 +215,9 @@ $('.searchBar').keydown(function(e) {
 	}
 });
 
-$('.searchfield').keyup(function(e) {
+$('.searchField').keyup(function(e) {
 	if (e.which != 38 && e.which != 40 && e.which != 13) {
-		suggestField();
+		sortHints();
 	}
 });
 
@@ -198,9 +228,11 @@ $(document).on('click', '.resultitem', function() {
 	}
 });
 
-$(document).on('click', '.i-open', function() {
-	const app = $(this).parents('.suggestion').attr('appname');
-	openApp(app);
+$(document).on('click', '.suggestion', function() {
+	$(this).addClass('active').siblings().removeClass('active');
+
+	executeSuggestion();
+	//openApp(app);
 });
 
 initHint();
