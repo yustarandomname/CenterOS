@@ -73,6 +73,16 @@ a {
 	transform: translateY(-50%);
 }
 
+/* list */
+.list > div {
+	padding: .25rem;
+	margin: .5rem 0;
+	position: relative;
+}
+
+.list > .removeItem {
+}
+
 /* inline-form */
 .inlineForm {
 	width: 40rem;
