@@ -9,55 +9,37 @@ appCommands = {
 		updateKey: 0
 	},
 	//edit : { func : () => console.log('to be implemented')},
-
+	open: {
+		icon: 'i-open',
+		list: () => getFilesList()
+	},
 	create: {
 		icon: 'i-community',
 		note: {
 			func: {
 				hint: 'Inline form',
 				icon: 'i-file',
-				execute: () => {
-					let content = [
-						{ type: 'input', placeholder: 'Title' },
-						{ type: 'input', placeholder: 'Type', value: 'note' }
-					];
-					createInlineForm('Create note', content, { Title: 'title', Type: 'type' });
-				}
+				execute: () => openInlineForm('.formnewfile', { '.fileNewType': 'note' })
 			}
 		},
 		presentation: {
 			func: {
 				hint: 'Inline form',
 				icon: 'i-centeros',
-				execute: () => {
-					let content = [
-						{ type: 'input', placeholder: 'Title' },
-						{ type: 'input', placeholder: 'Type', value: 'presentation' }
-					];
-					createInlineForm('Create presentation', content, { Title: 'title', Type: 'type' });
-				}
+				execute: () => openInlineForm('.formnewfile', { '.fileNewType': 'presentation' })
 			}
 		},
 		pdf: {
 			func: {
 				hint: 'Inline form',
 				icon: 'i-centeros',
-				execute: () => {
-					let content = [
-						{ type: 'input', placeholder: 'Title' },
-						{ type: 'input', placeholder: 'Type', value: 'pdf' }
-					];
-					createInlineForm('Create pdf', content, { Title: 'title', Type: 'type' });
-				}
+				execute: () => openInlineForm('.formnewfile', { '.fileNewType': 'pdf' })
 			}
 		},
 		func: {
 			hint: 'Inline form',
 			icon: 'i-centeros',
-			execute: () => {
-				let content = [ { type: 'input', placeholder: 'Title' }, { type: 'input', placeholder: 'Type' } ];
-				createInlineForm('Create note', content, { Title: 'title', Type: 'type' });
-			}
+			execute: () => openInlineForm('.formnewfile', null)
 		}
 	}
 };
