@@ -51,13 +51,12 @@ function onSucces(msg) {
 							type: 'text'
 						});
 					});
-				window.location.href = 'https://centeros.nl/notes/' + docRef.id;
 				break;
 			case 'pres':
 				url = 'presentation';
 				break;
 			default:
-				$('.newFileSubmit').text('type is unknown');
+				$('.formnewfile .inputError').text('type is unknown');
 		}
 	}
 }

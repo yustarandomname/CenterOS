@@ -1,14 +1,4 @@
 appCommands = {
-	saveSource: 'users/' + 'tf7MLQVgQUg6sHcMq995tKcRVlv1' + '/files',
-	saveFormat: {
-		blocks: 0,
-		fileurl: 'notes',
-		folderid: 0,
-		title: 'untitled',
-		type: 'note',
-		updateKey: 0
-	},
-	//edit : { func : () => console.log('to be implemented')},
 	open: {
 		icon: 'i-open',
 		list: () => getFilesList()
@@ -18,28 +8,28 @@ appCommands = {
 		note: {
 			func: {
 				hint: 'Inline form',
-				icon: 'i-file',
 				execute: () => openInlineForm('.formnewfile', { '.fileNewType': 'note' })
 			}
 		},
 		presentation: {
 			func: {
-				hint: 'Inline form',
+				hint: 'open inline form',
 				icon: 'i-centeros',
 				execute: () => openInlineForm('.formnewfile', { '.fileNewType': 'presentation' })
 			}
 		},
 		pdf: {
+			icon: 'i-pdf',
 			func: {
-				hint: 'Inline form',
-				icon: 'i-centeros',
+				hint: 'open inline form',
+				icon: 'i-pdf',
 				execute: () => openInlineForm('.formnewfile', { '.fileNewType': 'pdf' })
 			}
 		},
 		func: {
-			hint: 'Inline form',
-			icon: 'i-centeros',
+			hint: 'open inline form',
 			execute: () => openInlineForm('.formnewfile', null)
 		}
-	}
+	},
+	edit: { func: { execute: () => console.log('to be implemented') } }
 };

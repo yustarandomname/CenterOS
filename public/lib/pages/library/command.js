@@ -1,3 +1,7 @@
 appCommands = {
-	saveSource: 'hey dit is een test'
+	'next page': {
+		func: {
+			hint: 'tesdt'
+		}
+	}
 };

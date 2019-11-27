@@ -73,7 +73,7 @@ window.addEventListener(
 	function(event) {
 		window.clearTimeout(isScrolling);
 		isScrolling = setTimeout(function() {
-			if ($('.app') && Math.abs(window.pageYOffset - $('.app').offset().top) < 200) {
+			if (window.pageYOffset != 0 && ($('.app') && Math.abs(window.pageYOffset - $('.app').offset().top) < 200)) {
 				window.scroll({
 					top: $('.app').offset().top - 15,
 					left: 0,

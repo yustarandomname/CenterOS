@@ -1,13 +1,6 @@
-<div class="title">Files</div>
-
-<div class="menu">
-	<div class="roundButton mdi mdi-plus menuPop" data-pop='newfile'></div>
-	<div class="roundButton mdi mdi-dots-horizontal aflEdit"></div>
-</div>
-
 <!--create new file-->
-<div class="popupForm popnewfile hide">
-	<div class="roundButton popClose mdi mdi-close"></div>
+<div class="container inlineForm formnewfile hide">
+	<i class="formClose i-close"></i>
 	<div class="subTitle">New file</div>
 	<section>
 		<div class="input fileNewTitle" contenteditable="true" placeholder="Title"></div>
@@ -18,8 +11,8 @@
 </div>
 
 <div class='filesContainer'>
-	<div class="grid grid-small afFolders hide"></div>
-	<div class="grid grid-box afFiles"></div>
+	<div class="container grid grid-small afFolders hide"></div>
+	<div class="container grid grid-box afFiles"></div>
 </div>
 
 <style type="text/css" media="screen">
@@ -32,5 +25,4 @@
     border-radius: 1rem;
     background: #eee;
 }
-
 </style>

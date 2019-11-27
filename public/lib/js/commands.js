@@ -1,22 +1,24 @@
 let crumbs = [];
+let pageSource;
+let pageOpenObj;
 let commandSrc;
 let commands;
 let appIcon;
 
 let installed = [
-	{ name: 'Go', icon: 'i-compare', opened: false, pageSrc: 'main/goCommand.js', commandSrc: () => goCommands },
-	{ name: 'Files', icon: 'i-file', opened: true, pageSrc: 'files/command.js', commandSrc: () => fileCommands },
-	{ name: 'Library', icon: 'i-book', opened: true, pageSrc: 'library/command.js', commandSrc: () => fileCommands }
+	{ name: 'Files', icon: 'i-file', opened: true, pageSrc: 'files/command.js' },
+	{ name: 'Library', icon: 'i-book', opened: true, pageSrc: 'library/command.js' },
+	{ name: 'Bike recall', icon: 'i-bike', opened: true, pageSrc: 'bikerecall/command.js' }
 ];
 
 function openApp() {
 	const pageCap = $('.suggestion.active>.suggestionName').text();
-	let obj;
-	installed.forEach((item) => {
-		if (item.name == pageCap) obj = item;
+
+	installed.forEach((obj) => {
+		if (obj.name == pageCap) pageOpenObj = obj;
 	});
 
-	const page = pageCap.toLowerCase();
+	const page = pageCap.toLowerCase().replace(/\s/g, ''); //TODO remove spaces
 	const link = `/lib/pages/${page}/${page}`;
 	const pageurl = link + '.html?v=' + Math.random(); //when production is ready remove no cashing
 	const scrtipurl = link + '.js?v=' + Math.random();
@@ -26,26 +28,36 @@ function openApp() {
 			console.log('page is already opened');
 			//if page is already opened
 			show(`.app[appid=${page}]`);
-			resolve('Resolve');
+			if (pageOpenObj.pageSrc) {
+				// if page has commands page => load commands page / set var commands to commands of app
+				$.getScript('/lib/pages/' + pageOpenObj.pageSrc, (data, status) => {
+					if (status == 'success') commands = appCommands;
+					resolve('Resolve');
+				});
+			} else {
+				resolve('Resolved');
+			}
 		} else {
-			if (obj.opened) {
+			if (pageOpenObj.opened) {
 				// if command is a page => open html / js
 				$.ajax({
 					url: pageurl,
 					success: function(data) {
-						let obj = $('<div>', { class: 'app', appid: page }).append(data);
+						let obj = $('<div>', { class: 'app', appid: page, pagesource: pageOpenObj.pageSrc }).append(data);
 						$('.workplace').append(obj);
 					}
 				});
 				$.getScript(scrtipurl);
 			}
 
-			if (obj.pageSrc) {
+			if (pageOpenObj.pageSrc) {
 				// if page has commands page => load commands page / set var commands to commands of app
-				$.getScript('/lib/pages/' + obj.pageSrc, (data, status) => {
+				$.getScript('/lib/pages/' + pageOpenObj.pageSrc, (data, status) => {
 					if (status == 'success') commands = appCommands;
 					resolve('Resolve');
 				});
+			} else {
+				resolve('Resolved');
 			}
 		}
 	});
@@ -54,17 +66,25 @@ function openApp() {
 // Hints / Suggestion
 function getHint(item) {
 	let suggestion = $('<div>', { class: 'suggestion' });
-	if (commandSrc[item].icon) suggestion.append($('<i>', { class: 'suggestionIcon ' + commandSrc[item].icon }));
+	let hintIcon = commandSrc[item].icon ? commandSrc[item].icon : pageOpenObj.icon;
+
+	suggestion.append($('<i>', { class: 'suggestionIcon ' + hintIcon }));
+
+	// const tempCommandSrc = commandSrc[item].func ? commandSrc[item] : commandSrc;
+	// item = commandSrc[item].func ? 'func' : item;
 
 	switch (item) {
 		case 'hint':
 		case 'icon':
-		case 'saveFormat':
-		case 'saveSource':
+			break;
+		case 'list':
+			//TODO : implement get list with hints
 			break;
 		case 'func':
 			let func = commandSrc.func;
+			suggestion.attr('action', 'function');
 			suggestion.append($('<div>', { class: 'suggestionName', text: func.hint }));
+			suggestion.append($('<i>', { class: 'suggestionIcon i-functions' }));
 			return suggestion;
 			break;
 		default:
@@ -98,7 +118,6 @@ function iterateHint() {
 	$('.searchSuggestions>div').remove();
 	if (crumbs.length > 0) {
 		// if there is a crumb in crumbs[]
-
 		commandSrc = commands;
 		for (i = 1; i < crumbs.length; i++) {
 			commandSrc = commandSrc[crumbs[i]];
@@ -110,7 +129,7 @@ function iterateHint() {
 			}
 		});
 
-		$('.suggestion').first().addClass('.active');
+		$('.suggestion').first().addClass('active');
 	} else {
 		initHint();
 	}
@@ -149,12 +168,13 @@ $(document).on('click', '.breadcrumb', function() {
 	crumbs.length = $(this).index();
 	setBreadcrumb();
 	iterateHint();
+	if ($(this).hasClass('i-centeros')) {
+		hide('.app');
+	}
 });
 
 // EXECUTE
 async function executeSuggestion() {
-	console.log('execute suggestion');
-
 	const base = $('.suggestion.active');
 
 	setBreadcrumb(base.text());
@@ -168,7 +188,16 @@ async function executeSuggestion() {
 				iterateHint();
 				break;
 			case 'function':
-				//todo: what to do with a function is fired
+				console.log('function has to be executed');
+				commandSrc.func.execute();
+				crumbs.length = 1;
+				iterateHint();
+				setBreadcrumb();
+				window.scroll({
+					top: $('.app').offset().top - 15,
+					left: 0,
+					behavior: 'smooth'
+				});
 				break;
 		}
 	} else {
