@@ -20,8 +20,8 @@ function validate(input) {
 	}
 }
 
-function submitForm(that, link) {
-	let field = that.parents('div').children('.input');
+function submitForm(input, link) {
+	let field = input.parents('.inlineForm').children('.input');
 	let isValid = true;
 
 	field.each(function(index) {
@@ -32,42 +32,22 @@ function submitForm(that, link) {
 		}
 	});
 
-	if (isValid) {
-		// if values are all valid
-		if (link) {
-			// if results are handeled within the app
-			onSucces(link);
-		} else {
-			let src = commands;
-			let source = that.parents('.inlineForm').attr('source').split(' ');
-			let variable = JSON.parse(that.parents('.inlineForm').attr('variable'));
-			source.forEach((command) => (src = src[command]));
-
-			Object.entries(variable).forEach((object) => {
-				let selector = ".input[placeholder='" + object[0] + "']";
-				let value = $(selector).text();
-				src.saveFormat[object[1]] = value;
-				console.log(value, src.saveFormat);
-			});
-
-			let saveSource = src.saveSource;
-			let saveFormat = src.saveFormat;
-
-			db.collection(saveSource).add(saveFormat);
-		}
+	// check if values are all valid
+	if (isValid && link) {
+		onSucces(link);
 	} else {
-		that.siblings('.inputError').removeClass('hide').text('a value is not correctly specified');
+		input.siblings('.inputError').removeClass('hide').text('a value is not correctly specified');
 	}
 }
 
-$(document).on('keydown', '.popupForm .input,.inlineForm .input', function(e) {
+// KEYPRESSES
+$(document).on('keydown', '.inlineForm .input', function(e) {
 	$(this).removeClass('inputNotFilled');
 	if (e.which == 13) e.preventDefault();
 });
 
-$(document).on('keyup', '.popupForm .input', function(e) {
-	//KEYDOWN
-	let onSuccesLink = $(this).siblings('.inputSubmit').attr('onSucces');
+$(document).on('keyup', '.inlineForm .input', function(e) {
+	let onSuccesLink = $(this).parent('.inputSubmit').attr('onSucces');
 	if (e.which == 13) submitForm($(this), onSuccesLink);
 });
 
@@ -78,42 +58,17 @@ $(document).on('click', '.inputSubmit', function() {
 });
 
 // inlineForm
-function createInlineForm(title, content, variable) {
-	$('.homescreen .inlineForm').remove(); //remove any existing formClose
-
-	//create form(Header)
-	let obj = $('<div>', { class: 'inlineForm', source: 'file', variable: JSON.stringify(variable) }); //source : commands['file']['saveFormat/saveSource'];
-	let header = $('<div>', { class: 'formHeader' })
-		.append($('<div>', { class: 'formTitle', text: title }))
-		.append($('<div>', { class: 'formClose mdi mdi-close' }));
-	obj.append(header); //assemble form
-
-	content.forEach((input) => {
-		//create input
-		obj.append(
-			$('<div>', { class: input.type, text: input.value, placeholder: input.placeholder, contenteditable: 'true' })
-		);
-	});
-
-	obj.append($('<div>', { class: 'inputError hide' }));
-	obj.append($('<div>', { class: 'inputSubmit', html: '<span>submit form</span>' }));
-
-	$('.homescreen').append(obj); //prepend form
-}
-
-// inlineForm
-var moveWindow = false;
 function openInlineForm(className, values) {
 	show(className);
 
 	if (values) {
-		Object.keys(values).forEach((item, index) => {
+		Object.keys(values).forEach((item) => {
 			const sel = className + ' ' + item;
 			$(sel).text(values[item]);
 		});
 	}
 }
 
-$(document).on('click', '.popClose', function() {
-	$(this).parent('.popupForm').addClass('hide');
+$(document).on('click', '.formClose', function() {
+	$(this).parent('.inlineForm').addClass('hide');
 });
