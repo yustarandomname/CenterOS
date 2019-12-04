@@ -1,7 +1,18 @@
+var userid;
+
 function getuid() {
-	if (!firebase.auth().currentUser) {
-		// if user is not loged in
-		firebase.auth().signInWithEmailAndPassword('abeltest1@hotmail.com', '123456');
+	if (userid) {
+		return userid;
+	} else {
+		firebase.auth().onAuthStateChanged(function(user) {
+			if (user) {
+				hide('.loginscreen');
+				show('.homescreen');
+
+				userid = user.uid;
+			}
+		});
 	}
-	return firebase.auth().currentUser.uid;
 }
+
+getuid();

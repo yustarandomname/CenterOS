@@ -34,8 +34,8 @@
   integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
   crossorigin="anonymous"></script>
 
-		<script defer src="/lib/js/script.js?v=hkgfjdh"></script>
 		<script defer src="/lib/js/login.js?v=vMdBYBwGdv"></script>
+		<script defer src="/lib/js/script.js?v=hkgfjdh"></script>
 		<script defer src="/lib/js/appHandle.js?v=vMdBYBwGdv"></script>
 		<script defer src="/lib/js/formHandle.js?v=vMdBYBwGdv"></script>
 		<script defer src="/lib/js/commands.js?v=vMdBYBwGdv"></script>
@@ -43,16 +43,20 @@
 	</head>
 	<body>
 		<div class="loginscreen">
-			<div class="inlineForm hide">
-				<div class="formHeader"><div class="formTitle">Create note</div></div>
-				<div class="input loginEmail" placeholder="Email" contenteditable="true"></div>
-				<div class="input loginPassword" placeholder="Password" contenteditable="true"></div>
-				<div class="inputError hide"></div>
-				<div class="inputSubmit" onSucces='loginUser'><span>submit form</span></div>
+			<div class="container inlineForm formLogin">
+				<i class="formSide i-centeros"></i>
+				<div class="subTitle">Login to Centeros</div>
+				<section>
+					<div class="input loginEmail" contenteditable="true" placeholder="Email"></div>
+					<div class="input loginPass" contenteditable="true" placeholder="Password"></div>
+					<div class="inputError hide"></div>
+					<div class="inputSubmit" placeholder="Submit" onSucces='login'>Login</div>
+				</section>
 			</div>
-
 		</div>
-		<div class="homescreen">
+		
+
+		<div class="homescreen hide">
 			<div class="searchBox">
 				<div class="breadcrumbContainer">
 					<i class="breadcrumb i-centeros"></i>

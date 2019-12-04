@@ -8,7 +8,8 @@ let appIcon;
 let installed = [
 	{ name: 'Files', icon: 'i-file', opened: true, pageSrc: 'files/command.js' },
 	{ name: 'Library', icon: 'i-book', opened: true, pageSrc: 'library/command.js' },
-	{ name: 'Bike recall', icon: 'i-bike', opened: true, pageSrc: 'bikerecall/command.js' }
+	{ name: 'Bike recall', icon: 'i-bike', opened: true, pageSrc: 'bikerecall/command.js' },
+	{ name: 'Log out', icon: 'i-centeros' }
 ];
 
 function openApp() {
@@ -110,6 +111,10 @@ function initHint() {
 			suggestion.append($('<i>', { class: `suggestionIcon i-open` }));
 		}
 
+		if (obj.name == 'Log out') {
+			suggestion.attr('action', 'logout');
+		}
+
 		$('.searchSuggestions').append(suggestion);
 	});
 }
@@ -197,6 +202,13 @@ async function executeSuggestion() {
 					top: $('.app').offset().top - 15,
 					left: 0,
 					behavior: 'smooth'
+				});
+				break;
+			case 'logout':
+				firebase.auth().signOut().then(function() {
+					show('.loginscreen');
+					hide('.homescreen');
+					$('.suggestion,.app').remove();
 				});
 				break;
 		}

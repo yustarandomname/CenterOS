@@ -9,6 +9,9 @@ var isScrolling;
 async function init() {
 	try {
 		user = await auth.currentUser;
+		console.log('user', user);
+		hide('loginscreen');
+		show('homescreen');
 	} catch (error) {
 		console.log('no user was found', error);
 	}
@@ -34,26 +37,6 @@ function arrayItemToFront(arr, item) {
 		}
 	}
 	return newArr[0] == 0 ? arr : newArr;
-}
-
-function onSucces(link) {
-	switch (link) {
-		case 'loginUser':
-			const email = $('.loginEmail').text(); //login Email // TODO: add validation
-			const password = $('.loginPassword').text();
-
-			auth
-				.signInWithEmailAndPassword(email, password)
-				.then((cred) => {
-					user = cred;
-					$('.input').text(''); //reset input text fields
-				})
-				.catch(function(error) {
-					$('.inputError')
-						.removeClass('hide')
-						.text('No username or password was registered. Register or try again. ' + error.message);
-				});
-	}
 }
 
 function setCursorToEnd(target, end) {
@@ -84,3 +67,29 @@ window.addEventListener(
 	},
 	false
 );
+
+// collapse
+$(document).on('click', '.collapseable', function() {
+	$(this).parents('.container-collapse').toggleClass('collapsed');
+});
+
+// login
+function onSucces(msg) {
+	console.log(msg);
+	if (msg == 'login') {
+		const email = $('.loginEmail').text();
+		const password = $('.loginPass').text();
+
+		firebase
+			.auth()
+			.signInWithEmailAndPassword(email, password)
+			.then(function(user) {
+				$('.input').text('');
+				console.log(user);
+			})
+			.catch(function(error) {
+				$('.inputError').removeClass('hide').text(error.message);
+				console.log(error.code, error.message);
+			});
+	}
+}
