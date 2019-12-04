@@ -10,5 +10,5 @@ appCommands = {
 			icon: 'i-bike',
 			list: () => getBikeLocations()
 		}
-	}
+	},
 };
