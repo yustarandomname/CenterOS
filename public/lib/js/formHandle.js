@@ -72,3 +72,16 @@ function openInlineForm(className, values) {
 $(document).on('click', '.formClose', function() {
 	$(this).parent('.inlineForm').addClass('hide');
 });
+
+// INPUT TAG
+$(document).on('keyup', '.inputTag', function() {
+	const tags = $(this).attr('tag').split(',');
+	const text = $(this).text();
+
+	tags.forEach((tag) => {
+		if (tag.toLowerCase().match(text)) {
+			$(this).attr('val', tag);
+			$(this).attr('hint', tag.toLowerCase().replace(text, ''));
+		}
+	});
+});
