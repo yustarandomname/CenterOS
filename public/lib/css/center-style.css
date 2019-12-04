@@ -18,7 +18,6 @@ body {
 	width: 100vw;
 	overflow-x: hidden;
 	font-family: 'Roboto', sans-serif;
-	height: 300vh;
 	transition: 2s background .5s;
 	background: radial-gradient(circle, grey 1px, rgba(0, 0, 0, 0) 1px);
 	background-size: calc(2.5vw + 1rem) calc(2.5vw + 1rem);
@@ -34,12 +33,9 @@ a {
 .clickable {
 	cursor: pointer;
 }
-.active {
+.active,
+.button:hover {
 	box-shadow: 0px 0px 5px 0px lightgrey !important;
-}
-
-.homescreen {
-	width: 100vw;
 }
 
 .container {
@@ -48,8 +44,74 @@ a {
 	box-sizing: border-box;
 	padding: 0.75rem;
 	background: #ffffffbd;
+	margin-bottom: 1rem;
 }
 
+/* LOGIN */
+.loginscreen {
+	height: 100vh;
+}
+
+.formLogin {
+	position: absolute !important;
+	left: 50%;
+	top: 50%;
+	max-width: 90vw;
+	transform: translate(-50%, -50%);
+}
+
+/* HOMEscreen */
+.homescreen {
+	width: 100vw;
+}
+
+/* collapse */
+.container-collapse {
+	position: relative;
+	max-height: 30rem;
+	transition: .5s max-height;
+	overflow: hidden;
+}
+
+.collapseable {
+	position: absolute;
+	right: 1rem;
+	font-size: 1.5rem;
+	cursor: pointer;
+	transform: rotate(0);
+	transition: .5s transform;
+}
+
+.collapsed {
+	max-height: 4.5rem;
+}
+
+.collapsed .collapseable {
+	transform: rotate(-90deg);
+}
+
+/* text format */
+.subTitle {
+	font-size: 1.2rem;
+}
+
+.subText {
+	margin-bottom: .2rem;
+	color: grey;
+}
+
+/* button */
+.button {
+	box-shadow: 0 0 0 0 white;
+	height: 1rem;
+	padding: .3rem;
+	margin: .2rem;
+	border-radius: .5rem;
+	cursor: pointer;
+	transition: .3s;
+}
+
+/* grid */
 .grid {
 	display: flex;
 	flex-wrap: wrap;
@@ -75,12 +137,10 @@ a {
 
 /* list */
 .list > div {
-	padding: .25rem;
+	padding: .5rem;
 	margin: .5rem 0;
-	position: relative;
-}
-
-.list > .removeItem {
+	display: flex;
+	justify-content: space-between;
 }
 
 /* inline-form */
@@ -91,14 +151,11 @@ a {
 	position: relative;
 }
 
-.formClose {
+.formClose,
+.formSide {
 	position: absolute;
 	right: .75rem;
 	cursor: pointer;
-}
-
-.subTitle {
-	font-size: 1.2rem;
 }
 
 /* searchbar */
@@ -251,6 +308,11 @@ a {
 	justify-content: flex-end;
 	color: #a1cea1;
 	cursor: pointer;
+}
+
+.inputTag:after {
+	content: attr(hint);
+	color: grey;
 }
 
 /* GRID */
