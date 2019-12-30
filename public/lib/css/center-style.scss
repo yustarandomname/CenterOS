@@ -6,7 +6,24 @@ $accentColor: lightgrey;
 $bgColor: #ffffffbd;
 
 $green: #a1cea1;
+$greenAccent: #a1cea175;
 $red: red;
+
+%container {
+	border-radius: $outerBorderRadius;
+	box-shadow: $outerBoxShadow;
+	box-sizing: border-box;
+	padding: 0.75rem;
+	background: $bgColor;
+	width: 40rem;
+	max-width: 90vw;
+	margin: 2rem auto;
+}
+
+%active {
+	background: $greenAccent !important;
+	color: black !important;
+}
 
 * {
 	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
@@ -43,9 +60,9 @@ a {
 .clickable {
 	cursor: pointer;
 }
-.active,
-.button:hover {
-	box-shadow: $outerBoxShadow !important;
+
+.active {
+	@extend %active;
 }
 
 /* LOGIN */
@@ -68,13 +85,22 @@ a {
 
 /* container */
 .container {
-	border-radius: $outerBorderRadius;
-	box-shadow: $outerBoxShadow;
-	box-sizing: border-box;
-	padding: 0.75rem;
-	background: $bgColor;
-	margin-bottom: 1rem;
+	@extend %container;
 
+	// popout
+	.popout {
+		margin: 2rem 0;
+		position: relative;
+
+		.popout-container {
+			@extend %container;
+			width: 90vw;
+			margin-left: 50%;
+			transform: translate(-50%, 0);
+		}
+	}
+
+	// collapse
 	&.container-collapse {
 		position: relative;
 		max-height: 30rem;
@@ -189,10 +215,10 @@ a {
 			display: flex;
 			padding: .5rem;
 			background: transparent;
-			transition: .3s background;
+			color: $mainColor;
 
 			&:hover {
-				box-shadow: 0px 0px 5px 0px lightgrey;
+				@extend %active;
 			}
 
 			.suggestionName {
@@ -232,6 +258,12 @@ a {
 }
 
 /* input */
+input {
+	border: none;
+	overflow: visible;
+	font-size: .8rem;
+}
+
 .input {
 	margin-top: 1.5rem;
 	position: relative;
@@ -268,6 +300,10 @@ a {
 	border-radius: $outerBorderRadius;
 	cursor: pointer;
 	transition: .3s;
+
+	&:hover {
+		box-shadow: $outerBoxShadow !important;
+	}
 }
 
 /* GRID */

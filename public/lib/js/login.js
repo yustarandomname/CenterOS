@@ -10,6 +10,7 @@ function getuid() {
 				show('.homescreen');
 
 				userid = user.uid;
+				return userid;
 			}
 		});
 	}

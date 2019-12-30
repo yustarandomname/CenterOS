@@ -4,13 +4,7 @@ let pageOpenObj;
 let commandSrc;
 let commands;
 let appIcon;
-
-let installed = [
-	{ name: 'Files', icon: 'i-file', opened: true, pageSrc: 'files/command.js' },
-	{ name: 'Library', icon: 'i-book', opened: true, pageSrc: 'library/command.js' },
-	{ name: 'Bike recall', icon: 'i-bike', opened: true, pageSrc: 'bikerecall/command.js' },
-	{ name: 'Log out', icon: 'i-centeros' }
-];
+let installed = localStorage.installed ? JSON.parse(localStorage.installed) : null;
 
 function openApp() {
 	const pageCap = $('.suggestion.active>.suggestionName').text();
@@ -65,16 +59,16 @@ function openApp() {
 }
 
 // Hints / Suggestion
-function getHint(item) {
+function getHint(name, properties) {
 	let suggestion = $('<div>', { class: 'suggestion' });
-	let hintIcon = commandSrc[item].icon ? commandSrc[item].icon : pageOpenObj.icon;
+	let hintIcon = properties.icon ? properties.icon : pageOpenObj.icon; //set to own icon if hint has its own icon
 
 	suggestion.append($('<i>', { class: 'suggestionIcon ' + hintIcon }));
 
 	// const tempCommandSrc = commandSrc[item].func ? commandSrc[item] : commandSrc;
 	// item = commandSrc[item].func ? 'func' : item;
 
-	switch (item) {
+	switch (name) {
 		case 'hint':
 		case 'icon':
 			break;
@@ -82,22 +76,46 @@ function getHint(item) {
 			//TODO : implement get list with hints
 			break;
 		case 'func':
-			let func = commandSrc.func;
 			suggestion.attr('action', 'function');
-			suggestion.append($('<div>', { class: 'suggestionName', text: func.hint }));
+			suggestion.append($('<div>', { class: 'suggestionName', text: properties.hint }));
 			suggestion.append($('<i>', { class: 'suggestionIcon i-functions' }));
 			return suggestion;
 			break;
 		default:
-			suggestion.append($('<div>', { class: 'suggestionName', text: item }));
+			suggestion.append($('<div>', { class: 'suggestionName', text: name }));
 			return suggestion;
 			break;
 	}
 }
 
-function initHint() {
+function getInstalledFromServer() {
+	console.log(installed);
+	return new Promise((resolve) => {
+		if (JSON.stringify(installed) != 'null') {
+			resolve();
+		} else {
+			obj = [];
+			db.collection('users').doc('tf7MLQVgQUg6sHcMq995tKcRVlv1').collection('apps').get().then((apps) => {
+				apps.forEach((app) => {
+					obj.push(app.data());
+				});
+
+				installed = obj;
+				console.log(JSON.stringify(installed));
+				localStorage.installed = JSON.stringify(installed);
+				resolve();
+			});
+		}
+	});
+	console.log(installed);
+}
+
+async function initHint() {
 	$('.searchSuggestions>div').remove();
-	installed.forEach((obj, index) => {
+
+	await getInstalledFromServer();
+
+	installed.sort((a, b) => b.order - a.order).forEach((obj, index) => {
 		let suggestion = $('<div>', { class: 'suggestion', appname: obj.name.toLowerCase() })
 			.append($('<i>', { class: `suggestionIcon ${obj.icon}` })) //icon
 			.append($('<div>', { class: 'suggestionName', text: obj.name }));
@@ -126,12 +144,14 @@ function iterateHint() {
 		commandSrc = commands;
 		for (i = 1; i < crumbs.length; i++) {
 			commandSrc = commandSrc[crumbs[i]];
+			//commandSrc has all the objects at the good location of the breadcrumbs
 		}
+		let searchField = $('.searchField').val();
+		commandSrc = Object.entries(commandSrc).sort((a, b) => b.order - a.order);
+		// commandSrc = commandSrc.filter((word) => word[0].match(searchField));
 
-		Object.keys(commandSrc).forEach((item, index) => {
-			if (getHint(item)) {
-				$('.searchSuggestions').append(getHint(item));
-			}
+		commandSrc.forEach((item, index) => {
+			$('.searchSuggestions').append(getHint(item[0], item[1]));
 		});
 
 		$('.suggestion').first().addClass('active');
@@ -140,19 +160,9 @@ function iterateHint() {
 	}
 }
 
-function sortHints() {
-	$('.suggestion').each((index) => {
-		console.log($(this).attr('appname'));
-		// let count = 0;
-		// const searchStr = $('.searchField').val();
-		// const hintStr = item.text();
-
-		// for (i = 0; i < searchStr.length; i++) {
-		// 	if (hintStr.match(new RegExp(searchStr[i], 'g'))) count++;
-		// }
-
-		// console.log(hintStr + ' - match count ' + count);
-	});
+function filterHints() {
+	let searchField = $('.searchField').val();
+	commandSrc = commandSrc.filter((word) => word.name.match(searchField)).sort((a, b) => b.order - a.order);
 }
 
 // BREADCRUMBS
@@ -193,8 +203,9 @@ async function executeSuggestion() {
 				iterateHint();
 				break;
 			case 'function':
-				console.log('function has to be executed');
-				commandSrc.func.execute();
+				let f = commandSrc.filter((word) => word[0] == 'func');
+				console.log('function has to be executed', f[0][1]);
+				f[0][1].execute();
 				crumbs.length = 1;
 				iterateHint();
 				setBreadcrumb();
@@ -258,7 +269,7 @@ $('.searchBar').keydown(function(e) {
 
 $('.searchField').keyup(function(e) {
 	if (e.which != 38 && e.which != 40 && e.which != 13) {
-		sortHints();
+		iterateHint();
 	}
 });
 

@@ -1,0 +1,85 @@
+<!--create new bikeplacement-->
+<div class="container inlineForm formNewExercise hide">
+	<i class="formClose i-close"></i>
+	<div class="subTitle">New exercise</div>
+	<section>
+    <input type="date" class="input inputTime" id="exerciseDate" contenteditable="true" placeholder="Date" />
+    <input type="time" class="input inputTime exerciseFrom" contenteditable="true" placeholder="From" />
+		<input type="time" class="input inputTime exerciseTo" contenteditable="true" placeholder="To" />
+    <div class="input" id="rowers" contenteditable="true" placeholder="Rowers"></div>
+    <div class="input" id="skipper" contenteditable="true" placeholder="Skipper"></div>
+		<div class="inputError hide"></div>
+		<div class="inputSubmit" onSucces='newExercise'>Submit</div>
+	</section>
+</div>
+
+
+<div class="container">
+	<section>
+		<h3>Roeien</h3>
+		hey dit is een test
+	</section>
+
+	<div class="popout">
+		<div class="popout-container">
+			<div class="subTitle">Select the hour where you are available:</div>
+			<div class="roplTimeLine">
+				<div class="roplHour">06</div>
+				<div class="roplHour">07</div>
+				<div class="roplHour">08</div>
+				<div class="roplHour">09</div>
+				<div class="roplHour">10</div>
+				<div class="roplHour">11</div>
+				<div class="roplHour">12</div>
+				<div class="roplHour">13</div>
+				<div class="roplHour">14</div>
+				<div class="roplHour">15</div>
+				<div class="roplHour">16</div>
+				<div class="roplHour">17</div>
+				<div class="roplHour">18</div>
+				<div class="roplHour">19</div>
+				<div class="roplHour">20</div>
+				<div class="roplHour">21</div>
+			</div>
+
+			<div class="roplTime">
+				<input type="time" class="input inputTime timeFrom" contenteditable="true" placeholder="From" />
+				<input type="time" class="input inputTime timeTo" contenteditable="true" placeholder="To" />
+				<div class="button timeRemove" placeholder="Remove slot" />
+			</div>
+		</div>
+	</div>
+
+	<section>
+		<h3>Roeien</h3>
+		hey dit is een test
+	</section>
+</div>;
+
+
+<style>
+  .roplTimeLine{
+    width:100%;
+    display:flex;
+    overflow:scroll;
+    position: relative;
+    margin-top:.5rem;
+  }
+
+  .roplHour{
+    min-width:4rem;
+    text-align:center;
+    padding:.5rem 0;
+    width:100%;
+    user-select:none;
+  }
+
+  .available{
+    position: absolute;
+    background:green;
+    width:10rem;
+    height:100%;
+    opacity:.5;
+    min-width:3rem;
+  }
+</style>

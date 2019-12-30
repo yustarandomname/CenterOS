@@ -24,8 +24,11 @@ function hide(selector) {
 	$(selector).addClass('hide');
 }
 function dd(num) {
-	if (num < 10) return '0' + num;
-	else return num;
+	console.log('please update function `dd` to `doubleDidgit`');
+	doubleDidgit(num);
+}
+function doubleDidgit(digit) {
+	return digit < 10 ? '0' + digit : digit;
 }
 function arrayItemToFront(arr, item) {
 	let newArr = [ 0 ];
